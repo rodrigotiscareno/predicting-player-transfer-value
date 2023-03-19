@@ -1,0 +1,24 @@
+name,price,position,dob,nationality,height,foot,join_date,contract_expiration
+Emiliano Martínez,€28.00m,Goalkeeper,"Sep 2, 1992 (30)",Argentina,"1,95m",right,"Sep 16, 2020","Jun 30, 2027"
+Robin Olsen,€2.00m,Goalkeeper,"Jan 8, 1990 (33)",Sweden,"1,96m",right,"Jul 1, 2022",-
+Jed Steer,€600k,Goalkeeper,"Sep 23, 1992 (30)",England,"1,83m",left,"Jul 1, 2013","Jun 30, 2023"
+Viljami Sinisalo,€400k,Goalkeeper,"Oct 11, 2001 (21)",Finland,"1,90m",right,"Jul 1, 2022","Jun 30, 2025"
+Diego Carlos,€30.00m,Centre-Back,"Mar 15, 1993 (30)",Brazil,"1,85m",right,"Jul 1, 2022","Jun 30, 2026"
+Tyrone Mings,€25.00m,Centre-Back,"Mar 13, 1993 (30)",England,"1,96m",left,"Jul 8, 2019","Jun 30, 2026"
+Ezri Konsa,€22.00m,Centre-Back,"Oct 23, 1997 (25)",England,"1,83m",right,"Jul 11, 2019","Jun 30, 2026"
+Calum Chambers,€8.00m,Centre-Back,"Jan 20, 1995 (28)",England,"1,82m",right,"Jan 27, 2022","Jun 30, 2025"
+Álex Moreno,€20.00m,Left-Back,"Jun 8, 1993 (29)",Spain,"1,79m",left,"Jan 11, 2023","Jun 30, 2026"
+Lucas Digne,€17.00m,Left-Back,"Jul 20, 1993 (29)",France,"1,78m",left,"Jan 13, 2022","Jun 30, 2026"
+Matty Cash,€22.00m,Right-Back,"Aug 7, 1997 (25)",Poland,"1,85m",right,"Sep 3, 2020","Jun 30, 2027"
+Ashley Young,€1.00m,Right-Back,"Jul 9, 1985 (37)",England,"1,75m",both,"Jul 1, 2021","Jun 30, 2023"
+Boubacar Kamara,€25.00m,Defensive Midfield,"Nov 23, 1999 (23)",France,"1,84m",right,"Jul 1, 2022","Jun 30, 2027"
+Leander Dendoncker,€17.00m,Defensive Midfield,"Apr 15, 1995 (27)",Belgium,"1,88m",right,"Sep 1, 2022",-
+Douglas Luiz,€35.00m,Central Midfield,"May 9, 1998 (24)",Brazil,"1,77m",right,"Jul 25, 2019","Jun 30, 2026"
+Jacob Ramsey,€32.00m,Central Midfield,"May 28, 2001 (21)",England,"1,80m",right,"Jul 1, 2020","Jun 30, 2027"
+John McGinn,€27.00m,Central Midfield,"Oct 18, 1994 (28)",Scotland,"1,78m",left,"Aug 8, 2018","Jun 30, 2025"
+Leon Bailey,€25.00m,Left Winger,"Aug 9, 1997 (25)",Jamaica,"1,78m",left,"Aug 4, 2021","Jun 30, 2025"
+Philippe Coutinho,€14.00m,Left Winger,"Jun 12, 1992 (30)",Brazil,"1,72m",right,"Jul 1, 2022","Jun 30, 2026"
+Emiliano Buendía,€28.00m,Right Winger,"Dec 25, 1996 (26)",Argentina,"1,72m",right,"Jul 1, 2021","Jun 30, 2026"
+Bertrand Traoré,€14.00m,Right Winger,"Sep 6, 1995 (27)",Burkina Faso,"1,81m",left,"Sep 19, 2020","Jun 30, 2024"
+Ollie Watkins,€32.00m,Centre-Forward,"Dec 30, 1995 (27)",England,"1,80m",right,"Sep 9, 2020","Jun 30, 2025"
+Jhon Durán,€12.00m,Centre-Forward,"Dec 13, 2003 (19)",Colombia,"1,85m",left,"Jan 23, 2023",-
