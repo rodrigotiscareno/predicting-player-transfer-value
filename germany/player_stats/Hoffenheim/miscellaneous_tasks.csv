@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Oliver Baumann,de GER,GK,32-290,25.0,1,0,0,0,0,0,0,0,0,0,0,0,52,12,0,100.0,Matches
+Christoph Baumgartner,at AUT,"MF,FW",23-230,21.2,5,0,0,49,36,5,24,13,15,2,0,0,110,46,51,47.4,Matches
+Ozan Kabak,tr TUR,DF,22-359,20.5,11,2,2,43,13,0,6,41,28,0,0,1,120,67,40,62.6,Matches
+Angeliño,es ESP,DF,26-074,21.0,2,0,0,10,21,6,137,16,15,0,0,0,108,10,19,34.5,Matches
+Dennis Geiger,de GER,MF,24-282,15.9,7,0,0,33,13,1,36,14,17,0,0,0,82,7,16,30.4,Matches
+Kevin Vogt,de GER,DF,31-177,17.2,8,0,0,20,11,0,2,21,10,0,0,0,120,10,13,43.5,Matches
+Andrej Kramarić,hr CRO,"MF,FW",31-273,18.0,1,0,0,5,19,7,28,3,2,0,0,0,78,7,9,43.8,Matches
+Robert Skov,dk DEN,DF,26-303,13.7,1,0,0,16,19,1,69,8,9,0,0,0,67,11,15,42.3,Matches
+Kevin Akpoguma,ng NGA,DF,27-334,15.3,8,0,0,21,12,0,8,15,35,0,0,0,100,44,34,56.4,Matches
+Grischa Prömel,de GER,MF,28-069,11.9,3,0,0,21,22,1,4,5,18,0,0,0,62,12,12,50.0,Matches
+Pavel Kadeřábek,cz CZE,DF,30-328,13.7,1,0,0,18,15,1,54,8,14,0,0,0,60,22,27,44.9,Matches
+Stanley N'Soki,fr FRA,DF,23-344,12.1,1,0,0,11,7,0,0,20,11,0,1,0,95,18,12,60.0,Matches
+Georginio Rutter,fr FRA,FW,20-333,11.2,2,0,0,17,19,17,11,5,4,1,0,0,25,9,22,29.0,Matches
+Ihlas Bebou,tg TOG,FW,28-330,7.1,0,0,0,9,6,4,6,4,7,1,1,0,27,13,23,36.1,Matches
+John Brooks,us USA,DF,30-050,6.0,3,0,0,11,6,0,0,6,5,0,0,0,32,25,6,80.6,Matches
+Moanes Dabbur,il ISR,FW,30-309,7.3,2,1,0,7,7,6,4,3,5,0,0,0,30,4,16,20.0,Matches
+Angelo Stiller,de GER,MF,21-349,6.6,0,0,0,9,3,0,5,9,10,0,0,0,43,13,8,61.9,Matches
+Sebastian Rudy,de GER,MF,33-019,6.0,2,0,0,16,5,0,29,6,10,0,0,0,34,3,4,42.9,Matches
+Kasper Dolberg,dk DEN,"FW,MF",25-164,3.8,0,0,0,4,5,2,1,0,5,0,0,0,4,5,8,38.5,Matches
+Thomas Delaney,dk DEN,MF,31-197,3.2,0,0,0,3,6,0,3,1,3,0,0,0,25,11,4,73.3,Matches
+Jacob Bruun Larsen,dk DEN,FW,24-181,3.3,0,0,0,1,1,4,4,1,2,0,0,0,6,2,4,33.3,Matches
+Tom Bischof,de GER,"MF,FW",17-264,2.9,0,0,0,8,5,0,6,0,7,0,0,0,14,0,3,0.0,Matches
+Umut Tohumcu,de GER,MF,18-220,2.6,0,0,0,4,5,0,0,0,5,0,0,0,10,2,0,100.0,Matches
+Muhammed Damar,de GER,MF,18-344,1.8,0,0,0,6,1,0,2,0,3,0,0,0,12,2,2,50.0,Matches
+Finn Ole Becker,de GER,MF,22-284,1.4,0,0,0,3,0,0,0,2,2,0,0,0,11,2,2,50.0,Matches
+Eduardo Simões,pt POR,DF,21-017,1.0,0,0,0,1,1,0,0,0,3,0,0,0,10,1,1,50.0,Matches
+Diadie Samassékou,ml MLI,"MF,FW",27-067,0.4,1,0,0,3,0,0,0,0,0,0,0,0,3,0,0,,Matches
+Stefan Posch,at AUT,DF,25-309,0.2,2,1,1,2,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Ermin Bičakčić,ba BIH,DF,33-054,1.9,0,0,0,0,1,1,1,4,0,0,0,0,8,8,7,53.3,Matches
+Fisnik Asllani,xk KVX,FW,20-223,1.6,0,0,0,1,2,2,3,2,0,0,0,0,2,4,4,50.0,Matches
+Joshua Quarshie,de GER,MF,18-236,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Matches
+Squad Total,,,27.2,25.0,61,4,3,352,261,58,444,207,245,4,2,1,1350,370,362,50.5,
+Opponent Total,,,27.2,25.0,45,2,1,272,342,50,430,236,253,1,6,0,1412,362,370,49.5,

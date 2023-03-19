@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Manuel Riemann,de GER,GK,34-191,25.0,1,0,0,1,2,0,1,4,1,0,1,1,75,7,2,77.8,Matches
+Anthony Losilla,fr FRA,MF,37-009,22.4,3,1,0,32,12,3,9,27,37,0,1,0,155,64,64,50.0,Matches
+Kevin Stöger,at AUT,MF,29-204,21.5,1,0,0,31,45,0,109,21,29,0,0,0,140,10,28,26.3,Matches
+Philipp Hofmann,de GER,FW,29-354,21.1,3,0,0,35,29,11,3,6,7,0,0,0,66,150,119,55.8,Matches
+Ivan Ordets,ua UKR,DF,30-254,18.5,3,0,0,23,10,1,0,32,15,0,0,0,100,84,46,64.6,Matches
+Danilo Soares,br BRA,DF,31-141,15.2,5,0,0,21,19,0,12,22,38,0,1,0,129,23,13,63.9,Matches
+Simon Zoller,de GER,FW,31-266,14.2,4,0,0,19,8,6,16,6,2,0,1,0,48,14,19,42.4,Matches
+Cristian Gamboa,cr CRC,DF,33-146,14.1,2,0,0,13,4,2,34,14,20,0,1,1,78,11,9,55.0,Matches
+Erhan Mašović,rs SRB,DF,24-117,15.5,2,0,0,17,4,0,1,16,25,0,1,1,94,28,39,41.8,Matches
+Christopher Antwi-Adjei,gh GHA,"FW,MF",29-040,13.5,0,0,0,11,23,12,38,3,11,1,0,0,69,10,30,25.0,Matches
+Takuma Asano,jp JPN,"FW,MF",28-129,11.2,1,0,0,8,19,5,14,6,4,0,0,0,45,10,21,32.3,Matches
+Philipp Förster,de GER,MF,28-043,11.4,3,0,0,24,10,0,51,4,16,0,0,0,64,6,10,37.5,Matches
+Saidy Janko,gm GAM,DF,27-148,9.0,1,0,0,15,5,0,18,10,11,0,2,0,49,9,10,47.4,Matches
+Gerrit Holtmann,ph PHI,FW,27-359,9.5,0,0,0,7,6,3,48,2,6,0,0,0,53,14,19,42.4,Matches
+Kostas Stafylidis,gr GRE,"DF,MF",29-107,8.9,2,0,0,12,14,0,19,14,13,0,0,0,58,10,14,41.7,Matches
+Vassilis Lambropoulos,gr GRE,DF,32-353,6.8,2,0,0,8,6,0,0,11,7,0,2,0,33,16,15,51.6,Matches
+Jordi Osei-Tutu,eng ENG,"DF,FW",24-168,7.2,3,0,0,7,20,3,14,9,15,0,0,0,41,5,11,31.3,Matches
+Patrick Osterhage,de GER,MF,23-046,7.1,1,0,0,14,5,0,10,8,14,0,0,0,42,8,18,30.8,Matches
+Keven Schlotterbeck,de GER,DF,25-325,6.2,3,0,0,8,7,1,2,13,6,0,1,0,39,26,19,57.8,Matches
+Dominique Heintz,de GER,DF,29-216,4.7,1,0,0,7,1,0,4,8,4,0,0,0,27,3,4,42.9,Matches
+Pierre Kunde,cm CMR,MF,27-236,3.6,0,0,0,3,10,1,7,4,5,0,0,0,39,4,4,50.0,Matches
+Tim Oermann,de GER,DF,19-164,2.2,0,0,0,3,0,0,0,1,1,0,0,0,5,4,5,44.4,Matches
+Jacek Góralski,pl POL,MF,30-179,1.6,0,0,0,1,4,0,0,3,3,0,0,0,7,0,2,0.0,Matches
+Jannes Horn,de GER,"DF,FW",26-041,0.7,1,0,0,1,0,0,0,3,1,0,1,0,2,0,0,,Matches
+Silvère Ganvoula M'Boussy,cg CGO,"FW,MF",26-270,2.6,1,0,0,2,0,5,1,0,2,0,0,0,4,23,15,60.5,Matches
+Moritz Broschinski,de GER,"FW,MF",22-177,1.1,1,0,0,2,1,0,2,0,0,0,0,0,8,5,4,55.6,Matches
+Squad Total,,,30.1,25.0,44,1,0,325,264,53,413,247,293,1,12,3,1470,544,540,50.2,
+Opponent Total,,,27.0,25.0,39,0,0,279,312,51,485,230,217,11,1,2,1504,540,544,49.8,

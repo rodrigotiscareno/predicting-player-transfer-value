@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Matheus,br BRA,GK,30-243,22.9,3,1,0,1,7,0,0,1,0,0,0,0,39,9,0,100.0,Matches
+Nuno Sequeira,pt POR,DF,32-212,20.2,3,0,0,32,27,2,119,30,28,0,0,0,128,28,22,56.0,Matches
+Almoatasem Al Musrati,ly LBY,MF,26-347,19.7,7,0,0,34,17,0,6,46,28,0,0,0,156,24,20,54.5,Matches
+Vítor Tormena,br BRA,DF,27-074,20.1,5,1,0,18,4,2,2,25,15,0,0,0,99,45,16,73.8,Matches
+Ricardo Horta,pt POR,"MF,FW",28-185,19.3,1,0,0,12,27,0,41,10,7,0,0,0,115,6,5,54.5,Matches
+Iuri Medeiros,pt POR,"MF,FW",28-252,15.5,5,0,0,9,16,1,59,4,8,1,0,0,73,4,9,30.8,Matches
+André Horta,pt POR,MF,26-132,16.0,3,0,0,15,7,0,82,8,18,0,0,0,98,0,5,0.0,Matches
+Abel Ruiz,es ESP,"FW,MF",23-050,14.5,1,0,0,12,4,3,12,6,5,0,0,0,38,13,31,29.5,Matches
+Simon Banza,fr FRA,FW,26-218,14.4,3,0,0,36,38,9,6,2,8,1,0,0,41,55,53,50.9,Matches
+Sikou Niakaté,fr FRA,DF,23-252,13.8,4,2,1,20,12,1,3,29,8,0,1,0,90,27,12,69.2,Matches
+Victor Perea,es ESP,DF,22-352,13.0,0,0,0,16,10,2,71,7,9,0,1,0,67,9,10,47.4,Matches
+Vitinha,pt POR,FW,23-004,12.2,2,0,0,27,34,19,15,4,9,0,0,0,40,21,28,42.9,Matches
+Paulo Oliveira,pt POR,DF,31-070,12.3,4,1,1,12,7,0,0,42,8,0,1,0,59,25,19,56.8,Matches
+Fabiano,br BRA,DF,23-005,10.7,5,0,0,18,17,0,43,17,32,1,0,0,62,5,15,25.0,Matches
+Uroš Račić,rs SRB,MF,25-002,9.3,2,0,0,14,19,0,5,14,10,0,0,0,74,15,10,60.0,Matches
+André Castro,pt POR,MF,34-351,6.0,0,0,0,9,11,0,4,6,11,0,0,0,41,8,18,30.8,Matches
+Bruma,pt POR,"MF,FW",28-146,2.6,0,0,0,3,3,1,2,1,3,0,0,0,16,0,0,,Matches
+Cristian Borja,co COL,DF,30-029,2.4,0,0,0,1,3,0,6,5,6,0,0,0,11,3,4,42.9,Matches
+Serdar Saatçı,tr TUR,DF,20-033,2.0,0,0,0,1,1,0,0,7,2,0,0,0,13,6,4,60.0,Matches
+Álvaro djaló,es ESP,"FW,MF",23-215,4.7,5,1,1,17,6,1,17,1,4,0,0,0,33,11,11,50.0,Matches
+Rodrigo Gomes,pt POR,"FW,MF",19-255,3.5,2,0,0,2,6,1,7,3,9,0,0,0,12,3,3,50.0,Matches
+Pizzi,pt POR,"FW,MF",33-164,2.0,0,0,0,1,1,0,2,0,5,0,0,0,4,2,0,100.0,Matches
+Diego Lainez,mx MEX,MF,22-283,1.7,3,0,0,3,7,0,6,1,2,0,0,0,12,1,0,100.0,Matches
+Tiago Sá,pt POR,GK,28-067,1.1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Matches
+Bruno Rodrigues,pt POR,DF,21-284,1.0,0,0,0,0,0,0,0,1,1,0,0,0,4,2,2,50.0,Matches
+Hernani Infande,pt POR,"MF,FW",21-350,0.9,0,0,0,1,1,0,1,0,2,0,0,0,0,2,0,100.0,Matches
+Jean Gorby,fr FRA,"MF,FW",20-237,0.6,1,0,0,1,1,0,1,0,1,0,0,0,4,0,0,,Matches
+Joe Mendes,se SWE,MF,20-078,0.3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0.0,Matches
+Dinis Pinto,pt POR,DF,22-207,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+Pedro Santos,pt POR,FW,22-158,0.1,1,0,0,1,0,0,3,0,0,0,0,0,2,1,0,100.0,Matches
+Squad Total,,,27.1,24.0,61,6,3,316,287,42,513,270,239,3,3,0,1339,325,298,52.2,
+Opponent Total,,,26.8,24.0,70,4,2,303,307,36,437,266,208,2,5,2,1288,298,325,47.8,

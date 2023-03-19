@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Carel Eiting,nl NED,MF,25-036,25.7,47,26,22,21,4,18,41,43.9,23,28,6,22,24,71,34,0,Matches
+Filip Stankovic,rs SRB,GK,21-022,25.0,5,4,5,0,0,5,7,71.4,2,0,0,0,1,6,16,0,Matches
+Derry Murkin,eng ENG,DF,23-235,23.8,64,36,37,24,3,37,78,47.4,41,24,4,20,41,105,79,1,Matches
+Damon Mirani,nl NED,"DF,MF",26-310,22.5,40,23,28,11,1,21,41,51.2,20,33,21,12,30,70,110,0,Matches
+Brian Plat,nl NED,DF,22-348,21.0,88,55,49,28,11,34,52,65.4,18,34,7,27,31,119,68,0,Matches
+Xavier Mbuyamba,nl NED,DF,21-078,19.8,46,24,31,15,0,19,29,65.5,10,37,22,15,23,69,120,3,Matches
+Robert Mühren,nl NED,"FW,MF",33-305,17.3,11,8,2,6,3,3,15,20.0,12,10,0,10,10,21,23,0,Matches
+Benaissa Benamar,ma MAR,"DF,MF",25-345,18.3,26,17,15,10,1,12,22,54.5,10,23,12,11,18,44,61,0,Matches
+Gaetano Oristanio,it ITA,"MF,FW",20-172,15.1,19,10,7,7,5,6,17,35.3,11,10,2,8,15,34,4,0,Matches
+Daryl van Mieghem,nl NED,"FW,MF",33-104,14.8,12,5,4,5,3,5,19,26.3,14,13,2,11,4,16,7,0,Matches
+Bilal Ould-Chikh,ma MAR,"FW,MF",25-234,10.5,7,4,4,3,0,1,2,50.0,1,12,1,11,6,13,3,0,Matches
+Ibrahim El Kadiri,nl NED,"FW,MF",21-055,7.9,16,9,12,3,1,8,17,47.1,9,8,0,8,3,19,5,0,Matches
+Calvin Twigt,nl NED,MF,20-048,7.6,18,13,8,6,4,10,33,30.3,23,16,5,11,11,29,15,1,Matches
+Florent da Silva,fr FRA,MF,19-351,7.4,14,6,7,5,2,8,21,38.1,13,11,2,9,8,22,7,0,Matches
+Oskar Buur,dk DEN,"DF,MF",24-353,6.2,13,12,7,5,1,6,18,33.3,12,9,2,7,1,14,13,0,Matches
+Josh Flint,eng ENG,DF,22-157,7.1,13,6,9,4,0,7,12,58.3,5,19,9,10,5,18,32,1,Matches
+Henk Veerman,nl NED,FW,29-262,10.0,2,2,0,0,2,1,9,11.1,8,13,6,7,0,2,14,0,Matches
+Francesco Antonucci,be BEL,"MF,FW",23-272,4.7,3,3,2,0,1,3,11,27.3,8,1,0,1,2,5,2,1,Matches
+Dean James,nl NED,DF,22-323,4.8,10,3,7,1,2,8,14,57.1,6,10,1,9,11,21,20,0,Matches
+Walid Ould-Chikh,ma MAR,"MF,FW",23-133,6.0,17,13,10,6,1,8,15,53.3,7,6,2,4,5,22,5,1,Matches
+Achraf Douiri,nl NED,"DF,FW",23-112,3.1,17,10,5,8,4,10,15,66.7,5,7,3,4,3,20,4,0,Matches
+Billy van Duijl,nl NED,DF,17-166,1.6,2,1,2,0,0,1,4,25.0,3,0,0,0,3,5,4,0,Matches
+Lequincio Zeefuik,nl NED,"FW,MF",18-113,2.4,2,2,2,0,0,0,0,,0,1,0,1,0,2,3,0,Matches
+Barry Lauwers,nl NED,GK,23-110,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Imran Nazih,nl NED,MF,17-053,0.6,2,2,2,0,0,2,4,50.0,2,0,0,0,0,2,0,0,Matches
+Jordi Blom,nl NED,FW,20-287,0.5,1,1,1,0,0,1,3,33.3,2,1,0,1,0,1,1,0,Matches
+Joey Antonioli,nl NED,MF,19-094,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+Deron Payne,nl NED,DF,20-175,0.1,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,2,0,Matches
+Flip Klomp,nl NED,MF,21-152,0.1,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0,Matches
+Givairo Read,,DF,,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
+Squad Total,,,24.6,26.0,497,296,279,169,49,235,501,46.9,266,326,107,219,255,752,654,8,
+Opponent Total,,,25.5,26.0,435,258,205,176,54,186,368,50.5,182,255,85,170,184,619,468,12,

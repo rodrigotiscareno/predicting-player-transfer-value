@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Wladimiro Falcone,it ITA,GK,27-341,26.0,845,558,282,81,0,4,0,0,0,0,0,0,431,5,0,Matches
+Federico Baschirotto,it ITA,DF,26-180,25.0,984,901,77,53,1,16,9,18,0,0,0,0,718,6,8,Matches
+Valentin Gendrey,fr FRA,DF,22-271,24.2,1052,776,272,13,1,6,47,259,0,0,0,0,746,4,27,Matches
+Morten Hjulmand,dk DEN,MF,23-267,22.6,885,835,47,45,0,12,10,1,0,0,0,0,690,3,15,Matches
+Joan Gonzàlez,es ESP,MF,21-046,19.7,615,578,36,7,2,5,21,12,1,0,0,0,475,1,13,Matches
+Gabriel Strefezza,br BRA,FW,25-335,18.8,619,558,53,16,2,14,94,10,27,11,8,0,378,8,24,Matches
+Antonino Gallo,it ITA,DF,23-073,17.8,872,688,179,20,0,10,63,159,0,0,0,0,592,5,16,Matches
+Alexis Blin,fr FRA,"MF,DF",26-184,17.1,669,630,38,12,1,6,20,11,2,1,0,0,540,1,8,Matches
+Federico Di Francesco,it ITA,"FW,MF",28-278,14.7,366,327,36,2,4,2,30,9,25,0,2,0,246,3,15,Matches
+Assan Ceesay,gm GAM,FW,29-002,13.0,263,244,17,0,0,1,9,5,1,0,0,0,158,2,11,Matches
+Lameck Banda,zm ZAM,"FW,MF",22-049,13.1,300,289,10,1,0,0,32,3,6,3,0,0,196,1,17,Matches
+Samuel Umtiti,fr FRA,DF,29-125,12.5,483,453,28,26,0,2,2,2,0,0,0,0,395,2,7,Matches
+Lorenzo Colombo,it ITA,FW,21-011,12.3,257,245,10,0,0,6,9,1,0,0,0,0,165,2,10,Matches
+Marin Pongračić,hr CRO,DF,25-189,8.8,361,324,37,37,0,3,0,0,0,0,0,0,296,0,1,Matches
+Giuseppe Pezzella,it ITA,DF,25-110,8.2,426,323,102,9,0,3,24,92,1,0,1,0,339,1,11,Matches
+Kristoffer Askildsen,no NOR,MF,22-069,6.9,228,196,31,11,0,7,19,3,15,7,6,0,144,1,7,Matches
+Kristijan Bistrović,hr CRO,MF,24-344,5.1,140,119,21,11,0,3,21,0,7,3,3,0,101,0,6,Matches
+Youssef Maleh,it ITA,MF,24-209,4.7,118,112,6,2,0,0,4,1,2,0,0,0,83,0,3,Matches
+Alessandro Tuia,it ITA,DF,32-284,4.7,168,159,9,8,0,2,1,0,0,0,0,0,119,0,0,Matches
+Remi Oudin,fr FRA,FW,26-121,5.1,255,220,34,7,1,3,42,8,19,6,10,0,154,1,12,Matches
+Þórir Jóhann Helgason,is ISL,MF,22-172,1.8,51,43,8,1,0,0,9,0,6,5,1,0,37,0,0,Matches
+Yıldırım Mert Çetin,tr TUR,DF,26-077,0.2,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1,Matches
+Marcin Listkowski,pl POL,"MF,FW",25-037,0.9,24,23,1,0,0,0,3,1,0,0,0,0,16,0,0,Matches
+Joel Voelkerling Persson,se SWE,FW,20-063,0.7,21,21,0,0,0,0,1,0,0,0,0,0,15,0,0,Matches
+Pablo Rodríguez,es ESP,"FW,MF",21-227,0.6,21,18,3,0,0,0,4,1,2,0,1,0,14,0,2,Matches
+Kastriot Dermaku,al ALB,DF,31-063,0.4,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Simone Romagnoli,it ITA,DF,33-038,0.3,16,13,3,3,0,0,0,0,0,0,0,0,13,0,0,Matches
+Pietro Ceccaroni,it ITA,DF,27-088,0.3,5,4,1,1,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,25.2,26.0,10049,8662,1341,366,12,105,474,596,114,36,32,0,7066,46,214,
+Opponent Total,,,27.4,26.0,13795,12158,1585,407,34,101,495,758,149,47,82,0,10668,52,288,

@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Danilo,br BRA,DF,31-247,25.1,1535,1406,123,38,3,12,17,75,0,0,0,0,1290,6,15,Matches
+Filip Kostić,rs SRB,"DF,FW",30-138,21.2,891,771,117,10,2,4,164,74,33,2,29,0,623,3,38,Matches
+Gleison Bremer,br BRA,DF,26-001,21.4,1236,1191,45,16,0,5,0,2,0,0,0,0,1109,0,5,Matches
+Adrien Rabiot,fr FRA,MF,27-350,20.5,774,748,22,10,2,4,22,12,0,0,0,0,631,4,17,Matches
+Manuel Locatelli,it ITA,MF,25-070,18.9,976,932,42,33,0,17,9,4,4,0,3,0,788,2,22,Matches
+Wojciech Szczęsny,pl POL,GK,32-335,17.5,493,369,123,32,0,4,0,1,0,0,0,0,377,1,1,Matches
+Alex Sandro,br BRA,DF,32-052,16.2,1025,905,117,17,0,6,14,89,0,0,0,0,891,3,9,Matches
+Dušan Vlahović,rs SRB,FW,23-050,15.2,280,258,21,1,0,3,4,0,0,0,0,0,202,1,13,Matches
+Juan Cuadrado,co COL,"DF,FW",34-297,14.5,810,706,101,16,0,16,57,60,25,7,17,0,673,3,10,Matches
+Weston McKennie,us USA,"MF,DF",24-203,11.7,418,389,27,3,1,2,15,24,0,0,0,0,336,2,7,Matches
+Ángel Di María,ar ARG,"FW,MF",35-033,9.7,425,356,65,19,6,8,61,12,30,9,19,0,312,4,11,Matches
+Arkadiusz Milik,pl POL,FW,29-019,11.0,279,260,15,2,2,2,4,0,0,0,0,0,218,4,6,Matches
+Fabio Miretti,it ITA,"MF,FW",19-228,10.0,391,369,20,4,2,3,18,5,8,3,4,0,279,2,13,Matches
+Nicolò Fagioli,it ITA,MF,22-035,9.6,372,351,21,6,2,8,17,6,9,2,4,0,310,0,8,Matches
+Moise Kean,it ITA,FW,23-019,9.0,150,142,6,0,1,0,3,0,0,0,0,0,108,2,8,Matches
+Mattia De Sciglio,it ITA,DF,30-150,9.4,494,412,81,5,0,5,21,76,0,0,0,0,395,1,3,Matches
+Mattia Perin,it ITA,GK,30-129,8.5,299,226,72,18,0,1,0,0,0,0,0,0,220,1,0,Matches
+Leonardo Bonucci,it ITA,DF,35-322,7.7,439,403,35,12,1,6,0,1,0,0,0,0,380,1,1,Matches
+Federico Gatti,it ITA,DF,24-268,6.0,376,356,18,13,0,11,1,3,0,0,0,0,311,2,4,Matches
+Leandro Paredes,ar ARG,MF,28-263,6.6,425,372,52,33,1,1,22,3,16,10,6,0,377,1,2,Matches
+Daniele Rugani,it ITA,DF,28-233,3.9,195,190,5,3,0,3,0,0,0,0,0,0,171,0,0,Matches
+Federico Chiesa,it ITA,"DF,MF",25-145,4.2,152,129,23,4,1,0,19,16,3,0,1,0,112,0,7,Matches
+Matìas Soulé,ar ARG,"MF,DF",19-338,2.8,120,108,12,1,0,3,6,9,2,2,0,0,99,0,3,Matches
+Enzo Barrenechea,ar ARG,MF,21-301,1.3,87,84,3,3,0,0,0,0,0,0,0,0,74,0,5,Matches
+Denis Zakaria,ch SUI,MF,26-119,1.4,38,37,0,0,0,0,3,0,0,0,0,0,32,1,2,Matches
+Samuel Iling-Junior,eng ENG,"DF,FW",19-166,1.3,40,38,2,1,0,0,4,0,1,0,1,0,31,0,1,Matches
+Paul Pogba,fr FRA,"MF,DF",30-004,0.4,21,21,0,0,0,0,0,0,0,0,0,0,15,0,2,Matches
+Nicolò Rovella,it ITA,MF,21-105,0.3,25,22,3,1,0,2,3,1,1,1,0,0,22,0,1,Matches
+Squad Total,,,28.4,26.0,12766,11551,1171,301,24,126,484,473,132,36,84,0,10386,44,214,
+Opponent Total,,,27.3,26.0,13286,12020,1231,331,19,100,467,502,121,48,51,0,10867,35,218,

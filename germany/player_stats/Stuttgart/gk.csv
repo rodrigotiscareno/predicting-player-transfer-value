@@ -1,0 +1,5 @@
+Player,Nation,Pos,Age,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
+Florian Müller,de GER,GK,25-126,19,19,1710,19.0,34,1.79,87,53,62.1,3,7,9,1,5.3,1,1,0,0,0.0,Matches
+Fabian Bredlow,de GER,GK,28-017,6,6,540,6.0,8,1.33,25,17,76.0,1,1,4,1,16.7,2,2,0,0,0.0,Matches
+Squad Total,,,25.3,25,25,2250,25.0,42,1.68,112,70,65.2,4,8,13,2,8.0,3,3,0,0,0.0,
+Opponent Total,,,27.3,25,25,2250,25.0,29,1.16,103,74,74.8,13,8,4,7,28.0,3,3,0,0,0.0,

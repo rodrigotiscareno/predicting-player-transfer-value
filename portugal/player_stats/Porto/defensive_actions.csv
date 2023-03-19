@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Diogo Costa,pt POR,GK,23-181,24.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,15,3,Matches
+Mehdi Taremi,ir IRN,FW,30-244,20.5,16,9,4,4,8,7,19,36.8,12,12,1,11,7,23,16,0,Matches
+Mateus Uribe,co COL,MF,31-363,19.2,54,35,24,26,4,23,52,44.2,29,25,2,23,39,93,28,0,Matches
+Pepê,br BRA,"MF,DF",26-023,19.4,24,16,10,9,5,14,36,38.9,22,15,1,14,29,53,10,0,Matches
+Otávio,pt POR,"MF,FW",28-038,16.4,47,29,19,18,10,25,56,44.6,31,24,2,22,9,56,8,0,Matches
+Iván Marcano,es ESP,DF,35-269,15.7,8,6,7,1,0,3,7,42.9,4,18,15,3,14,22,45,1,Matches
+João Mário Lopes,pt POR,DF,23-075,13.1,26,11,13,6,7,15,33,45.5,18,8,0,8,10,36,14,0,Matches
+Pepe,pt POR,DF,40-021,14.2,32,24,19,13,0,23,33,69.7,10,9,4,5,16,48,42,0,Matches
+Wendell,br BRA,DF,29-242,12.6,33,18,16,14,3,15,25,60.0,10,12,0,12,14,47,15,0,Matches
+Stephen Eustáquio,ca CAN,MF,26-088,12.6,39,17,16,21,2,23,35,65.7,12,19,5,14,13,52,14,0,Matches
+Galeno,br BRA,"MF,FW",25-148,13.7,18,8,5,4,9,9,18,50.0,9,15,3,12,15,33,18,0,Matches
+Evanilson,br BRA,FW,23-164,9.8,11,10,1,4,6,3,5,60.0,2,9,0,9,4,15,4,0,Matches
+Fábio Cardoso,pt POR,DF,28-334,10.9,5,3,2,2,1,3,4,75.0,1,5,3,2,12,17,36,0,Matches
+Zaidu Sanusi,ng NGA,DF,25-279,10.9,14,7,7,5,2,10,18,55.6,8,11,4,7,11,25,18,0,Matches
+Marko Grujić,rs SRB,MF,26-340,9.5,29,13,11,17,1,12,20,60.0,8,11,2,9,16,45,20,0,Matches
+Toni Martínez,es ESP,FW,25-262,9.0,14,10,2,4,8,3,6,50.0,3,5,0,5,1,15,2,0,Matches
+David Carmo,pt POR,DF,23-243,7.0,5,3,2,3,0,3,4,75.0,1,8,4,4,10,15,24,0,Matches
+André Franco,pt POR,"MF,FW",24-341,5.4,5,4,2,1,2,1,9,11.1,8,1,0,1,3,8,2,0,Matches
+Rodrigo Conceição,pt POR,DF,23-076,5.3,15,12,11,4,0,11,17,64.7,6,9,0,9,7,22,12,0,Matches
+Danny Loader,eng ENG,"MF,FW",22-203,4.0,7,6,4,1,2,1,2,50.0,1,2,0,2,2,9,3,0,Matches
+Bruno Xavier Almeida Costa,pt POR,MF,25-334,2.9,7,4,0,7,0,6,11,54.5,5,0,0,0,2,9,1,0,Matches
+Gabriel Veron,br BRA,"FW,MF",20-197,3.5,7,5,3,2,2,0,0,,0,2,0,2,2,9,1,0,Matches
+Bernardo Folha,pt POR,"MF,FW",20-361,0.6,1,0,0,1,0,1,2,50.0,1,1,0,1,0,1,0,0,Matches
+Gonçalo Borges,pt POR,"FW,MF",21-355,1.3,2,2,2,0,0,2,2,100.0,0,1,0,1,0,2,1,0,Matches
+Wilson Manafá,pt POR,DF,28-239,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Vasco Sousa,pt POR,MF,19-350,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+Squad Total,,,27.8,24.0,419,252,180,167,72,213,416,51.2,203,223,46,177,236,655,350,4,
+Opponent Total,,,26.5,24.0,351,205,192,119,40,196,393,49.9,197,265,91,174,227,578,521,7,

@@ -1,30 +1,29 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,SCA,SCA,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,GCA,GCA,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,Unnamed: 21_level_0
-Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,TO,Sh,Fld,Def,Matches
-Ezri Konsa,eng ENG,DF,25-146,24.9,8,0.32,7,0,0,1,0,0,1,0.04,1,0,0,0,0,0,Matches
-Emiliano Martínez,ar ARG,GK,30-197,23.4,4,0.17,2,2,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Ollie Watkins,eng ENG,FW,27-078,22.8,55,2.41,39,0,3,8,5,0,9,0.39,5,0,1,3,0,0,Matches
-Tyrone Mings,eng ENG,DF,30-005,23.0,15,0.65,13,0,0,0,2,0,3,0.13,2,0,0,0,1,0,Matches
-Douglas Luiz,br BRA,MF,24-313,20.7,62,3.0,41,15,2,1,1,2,8,0.39,5,1,0,0,0,2,Matches
-Leon Bailey,jm JAM,"FW,MF",25-221,17.2,44,2.56,27,2,7,6,2,0,4,0.23,2,0,0,2,0,0,Matches
-Jacob Ramsey,eng ENG,"MF,FW",21-294,17.6,48,2.72,40,0,2,1,4,1,3,0.17,2,0,0,0,1,0,Matches
-John McGinn,sct SCO,MF,28-151,17.9,43,2.4,31,4,2,3,2,1,7,0.39,5,0,0,0,2,0,Matches
-Boubacar Kamara,fr FRA,MF,23-115,16.9,22,1.3,18,0,1,0,3,0,4,0.24,2,0,1,0,1,0,Matches
-Matty Cash,pl POL,DF,25-223,17.2,28,1.63,25,0,1,0,1,1,3,0.17,2,0,0,0,0,1,Matches
-Emi Buendía,ar ARG,"MF,FW",26-083,17.2,55,3.21,44,2,3,1,4,1,7,0.41,5,0,1,1,0,0,Matches
-Lucas Digne,fr FRA,DF,29-241,14.3,23,1.6,19,3,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Ashley Young,eng ENG,DF,37-252,14.2,30,2.11,26,2,2,0,0,0,1,0.07,1,0,0,0,0,0,Matches
-Danny Ings,eng ENG,FW,30-238,9.2,16,1.75,12,0,2,2,0,0,1,0.11,0,0,1,0,0,0,Matches
-Philippe Coutinho,br BRA,"MF,FW",30-279,8.8,24,2.74,19,1,3,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Álex Moreno,es ESP,DF,29-283,5.4,14,2.59,14,0,0,0,0,0,2,0.37,2,0,0,0,0,0,Matches
-Leander Dendoncker,be BEL,MF,27-337,4.1,7,1.72,5,0,0,1,0,1,0,0.0,0,0,0,0,0,0,Matches
-Calum Chambers,eng ENG,"DF,MF",28-057,2.6,3,1.13,2,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
-Robin Olsen,se SWE,GK,33-069,2.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Diego Carlos,br BRA,DF,30-003,2.0,2,1.01,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Jan Bednarek,pl POL,DF,26-340,1.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Ludwig Augustinsson,se SWE,DF,28-331,0.9,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Jhon Durán,co COL,FW,19-095,0.8,3,3.86,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Cameron Archer,eng ENG,"FW,MF",21-240,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Bertrand Traoré,bf BFA,"FW,MF",27-193,0.3,1,3.33,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Morgan Sanson,fr FRA,MF,28-212,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,27.6,26.0,507,19.5,388,31,28,27,25,8,53,2.04,34,1,4,6,5,3,
-Opponent Total,,,27.1,26.0,544,20.92,376,61,31,40,30,6,61,2.35,41,5,3,6,4,2,
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Ezri Konsa,eng ENG,DF,25-147,25.9,10,0.39,9,0,0,1,0,0,1,0.04,1,0,0,0,0,0,Matches
+Emiliano Martínez,ar ARG,GK,30-198,24.4,4,0.16,2,2,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ollie Watkins,eng ENG,FW,27-079,23.8,57,2.39,40,0,3,9,5,0,10,0.42,5,0,1,4,0,0,Matches
+Tyrone Mings,eng ENG,DF,30-006,24.0,17,0.71,13,0,0,2,2,0,4,0.17,2,0,0,1,1,0,Matches
+Douglas Luiz,br BRA,MF,24-314,21.7,68,3.14,42,19,3,1,1,2,8,0.37,5,1,0,0,0,2,Matches
+Leon Bailey,jm JAM,"FW,MF",25-222,17.9,47,2.63,30,2,7,6,2,0,5,0.28,3,0,0,2,0,0,Matches
+Jacob Ramsey,eng ENG,"MF,FW",21-295,18.6,53,2.84,44,0,3,1,4,1,4,0.21,2,0,1,0,1,0,Matches
+John McGinn,sct SCO,MF,28-152,18.9,49,2.59,35,5,2,3,3,1,7,0.37,5,0,0,0,2,0,Matches
+Matty Cash,pl POL,DF,25-224,18.2,28,1.54,25,0,1,0,1,1,3,0.16,2,0,0,0,0,1,Matches
+Emi Buendía,ar ARG,"MF,FW",26-084,18.1,58,3.2,47,2,3,1,4,1,7,0.39,5,0,1,1,0,0,Matches
+Boubacar Kamara,fr FRA,MF,23-116,16.9,22,1.3,18,0,1,0,3,0,4,0.24,2,0,1,0,1,0,Matches
+Lucas Digne,fr FRA,DF,29-242,14.3,23,1.6,19,3,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Ashley Young,eng ENG,DF,37-253,14.2,30,2.11,26,2,2,0,0,0,1,0.07,1,0,0,0,0,0,Matches
+Danny Ings,eng ENG,FW,30-239,9.2,16,1.75,12,0,2,2,0,0,1,0.11,0,0,1,0,0,0,Matches
+Philippe Coutinho,br BRA,"MF,FW",30-280,8.8,24,2.74,19,1,3,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Álex Moreno,es ESP,DF,29-284,6.4,18,2.81,17,0,1,0,0,0,2,0.31,2,0,0,0,0,0,Matches
+Leander Dendoncker,be BEL,MF,27-338,4.1,7,1.72,5,0,0,1,0,1,0,0.0,0,0,0,0,0,0,Matches
+Calum Chambers,eng ENG,"DF,MF",28-058,2.6,3,1.13,2,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Robin Olsen,se SWE,GK,33-070,2.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Diego Carlos,br BRA,DF,30-004,2.0,2,1.01,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Jan Bednarek,pl POL,DF,26-341,1.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ludwig Augustinsson,se SWE,DF,28-332,0.9,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Jhon Durán,co COL,FW,19-096,0.8,3,3.8,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Bertrand Traoré,bf BFA,FW,27-194,0.6,2,3.4,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Cameron Archer,eng ENG,"FW,MF",21-241,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Morgan Sanson,fr FRA,MF,28-213,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,27.6,27.0,541,20.04,410,36,31,30,26,8,57,2.11,35,1,5,8,5,3,
+Opponent Total,,,27.1,27.0,561,20.78,387,63,32,41,31,7,61,2.26,41,5,3,6,4,2,

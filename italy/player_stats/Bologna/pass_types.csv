@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Łukasz Skorupski,pl POL,GK,31-318,27.0,913,641,269,71,0,3,0,0,0,0,0,0,707,3,0,Matches
+Jhon Lucumí,co COL,DF,24-266,22.2,1266,1201,62,49,1,18,1,1,0,0,0,0,1111,3,13,Matches
+Stefan Posch,at AUT,DF,25-309,19.1,1233,1044,186,18,4,9,40,168,0,0,0,0,938,3,36,Matches
+Jerdy Schouten,nl NED,MF,26-066,18.2,878,873,4,4,4,9,2,0,0,0,0,0,747,1,10,Matches
+Andrea Cambiaso,it ITA,DF,23-027,18.0,1084,895,187,17,0,5,46,169,1,1,0,0,878,2,31,Matches
+Nicolás Domínguez,ar ARG,MF,24-264,17.6,897,845,45,26,13,11,12,15,0,0,0,0,717,7,18,Matches
+Lewis Ferguson,sct SCO,MF,23-207,17.1,720,702,16,5,3,0,8,9,0,0,0,0,599,2,12,Matches
+Riccardo Orsolini,it ITA,FW,26-054,17.0,631,557,73,21,0,26,78,4,46,27,11,0,398,1,31,Matches
+Adama Soumaoro,fr FRA,DF,30-274,15.7,793,751,36,35,0,1,0,1,0,0,0,0,735,6,4,Matches
+Gary Medel,cl CHI,"MF,DF",35-228,14.7,970,925,45,42,1,8,4,2,0,0,0,0,860,0,7,Matches
+Musa Barrow,gm GAM,"FW,MF",24-125,13.3,468,397,65,13,1,13,71,7,36,18,16,0,323,6,13,Matches
+Roberto Soriano,it ITA,"FW,MF",32-039,13.9,561,552,9,4,5,3,11,5,0,0,0,0,451,0,14,Matches
+Marko Arnautović,at AUT,FW,33-334,13.7,376,338,32,0,2,0,9,3,0,0,0,0,265,6,12,Matches
+Charalambos Lykogiannis,gr GRE,DF,29-148,11.7,681,558,120,10,1,9,63,99,11,6,3,0,480,3,26,Matches
+Michel Aebischer,ch SUI,"FW,MF",26-072,11.2,453,429,21,8,0,3,17,8,4,1,3,0,370,3,12,Matches
+Nikola Moro,hr CRO,MF,25-007,7.7,439,425,11,6,3,6,11,5,0,0,0,0,336,3,7,Matches
+Joaquin Sosa,uy URU,DF,21-068,6.6,299,284,15,15,0,5,1,0,0,0,0,0,238,0,4,Matches
+Lorenzo De Silvestri,it ITA,DF,34-300,5.8,260,197,63,5,1,1,6,58,0,0,0,0,184,0,3,Matches
+Nicola Sansone,it ITA,FW,31-190,4.8,115,103,10,0,0,1,9,0,5,4,0,0,83,2,4,Matches
+Joshua Zirkzee,nl NED,FW,21-301,5.9,157,146,11,0,2,0,0,0,0,0,0,0,119,0,7,Matches
+Kevin Bonifazi,it ITA,DF,26-304,4.6,251,242,9,9,0,3,1,0,0,0,0,0,215,0,1,Matches
+Denso Kasius,nl NED,DF,20-164,3.8,192,156,35,1,0,3,12,34,0,0,0,0,143,1,3,Matches
+Giorgos Kyriakopoulos,gr GRE,"FW,DF",27-042,3.1,136,118,18,5,0,0,20,9,4,4,0,0,97,0,5,Matches
+Emanuel Vignato,it ITA,"MF,FW",22-207,2.7,99,97,2,0,0,2,2,1,1,1,0,0,79,0,2,Matches
+Niklas Pyyhtiä,fi FIN,MF,19-175,0.7,30,30,0,0,0,0,0,0,0,0,0,0,23,0,1,Matches
+Antonio Raimondo,it ITA,FW,19-001,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,,,27.4,27.0,13906,12510,1344,364,41,139,424,598,108,62,33,0,11099,52,276,
+Opponent Total,,,27.4,27.0,12328,10911,1369,374,22,81,468,590,118,43,63,0,9539,48,242,

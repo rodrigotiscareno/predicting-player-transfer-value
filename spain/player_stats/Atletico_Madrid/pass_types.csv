@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Jan Oblak,si SVN,GK,30-071,23.7,701,442,256,58,0,1,0,0,0,0,0,0,468,3,0,Matches
+Reinildo Mandava,mz MOZ,DF,29-057,20.6,1067,945,121,24,0,4,16,97,0,0,0,0,918,1,18,Matches
+Nahuel Molina,ar ARG,DF,24-347,20.3,1265,1044,220,10,7,3,84,203,7,4,3,0,932,1,38,Matches
+Antoine Griezmann,fr FRA,"FW,MF",31-363,19.8,997,899,95,24,12,12,108,6,53,36,8,0,751,3,25,Matches
+Koke,es ESP,MF,31-070,17.8,1222,1176,38,31,4,10,17,4,0,0,0,0,1056,8,16,Matches
+Stefan Savić,me MNE,DF,32-070,17.6,990,960,25,19,0,1,0,6,0,0,0,0,878,5,3,Matches
+Marcos Llorente,es ESP,"MF,DF",28-048,15.9,666,618,46,0,1,4,36,46,0,0,0,0,539,2,22,Matches
+Álvaro Morata,es ESP,FW,30-147,15.0,316,306,8,0,3,5,4,1,0,0,0,0,198,2,4,Matches
+José María Giménez,uy URU,DF,28-058,15.9,795,754,40,34,0,12,0,4,0,0,0,0,688,1,5,Matches
+Yannick Carrasco,be BEL,"DF,MF",29-196,15.6,645,546,96,17,2,5,56,45,34,19,4,0,510,3,20,Matches
+Axel Witsel,be BEL,"DF,MF",34-066,15.6,860,826,34,32,0,1,2,2,0,0,0,0,800,0,7,Matches
+Rodrigo De Paul,ar ARG,MF,28-299,12.4,820,764,47,26,10,22,33,11,7,2,3,0,670,9,13,Matches
+Mario Hermoso,es ESP,DF,27-274,11.9,708,657,50,24,1,21,2,26,0,0,0,0,605,1,4,Matches
+Thomas Lemar,fr FRA,MF,27-127,9.4,563,534,28,7,4,5,33,7,13,4,7,0,481,1,10,Matches
+Geoffrey Kondogbia,cf CTA,MF,30-032,10.7,593,579,14,13,0,11,0,1,0,0,0,0,529,0,2,Matches
+Ángel Correa,ar ARG,"FW,MF",28-010,10.8,375,356,17,2,1,3,18,2,9,1,5,0,296,2,9,Matches
+João Félix,pt POR,"FW,MF",23-129,7.2,228,209,18,6,7,2,8,3,4,3,0,0,171,1,5,Matches
+Saúl Ñíguez,es ESP,"MF,DF",28-118,7.2,318,297,20,2,0,1,10,17,0,0,0,0,242,1,6,Matches
+Pablo Barrios,es ESP,MF,19-277,4.9,291,289,2,1,1,3,6,1,0,0,0,0,240,0,7,Matches
+Memphis,nl NED,FW,29-034,2.9,88,78,10,1,2,0,5,1,5,3,1,0,67,0,1,Matches
+Matheus Cunha,br BRA,"FW,MF",23-296,4.2,85,77,6,0,1,1,3,1,0,0,0,0,64,2,3,Matches
+Ivo Grbić,hr CRO,GK,27-060,2.3,87,51,36,13,0,0,0,0,0,0,0,0,41,0,0,Matches
+Felipe,br BRA,DF,33-307,2.2,132,128,3,2,0,0,0,1,0,0,0,0,121,1,1,Matches
+Sergio Reguilón,es ESP,DF,26-093,1.0,61,51,9,1,1,0,5,8,0,0,0,0,48,1,5,Matches
+Matt Doherty,ie IRL,DF,31-062,0.1,6,5,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
+Carlos Martín,es ESP,DF,20-331,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,29.2,26.0,13881,12593,1240,347,57,127,446,494,132,72,31,0,11319,48,224,
+Opponent Total,,,27.7,26.0,13891,12675,1179,354,20,141,461,450,107,40,40,1,11385,37,235,

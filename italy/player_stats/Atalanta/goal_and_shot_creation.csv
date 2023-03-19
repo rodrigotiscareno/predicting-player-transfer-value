@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Teun Koopmeiners,nl NED,MF,25-019,22.8,86,3.78,58,18,0,8,2,0,13,0.57,8,3,0,2,0,0,Matches
+Marten de Roon,nl NED,MF,31-355,21.9,37,1.69,32,0,1,0,3,1,1,0.05,1,0,0,0,0,0,Matches
+Rafael Tolói,it ITA,DF,32-160,21.1,37,1.76,31,0,3,2,0,1,6,0.28,5,0,0,1,0,0,Matches
+Juan Musso,ar ARG,GK,28-317,20.1,1,0.05,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ademola Lookman,ng NGA,"FW,MF",25-150,17.1,78,4.57,52,6,10,5,5,0,10,0.59,6,0,1,2,1,0,Matches
+Giorgio Scalvini,it ITA,DF,19-098,16.4,22,1.34,20,0,2,0,0,0,3,0.18,3,0,0,0,0,0,Matches
+Hans Hateboer,nl NED,DF,29-069,15.5,22,1.42,19,1,1,1,0,0,1,0.06,1,0,0,0,0,0,Matches
+Éderson,br BRA,MF,23-255,16.1,35,2.18,25,1,2,6,1,0,3,0.19,2,0,0,0,1,0,Matches
+Joakim Mæhle,dk DEN,"DF,MF",25-303,15.4,56,3.63,46,3,2,1,2,2,3,0.19,2,1,0,0,0,0,Matches
+Merih Demiral,tr TUR,DF,25-014,16.0,3,0.19,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Rasmus Højlund,dk DEN,FW,20-043,14.2,42,2.96,28,0,7,3,4,0,3,0.21,1,0,0,0,2,0,Matches
+Mario Pašalić,hr CRO,"MF,FW",28-038,13.4,34,2.53,30,0,1,2,0,1,5,0.37,4,0,0,1,0,0,Matches
+Berat Djimsiti,al ALB,DF,30-028,10.4,3,0.29,2,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Duván Zapata,co COL,FW,31-352,9.3,28,3.0,22,0,3,0,2,1,4,0.43,3,0,0,0,1,0,Matches
+Caleb Okoli,it ITA,DF,21-249,9.4,1,0.11,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Luis Muriel,co COL,FW,31-337,8.6,43,4.99,30,7,4,1,1,0,4,0.46,3,0,0,0,1,0,Matches
+Matteo Ruggeri,it ITA,"DF,MF",20-251,8.2,16,1.95,16,0,0,0,0,0,1,0.12,1,0,0,0,0,0,Matches
+Brandon Soppy,fr FRA,DF,21-026,6.3,20,3.15,15,0,1,1,3,0,6,0.95,5,0,0,0,1,0,Matches
+Davide Zappacosta,it ITA,"DF,MF",30-281,6.2,16,2.6,13,0,1,1,1,0,3,0.49,2,0,0,1,0,0,Matches
+Marco Sportiello,it ITA,GK,30-313,6.9,1,0.14,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+José Luis Palomino,ar ARG,DF,33-073,5.6,7,1.25,6,0,1,0,0,0,1,0.18,1,0,0,0,0,0,Matches
+Jeremie Boga,ci CIV,"MF,FW",26-075,6.5,47,7.26,26,11,6,1,2,1,7,1.08,6,0,0,0,0,1,Matches
+Ruslan Malinovskyi,ua UKR,"MF,FW",29-319,6.1,26,4.25,16,7,1,1,1,0,2,0.33,2,0,0,0,0,0,Matches
+Nadir Zortea,it ITA,"DF,MF",23-273,2.5,8,3.27,5,0,2,1,0,0,1,0.41,1,0,0,0,0,0,Matches
+Lukáš Vorlický,cz CZE,"MF,FW",21-060,0.3,1,3.75,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,26.9,27.0,670,24.81,498,54,48,35,28,7,77,2.85,57,4,1,7,7,1,
+Opponent Total,,,27.1,27.0,558,20.67,427,46,25,24,28,8,52,1.93,38,4,5,2,3,0,

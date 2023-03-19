@@ -1,5 +1,4 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Goals,Goals,Goals,Goals,Goals,Expected,Expected,Expected,Expected,Launched,Launched,Launched,Passes,Passes,Passes,Passes,Goal Kicks,Goal Kicks,Goal Kicks,Crosses,Crosses,Crosses,Sweeper,Sweeper,Sweeper,Unnamed: 30_level_0
-Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist,Matches
-José Sá,pt POR,GK,30-060,27.0,37,1,0,4,1,35.6,0.29,-0.4,-0.02,101,325,31.1,718,141,28.3,30.4,202,60.4,45.5,418,34,8.1,23,0.85,13.0,Matches
-Squad Total,,,27.2,27.0,37,1,0,4,1,35.6,0.29,-0.4,-0.02,101,325,31.1,718,141,28.3,30.4,202,60.4,45.5,418,34,8.1,23,0.85,13.0,
-Opponent Total,,,27.2,27.0,20,2,0,2,2,19.1,0.2,1.1,0.04,121,318,38.1,678,123,34.8,33.0,169,48.5,38.4,355,21,5.9,51,1.89,18.7,
+Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att.1,Thr,Launch%,AvgLen,Att.2,Launch%.1,AvgLen.1,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist,Matches
+José Sá,pt POR,GK,30-061,28.0,41,1,0,5,1,36.3,0.29,-3.7,-0.13,103,329,31.3,740,143,27.4,30.2,211,59.7,45.1,428,34,7.9,26,0.93,13.4,Matches
+Squad Total,,,27.3,28.0,41,1,0,5,1,36.3,0.29,-3.7,-0.13,103,329,31.3,740,143,27.4,30.2,211,59.7,45.1,428,34,7.9,26,0.93,13.4,
+Opponent Total,,,27.1,28.0,22,2,0,3,2,20.8,0.2,0.8,0.03,126,336,37.5,699,128,35.2,33.2,178,50.6,39.2,373,24,6.4,55,1.96,18.6,

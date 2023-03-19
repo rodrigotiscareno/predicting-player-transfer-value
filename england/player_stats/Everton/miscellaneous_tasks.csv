@@ -1,32 +1,31 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,Unnamed: 21_level_0
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-James Tarkowski,eng ENG,DF,30-119,27.0,6,0,0,30,17,0,0,33,19,0,0,0,120,83,32,72.2,Matches
-Alex Iwobi,ng NGA,"MF,FW",26-319,26.5,2,0,0,14,7,4,68,18,31,1,0,0,176,6,16,27.3,Matches
-Jordan Pickford,eng ENG,GK,29-011,26.0,5,0,0,1,3,0,0,2,0,0,1,0,22,6,3,66.7,Matches
-Vitaliy Mykolenko,ua UKR,"DF,MF",23-293,23.8,3,0,0,25,15,0,47,32,22,0,0,0,111,19,29,39.6,Matches
-Amadou Onana,be BEL,MF,21-214,21.9,7,0,0,40,40,2,4,26,38,0,0,0,114,50,47,51.5,Matches
-Conor Coady,eng ENG,DF,30-021,21.9,2,0,0,11,12,2,1,14,9,0,0,0,88,24,24,50.0,Matches
-Demarai Gray,eng ENG,"FW,MF",26-263,21.5,2,0,0,14,32,9,146,10,15,0,0,0,82,9,28,24.3,Matches
-Idrissa Gana Gueye,sn SEN,MF,33-173,19.1,3,0,0,26,39,0,6,45,31,0,1,0,185,18,18,50.0,Matches
-Dwight McNeil,eng ENG,"FW,MF",23-116,16.8,4,0,0,12,14,1,117,20,26,1,0,0,99,6,13,31.6,Matches
-Séamus Coleman,ie IRL,DF,34-158,15.2,1,0,0,8,14,2,14,20,22,0,0,0,84,16,11,59.3,Matches
-Anthony Gordon,eng ENG,FW,22-022,12.2,6,0,0,20,15,3,25,4,22,0,0,0,56,9,29,23.7,Matches
-Nathan Patterson,sct SCO,"DF,MF",21-153,11.0,3,0,0,8,10,1,29,11,17,0,0,0,67,7,8,46.7,Matches
-Neal Maupay,fr FRA,FW,26-216,10.5,3,0,0,11,18,1,2,3,5,0,0,0,25,14,38,26.9,Matches
-Abdoulaye Doucouré,ml MLI,MF,30-076,9.4,5,0,0,12,4,3,4,9,9,0,1,0,66,10,18,35.7,Matches
-Dominic Calvert-Lewin,eng ENG,FW,26-002,8.1,1,0,0,12,8,14,2,1,1,0,0,0,17,35,41,46.1,Matches
-Ben Godfrey,eng ENG,DF,25-062,4.7,2,0,0,6,4,1,4,5,7,0,0,0,18,9,8,52.9,Matches
-Tom Davies,eng ENG,MF,24-261,5.3,3,0,0,8,6,1,2,4,8,0,0,0,26,7,13,35.0,Matches
-Mason Holgate,eng ENG,"DF,MF",26-147,4.1,1,0,0,4,4,0,1,6,4,0,0,0,17,6,6,50.0,Matches
-Michael Keane,eng ENG,DF,30-066,3.3,0,0,0,1,1,0,0,2,1,0,0,0,12,15,12,55.6,Matches
-Yerry Mina,co COL,DF,28-176,2.6,1,0,0,4,3,0,0,2,4,0,0,0,12,7,7,50.0,Matches
-Salomón Rondón,ve VEN,FW,33-183,1.2,0,0,0,4,0,2,0,0,0,0,0,0,1,7,6,53.8,Matches
-Ellis Simms,eng ENG,FW,22-072,1.1,0,0,0,0,0,1,0,0,0,0,0,0,3,6,10,37.5,Matches
-Asmir Begović,ba BIH,GK,35-271,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
-James Garner,eng ENG,MF,22-005,1.6,1,0,0,4,0,1,6,4,5,0,0,0,13,2,1,66.7,Matches
-Dele Alli,eng ENG,MF,26-341,0.4,0,0,0,0,1,0,0,0,0,0,0,0,2,1,2,33.3,Matches
-Isaac Price,nir NIR,MF,19-173,0.4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Matches
-Rúben Vinagre,pt POR,"DF,MF",23-343,0.3,0,0,0,0,3,0,2,0,2,0,0,0,4,0,1,0.0,Matches
-Thomas Cannon,ie IRL,FW,20-080,0.3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0.0,Matches
-Squad Total,,,27.2,27.0,62,0,0,275,272,48,481,271,298,2,3,0,1420,373,423,46.9,
-Opponent Total,,,27.2,27.0,54,0,0,289,266,35,538,200,277,3,2,1,1463,423,373,53.1,
+James Tarkowski,eng ENG,DF,30-120,28.0,6,0,0,33,18,0,0,34,20,0,1,0,124,84,33,71.8,Matches
+Alex Iwobi,ng NGA,"MF,FW",26-320,27.5,2,0,0,14,8,4,70,18,31,1,0,0,184,6,18,25.0,Matches
+Jordan Pickford,eng ENG,GK,29-012,27.0,5,0,0,1,3,0,0,2,0,0,1,0,22,6,3,66.7,Matches
+Vitaliy Mykolenko,ua UKR,"DF,MF",23-294,23.8,3,0,0,25,15,0,47,32,22,0,0,0,112,19,30,38.8,Matches
+Amadou Onana,be BEL,MF,21-215,22.9,7,0,0,41,41,2,4,27,39,0,0,0,120,52,49,51.5,Matches
+Demarai Gray,eng ENG,"FW,MF",26-264,22.5,2,0,0,16,35,9,149,10,16,0,0,0,84,9,32,22.0,Matches
+Conor Coady,eng ENG,DF,30-022,21.9,2,0,0,11,12,2,1,14,9,0,0,0,88,24,24,50.0,Matches
+Idrissa Gana Gueye,sn SEN,MF,33-174,19.9,4,0,0,29,39,0,6,46,34,0,1,0,189,19,18,51.4,Matches
+Dwight McNeil,eng ENG,"FW,MF",23-117,17.8,5,0,0,14,15,1,120,20,30,1,0,0,104,6,13,31.6,Matches
+Séamus Coleman,ie IRL,DF,34-159,16.1,1,0,0,8,14,2,14,21,23,0,0,0,87,16,12,57.1,Matches
+Anthony Gordon,eng ENG,FW,22-023,12.2,6,0,0,20,15,3,25,4,22,0,0,0,56,9,29,23.7,Matches
+Nathan Patterson,sct SCO,"DF,MF",21-154,11.0,3,0,0,8,10,1,29,11,17,0,0,0,67,7,8,46.7,Matches
+Neal Maupay,fr FRA,FW,26-217,10.5,3,0,0,11,18,1,2,3,5,0,0,0,25,14,38,26.9,Matches
+Abdoulaye Doucouré,ml MLI,MF,30-077,10.4,5,0,0,13,4,4,4,9,10,0,1,0,68,10,21,32.3,Matches
+Dominic Calvert-Lewin,eng ENG,FW,26-003,8.1,1,0,0,12,8,14,2,1,1,0,0,0,17,35,41,46.1,Matches
+Ben Godfrey,eng ENG,DF,25-063,5.7,2,0,0,6,5,1,4,6,8,0,0,0,21,10,11,47.6,Matches
+Tom Davies,eng ENG,MF,24-262,5.3,3,0,0,8,6,1,2,4,8,0,0,0,26,7,13,35.0,Matches
+Michael Keane,eng ENG,DF,30-067,4.3,0,0,0,1,1,0,0,3,1,0,0,0,21,19,13,59.4,Matches
+Mason Holgate,eng ENG,"DF,MF",26-148,4.1,1,0,0,4,4,0,1,6,4,0,0,0,17,6,6,50.0,Matches
+Yerry Mina,co COL,DF,28-177,2.6,1,0,0,4,3,0,0,2,4,0,0,0,12,7,7,50.0,Matches
+Ellis Simms,eng ENG,FW,22-073,1.3,0,0,0,0,0,1,0,0,0,0,0,0,4,6,11,35.3,Matches
+Salomón Rondón,ve VEN,FW,33-184,1.2,0,0,0,4,0,2,0,0,0,0,0,0,1,7,6,53.8,Matches
+Asmir Begović,ba BIH,GK,35-272,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+James Garner,eng ENG,MF,22-006,1.6,1,0,0,4,0,1,6,4,5,0,0,0,13,2,1,66.7,Matches
+Dele Alli,eng ENG,MF,26-342,0.4,0,0,0,0,1,0,0,0,0,0,0,0,2,1,2,33.3,Matches
+Isaac Price,nir NIR,MF,19-174,0.4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Matches
+Rúben Vinagre,pt POR,"DF,MF",23-344,0.3,0,0,0,0,3,0,2,0,2,0,0,0,4,0,1,0.0,Matches
+Thomas Cannon,ie IRL,FW,20-081,0.3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0.0,Matches
+Squad Total,,,27.3,28.0,64,0,0,287,280,49,489,277,311,2,4,0,1468,382,442,46.4,
+Opponent Total,,,27.1,28.0,56,0,0,297,278,37,567,208,288,4,2,1,1506,442,382,53.6,

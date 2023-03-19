@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Marco Silvestri,it ITA,GK,32-017,27.0,0,0,0,0,3,0,0,1,1,0,0,0,29,6,0,100.0,Matches
+Walace,br BRA,MF,27-349,26.1,5,0,0,29,27,0,18,38,33,0,1,0,229,18,20,47.4,Matches
+Nehuén Pérez,ar ARG,DF,22-268,22.4,5,1,0,19,5,0,15,25,27,0,0,1,108,24,14,63.2,Matches
+Iyenoma Udogie,it ITA,DF,20-111,22.2,4,0,0,29,39,4,19,24,36,0,1,0,138,10,12,45.5,Matches
+Roberto Pereyra,ar ARG,"DF,MF",32-071,21.5,4,0,0,19,32,2,55,14,19,0,0,0,122,2,6,25.0,Matches
+Jaka Bijol,si SVN,DF,24-042,20.4,6,0,0,15,4,0,1,22,15,0,1,0,89,59,34,63.4,Matches
+Rodrigo Becão,br BRA,DF,27-059,20.7,10,0,0,28,21,5,13,16,30,0,0,1,119,46,23,66.7,Matches
+Beto,gw GNB,FW,25-047,19.0,2,0,0,30,19,8,9,3,9,0,0,0,24,56,57,49.6,Matches
+Isaac Success,ng NGA,FW,27-071,17.9,3,0,0,30,70,10,13,4,4,0,0,0,47,33,44,42.9,Matches
+Sandi Lovrić,si SVN,MF,24-356,16.2,4,0,0,26,19,1,51,15,14,0,0,0,100,5,9,35.7,Matches
+Gerard Deulofeu,es ESP,FW,29-006,13.5,1,0,0,8,11,8,59,2,5,0,0,0,44,1,4,20.0,Matches
+Tolgay Arslan,de GER,MF,32-215,10.3,1,0,0,13,25,0,22,7,11,0,0,0,53,5,2,71.4,Matches
+Jean-Victor Makengo,fr FRA,MF,24-280,8.9,2,0,0,9,13,0,6,9,13,0,0,0,39,5,1,83.3,Matches
+Kingsley Ehizibue,nl NED,DF,27-298,11.7,5,0,0,24,13,1,29,5,22,0,0,0,54,13,10,56.5,Matches
+Lazar Samardzic,de GER,MF,21-023,11.7,0,0,0,16,7,0,65,9,11,0,0,0,80,6,17,26.1,Matches
+Enzo Ebosse,cm CMR,DF,24-008,10.3,3,0,0,9,4,1,15,11,9,0,0,0,48,15,14,51.7,Matches
+Adam Masina,ma MAR,DF,29-076,5.3,1,0,0,5,1,0,8,10,4,0,0,0,23,15,5,75.0,Matches
+Bram Nuytinck,nl NED,DF,32-319,4.3,1,0,0,4,2,0,0,5,4,0,0,0,19,7,5,58.3,Matches
+Florian Thauvin,fr FRA,FW,30-052,2.2,0,0,0,3,4,0,23,1,0,0,0,0,6,2,3,40.0,Matches
+Festy Ebosele,ie IRL,"DF,FW",20-229,1.7,3,0,0,5,3,0,10,1,7,0,0,0,14,3,2,60.0,Matches
+Brandon Soppy,fr FRA,DF,21-026,1.0,1,0,0,2,2,0,1,1,1,0,1,0,6,1,0,100.0,Matches
+Ilija Nestorovski,mk MKD,"FW,MF",33-007,1.3,2,0,0,4,1,2,0,0,0,0,0,0,4,1,6,14.3,Matches
+Mato Jajalo,ba BIH,MF,34-298,0.7,0,0,0,1,0,0,0,0,0,0,0,0,6,1,0,100.0,Matches
+Simone Pafundi,it ITA,MF,17-033,0.1,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,,Matches
+Marvin Zeegelaar,nl NED,DF,32-219,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+Vivaldo Semedo,pt POR,FW,18-050,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+Squad Total,,,26.7,27.0,63,1,0,329,325,42,432,223,277,0,4,2,1403,335,289,53.7,
+Opponent Total,,,27.3,27.0,63,2,1,345,313,43,511,208,279,3,0,1,1381,289,335,46.3,

@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Chancel Mbemba,cd COD,DF,28-223,24.4,33,21,20,12,1,18,25,72.0,7,24,12,12,34,67,75,0,Matches
+Valentin Rongier,fr FRA,MF,28-102,23.7,59,35,19,34,6,28,53,52.8,25,36,7,29,36,95,22,1,Matches
+Leonardo Balerdi,ar ARG,DF,24-052,22.9,40,26,28,10,2,22,33,66.7,11,41,26,15,48,88,71,0,Matches
+Pau López,es ESP,GK,28-096,23.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,1,Matches
+Alexis Sánchez,cl CHI,FW,34-090,20.0,19,13,4,12,3,1,10,10.0,9,7,0,7,2,21,3,0,Matches
+Jonathan Clauss,fr FRA,DF,30-175,19.0,29,18,10,13,6,12,29,41.4,17,18,2,16,21,50,26,2,Matches
+Jordan Veretout,fr FRA,MF,30-018,20.8,38,23,9,25,4,16,30,53.3,14,14,4,10,27,65,27,2,Matches
+Nuno Tavares,pt POR,"DF,MF",23-052,20.5,43,22,16,20,7,20,42,47.6,22,27,4,23,14,57,20,0,Matches
+Mattéo Guendouzi,fr FRA,MF,23-339,18.1,29,14,6,17,6,10,29,34.5,19,9,3,6,19,48,11,0,Matches
+Cengiz Ünder,tr TUR,"MF,DF",25-248,17.5,25,13,9,12,4,9,21,42.9,12,10,1,9,14,39,8,0,Matches
+Sead Kolašinac,ba BIH,DF,29-272,15.5,38,28,22,13,3,17,24,70.8,7,16,2,14,28,66,22,0,Matches
+Samuel Gigot,fr FRA,DF,29-158,14.5,28,15,15,11,2,6,9,66.7,3,20,6,14,37,65,56,1,Matches
+Dimitri Payet,fr FRA,"MF,FW",35-355,7.9,4,3,1,2,1,2,7,28.6,5,4,0,4,0,4,2,0,Matches
+Ruslan Malinovskyi,ua UKR,"MF,FW",29-319,6.8,13,6,2,8,3,5,11,45.5,6,6,0,6,1,14,6,0,Matches
+Amine Harit,ma MAR,"MF,FW",25-274,5.7,6,4,0,3,3,3,7,42.9,4,4,1,3,4,10,6,0,Matches
+Gerson,br BRA,MF,25-303,4.6,6,4,1,4,1,3,5,60.0,2,5,0,5,2,8,4,0,Matches
+Issa Kaboré,bf BFA,DF,21-311,6.5,17,12,8,8,1,13,20,65.0,7,9,1,8,7,24,12,1,Matches
+Pape Gueye,sn SEN,"MF,DF",24-054,5.5,18,7,10,7,1,7,15,46.7,8,9,2,7,9,27,2,0,Matches
+Eric Bailly,ci CIV,DF,28-341,4.8,10,8,4,5,1,6,6,100.0,0,14,11,3,11,21,14,0,Matches
+Rubén Blanco,es ESP,GK,27-237,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Luis Javier Suárez,co COL,FW,25-107,3.3,4,1,1,2,1,1,3,33.3,2,1,0,1,3,7,6,0,Matches
+Arkadiusz Milik,pl POL,FW,29-019,1.4,1,1,0,0,1,0,1,0.0,1,0,0,0,0,1,2,0,Matches
+Bamba Dieng,sn SEN,"FW,MF",22-361,2.2,4,4,2,1,1,3,4,75.0,1,5,1,4,0,4,0,0,Matches
+Azzedine Ounahi,ma MAR,"MF,FW",22-334,1.0,2,1,1,1,0,0,2,0.0,2,1,0,1,0,2,0,0,Matches
+Vitinha,pt POR,FW,23-004,0.8,2,2,0,1,1,0,2,0.0,2,1,0,1,0,2,1,0,Matches
+Souleymane Touré,fr FRA,DF,19-356,0.8,2,1,1,1,0,1,2,50.0,1,1,0,1,0,2,5,0,Matches
+Cédric Bakambu,cd COD,MF,31-342,0.7,2,1,2,0,0,2,2,100.0,0,0,0,0,0,2,0,0,Matches
+Duje Ćaleta-Car,hr CRO,DF,26-183,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Salim Ben Seghir,fr FRA,MF,20-023,0.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+Squad Total,,,27.8,27.0,472,283,191,222,59,205,393,52.2,188,283,83,200,317,789,406,8,
+Opponent Total,,,27.0,27.0,511,292,249,198,64,245,467,52.5,222,322,104,218,309,820,471,7,

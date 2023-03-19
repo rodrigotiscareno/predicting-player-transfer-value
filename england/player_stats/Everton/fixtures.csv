@@ -1,5 +1,4 @@
-Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes
-2022-08-06,17:30,Premier League,Matchweek 1,Sat,Home,L,0.0,1.0,Chelsea,0.7,1.5,38.0,39254.0,Jordan Pickford,5-4-1,Craig Pawson,Match Report,
+2022-08-06,17:30,Premier League,Matchweek 1,Sat,Home,L,0,1,Chelsea,0.7,1.5,38,"39,254",Jordan Pickford,5-4-1,Craig Pawson,Match Report,Unnamed: 18
 2022-08-13,12:30,Premier League,Matchweek 2,Sat,Away,L,1.0,2.0,Aston Villa,1.6,2.3,43.0,41883.0,Jordan Pickford,3-4-3,Michael Oliver,Match Report,
 2022-08-20,15:00,Premier League,Matchweek 3,Sat,Home,D,1.0,1.0,Nott'ham Forest,1.5,1.0,49.0,39271.0,Jordan Pickford,3-4-3,Andre Marriner,Match Report,
 2022-08-23,19:45,EFL Cup,Second round,Tue,Away,W,1.0,0.0,Fleetwood Town,,,57.0,4267.0,Séamus Coleman,5-3-2,Tom Reeves,Match Report,
@@ -29,7 +28,7 @@ Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Capt
 2023-03-01,19:45,Premier League,Matchweek 7,Wed,Away,L,0.0,4.0,Arsenal,1.2,2.6,27.0,60213.0,Séamus Coleman,4-5-1,Michael Oliver,Match Report,
 2023-03-05,14:00,Premier League,Matchweek 26,Sun,Away,D,2.0,2.0,Nott'ham Forest,1.7,0.8,43.0,29353.0,Séamus Coleman,4-5-1,John Brooks,Match Report,
 2023-03-11,15:00,Premier League,Matchweek 27,Sat,Home,W,1.0,0.0,Brentford,1.0,2.0,33.0,39274.0,Séamus Coleman,4-5-1,Simon Hooper,Match Report,
-2023-03-18,17:30,Premier League,Matchweek 28,Sat,Away,,,,Chelsea,,,,,,,,Head-to-Head,
+2023-03-18,17:30,Premier League,Matchweek 28,Sat,Away,D,2.0,2.0,Chelsea,1.2,2.3,32.0,40025.0,Séamus Coleman,4-5-1,Darren England,Match Report,
 2023-04-03,20:00,Premier League,Matchweek 29,Mon,Home,,,,Tottenham,,,,,,,,Head-to-Head,
 2023-04-08,12:30,Premier League,Matchweek 30,Sat,Away,,,,Manchester Utd,,,,,,,,Head-to-Head,
 2023-04-15,15:00,Premier League,Matchweek 31,Sat,Home,,,,Fulham,,,,,,,,Head-to-Head,

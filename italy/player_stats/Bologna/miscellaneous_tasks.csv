@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+Łukasz Skorupski,pl POL,GK,31-318,27.0,3,0,0,0,6,0,0,0,1,0,0,0,38,4,0,100.0,Matches
+Jhon Lucumí,co COL,DF,24-266,22.2,6,0,0,20,13,0,1,25,28,0,3,0,140,31,23,57.4,Matches
+Stefan Posch,at AUT,DF,25-309,19.1,1,0,0,29,14,1,40,26,29,0,0,0,101,18,16,52.9,Matches
+Jerdy Schouten,nl NED,MF,26-066,18.2,3,0,0,16,18,1,2,32,24,0,0,1,147,15,16,48.4,Matches
+Andrea Cambiaso,it ITA,DF,23-027,18.0,2,0,0,19,26,4,46,21,24,0,0,0,118,3,15,16.7,Matches
+Nicolás Domínguez,ar ARG,MF,24-264,17.6,7,0,0,35,22,1,12,12,35,0,1,0,123,21,19,52.5,Matches
+Lewis Ferguson,sct SCO,MF,23-207,17.1,4,0,0,36,30,4,8,16,17,0,0,0,76,17,25,40.5,Matches
+Riccardo Orsolini,it ITA,FW,26-054,17.0,4,1,0,24,33,11,78,7,13,0,0,0,82,11,21,34.4,Matches
+Adama Soumaoro,fr FRA,DF,30-274,15.7,5,1,1,17,8,0,0,15,11,0,0,0,69,25,11,69.4,Matches
+Gary Medel,cl CHI,"MF,DF",35-228,14.7,5,0,0,16,16,0,4,25,15,0,0,0,133,14,14,50.0,Matches
+Musa Barrow,gm GAM,"FW,MF",24-125,13.3,2,0,0,12,13,2,71,1,2,0,0,0,52,5,23,17.9,Matches
+Roberto Soriano,it ITA,"FW,MF",32-039,13.9,1,0,0,17,31,2,11,5,14,0,0,0,70,11,15,42.3,Matches
+Marko Arnautović,at AUT,FW,33-334,13.7,5,0,0,20,14,10,9,2,5,0,0,0,30,9,10,47.4,Matches
+Charalambos Lykogiannis,gr GRE,DF,29-148,11.7,3,0,0,14,9,1,63,15,7,0,0,0,52,17,16,51.5,Matches
+Michel Aebischer,ch SUI,"FW,MF",26-072,11.2,3,0,0,14,16,7,17,5,3,1,1,0,54,5,16,23.8,Matches
+Nikola Moro,hr CRO,MF,25-007,7.7,1,0,0,7,8,0,11,4,10,0,0,0,59,17,7,70.8,Matches
+Joaquin Sosa,uy URU,DF,21-068,6.6,2,0,0,14,6,0,1,5,2,0,2,0,38,13,10,56.5,Matches
+Lorenzo De Silvestri,it ITA,DF,34-300,5.8,1,0,0,4,5,2,6,2,2,0,0,1,28,9,8,52.9,Matches
+Nicola Sansone,it ITA,FW,31-190,4.8,2,0,0,8,10,4,9,0,3,2,0,0,14,0,8,0.0,Matches
+Joshua Zirkzee,nl NED,FW,21-301,5.9,1,0,0,4,4,1,0,4,1,0,0,0,10,9,18,33.3,Matches
+Kevin Bonifazi,it ITA,DF,26-304,4.6,1,0,0,3,0,1,1,6,4,0,0,0,28,1,10,9.1,Matches
+Denso Kasius,nl NED,DF,20-164,3.8,1,0,0,3,1,0,12,3,6,0,0,0,18,1,4,20.0,Matches
+Giorgos Kyriakopoulos,gr GRE,"FW,DF",27-042,3.1,0,0,0,4,8,0,20,1,2,0,0,0,13,3,7,30.0,Matches
+Emanuel Vignato,it ITA,"MF,FW",22-207,2.7,1,0,0,3,1,0,2,3,4,0,0,0,10,2,2,50.0,Matches
+Niklas Pyyhtiä,fi FIN,MF,19-175,0.7,0,0,0,0,0,0,0,1,0,0,0,0,4,0,5,0.0,Matches
+Antonio Raimondo,it ITA,FW,19-001,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0,Matches
+Squad Total,,,27.4,27.0,64,2,1,339,312,52,424,236,262,3,7,2,1507,261,322,44.8,
+Opponent Total,,,27.4,27.0,61,2,1,332,321,48,468,233,224,4,4,1,1471,322,261,55.2,

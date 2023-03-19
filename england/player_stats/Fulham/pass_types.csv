@@ -1,33 +1,32 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes,Unnamed: 20_level_0
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Tim Ream,us USA,DF,35-164,27.0,1564,1514,47,29,0,21,4,9,0,0,0,0,1351,3,5,Matches
-Andreas Pereira,br BRA,MF,27-076,24.9,881,683,189,68,0,15,164,5,94,42,40,0,573,9,35,Matches
-Harrison Reed,eng ENG,MF,28-050,23.7,922,875,43,11,0,2,39,4,2,1,1,0,705,4,31,Matches
-Bernd Leno,de GER,GK,31-014,25.0,942,677,263,83,0,2,0,0,0,0,0,0,736,2,0,Matches
-Bobby Reid,jm JAM,"FW,DF",30-044,22.9,778,700,74,6,0,2,50,68,0,0,0,0,544,4,32,Matches
-João Palhinha,pt POR,MF,27-252,23.7,829,804,23,17,0,24,2,0,0,0,0,0,672,2,11,Matches
-Antonee Robinson,us USA,DF,25-222,23.3,1248,1021,227,15,0,3,89,212,0,0,0,0,912,0,34,Matches
-Aleksandar Mitrović,rs SRB,FW,28-183,20.1,449,443,6,0,4,9,4,3,0,0,0,0,270,0,21,Matches
-Kenny Tete,nl NED,DF,27-160,19.6,1060,800,253,23,1,7,67,230,0,0,0,0,772,7,31,Matches
-Willian,br BRA,FW,34-221,16.2,575,553,21,3,3,9,30,3,15,3,4,0,449,1,13,Matches
-Issa Diop,fr FRA,DF,26-068,15.7,958,924,33,31,0,8,2,0,0,0,0,0,817,1,4,Matches
-Tosin Adarabioyo,eng ENG,DF,25-175,13.2,652,621,27,22,0,6,2,4,0,0,0,0,526,4,8,Matches
-Neeskens Kebano,cd COD,FW,31-008,7.9,188,186,2,0,0,1,20,0,2,0,0,0,139,0,15,Matches
-Carlos Vinícius,br BRA,FW,27-358,6.2,105,102,2,0,1,0,4,0,0,0,0,0,59,1,10,Matches
-Harry Wilson,wls WAL,FW,25-361,5.0,184,173,11,2,0,0,12,4,4,1,1,0,138,0,9,Matches
-Daniel James,wls WAL,FW,25-128,4.2,123,119,4,0,0,0,16,4,0,0,0,0,79,0,11,Matches
-Manor Solomon,il ISR,FW,23-237,3.1,102,99,3,1,0,0,2,2,0,0,0,0,86,0,0,Matches
-Saša Lukić,rs SRB,MF,26-217,2.3,132,127,5,5,0,0,1,0,0,0,0,0,120,0,0,Matches
-Marek Rodák,sk SVK,GK,26-095,2.0,61,38,23,8,0,0,0,0,0,0,0,0,29,0,0,Matches
-Layvin Kurzawa,fr FRA,DF,30-195,1.5,41,29,12,0,0,0,2,12,0,0,0,0,28,0,2,Matches
-Tom Cairney,sct SCO,MF,32-057,5.2,400,385,15,2,2,3,18,4,6,2,2,0,342,0,4,Matches
-Kevin Mbabu,ch SUI,"DF,FW",27-333,1.6,94,71,23,0,0,1,7,23,0,0,0,0,68,0,2,Matches
-Jay Stansfield,eng ENG,FW,20-114,1.0,23,23,0,0,0,0,3,0,0,0,0,0,9,0,3,Matches
-Nathaniel Chalobah,eng ENG,MF,28-096,0.1,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
-Josh Onomah,eng ENG,MF,25-325,0.2,6,6,0,0,0,0,0,0,0,0,0,0,4,0,1,Matches
-Luke Harris,wls WAL,"MF,FW",17-349,0.1,14,14,0,0,0,0,1,0,0,0,0,0,13,0,0,Matches
-Cédric Soares,pt POR,DF,31-199,0.1,14,10,3,0,0,0,2,3,0,0,0,0,8,1,0,Matches
-Shane Duffy,ie IRL,"FW,DF",31-076,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-Tyrese Francois,au AUS,FW,22-245,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Tim Ream,us USA,DF,35-165,27.0,1564,1514,47,29,0,21,4,9,0,0,0,0,1351,3,5,Matches
+Andreas Pereira,br BRA,MF,27-077,24.9,881,683,189,68,0,15,164,5,94,42,40,0,573,9,35,Matches
+Harrison Reed,eng ENG,MF,28-051,23.7,922,875,43,11,0,2,39,4,2,1,1,0,705,4,31,Matches
+Bernd Leno,de GER,GK,31-015,25.0,942,677,263,83,0,2,0,0,0,0,0,0,736,2,0,Matches
+Bobby Reid,jm JAM,"FW,DF",30-045,22.9,778,700,74,6,0,2,50,68,0,0,0,0,544,4,32,Matches
+João Palhinha,pt POR,MF,27-253,23.7,829,804,23,17,0,24,2,0,0,0,0,0,672,2,11,Matches
+Antonee Robinson,us USA,DF,25-223,23.3,1248,1021,227,15,0,3,89,212,0,0,0,0,912,0,34,Matches
+Aleksandar Mitrović,rs SRB,FW,28-184,20.1,449,443,6,0,4,9,4,3,0,0,0,0,270,0,21,Matches
+Kenny Tete,nl NED,DF,27-161,19.6,1060,800,253,23,1,7,67,230,0,0,0,0,772,7,31,Matches
+Willian,br BRA,FW,34-222,16.2,575,553,21,3,3,9,30,3,15,3,4,0,449,1,13,Matches
+Issa Diop,fr FRA,DF,26-069,15.7,958,924,33,31,0,8,2,0,0,0,0,0,817,1,4,Matches
+Tosin Adarabioyo,eng ENG,DF,25-176,13.2,652,621,27,22,0,6,2,4,0,0,0,0,526,4,8,Matches
+Neeskens Kebano,cd COD,FW,31-009,7.9,188,186,2,0,0,1,20,0,2,0,0,0,139,0,15,Matches
+Carlos Vinícius,br BRA,FW,27-359,6.2,105,102,2,0,1,0,4,0,0,0,0,0,59,1,10,Matches
+Harry Wilson,wls WAL,FW,25-362,5.0,184,173,11,2,0,0,12,4,4,1,1,0,138,0,9,Matches
+Daniel James,wls WAL,FW,25-129,4.2,123,119,4,0,0,0,16,4,0,0,0,0,79,0,11,Matches
+Manor Solomon,il ISR,FW,23-238,3.1,102,99,3,1,0,0,2,2,0,0,0,0,86,0,0,Matches
+Saša Lukić,rs SRB,MF,26-218,2.3,132,127,5,5,0,0,1,0,0,0,0,0,120,0,0,Matches
+Marek Rodák,sk SVK,GK,26-096,2.0,61,38,23,8,0,0,0,0,0,0,0,0,29,0,0,Matches
+Layvin Kurzawa,fr FRA,DF,30-196,1.5,41,29,12,0,0,0,2,12,0,0,0,0,28,0,2,Matches
+Tom Cairney,sct SCO,MF,32-058,5.2,400,385,15,2,2,3,18,4,6,2,2,0,342,0,4,Matches
+Kevin Mbabu,ch SUI,"DF,FW",27-334,1.6,94,71,23,0,0,1,7,23,0,0,0,0,68,0,2,Matches
+Jay Stansfield,eng ENG,FW,20-115,1.0,23,23,0,0,0,0,3,0,0,0,0,0,9,0,3,Matches
+Nathaniel Chalobah,eng ENG,MF,28-097,0.1,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+Josh Onomah,eng ENG,MF,25-326,0.2,6,6,0,0,0,0,0,0,0,0,0,0,4,0,1,Matches
+Luke Harris,wls WAL,"MF,FW",17-350,0.1,14,14,0,0,0,0,1,0,0,0,0,0,13,0,0,Matches
+Cédric Soares,pt POR,DF,31-200,0.1,14,10,3,0,0,0,2,3,0,0,0,0,8,1,0,Matches
+Shane Duffy,ie IRL,"FW,DF",31-077,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Tyrese Francois,au AUS,FW,22-246,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
 Squad Total,,,29.0,27.0,12356,11008,1309,326,11,113,541,590,123,49,48,0,9457,39,282,
 Opponent Total,,,27.3,27.0,13952,12653,1232,307,57,102,443,538,149,64,52,1,11054,67,263,

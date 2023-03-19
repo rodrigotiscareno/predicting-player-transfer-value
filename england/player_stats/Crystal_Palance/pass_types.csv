@@ -1,29 +1,28 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Pass Types,Corner Kicks,Corner Kicks,Corner Kicks,Outcomes,Outcomes,Outcomes,Unnamed: 20_level_0
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Vicente Guaita,es ESP,GK,36-067,26.0,818,565,249,44,0,4,0,0,0,0,0,0,584,4,0,Matches
-Marc Guéhi,eng ENG,DF,22-248,26.0,1442,1383,56,54,0,20,0,2,0,0,0,0,1245,3,10,Matches
-Cheick Doucouré,ml MLI,MF,23-069,21.5,878,867,9,9,2,2,3,0,0,0,0,0,723,2,20,Matches
-Jeffrey Schlupp,gh GHA,"MF,FW",30-085,21.6,724,684,36,11,1,1,13,23,0,0,0,0,545,4,17,Matches
-Tyrick Mitchell,eng ENG,DF,23-198,21.1,1001,771,227,24,0,0,41,203,0,0,0,0,701,3,42,Matches
-Wilfried Zaha,ci CIV,"FW,MF",30-128,21.5,514,495,17,5,2,1,25,3,0,0,0,0,402,2,18,Matches
-Joachim Andersen,dk DEN,DF,26-291,21.4,1336,1243,88,78,2,30,6,8,1,0,0,0,1064,5,10,Matches
-Jordan Ayew,gh GHA,"FW,MF",31-188,20.6,587,580,6,2,4,0,32,3,0,0,0,0,442,1,21,Matches
-Michael Olise,fr FRA,"FW,MF",21-096,19.7,901,763,137,39,1,12,143,13,70,31,27,3,635,1,31,Matches
-Eberechi Eze,eng ENG,"MF,FW",24-262,19.2,776,667,103,49,4,4,54,4,39,16,12,1,604,6,6,Matches
-Nathaniel Clyne,eng ENG,DF,31-347,18.2,827,670,155,7,0,3,21,148,0,0,0,0,649,2,12,Matches
-Joel Ward,eng ENG,DF,33-140,14.6,681,555,125,23,0,2,21,102,0,0,0,0,509,1,14,Matches
-Odsonne Édouard,fr FRA,"FW,MF",25-061,13.5,292,276,14,0,0,0,4,0,0,0,0,0,211,2,9,Matches
-Jean-Philippe Mateta,fr FRA,FW,25-263,7.7,134,128,6,0,0,0,1,0,0,0,0,0,92,0,8,Matches
-Albert Sambi Lokonga,be BEL,MF,23-147,5.2,238,224,10,9,2,1,0,1,0,0,0,0,205,4,2,Matches
-Will Hughes,eng ENG,MF,27-335,4.4,184,168,14,6,0,0,12,2,4,2,2,0,136,2,8,Matches
-Chris Richards,us USA,DF,22-355,4.0,146,140,6,3,0,0,0,3,0,0,0,0,120,0,0,Matches
-Luka Milivojević,rs SRB,MF,31-345,3.9,178,170,7,6,0,2,3,1,0,0,0,0,141,1,0,Matches
-James Tomkins,eng ENG,DF,33-354,2.7,136,132,4,4,0,0,0,0,0,0,0,0,111,0,2,Matches
-Joseph Whitworth,eng ENG,GK,19-017,1.0,46,35,11,3,0,0,0,0,0,0,0,0,34,0,0,Matches
-Naouirou Ahamada,fr FRA,"MF,FW",20-354,0.9,45,44,1,0,0,0,2,0,0,0,0,0,37,0,0,Matches
-Jaïro Riedewald,nl NED,"DF,FW",26-190,0.5,35,28,7,2,0,0,0,4,1,0,0,0,26,0,1,Matches
-Malcolm Ebiowei,eng ENG,"MF,FW",19-195,0.4,10,10,0,0,0,0,3,0,0,0,0,0,5,0,2,Matches
-James McArthur,sct SCO,MF,35-162,0.1,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
-David Ozoh,,FW,17-291,0.0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Vicente Guaita,es ESP,GK,36-068,26.0,818,565,249,44,0,4,0,0,0,0,0,0,584,4,0,Matches
+Marc Guéhi,eng ENG,DF,22-249,26.0,1442,1383,56,54,0,20,0,2,0,0,0,0,1245,3,10,Matches
+Cheick Doucouré,ml MLI,MF,23-070,21.5,878,867,9,9,2,2,3,0,0,0,0,0,723,2,20,Matches
+Jeffrey Schlupp,gh GHA,"MF,FW",30-086,21.6,724,684,36,11,1,1,13,23,0,0,0,0,545,4,17,Matches
+Tyrick Mitchell,eng ENG,DF,23-199,21.1,1001,771,227,24,0,0,41,203,0,0,0,0,701,3,42,Matches
+Wilfried Zaha,ci CIV,"FW,MF",30-129,21.5,514,495,17,5,2,1,25,3,0,0,0,0,402,2,18,Matches
+Joachim Andersen,dk DEN,DF,26-292,21.4,1336,1243,88,78,2,30,6,8,1,0,0,0,1064,5,10,Matches
+Jordan Ayew,gh GHA,"FW,MF",31-189,20.6,587,580,6,2,4,0,32,3,0,0,0,0,442,1,21,Matches
+Michael Olise,fr FRA,"FW,MF",21-097,19.7,901,763,137,39,1,12,143,13,70,31,27,3,635,1,31,Matches
+Eberechi Eze,eng ENG,"MF,FW",24-263,19.2,776,667,103,49,4,4,54,4,39,16,12,1,604,6,6,Matches
+Nathaniel Clyne,eng ENG,DF,31-348,18.2,827,670,155,7,0,3,21,148,0,0,0,0,649,2,12,Matches
+Joel Ward,eng ENG,DF,33-141,14.6,681,555,125,23,0,2,21,102,0,0,0,0,509,1,14,Matches
+Odsonne Édouard,fr FRA,"FW,MF",25-062,13.5,292,276,14,0,0,0,4,0,0,0,0,0,211,2,9,Matches
+Jean-Philippe Mateta,fr FRA,FW,25-264,7.7,134,128,6,0,0,0,1,0,0,0,0,0,92,0,8,Matches
+Albert Sambi Lokonga,be BEL,MF,23-148,5.2,238,224,10,9,2,1,0,1,0,0,0,0,205,4,2,Matches
+Will Hughes,eng ENG,MF,27-336,4.4,184,168,14,6,0,0,12,2,4,2,2,0,136,2,8,Matches
+Chris Richards,us USA,DF,22-356,4.0,146,140,6,3,0,0,0,3,0,0,0,0,120,0,0,Matches
+Luka Milivojević,rs SRB,MF,31-346,3.9,178,170,7,6,0,2,3,1,0,0,0,0,141,1,0,Matches
+James Tomkins,eng ENG,DF,33-355,2.7,136,132,4,4,0,0,0,0,0,0,0,0,111,0,2,Matches
+Joseph Whitworth,eng ENG,GK,19-018,1.0,46,35,11,3,0,0,0,0,0,0,0,0,34,0,0,Matches
+Naouirou Ahamada,fr FRA,"MF,FW",20-355,0.9,45,44,1,0,0,0,2,0,0,0,0,0,37,0,0,Matches
+Jaïro Riedewald,nl NED,"DF,FW",26-191,0.5,35,28,7,2,0,0,0,4,1,0,0,0,26,0,1,Matches
+Malcolm Ebiowei,eng ENG,"MF,FW",19-196,0.4,10,10,0,0,0,0,3,0,0,0,0,0,5,0,2,Matches
+James McArthur,sct SCO,MF,35-163,0.1,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+David Ozoh,,FW,17-292,0.0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
 Squad Total,,,27.6,27.0,11940,10609,1288,378,18,82,384,520,115,49,41,4,9231,43,233,
 Opponent Total,,,27.3,27.0,15446,14132,1265,357,35,102,522,569,129,59,40,6,12610,49,283,

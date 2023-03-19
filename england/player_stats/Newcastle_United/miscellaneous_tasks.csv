@@ -1,30 +1,29 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,Unnamed: 21_level_0
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Kieran Trippier,eng ENG,DF,32-180,25.4,5,0,0,35,23,6,267,33,38,0,1,0,173,37,25,59.7,Matches
-Nick Pope,eng ENG,GK,30-333,25.2,3,1,0,1,1,0,0,0,0,0,0,0,18,2,0,100.0,Matches
-Dan Burn,eng ENG,DF,30-313,24.6,4,0,0,22,1,4,13,22,21,0,1,0,111,62,27,69.7,Matches
-Fabian Schär,ch SUI,DF,31-088,23.8,4,0,0,11,19,4,11,37,11,0,0,0,156,67,30,69.1,Matches
-Miguel Almirón,py PAR,FW,29-036,22.0,2,0,0,17,27,9,20,7,25,0,0,0,111,5,9,35.7,Matches
-Sven Botman,nl NED,DF,23-065,22.7,1,0,0,9,8,2,0,22,16,0,0,0,117,47,27,63.5,Matches
-Sean Longstaff,eng ENG,MF,25-139,22.4,2,0,0,20,29,3,26,15,19,0,0,0,114,20,23,46.5,Matches
-Joe Willock,eng ENG,MF,23-210,20.1,1,0,0,27,13,3,37,18,24,0,0,0,100,11,12,47.8,Matches
-Joelinton,br BRA,"MF,FW",26-216,20.6,10,0,0,39,21,1,14,32,38,1,0,0,138,38,44,46.3,Matches
-Bruno Guimarães,br BRA,MF,25-122,18.5,4,0,0,27,51,0,11,23,23,0,0,0,144,12,6,66.7,Matches
-Callum Wilson,eng ENG,FW,31-019,13.8,3,0,0,16,19,12,5,1,1,0,0,0,22,14,35,28.6,Matches
-Allan Saint-Maximin,fr FRA,FW,26-006,9.6,1,0,0,4,12,1,24,4,3,0,0,0,54,1,1,50.0,Matches
-Jacob Murphy,eng ENG,FW,28-022,8.5,0,0,0,7,8,1,36,2,5,0,0,0,36,3,8,27.3,Matches
-Alexander Isak,se SWE,FW,23-178,6.9,1,0,0,7,8,4,3,1,4,0,0,0,13,12,17,41.4,Matches
-Chris Wood,nz NZL,FW,31-101,5.0,0,0,0,4,4,3,0,1,4,0,0,0,17,23,23,50.0,Matches
-Matt Targett,eng ENG,DF,27-181,4.8,0,0,0,7,2,0,26,7,8,0,0,0,31,9,7,56.3,Matches
-Ryan Fraser,sct SCO,FW,29-022,3.5,1,0,0,3,10,1,13,0,2,0,0,0,14,0,2,0.0,Matches
-Jamaal Lascelles,eng ENG,DF,29-127,2.2,4,0,0,6,2,0,0,0,0,0,0,0,4,5,3,62.5,Matches
-Elliot Anderson,sct SCO,"FW,MF",20-132,2.1,0,0,0,3,8,1,3,2,5,0,0,0,16,6,3,66.7,Matches
-Anthony Gordon,eng ENG,"FW,MF",22-022,1.8,1,0,0,3,3,0,0,1,2,0,0,0,8,0,2,0.0,Matches
-Martin Dúbravka,sk SVK,GK,34-062,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-Matt Ritchie,sct SCO,"FW,MF",33-189,0.4,0,0,0,0,0,0,2,1,1,0,0,0,3,1,0,100.0,Matches
-Jonjo Shelvey,eng ENG,MF,31-019,0.4,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,,Matches
-Javier Manquillo,es ESP,DF,28-317,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-Jamal Lewis,nir NIR,DF,25-052,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
-Emil Krafth,se SWE,DF,28-228,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Kieran Trippier,eng ENG,DF,32-181,25.4,5,0,0,35,23,6,267,33,38,0,1,0,173,37,25,59.7,Matches
+Nick Pope,eng ENG,GK,30-334,25.2,3,1,0,1,1,0,0,0,0,0,0,0,18,2,0,100.0,Matches
+Dan Burn,eng ENG,DF,30-314,24.6,4,0,0,22,1,4,13,22,21,0,1,0,111,62,27,69.7,Matches
+Fabian Schär,ch SUI,DF,31-089,23.8,4,0,0,11,19,4,11,37,11,0,0,0,156,67,30,69.1,Matches
+Miguel Almirón,py PAR,FW,29-037,22.0,2,0,0,17,27,9,20,7,25,0,0,0,111,5,9,35.7,Matches
+Sven Botman,nl NED,DF,23-066,22.7,1,0,0,9,8,2,0,22,16,0,0,0,117,47,27,63.5,Matches
+Sean Longstaff,eng ENG,MF,25-140,22.4,2,0,0,20,29,3,26,15,19,0,0,0,114,20,23,46.5,Matches
+Joe Willock,eng ENG,MF,23-211,20.1,1,0,0,27,13,3,37,18,24,0,0,0,100,11,12,47.8,Matches
+Joelinton,br BRA,"MF,FW",26-217,20.6,10,0,0,39,21,1,14,32,38,1,0,0,138,38,44,46.3,Matches
+Bruno Guimarães,br BRA,MF,25-123,18.5,4,0,0,27,51,0,11,23,23,0,0,0,144,12,6,66.7,Matches
+Callum Wilson,eng ENG,FW,31-020,13.8,3,0,0,16,19,12,5,1,1,0,0,0,22,14,35,28.6,Matches
+Allan Saint-Maximin,fr FRA,FW,26-007,9.6,1,0,0,4,12,1,24,4,3,0,0,0,54,1,1,50.0,Matches
+Jacob Murphy,eng ENG,FW,28-023,8.5,0,0,0,7,8,1,36,2,5,0,0,0,36,3,8,27.3,Matches
+Alexander Isak,se SWE,FW,23-179,6.9,1,0,0,7,8,4,3,1,4,0,0,0,13,12,17,41.4,Matches
+Chris Wood,nz NZL,FW,31-102,5.0,0,0,0,4,4,3,0,1,4,0,0,0,17,23,23,50.0,Matches
+Matt Targett,eng ENG,DF,27-182,4.8,0,0,0,7,2,0,26,7,8,0,0,0,31,9,7,56.3,Matches
+Ryan Fraser,sct SCO,FW,29-023,3.5,1,0,0,3,10,1,13,0,2,0,0,0,14,0,2,0.0,Matches
+Jamaal Lascelles,eng ENG,DF,29-128,2.2,4,0,0,6,2,0,0,0,0,0,0,0,4,5,3,62.5,Matches
+Elliot Anderson,sct SCO,"FW,MF",20-133,2.1,0,0,0,3,8,1,3,2,5,0,0,0,16,6,3,66.7,Matches
+Anthony Gordon,eng ENG,"FW,MF",22-023,1.8,1,0,0,3,3,0,0,1,2,0,0,0,8,0,2,0.0,Matches
+Martin Dúbravka,sk SVK,GK,34-063,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Matt Ritchie,sct SCO,"FW,MF",33-190,0.4,0,0,0,0,0,0,2,1,1,0,0,0,3,1,0,100.0,Matches
+Jonjo Shelvey,eng ENG,MF,31-020,0.4,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,,Matches
+Javier Manquillo,es ESP,DF,28-318,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+Jamal Lewis,nir NIR,DF,25-053,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+Emil Krafth,se SWE,DF,28-229,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
 Squad Total,,,28.1,26.0,47,1,0,269,269,55,511,229,250,1,2,0,1407,375,304,55.2,
 Opponent Total,,,27.6,26.0,59,1,0,284,256,43,411,243,286,1,4,1,1334,304,375,44.8,

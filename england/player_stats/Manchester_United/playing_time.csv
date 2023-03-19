@@ -1,5 +1,4 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Playing Time,Starts,Starts,Starts,Subs,Subs,Subs,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),Unnamed: 26_level_0
-Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+Player,Nation,Pos,Age,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off.1,Matches
 David de Gea,es ESP,GK,32-132,26,2340.0,90.0,100.0,26.0,26,90.0,26,0,,0,1.92,41.0,35.0,6.0,0.23,,40.8,32.6,8.2,0.31,,Matches
 Bruno Fernandes,pt POR,"MF,FW",28-192,25,2248.0,90.0,96.1,25.0,25,90.0,23,0,,0,2.0,40.0,32.0,8.0,0.32,2.28,40.3,31.8,8.4,0.34,0.61,Matches
 Marcus Rashford,eng ENG,FW,25-139,26,2126.0,82.0,90.9,23.6,24,86.0,14,2,32.0,0,1.92,37.0,31.0,6.0,0.25,0.25,35.7,28.9,6.8,0.29,-0.29,Matches

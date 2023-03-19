@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Waldemar Anton,de GER,DF,26-242,24.1,41,23,22,17,2,22,42,52.4,20,31,12,19,31,72,89,2,Matches
+Wataru Endo,jp JPN,MF,30-038,23.5,54,31,23,25,6,27,59,45.8,32,30,6,24,21,75,49,0,Matches
+Hiroki Ito,jp JPN,DF,23-311,21.5,27,21,17,8,2,15,30,50.0,15,33,14,19,30,57,81,0,Matches
+Konstantinos Mavropanos,gr GRE,DF,25-098,20.8,44,23,28,14,2,26,32,81.3,6,34,18,16,57,101,81,0,Matches
+Florian Müller,de GER,GK,25-126,19.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,7,4,Matches
+Silas Katompa,cd COD,"FW,DF",24-164,17.3,22,16,4,12,6,6,16,37.5,10,10,2,8,5,27,1,0,Matches
+Chris Führich,de GER,"FW,MF",25-069,16.7,32,13,14,13,5,21,38,55.3,17,27,2,25,7,39,10,0,Matches
+Naouirou Ahamada,fr FRA,MF,20-355,15.5,17,11,7,7,3,8,20,40.0,12,16,5,11,8,25,7,0,Matches
+Borna Sosa,hr CRO,DF,25-057,15.0,21,15,14,6,1,17,25,68.0,8,12,3,9,15,36,29,0,Matches
+Atakan Karazor,de GER,MF,26-157,14.9,44,25,13,25,6,23,39,59.0,16,29,8,21,23,67,35,0,Matches
+Sehrou Guirassy,gn GUI,FW,27-007,10.8,2,1,1,1,0,1,1,100.0,0,5,1,4,0,2,10,0,Matches
+Tiago Tomás,pt POR,"FW,MF",20-276,10.6,7,4,2,3,2,5,7,71.4,2,8,2,6,0,7,3,0,Matches
+Josha Vagnoman,de GER,"DF,MF",22-098,7.7,11,6,5,5,1,6,8,75.0,2,8,2,6,6,17,20,0,Matches
+Dan-Axel Zagadou,fr FRA,DF,23-289,7.3,9,6,7,2,0,4,8,50.0,4,11,10,1,8,17,38,1,Matches
+Genki Haraguchi,jp JPN,MF,31-314,6.6,13,5,5,6,2,1,9,11.1,8,10,1,9,7,20,4,0,Matches
+Luca Pfeiffer,de GER,FW,26-211,7.4,1,1,1,0,0,0,1,0.0,1,3,0,3,1,2,5,0,Matches
+Fabian Bredlow,de GER,GK,28-017,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1,Matches
+Gil Bastião Dias,pt POR,FW,26-172,4.4,8,6,3,4,1,3,12,25.0,9,7,0,7,2,10,3,0,Matches
+Nikolas Nartey,dk DEN,"DF,MF",23-025,4.2,9,4,6,2,1,4,8,50.0,4,8,0,8,3,12,11,0,Matches
+Enzo Millot,fr FRA,MF,20-245,4.6,10,7,5,3,2,4,7,57.1,3,14,2,12,9,19,4,0,Matches
+Pascal Stenzel,de GER,DF,26-364,3.6,12,8,8,4,0,5,9,55.6,4,8,2,6,5,17,6,0,Matches
+Sasa Kalajdzic,at AUT,FW,25-255,2.6,3,2,0,1,2,1,3,33.3,2,1,0,1,0,3,0,0,Matches
+Juan Perea,co COL,FW,23-024,3.7,4,3,0,1,3,2,4,50.0,2,2,1,1,1,5,3,0,Matches
+Lilian Egloff,de GER,"MF,FW",20-211,2.7,12,10,4,5,3,4,6,66.7,2,2,0,2,1,13,1,0,Matches
+Thomas Kastanaras,gr GRE,"FW,DF",20-069,0.8,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+Tanguy Coulibaly,fr FRA,"FW,DF",22-029,2.2,10,8,7,1,2,5,9,55.6,4,7,0,7,3,13,0,0,Matches
+Darko Churlinov,mk MKD,FW,22-251,0.3,3,2,2,1,0,2,3,66.7,1,1,0,1,0,3,0,0,Matches
+Clinton Mola,eng ENG,DF,22-004,0.2,3,1,2,1,0,1,1,100.0,0,1,1,0,1,4,2,0,Matches
+Lauren Ulrich,de GER,MF,18-047,0.1,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
+Alou Kuol,au AUS,FW,22-173,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,25.3,25.0,420,253,200,167,53,213,397,53.7,184,319,92,227,244,664,501,8,
+Opponent Total,,,27.3,25.0,483,277,222,203,58,234,462,50.6,228,310,92,218,214,697,452,6,

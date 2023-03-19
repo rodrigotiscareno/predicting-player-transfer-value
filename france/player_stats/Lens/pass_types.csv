@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Kevin Danso,at AUT,DF,24-181,28.0,1855,1775,80,60,1,1,0,6,0,0,0,0,1676,0,9,Matches
+Brice Samba,cg CGO,GK,28-328,28.0,927,752,173,68,0,9,0,0,0,0,0,0,723,2,1,Matches
+Salis Abdul Samed,gh GHA,MF,22-358,26.0,1638,1592,38,36,4,4,8,2,0,0,0,0,1502,8,13,Matches
+Florian Sotoca,fr FRA,"FW,MF",32-145,25.5,1098,1058,35,9,8,17,67,20,0,0,0,0,838,5,33,Matches
+Seko Fofana,ci CIV,MF,27-316,25.1,1305,1294,9,9,4,11,43,0,0,0,0,0,1137,2,26,Matches
+Facundo Medina,ar ARG,DF,23-295,21.9,1873,1767,103,76,3,17,21,21,0,0,0,0,1685,3,14,Matches
+Jonathan Gradit,fr FRA,DF,30-115,21.4,1460,1406,50,38,4,11,9,6,0,0,0,0,1315,4,10,Matches
+Przemysław Frankowski,pl POL,"DF,MF",27-341,22.7,1379,1054,320,51,1,4,208,174,95,41,37,0,1017,5,26,Matches
+Loïs Openda,be BEL,FW,23-031,18.8,318,274,42,1,5,3,23,7,0,0,0,0,210,2,14,Matches
+Deiver Machado,co COL,"DF,MF",29-198,18.7,693,570,122,9,0,2,47,112,1,1,0,0,569,1,23,Matches
+David Pereira da Costa,pt POR,"MF,FW",22-073,15.0,724,704,16,4,3,1,51,6,6,4,2,0,582,4,13,Matches
+Massadio Haïdara,ml MLI,"DF,MF",30-107,14.8,866,766,94,25,1,3,19,57,0,0,0,0,740,6,10,Matches
+Adrien Thomasson,fr FRA,"MF,FW",29-099,6.6,285,281,3,1,0,2,10,1,1,1,0,0,221,1,16,Matches
+Wesley Saïd,fr FRA,"FW,MF",27-334,6.6,173,164,8,0,1,0,5,1,0,0,0,0,140,1,4,Matches
+Angelo Fulgini,fr FRA,"MF,FW",26-211,4.6,240,206,32,11,3,0,26,2,19,6,9,0,184,2,4,Matches
+Jimmy Cabot,fr FRA,"DF,MF",28-335,5.7,346,266,78,4,1,2,50,41,33,12,14,0,261,2,7,Matches
+Jean Onana,cm CMR,MF,23-070,4.2,212,202,9,9,0,1,2,0,0,0,0,0,181,1,3,Matches
+Alexis Claude-Maurice,fr FRA,"MF,FW",24-286,5.4,188,186,1,0,1,0,6,0,1,1,0,0,157,1,4,Matches
+Łukasz Poręba,pl POL,MF,23-006,2.7,131,130,1,1,0,0,6,0,0,0,0,0,108,0,1,Matches
+Julien Le Cardinal,fr FRA,DF,25-228,1.6,112,93,19,0,0,0,10,19,0,0,0,0,82,0,3,Matches
+Rémy Labeau Lascary,gp GLP,"FW,MF",20-016,1.3,28,28,0,0,0,0,3,0,0,0,0,0,23,0,1,Matches
+Ismaëlben Boura,fr FRA,"DF,FW",22-217,1.0,64,58,6,0,0,0,7,6,0,0,0,0,47,0,2,Matches
+Adam Buksa,pl POL,"FW,MF",26-250,0.7,16,16,0,0,0,0,1,0,0,0,0,0,8,0,0,Matches
+Ignatius Ganago,cm CMR,FW,24-031,0.7,11,9,2,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Patrick Berg,no NOR,"MF,FW",25-115,0.3,20,20,0,0,0,0,0,0,0,0,0,0,17,0,1,Matches
+Gaël Kakuta,cd COD,FW,31-271,0.2,16,16,0,0,0,0,1,0,0,0,0,0,12,0,1,Matches
+Steven Fortes,cv CPV,DF,30-336,0.1,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Christopher Wooh,cm CMR,MF,21-182,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,27.0,28.0,15983,14692,1241,412,40,88,623,481,156,66,62,0,13448,50,239,
+Opponent Total,,,26.8,28.0,12060,10679,1341,416,26,53,361,488,112,50,49,1,9539,40,246,

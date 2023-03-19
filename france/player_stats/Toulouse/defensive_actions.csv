@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Maxime Dupé,fr FRA,GK,30-015,28.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,6,3,Matches
+Stijn Spierings,nl NED,MF,27-007,28.0,77,52,26,46,5,36,82,43.9,46,43,11,32,41,118,37,0,Matches
+Anthony Rouault,fr FRA,DF,21-294,27.9,52,32,43,8,1,25,48,52.1,23,44,21,23,43,95,100,4,Matches
+Rasmus Nicolaisen,dk DEN,DF,26-003,26.3,43,19,31,12,0,26,37,70.3,11,40,32,8,42,85,120,0,Matches
+Branco van den Boomen,nl NED,MF,27-241,26.1,54,28,20,25,9,26,67,38.8,41,23,4,19,10,64,23,1,Matches
+Zakaria Aboukhlal,ma MAR,"FW,MF",23-029,22.2,26,19,11,6,9,9,35,25.7,26,14,1,13,19,45,19,0,Matches
+Brecht Dejaegere,be BEL,MF,31-294,17.9,35,21,8,17,10,14,45,31.1,31,22,5,17,13,48,10,0,Matches
+Thijs Dallinga,nl NED,FW,22-228,18.4,7,5,2,2,3,1,8,12.5,7,11,3,8,2,9,14,0,Matches
+Rafael Ratão,br BRA,FW,27-109,15.6,40,31,20,15,5,19,50,38.0,31,29,0,29,19,59,4,0,Matches
+Mikkel Desler,dk DEN,DF,28-028,18.4,54,29,27,19,8,30,47,63.8,17,27,5,22,31,85,31,1,Matches
+Fares Chaïbi,fr FRA,"FW,MF",20-111,19.1,21,10,5,9,7,11,36,30.6,25,27,3,24,16,37,24,1,Matches
+Issiaga Sylla,gn GUI,DF,29-077,15.2,28,15,14,9,5,15,34,44.1,19,15,5,10,38,66,38,0,Matches
+Moussa Diarra,ml MLI,DF,22-129,11.6,19,9,9,8,2,8,14,57.1,6,21,7,14,17,36,22,1,Matches
+Gabriel Suazo,cl CHI,DF,25-222,6.8,21,13,10,9,2,14,33,42.4,19,14,4,10,11,32,10,0,Matches
+Ado Onaiwu,jp JPN,FW,27-131,7.8,6,3,0,3,3,2,7,28.6,5,2,0,2,0,6,4,0,Matches
+Kévin Keben Biakolo,cm CMR,DF,19-052,3.4,3,2,2,0,1,0,1,0.0,1,1,0,1,4,7,8,0,Matches
+Waren Kamanzi,no NOR,DF,22-128,2.0,3,1,2,0,1,2,3,66.7,1,3,2,1,4,7,2,0,Matches
+Veljko Birmančević,rs SRB,"FW,MF",25-014,3.6,11,7,3,5,3,8,15,53.3,7,11,2,9,6,17,0,0,Matches
+Oliver Zandén,se SWE,"DF,MF",21-217,1.6,2,1,1,0,1,2,5,40.0,3,0,0,0,1,3,7,0,Matches
+Christian Mawissa,fr FRA,DF,17-335,1.1,2,0,1,1,0,1,3,33.3,2,0,0,0,3,5,1,0,Matches
+Nathan N'Goumou,fr FRA,FW,23-005,1.0,3,2,2,1,0,1,1,100.0,0,2,0,2,2,5,0,0,Matches
+Yanis Begraoui,fr FRA,"FW,MF",21-258,0.7,2,0,1,0,1,1,2,50.0,1,0,0,0,1,3,0,0,Matches
+Denis Genreau,au AUS,MF,23-302,1.7,14,6,5,6,3,3,8,37.5,5,6,0,6,3,17,5,0,Matches
+Saïd Hamulic,nl NED,FW,22-127,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Vincent Sierro,ch SUI,"MF,FW",27-162,0.7,2,1,1,1,0,1,5,20.0,4,7,1,6,1,3,0,1,Matches
+Rhys Healey,wls WAL,FW,28-103,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Logan Costa,cv CPV,"DF,MF",21-352,0.6,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Naatan Skyttä,fi FIN,MF,20-316,0.3,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Theocharis Tsingaras,gr GRE,MF,22-211,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,25.8,28.0,525,306,244,202,79,255,586,43.5,331,362,106,256,329,854,485,12,
+Opponent Total,,,27.0,28.0,433,250,214,162,57,207,408,50.7,201,348,75,273,304,737,419,11,

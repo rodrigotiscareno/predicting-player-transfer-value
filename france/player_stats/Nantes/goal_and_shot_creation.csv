@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Alban Lafont,fr FRA,GK,24-055,27.0,4,0.15,3,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Andrei Girotto,br BRA,"DF,MF",31-030,26.8,26,0.97,22,1,0,2,0,1,5,0.19,3,1,0,1,0,0,Matches
+Ludovic Blas,fr FRA,"FW,MF",25-078,22.8,93,4.08,62,12,10,8,1,0,5,0.22,3,1,0,1,0,0,Matches
+Pedro Chirivella,es ESP,MF,25-300,20.5,46,2.24,43,0,2,0,0,1,3,0.15,3,0,0,0,0,0,Matches
+Moses Simon,ng NGA,"FW,MF",27-250,20.2,63,3.12,42,9,6,4,2,0,2,0.1,2,0,0,0,0,0,Matches
+Jean-Charles Castelletto,cm CMR,DF,28-052,19.5,10,0.51,8,0,1,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Nicolas Pallois,fr FRA,DF,35-181,18.0,2,0.11,1,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Samuel Moutoussamy,cd COD,MF,26-219,17.7,33,1.87,31,0,1,0,1,0,3,0.17,3,0,0,0,0,0,Matches
+Moussa Sissoko,fr FRA,MF,33-215,16.4,28,1.71,25,0,0,3,0,0,1,0.06,1,0,0,0,0,0,Matches
+Quentin Merlin,fr FRA,DF,20-307,14.1,42,2.99,19,17,2,2,2,0,2,0.14,1,1,0,0,0,0,Matches
+Mostafa Mohamed,eg EGY,FW,25-111,15.9,26,1.64,17,0,2,4,3,0,4,0.25,3,0,0,0,1,0,Matches
+Fabien Centonze,fr FRA,DF,27-062,12.6,20,1.59,14,2,1,0,3,0,3,0.24,2,0,0,0,1,0,Matches
+Evann Guessand,fr FRA,"FW,MF",21-261,12.4,25,2.02,14,0,6,3,2,0,4,0.32,3,0,1,0,0,0,Matches
+Ignatius Ganago,cm CMR,FW,24-031,12.7,23,1.81,14,0,0,5,3,1,7,0.55,4,0,0,1,1,1,Matches
+Dennis Appiah,fr FRA,"DF,MF",30-283,8.8,11,1.25,8,1,2,0,0,0,1,0.11,1,0,0,0,0,0,Matches
+Jaouen Hadjam,fr FRA,DF,19-358,7.1,15,2.12,13,1,1,0,0,0,1,0.14,1,0,0,0,0,0,Matches
+Florent Mollet,fr FRA,MF,31-120,6.5,28,4.33,13,8,1,3,3,0,1,0.15,0,1,0,0,0,0,Matches
+Sébastien Corchia,fr FRA,"DF,MF",32-138,6.9,14,2.03,11,1,1,0,0,1,4,0.58,4,0,0,0,0,0,Matches
+João Victor,br BRA,DF,24-245,5.1,3,0.58,3,0,0,0,0,0,1,0.19,1,0,0,0,0,0,Matches
+Charles Traore,ml MLI,DF,31-077,3.6,2,0.56,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Marcus Coco,fr FRA,"DF,FW",26-268,3.6,9,2.52,9,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Fábio,br BRA,"DF,MF",32-253,2.5,10,4.0,10,0,0,0,0,0,1,0.4,1,0,0,0,0,0,Matches
+Andy Delort,dz ALG,FW,31-161,2.3,7,3.01,5,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
+Rémy Descamps,fr FRA,GK,26-267,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Abdoul Kader Bamba,fr FRA,"FW,MF",28-298,0.9,3,3.46,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Nathan Zeze,fr FRA,DF,17-274,0.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Lohann Doucet,fr FRA,"MF,FW",20-186,1.0,6,5.93,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mohamed Achi,fr FRA,FW,21-062,0.4,1,2.5,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Stredair Appuah,fr FRA,MF,18-265,0.1,1,9.0,1,0,0,0,0,0,1,9.0,1,0,0,0,0,0,Matches
+Squad Total,,,27.3,28.0,551,19.68,399,54,36,35,21,6,49,1.75,37,4,1,3,3,1,
+Opponent Total,,,27.1,28.0,594,21.21,442,40,37,42,25,8,59,2.11,41,2,6,5,4,1,

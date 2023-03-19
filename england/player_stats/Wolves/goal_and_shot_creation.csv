@@ -1,35 +1,34 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,SCA,SCA,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,SCA Types,GCA,GCA,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,GCA Types,Unnamed: 21_level_0
-Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive,PassDead,TO,Sh,Fld,Def,Matches
-Max Kilman,eng ENG,DF,25-299,27.0,14,0.52,13,0,0,1,0,0,2,0.07,1,0,0,1,0,0,Matches
-José Sá,pt POR,GK,30-060,27.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Rúben Neves,pt POR,MF,26-005,25.7,55,2.14,40,4,3,2,2,4,2,0.08,2,0,0,0,0,0,Matches
-Matheus Nunes,pt POR,MF,24-203,18.8,42,2.23,36,1,2,2,1,0,3,0.16,3,0,0,0,0,0,Matches
-Nélson Semedo,pt POR,DF,29-122,19.1,23,1.2,19,0,0,2,2,0,2,0.1,2,0,0,0,0,0,Matches
-João Moutinho,pt POR,MF,36-191,18.2,62,3.4,47,13,0,2,0,0,3,0.16,3,0,0,0,0,0,Matches
-Nathan Collins,ie IRL,DF,21-322,17.0,8,0.47,6,0,1,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Daniel Podence,pt POR,"FW,MF",27-148,16.1,56,3.47,41,3,3,7,2,0,2,0.12,1,0,1,0,0,0,Matches
-Jonny Castro,es ESP,DF,29-015,13.1,19,1.45,16,0,0,0,2,1,0,0.0,0,0,0,0,0,0,Matches
-Hugo Bueno,es ESP,DF,20-181,11.6,23,1.99,18,4,0,1,0,0,1,0.09,1,0,0,0,0,0,Matches
-Adama Traoré,es ESP,"FW,MF",27-052,12.7,35,2.76,30,0,2,1,2,0,3,0.24,2,0,0,1,0,0,Matches
-Rayan Aït Nouri,fr FRA,DF,21-285,11.5,23,2.01,14,2,4,1,2,0,0,0.0,0,0,0,0,0,0,Matches
-Hwang Hee-chan,kr KOR,FW,27-051,7.9,18,2.27,16,0,1,0,1,0,2,0.25,2,0,0,0,0,0,Matches
-Diego Costa,es ESP,FW,34-162,7.9,11,1.39,6,0,2,3,0,0,0,0.0,0,0,0,0,0,0,Matches
-Pedro Neto,pt POR,"FW,MF",23-009,7.7,29,3.79,17,4,2,2,3,1,4,0.52,4,0,0,0,0,0,Matches
-Gonçalo Guedes,pt POR,"FW,MF",26-109,7.9,27,3.44,15,3,1,2,5,1,1,0.13,1,0,0,0,0,0,Matches
-Craig Dawson,eng ENG,DF,32-316,7.0,5,0.71,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Mario Lemina,ga GAB,MF,29-198,5.6,2,0.36,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Raúl Jiménez,mx MEX,FW,31-317,7.3,15,2.07,10,0,1,3,1,0,2,0.28,1,0,0,1,0,0,Matches
-Pablo Sarabia,es ESP,"FW,MF",30-311,5.2,19,3.64,12,5,0,2,0,0,0,0.0,0,0,0,0,0,0,Matches
-Matheus Cunha,br BRA,FW,23-295,4.5,11,2.46,8,1,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
-Boubacar Traoré,ml MLI,MF,21-210,4.3,6,1.41,6,0,0,0,0,0,2,0.47,2,0,0,0,0,0,Matches
-Toti Gomes,pt POR,DF,24-061,3.4,1,0.29,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Leander Dendoncker,be BEL,MF,27-337,2.4,4,1.68,3,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
-Morgan Gibbs-White,eng ENG,"FW,MF",23-050,2.0,4,2.0,2,1,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Joseph Hodge,ie IRL,MF,20-185,1.9,2,1.07,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Sasa Kalajdzic,at AUT,FW,25-254,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Chem Campbell,wls WAL,"FW,MF",20-078,0.8,2,2.43,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-João Gomes,br BRA,"MF,FW",22-034,0.8,1,1.3,0,0,0,1,0,0,1,1.3,0,0,0,1,0,0,Matches
-Dexter Lembikisa,jm JAM,DF,19-134,0.3,1,3.91,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Connor Ronan,ie IRL,MF,25-012,0.0,1,90.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,27.2,27.0,519,19.22,388,41,24,33,25,8,30,1.11,25,0,1,4,0,0,
-Opponent Total,,,27.2,27.0,645,23.89,470,50,27,46,37,15,61,2.26,45,3,2,5,3,3,
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Max Kilman,eng ENG,DF,25-300,28.0,17,0.61,16,0,0,1,0,0,2,0.07,1,0,0,1,0,0,Matches
+José Sá,pt POR,GK,30-061,28.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Rúben Neves,pt POR,MF,26-006,26.6,58,2.18,43,4,3,2,2,4,2,0.08,2,0,0,0,0,0,Matches
+Nélson Semedo,pt POR,DF,29-123,19.8,24,1.21,19,0,0,3,2,0,2,0.1,2,0,0,0,0,0,Matches
+Matheus Nunes,pt POR,MF,24-204,18.8,42,2.23,36,1,2,2,1,0,3,0.16,3,0,0,0,0,0,Matches
+João Moutinho,pt POR,MF,36-192,18.4,63,3.42,47,13,0,2,1,0,3,0.16,3,0,0,0,0,0,Matches
+Daniel Podence,pt POR,"FW,MF",27-149,16.8,61,3.64,41,6,3,8,2,1,2,0.12,1,0,1,0,0,0,Matches
+Nathan Collins,ie IRL,DF,21-323,17.5,10,0.57,8,0,1,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Jonny Castro,es ESP,DF,29-016,14.0,24,1.71,20,0,0,0,3,1,1,0.07,1,0,0,0,0,0,Matches
+Hugo Bueno,es ESP,DF,20-182,11.6,23,1.99,18,4,0,1,0,0,1,0.09,1,0,0,0,0,0,Matches
+Pedro Neto,pt POR,"FW,MF",23-010,8.2,31,3.8,17,5,2,2,4,1,4,0.49,4,0,0,0,0,0,Matches
+Adama Traoré,es ESP,"FW,MF",27-053,13.1,38,2.91,33,0,2,1,2,0,3,0.23,2,0,0,1,0,0,Matches
+Rayan Aït Nouri,fr FRA,DF,21-286,11.5,23,2.01,14,2,4,1,2,0,0,0.0,0,0,0,0,0,0,Matches
+Hwang Hee-chan,kr KOR,FW,27-052,7.9,18,2.27,16,0,1,0,1,0,2,0.25,2,0,0,0,0,0,Matches
+Diego Costa,es ESP,FW,34-163,7.9,11,1.39,6,0,2,3,0,0,0,0.0,0,0,0,0,0,0,Matches
+Gonçalo Guedes,pt POR,"FW,MF",26-110,7.9,27,3.44,15,3,1,2,5,1,1,0.13,1,0,0,0,0,0,Matches
+Craig Dawson,eng ENG,DF,32-317,7.5,5,0.67,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mario Lemina,ga GAB,MF,29-199,6.6,4,0.6,3,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Raúl Jiménez,mx MEX,FW,31-318,8.3,16,1.94,11,0,1,3,1,0,2,0.24,1,0,0,1,0,0,Matches
+Pablo Sarabia,es ESP,"FW,MF",30-312,5.7,24,4.19,16,5,0,3,0,0,0,0.0,0,0,0,0,0,0,Matches
+Matheus Cunha,br BRA,FW,23-296,4.8,11,2.27,8,1,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
+Boubacar Traoré,ml MLI,MF,21-211,4.3,6,1.41,6,0,0,0,0,0,2,0.47,2,0,0,0,0,0,Matches
+Toti Gomes,pt POR,DF,24-062,3.4,1,0.29,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Leander Dendoncker,be BEL,MF,27-338,2.4,4,1.68,3,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Morgan Gibbs-White,eng ENG,"FW,MF",23-051,2.0,4,2.0,2,1,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Joseph Hodge,ie IRL,MF,20-186,1.9,2,1.07,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+João Gomes,br BRA,"MF,FW",22-035,1.8,6,3.4,5,0,0,1,0,0,2,1.13,1,0,0,1,0,0,Matches
+Sasa Kalajdzic,at AUT,FW,25-255,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Chem Campbell,wls WAL,"FW,MF",20-079,0.8,2,2.43,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Dexter Lembikisa,jm JAM,DF,19-135,0.3,1,3.91,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Connor Ronan,ie IRL,MF,25-013,0.0,1,90.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,27.3,28.0,557,19.89,414,45,24,36,28,10,32,1.14,27,0,1,4,0,0,
+Opponent Total,,,27.1,28.0,666,23.79,481,53,28,48,40,16,69,2.46,49,4,3,5,4,4,

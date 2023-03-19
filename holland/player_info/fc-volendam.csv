@@ -1,0 +1,31 @@
+name,price,position,dob,nationality,height,foot,join_date,contract_expiration
+Filip Stankovic,€1.00m,Goalkeeper,"Feb 25, 2002 (21)",Serbia,"1,87m",right,"Aug 4, 2021","Jun 30, 2023"
+Barry Lauwers,€175k,Goalkeeper,"Nov 29, 1999 (23)",Netherlands,"1,87m",left,"Jul 1, 2020","Jun 30, 2023"
+Kayne van Oevelen,€50k,Goalkeeper,"Aug 7, 2003 (19)",Netherlands,"1,99m",both,"Jul 1, 2022","Jun 30, 2025"
+Xavier Mbuyamba,€1.30m,Centre-Back,"Dec 31, 2001 (21)",Netherlands,"1,95m",right,"Aug 31, 2022","Jun 30, 2025"
+Benaissa Benamar,€600k,Centre-Back,"Apr 8, 1997 (25)",Morocco,"1,91m",right,"Jul 1, 2022",-
+Damon Mirani,€550k,Centre-Back,"May 13, 1996 (26)",Netherlands,"1,83m",right,"Jul 1, 2021","Jun 30, 2023"
+Brian Plat,€400k,Centre-Back,"Apr 5, 2000 (22)",Netherlands,"1,91m",right,"Jul 1, 2019","Jun 30, 2024"
+Josh Flint,€300k,Centre-Back,"Oct 13, 2000 (22)",England,-,left,"Jul 1, 2021","Jun 30, 2023"
+Billy van Duijl,€125k,Centre-Back,"Oct 4, 2005 (17)",Netherlands,-,,"Jul 1, 2022","Jun 30, 2025"
+Derry John Murkin,€700k,Left-Back,"Jul 27, 1999 (23)",England,"1,83m",left,"Jul 1, 2019","Jun 30, 2023"
+Dean James,€250k,Left-Back,"Apr 30, 2000 (22)",Netherlands,-,left,"Jul 1, 2020","Jun 30, 2023"
+Oskar Buur,€250k,Right-Back,"Mar 31, 1998 (24)",Denmark,"1,80m",right,"Feb 8, 2022","Jun 30, 2024"
+Givairo Read,€25k,Right-Back,"Jun 2, 2006 (16)",Netherlands,-,,"Jul 1, 2022",-
+Carel Eiting,€2.50m,Central Midfield,"Feb 11, 1998 (25)",Netherlands,"1,79m",left,"Aug 4, 2022","Jun 30, 2024"
+Florent Sanchez,€600k,Central Midfield,"Apr 2, 2003 (19)",France,"1,78m",right,"Jan 2, 2023","Jun 30, 2023"
+Calvin Twigt,€450k,Central Midfield,"Jan 30, 2003 (20)",Netherlands,"1,83m",right,"Jan 1, 2021","Jun 30, 2024"
+Walid Ould-Chikh,€300k,Central Midfield,"Nov 6, 1999 (23)",Netherlands,-,right,"Oct 1, 2021","Jun 30, 2025"
+Imran Nazih,€75k,Central Midfield,"Jan 25, 2006 (17)",Morocco,-,,"Jul 1, 2022","Jun 30, 2025"
+Francesco Antonucci,€1.00m,Attacking Midfield,"Jun 20, 1999 (23)",Belgium,"1,71m",right,"Jan 6, 2022","Jun 30, 2023"
+Gaetano Oristanio,€700k,Attacking Midfield,"Sep 28, 2002 (20)",Italy,"1,74m",left,"Aug 10, 2021",-
+Flip Klomp,€75k,Attacking Midfield,"Oct 18, 2001 (21)",Netherlands,"1,85m",left,"Jan 24, 2023","Jun 30, 2025"
+Diego Gustavo,€25k,Attacking Midfield,"Jun 19, 2004 (18)",Brazil,-,right,"Aug 16, 2022","Jun 30, 2025"
+Ibrahim El Kadiri,€350k,Left Winger,"Jan 23, 2002 (21)",Morocco,"1,70m",right,"Jul 1, 2020","Jun 30, 2024"
+Achraf Douiri,€200k,Left Winger,"Nov 27, 1999 (23)",Netherlands,"1,80m",right,"Jul 1, 2021","Jun 30, 2024"
+Darius Johnson,€75k,Left Winger,"Mar 15, 2000 (23)",England,"1,82m",right,"Jul 25, 2019",-
+Daryl van Mieghem,€500k,Right Winger,"Dec 5, 1989 (33)",Netherlands,"1,70m",left,"Jul 1, 2021","Jun 30, 2023"
+Bilal Ould-Chikh,€350k,Right Winger,"Jul 28, 1997 (25)",Morocco,"1,70m",left,"Dec 31, 2021","Jun 30, 2025"
+Robert Mühren,€600k,Centre-Forward,"May 18, 1989 (33)",Netherlands,"1,87m",right,"Jul 1, 2021","Jun 30, 2024"
+Henk Veerman,€500k,Centre-Forward,"Feb 26, 1991 (32)",Netherlands,"2,01m",right,"Jul 31, 2022","Jun 30, 2025"
+Lequincio Zeefuik,€200k,Centre-Forward,"Nov 26, 2004 (18)",Netherlands,-,,"Jul 1, 2021","Jun 30, 2024"

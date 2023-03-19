@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Maxime Dupé,fr FRA,GK,30-015,28.0,952,696,255,64,0,1,0,0,0,0,0,0,750,1,1,Matches
+Stijn Spierings,nl NED,MF,27-007,28.0,1635,1571,60,56,1,29,17,4,0,0,0,0,1387,4,33,Matches
+Anthony Rouault,fr FRA,DF,21-294,27.9,1520,1414,104,50,1,16,0,10,0,0,0,0,1309,2,12,Matches
+Rasmus Nicolaisen,dk DEN,DF,26-003,26.3,1306,1279,25,22,0,15,0,3,0,0,0,0,1091,2,8,Matches
+Branco van den Boomen,nl NED,MF,27-241,26.1,1761,1502,249,67,8,58,217,18,133,46,79,0,1328,10,31,Matches
+Zakaria Aboukhlal,ma MAR,"FW,MF",23-029,22.2,599,580,16,1,1,0,23,15,0,0,0,0,426,3,41,Matches
+Brecht Dejaegere,be BEL,MF,31-294,17.9,564,524,36,2,5,2,13,6,1,1,0,0,440,4,15,Matches
+Thijs Dallinga,nl NED,FW,22-228,18.4,367,363,3,0,0,3,13,1,0,0,0,0,242,1,19,Matches
+Rafael Ratão,br BRA,FW,27-109,15.6,595,579,13,1,3,2,33,11,0,0,0,0,437,3,14,Matches
+Mikkel Desler,dk DEN,DF,28-028,18.4,1109,940,165,14,0,1,30,151,0,0,0,0,941,4,21,Matches
+Fares Chaïbi,fr FRA,"FW,MF",20-111,19.1,698,665,28,6,3,10,41,9,7,1,3,0,507,5,22,Matches
+Issiaga Sylla,gn GUI,DF,29-077,15.2,838,675,160,17,0,1,41,143,0,0,0,0,645,3,25,Matches
+Moussa Diarra,ml MLI,DF,22-129,11.6,547,465,78,18,0,4,13,60,0,0,0,0,456,4,13,Matches
+Gabriel Suazo,cl CHI,DF,25-222,6.8,423,367,52,5,1,3,7,47,0,0,0,0,362,4,12,Matches
+Ado Onaiwu,jp JPN,FW,27-131,7.8,199,192,5,0,2,2,2,1,0,0,0,0,149,2,8,Matches
+Kévin Keben Biakolo,cm CMR,DF,19-052,3.4,120,93,27,1,0,1,5,26,0,0,0,0,96,0,5,Matches
+Waren Kamanzi,no NOR,DF,22-128,2.0,97,81,16,1,0,0,1,15,0,0,0,0,81,0,0,Matches
+Veljko Birmančević,rs SRB,"FW,MF",25-014,3.6,122,115,3,1,0,2,3,1,1,0,0,0,84,4,4,Matches
+Oliver Zandén,se SWE,"DF,MF",21-217,1.6,71,58,13,2,0,0,6,11,0,0,0,0,47,0,3,Matches
+Christian Mawissa,fr FRA,DF,17-335,1.1,48,41,7,1,0,0,1,6,0,0,0,0,41,0,0,Matches
+Nathan N'Goumou,fr FRA,FW,23-005,1.0,30,29,1,0,0,0,1,1,0,0,0,0,25,0,1,Matches
+Yanis Begraoui,fr FRA,"FW,MF",21-258,0.7,19,17,2,0,0,0,0,0,0,0,0,0,14,0,0,Matches
+Denis Genreau,au AUS,MF,23-302,1.7,71,69,2,0,0,0,1,1,0,0,0,0,42,0,8,Matches
+Saïd Hamulic,nl NED,FW,22-127,0.7,7,7,0,0,0,0,1,0,0,0,0,0,4,0,1,Matches
+Vincent Sierro,ch SUI,"MF,FW",27-162,0.7,37,35,2,0,2,0,1,0,1,0,1,0,24,0,1,Matches
+Rhys Healey,wls WAL,FW,28-103,0.7,14,14,0,0,0,0,0,0,0,0,0,0,7,0,1,Matches
+Logan Costa,cv CPV,"DF,MF",21-352,0.6,27,26,1,1,0,0,0,0,0,0,0,0,25,0,0,Matches
+Naatan Skyttä,fi FIN,MF,20-316,0.3,11,11,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Theocharis Tsingaras,gr GRE,MF,22-211,0.1,5,4,1,1,0,0,0,0,0,0,0,0,4,0,0,Matches
+Squad Total,,,25.8,28.0,13792,12412,1324,331,27,150,470,540,143,48,83,0,10971,56,299,
+Opponent Total,,,27.0,28.0,13491,12090,1372,382,34,64,465,552,154,81,52,0,10715,29,278,

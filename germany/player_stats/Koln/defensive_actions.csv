@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Marvin Schwäbe,de GER,GK,27-328,25.0,1,0,1,0,0,1,1,100.0,0,0,0,0,2,3,4,2,Matches
+Ellyes Skhiri,tn TUN,MF,27-313,23.7,69,38,24,38,7,24,55,43.6,31,38,9,29,43,112,38,0,Matches
+Jonas Hector,de GER,DF,32-296,22.4,74,40,43,24,7,44,75,58.7,31,40,4,36,27,101,52,0,Matches
+Benno Schmitz,de GER,DF,28-122,20.2,52,34,23,25,4,34,57,59.6,23,27,4,23,20,72,42,0,Matches
+Florian Kainz,at AUT,"FW,MF",30-146,18.5,19,9,6,11,2,7,17,41.2,10,20,4,16,23,42,26,1,Matches
+Timo Hübers,de GER,DF,26-242,19.4,33,19,27,6,0,18,35,51.4,17,21,9,12,39,72,106,0,Matches
+Linton Maina,de GER,"FW,MF",23-269,17.0,14,10,3,10,1,7,22,31.8,15,10,0,10,4,18,6,0,Matches
+Steffen Tigges,de GER,FW,24-231,14.7,7,5,1,5,1,4,11,36.4,7,11,2,9,6,13,15,0,Matches
+Eric Martel,de GER,MF,20-324,15.0,41,25,19,16,6,20,44,45.5,24,18,4,14,20,61,36,0,Matches
+Dejan Ljubicic,at AUT,MF,25-162,12.7,17,10,5,9,3,9,25,36.0,16,14,0,14,7,24,3,0,Matches
+Luca Kilian,de GER,DF,23-199,12.2,22,16,14,7,1,12,21,57.1,9,16,8,8,10,32,48,0,Matches
+Julian Chabot,de GER,DF,25-035,11.0,28,19,16,9,3,14,24,58.3,10,17,11,6,21,49,65,0,Matches
+Ondrej Duda,sk SVK,MF,28-104,7.7,9,8,2,5,2,4,11,36.4,7,7,1,6,2,11,3,0,Matches
+Denis Huseinbasic,de GER,"MF,FW",21-259,7.6,22,9,7,11,4,10,21,47.6,11,16,2,14,4,26,5,0,Matches
+Nikola Soldo,hr CRO,DF,22-053,6.6,15,9,8,7,0,7,10,70.0,3,7,6,1,7,22,28,0,Matches
+Mathias Olesen,lu LUX,MF,21-363,4.9,10,5,4,4,2,5,7,71.4,2,5,1,4,2,12,3,0,Matches
+Jan Thielmann,de GER,FW,20-297,6.2,8,7,3,4,1,2,7,28.6,5,9,2,7,3,11,5,0,Matches
+Kingsley Schindler,de GER,"DF,MF",29-250,7.8,18,11,12,5,1,14,21,66.7,7,6,1,5,9,27,19,0,Matches
+Sargis Adamyan,am ARM,"FW,MF",29-300,7.0,13,6,4,3,6,6,14,42.9,8,12,0,12,3,16,5,0,Matches
+Florian Dietz,de GER,FW,24-228,4.4,2,1,0,2,0,1,4,25.0,3,4,1,3,0,2,2,0,Matches
+Davie Selke,de GER,FW,28-058,4.0,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,4,0,Matches
+Kristian Pedersen,dk DEN,DF,28-227,3.0,5,4,4,1,0,0,2,0.0,2,3,0,3,5,10,17,0,Matches
+Kingsley Ehizibue,nl NED,DF,27-298,0.7,0,0,0,0,0,0,0,,0,1,0,1,2,2,1,0,Matches
+Tim Lemperle,de GER,"FW,MF",21-042,1.3,6,4,3,1,2,3,5,60.0,2,2,0,2,1,7,4,0,Matches
+Mark Uth,de GER,"MF,FW",31-207,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Justin Diehl,de GER,"MF,FW",18-112,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,26.6,25.0,485,289,229,203,53,246,490,50.2,244,306,69,237,260,745,537,3,
+Opponent Total,,,27.3,25.0,395,229,172,184,39,185,333,55.6,148,341,92,249,219,614,590,5,

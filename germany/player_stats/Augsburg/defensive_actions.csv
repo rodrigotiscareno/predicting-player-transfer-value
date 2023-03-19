@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Jeffrey Gouweleeuw,nl NED,DF,31-252,23.3,39,24,17,16,6,23,42,54.8,19,32,19,13,41,80,112,2,Matches
+Ermedin Demirović,ba BIH,"FW,MF",24-359,20.6,28,13,8,11,9,9,18,50.0,9,27,4,23,14,42,29,0,Matches
+Rafał Gikiewicz,pl POL,GK,35-144,21.0,2,2,2,0,0,2,3,66.7,1,0,0,0,0,2,13,4,Matches
+Elvis Rexhbeçaj,de GER,MF,25-138,20.0,35,23,11,17,7,19,43,44.2,24,27,10,17,13,48,32,0,Matches
+Robert Gumny,pl POL,DF,24-288,18.7,27,19,9,14,4,8,21,38.1,13,19,7,12,22,49,53,1,Matches
+Mergim Berisha,de GER,FW,24-312,16.8,11,6,4,3,4,4,13,30.8,9,13,1,12,0,11,17,0,Matches
+Arne Maier,de GER,MF,24-070,15.0,24,17,12,9,3,8,11,72.7,3,14,0,14,8,32,12,0,Matches
+Iago,br BRA,"DF,MF",25-361,14.7,26,13,19,4,3,9,21,42.9,12,14,4,10,11,37,48,0,Matches
+Maximilian Bauer,de GER,DF,23-038,13.7,22,13,16,6,0,14,24,58.3,10,17,6,11,20,42,58,0,Matches
+Mads Pedersen,dk DEN,"DF,MF",26-199,13.6,33,15,25,7,1,17,23,73.9,6,23,7,16,18,51,31,1,Matches
+Carlos Gruezo,ec ECU,MF,27-334,10.7,21,12,12,9,0,9,16,56.3,7,13,4,9,10,31,15,0,Matches
+Ohis Felix Uduokhai,de GER,DF,25-191,10.8,24,16,12,10,2,13,19,68.4,6,17,8,9,18,42,46,1,Matches
+Florian Niederlechner,de GER,"FW,MF",32-146,10.1,10,5,5,4,1,4,7,57.1,3,16,2,14,1,11,9,0,Matches
+Arne Engels,be BEL,MF,19-192,9.2,17,7,8,8,1,7,12,58.3,5,9,3,6,9,26,7,0,Matches
+Ruben Vargas,ch SUI,"MF,FW",24-226,8.1,11,5,5,4,2,3,8,37.5,5,6,2,4,4,15,13,1,Matches
+Fredrik Jensen,fi FIN,"FW,MF",25-191,8.8,13,9,7,3,3,5,8,62.5,3,11,5,6,3,16,12,0,Matches
+Dion Drena Beljo,hr CRO,"FW,MF",21-018,5.3,6,5,2,2,2,2,8,25.0,6,8,1,7,1,7,5,0,Matches
+André Hahn,de GER,"FW,MF",32-218,4.3,9,5,4,4,1,8,12,66.7,4,9,2,7,4,13,14,0,Matches
+Tomáš Koubek,cz CZE,GK,30-205,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
+Renato Veiga,pt POR,DF,19-233,3.5,4,3,1,1,2,3,3,100.0,0,6,3,3,3,7,15,1,Matches
+Julian Baumgartlinger,at AUT,MF,35-076,5.1,14,3,5,5,4,6,16,37.5,10,4,2,2,4,18,15,0,Matches
+Daniel Caligiuri,it ITA,"DF,MF",35-063,2.9,8,5,5,3,0,4,5,80.0,1,2,2,0,3,11,2,0,Matches
+Kelvin Yeboah,it ITA,"FW,MF",22-317,2.8,3,3,1,2,0,1,4,25.0,3,4,0,4,1,4,2,0,Matches
+Niklas Dorsch,de GER,MF,25-063,2.1,12,6,4,8,0,4,7,57.1,3,4,1,3,1,13,2,0,Matches
+Raphael Framberger,de GER,"DF,FW",27-194,2.0,10,6,6,4,0,3,5,60.0,2,2,1,1,2,12,5,0,Matches
+Ricardo Pepi,us USA,FW,20-069,1.1,1,1,1,0,0,1,1,100.0,0,1,0,1,0,1,1,0,Matches
+Reece Oxford,eng ENG,DF,24-093,1.0,1,1,1,0,0,0,0,,0,4,3,1,1,2,5,0,Matches
+Frederik Winther,dk DEN,DF,22-074,1.0,2,2,1,1,0,0,2,0.0,2,1,1,0,0,2,7,0,Matches
+Lukas Petkov,de GER,"MF,FW",22-138,1.6,5,1,4,1,0,2,3,66.7,1,4,1,3,1,6,0,0,Matches
+Irvin Cardona,fr FRA,MF,25-223,1.3,1,1,1,0,0,1,4,25.0,3,2,0,2,2,3,5,0,Matches
+David Čolina,hr CRO,"DF,MF",22-243,0.7,2,0,1,1,0,1,1,100.0,0,4,0,4,3,5,0,0,Matches
+Nathanael Mbuku,fr FRA,FW,21-003,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Noah Joel Sarenren Bazee,ng NGA,FW,26-210,0.1,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,Matches
+Aaron Zehnter,de GER,DF,18-139,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,Matches
+Squad Total,,,26.9,25.0,421,241,209,157,55,190,362,52.5,172,314,99,215,219,640,587,11,
+Opponent Total,,,27.0,25.0,392,233,181,154,57,178,299,59.5,121,285,68,217,192,584,503,6,

@@ -1,5 +1,4 @@
-Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes
-2022-08-06,17:30,Premier League,Matchweek 1,Sat,Away,W,1.0,0.0,Everton,1.5,0.7,62.0,39254.0,César Azpilicueta,3-4-3,Craig Pawson,Match Report,
+2022-08-06,17:30,Premier League,Matchweek 1,Sat,Away,W,1,0,Everton,1.5,0.7,62,"39,254",César Azpilicueta,3-4-3,Craig Pawson,Match Report,Unnamed: 18
 2022-08-14,16:30,Premier League,Matchweek 2,Sun,Home,D,2.0,2.0,Tottenham,1.6,1.0,63.0,39946.0,Jorginho,3-5-2,Anthony Taylor,Match Report,
 2022-08-21,14:00,Premier League,Matchweek 3,Sun,Away,L,0.0,3.0,Leeds United,0.9,2.1,61.0,36372.0,Jorginho,3-5-2,Stuart Attwell,Match Report,
 2022-08-27,15:00,Premier League,Matchweek 4,Sat,Home,W,2.0,1.0,Leicester City,1.8,2.5,45.0,39953.0,Jorginho,4-4-2,Paul Tierney,Match Report,
@@ -35,7 +34,7 @@ Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Capt
 2023-03-04,15:00,Premier League,Matchweek 26,Sat,Home,W,1.0,0.0,Leeds United,1.5,1.0,57.0,39905.0,Mateo Kovačić,3-4-3,Michael Oliver,Match Report,
 2023-03-07,20:00,Champions Lg,Round of 16,Tue,Home,W,2.0,0.0,de Dortmund,2.0,0.8,40.0,38882.0,Mateo Kovačić,3-4-3,Danny Makkelie,Match Report,Leg 2 of 2; Chelsea won
 2023-03-11,15:00,Premier League,Matchweek 27,Sat,Away,W,3.0,1.0,Leicester City,1.6,2.4,52.0,32170.0,Mateo Kovačić,3-4-3,Andre Marriner,Match Report,
-2023-03-18,17:30,Premier League,Matchweek 28,Sat,Home,,,,Everton,,,,,,,,Head-to-Head,
+2023-03-18,17:30,Premier League,Matchweek 28,Sat,Home,D,2.0,2.0,Everton,2.3,1.2,68.0,40025.0,Mateo Kovačić,3-4-3,Darren England,Match Report,
 2023-04-01,17:30,Premier League,Matchweek 29,Sat,Home,,,,Aston Villa,,,,,,,,Head-to-Head,
 2023-04-04,20:00,Premier League,Matchweek 8,Tue,Home,,,,Liverpool,,,,,,,,Head-to-Head,
 2023-04-08,15:00,Premier League,Matchweek 30,Sat,Away,,,,Wolves,,,,,,,,Head-to-Head,

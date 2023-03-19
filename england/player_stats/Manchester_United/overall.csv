@@ -1,5 +1,4 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 33_level_0
-Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls.1,Ast.1,G+A.1,G-PK.1,G+A-PK,xG.1,xAG.1,xG+xAG,npxG.1,npxG+xAG.1,Matches
 David de Gea,es ESP,GK,32-132,26,26,2340.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches
 Bruno Fernandes,pt POR,"MF,FW",28-192,25,25,2248.0,25.0,5.0,6.0,11.0,4.0,1.0,1.0,5.0,0.0,5.3,4.5,10.1,14.6,55.0,164.0,153.0,0.2,0.24,0.44,0.16,0.4,0.21,0.41,0.62,0.18,0.59,Matches
 Marcus Rashford,eng ENG,FW,25-139,26,24,2126.0,23.6,14.0,3.0,17.0,14.0,0.0,0.0,2.0,0.0,10.6,10.6,2.5,13.1,59.0,57.0,177.0,0.59,0.13,0.72,0.59,0.72,0.45,0.1,0.55,0.45,0.55,Matches

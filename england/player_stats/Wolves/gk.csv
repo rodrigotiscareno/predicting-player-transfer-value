@@ -1,5 +1,4 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Unnamed: 23_level_0
-Player,Nation,Pos,Age,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
-José Sá,pt POR,GK,30-060,27,27,2430,27.0,37,1.37,116,78,69.0,7,6,14,7,25.9,3,1,2,0,66.7,Matches
-Squad Total,,,27.2,27,27,2430,27.0,37,1.37,116,78,69.0,7,6,14,7,25.9,3,1,2,0,66.7,
-Opponent Total,,,27.2,27,27,2430,27.0,20,0.74,85,67,78.8,14,6,7,12,44.4,2,2,0,0,0.0,
+Player,Nation,Pos,Age,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%.1,Matches
+José Sá,pt POR,GK,30-061,28,28,2520,28.0,41,1.46,120,78,66.7,7,6,15,7,25.0,3,1,2,0,66.7,Matches
+Squad Total,,,27.3,28,28,2520,28.0,41,1.46,120,78,66.7,7,6,15,7,25.0,3,1,2,0,66.7,
+Opponent Total,,,27.1,28,28,2520,28.0,22,0.79,93,73,78.5,15,6,7,12,42.9,2,2,0,0,0.0,

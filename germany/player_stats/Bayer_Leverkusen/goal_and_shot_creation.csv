@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Lukáš Hrádecký,fi FIN,GK,33-115,23.0,1,0.04,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Edmond Tapsoba,bf BFA,DF,24-045,22.9,22,0.96,20,1,1,0,0,0,2,0.09,2,0,0,0,0,0,Matches
+Moussa Diaby,fr FRA,"FW,MF",23-255,20.7,77,3.73,54,4,7,9,3,0,13,0.63,7,0,4,0,2,0,Matches
+Jeremie Frimpong,nl NED,"DF,MF",22-099,20.4,75,3.67,47,2,12,5,9,0,11,0.54,7,0,3,0,1,0,Matches
+Robert Andrich,de GER,MF,28-178,19.7,33,1.67,28,0,0,3,0,2,3,0.15,2,0,0,0,0,1,Matches
+Jonathan Tah,de GER,DF,27-036,19.6,12,0.61,11,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Piero Hincapié,ec ECU,DF,21-069,18.6,16,0.86,13,0,1,1,1,0,2,0.11,2,0,0,0,0,0,Matches
+Mitchel Bakker,nl NED,"DF,MF",22-272,12.8,26,2.04,21,4,0,0,0,1,3,0.24,2,0,0,0,0,1,Matches
+Exequiel Palacios,ar ARG,MF,24-165,12.3,38,3.1,33,0,0,1,3,1,3,0.24,3,0,0,0,0,0,Matches
+Adam Hložek,cz CZE,"FW,MF",20-237,11.3,36,3.19,27,3,1,4,1,0,8,0.71,6,0,0,2,0,0,Matches
+Kerem Demirbay,de GER,MF,29-259,12.0,36,3.01,15,16,2,2,1,0,5,0.42,2,3,0,0,0,0,Matches
+Odilon Kossonou,ci CIV,DF,22-074,10.9,12,1.1,11,0,0,0,0,1,3,0.27,3,0,0,0,0,0,Matches
+Patrik Schick,cz CZE,FW,27-054,10.5,28,2.68,21,0,1,3,3,0,2,0.19,2,0,0,0,0,0,Matches
+Amine Adli,fr FRA,"FW,MF",22-313,9.3,26,2.78,20,2,1,1,1,1,4,0.43,3,0,1,0,0,0,Matches
+Callum Hudson-Odoi,eng ENG,"FW,MF",22-132,6.6,26,3.91,19,4,1,2,0,0,2,0.3,2,0,0,0,0,0,Matches
+Nadiem Amiri,de GER,"MF,FW",26-143,8.0,29,3.62,19,2,3,1,4,0,5,0.62,3,0,1,0,1,0,Matches
+Sardar Azmoun,ir IRN,"FW,MF",28-077,6.2,23,3.72,19,0,0,1,1,2,3,0.48,1,0,0,1,0,1,Matches
+Charles Aránguiz,cl CHI,MF,33-336,5.5,10,1.83,10,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Florian Wirtz,de GER,"MF,FW",19-320,4.9,24,4.93,16,4,3,0,1,0,5,1.03,5,0,0,0,0,0,Matches
+Daley Sinkgraven,nl NED,"DF,MF",27-258,3.6,8,2.22,6,0,1,1,0,0,2,0.55,1,0,0,1,0,0,Matches
+Timothy Fosu-Mensah,nl NED,DF,25-076,1.9,5,2.59,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Andrey Lunyov,ru RUS,GK,31-126,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Karim Bellarabi,de GER,FW,32-345,0.9,4,4.39,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Paulinho,br BRA,FW,22-247,0.9,1,1.1,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Joel Pohjanpalo,fi FIN,"FW,MF",28-187,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ayman Azhil,ma MAR,MF,21-343,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,25.5,24.0,568,23.67,420,43,34,35,28,8,76,3.17,53,3,9,4,4,3,
+Opponent Total,,,27.1,24.0,456,19.0,325,43,15,31,28,14,63,2.62,42,5,1,5,8,2,

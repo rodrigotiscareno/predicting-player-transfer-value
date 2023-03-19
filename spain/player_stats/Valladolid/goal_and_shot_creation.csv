@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Javi Sánchez,es ESP,DF,26-005,19.7,10,0.51,9,0,1,0,0,0,2,0.1,2,0,0,0,0,0,Matches
+Óscar Plano,es ESP,"FW,MF",32-036,19.3,49,2.53,40,0,1,3,4,1,6,0.31,4,0,0,1,1,0,Matches
+Kike Pérez,es ESP,MF,26-033,17.9,51,2.86,40,3,2,5,1,0,3,0.17,2,0,0,0,1,0,Matches
+Jordi Masip,es ESP,GK,34-075,16.9,2,0.12,1,1,0,0,0,0,1,0.06,0,1,0,0,0,0,Matches
+Joaquín Fernández,es ESP,DF,26-292,16.8,13,0.77,11,0,0,1,0,1,0,0.0,0,0,0,0,0,0,Matches
+Gonzalo Plata,ec ECU,"FW,MF",22-138,15.7,51,3.25,40,1,5,0,4,1,7,0.45,6,0,1,0,0,0,Matches
+Monchu,es ESP,MF,23-187,14.4,45,3.13,26,13,0,4,1,1,1,0.07,1,0,0,0,0,0,Matches
+Roque Mesa,es ESP,MF,33-285,13.7,32,2.33,31,1,0,0,0,0,1,0.07,1,0,0,0,0,0,Matches
+Álvaro Aguado,es ESP,MF,26-322,14.4,50,3.46,39,9,0,0,2,0,4,0.28,2,2,0,0,0,0,Matches
+Lucas Olaza,uy URU,DF,28-241,13.6,27,1.99,18,7,1,0,1,0,1,0.07,1,0,0,0,0,0,Matches
+Iván Sánchez,es ESP,"MF,FW",30-177,11.5,36,3.24,29,1,4,1,1,0,1,0.09,1,0,0,0,0,0,Matches
+Sergio León,es ESP,FW,34-072,11.6,19,1.63,13,1,1,3,1,0,3,0.26,2,0,0,1,0,0,Matches
+Sergio Escudero,es ESP,DF,33-198,10.6,21,1.98,12,5,0,2,2,0,0,0.0,0,0,0,0,0,0,Matches
+Jawad El Yamiq,ma MAR,DF,31-018,10.7,6,0.52,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Iván Fresneda,es ESP,DF,18-172,11.2,23,1.99,19,2,0,0,1,1,1,0.09,0,0,0,0,1,0,Matches
+Luis Pérez,es ESP,DF,28-043,9.8,15,1.53,12,1,0,0,2,0,1,0.1,1,0,0,0,0,0,Matches
+Sergio Asenjo,es ESP,GK,33-264,9.0,2,0.22,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Sergi Guardiola,es ESP,FW,31-294,5.6,8,1.43,6,0,0,0,1,1,0,0.0,0,0,0,0,0,0,Matches
+Lucas Oliveira Rosa,br BRA,DF,22-350,6.4,8,1.25,4,3,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Shon Weissman,il ISR,FW,27-033,8.3,4,0.48,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Cyle Larin,ca CAN,FW,27-336,5.7,14,2.46,6,0,3,4,1,0,3,0.53,2,0,0,1,0,0,Matches
+Martin Hongla,cm CMR,"DF,MF",25-003,5.4,1,0.18,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Zouhair Feddal,ma MAR,DF,34-077,4.2,4,0.96,3,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Darwin Machís,ve VEN,FW,30-040,4.1,14,3.45,10,0,2,2,0,0,1,0.25,1,0,0,0,0,0,Matches
+Anuar,ma MAR,"MF,FW",28-063,2.3,4,1.71,2,0,1,0,0,1,1,0.43,0,0,1,0,0,0,Matches
+Juanjo Narváez,co COL,"MF,FW",28-035,1.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+David Torres,es ESP,DF,20-014,1.1,1,0.89,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Toni Villa,es ESP,MF,28-071,1.0,4,3.96,3,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Kenedy,br BRA,"FW,MF",27-039,0.9,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mickael Malsa,mq MTQ,MF,27-158,0.8,1,1.3,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Selim Amallah,ma MAR,MF,26-124,0.6,3,5.0,1,0,2,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Sékou Gassama,sn SEN,FW,27-317,0.4,1,2.57,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Manuel Pozo,es ESP,FW,21-097,0.2,2,9.47,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Roberto Arroyo,es ESP,MF,19-206,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Álvaro Aceves,es ESP,GK,19-236,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,28.5,26.0,521,20.04,390,50,25,25,23,8,37,1.42,26,3,2,3,3,0,
+Opponent Total,,,28.0,26.0,698,26.85,511,69,41,39,30,8,65,2.5,45,4,5,6,4,1,

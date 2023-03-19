@@ -1,0 +1,37 @@
+Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
+Mehdi Bourabia,ma MAR,MF,31-224,23.2,34,15,12,17,5,16,32,50.0,16,32,12,20,26,60,42,0,Matches
+Bartłomiej Drągowski,pl POL,GK,25-212,23.7,1,0,1,0,0,1,5,20.0,4,0,0,0,0,1,14,3,Matches
+Dimitris Nikolaou,gr GRE,DF,24-218,23.8,32,23,25,6,1,17,22,77.3,5,30,21,9,20,52,59,0,Matches
+Emmanuel Gyasi,gh GHA,"FW,DF",29-067,21.9,14,8,6,7,1,6,24,25.0,18,19,5,14,7,21,18,0,Matches
+M'Bala Nzola,ao ANG,FW,26-213,22.1,9,4,0,5,4,1,7,14.3,6,16,4,12,5,14,19,0,Matches
+Ethan Ampadu,wls WAL,"DF,MF",22-186,20.1,51,29,23,24,4,13,28,46.4,15,32,13,19,26,77,61,0,Matches
+Kevin Agudelo,co COL,"MF,FW",24-125,19.9,58,29,16,24,18,20,48,41.7,28,33,5,28,9,67,6,0,Matches
+Arkadiusz Reca,pl POL,DF,27-275,17.9,35,21,19,9,7,13,21,61.9,8,15,3,12,21,56,43,0,Matches
+Jakub Kiwior,pl POL,DF,23-032,16.0,22,17,15,7,0,6,24,25.0,18,26,18,8,24,46,71,1,Matches
+Emil Holm,se SWE,DF,22-310,15.5,26,15,13,8,5,16,31,51.6,15,21,6,15,9,35,41,0,Matches
+Kelvin Amian,fr FRA,DF,25-039,16.7,37,22,20,10,7,16,20,80.0,4,21,8,13,18,55,51,1,Matches
+Mattia Caldara,it ITA,DF,28-318,12.9,23,14,10,11,2,9,20,45.0,11,20,13,7,15,38,77,2,Matches
+Simone Bastoni,it ITA,"MF,DF",26-134,10.5,37,18,16,16,5,9,19,47.4,10,16,4,12,7,44,9,0,Matches
+Albin Ekdal,se SWE,MF,33-234,10.6,25,17,11,14,0,11,29,37.9,18,15,1,14,16,41,23,0,Matches
+Daniele Verde,it ITA,"FW,MF",26-272,7.7,2,2,2,0,0,1,2,50.0,1,5,0,5,7,9,2,0,Matches
+Viktor Kovalenko,ua UKR,MF,27-033,4.8,8,4,1,5,2,4,5,80.0,1,11,2,9,3,11,7,0,Matches
+Petko Hristov,bg BUL,DF,24-018,4.1,6,4,2,4,0,5,8,62.5,3,4,2,2,4,10,12,0,Matches
+Eldor Shomurodov,uz UZB,FW,27-263,4.0,1,1,0,0,1,0,4,0.0,4,3,0,3,1,2,2,0,Matches
+Daniel Maldini,it ITA,"FW,MF",21-159,5.1,9,4,2,3,4,4,8,50.0,4,6,0,6,1,10,6,0,Matches
+Salvatore Esposito,it ITA,MF,22-163,2.4,3,3,2,1,0,2,9,22.2,7,2,0,2,3,6,3,0,Matches
+Jeroen Zoet,nl NED,GK,32-072,1.7,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+Mikael Ellertsson,is ISL,"MF,DF",21-008,1.9,4,2,1,3,0,0,3,0.0,3,2,1,1,2,6,0,0,Matches
+Dávid Strelec,sk SVK,FW,21-349,1.9,2,2,0,1,1,2,2,100.0,0,0,0,0,0,2,0,0,Matches
+Jacopo Sala,it ITA,MF,31-104,1.2,1,0,1,0,0,0,2,0.0,2,2,0,2,1,2,2,0,Matches
+Szymon Żurkowski,pl POL,MF,25-175,1.2,5,3,1,3,1,1,3,33.3,2,1,1,0,2,7,2,0,Matches
+Przemysław Wiśniewski,pl POL,DF,24-235,1.1,0,0,0,0,0,0,0,,0,4,2,2,1,1,9,0,Matches
+Salvador Ferrer,es ESP,DF,25-057,1.1,2,1,0,2,0,1,1,100.0,0,1,1,0,1,3,2,0,Matches
+Petar Zovko,ba BIH,GK,20-359,0.8,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+Tio Cipot,si SVN,"FW,DF",19-333,0.7,5,4,2,1,2,1,2,50.0,1,0,0,0,0,5,1,0,Matches
+Federico Marchetti,it ITA,GK,40-040,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+João Moutinho,pt POR,"DF,FW",25-066,0.6,7,1,5,1,1,3,4,75.0,1,1,1,0,0,7,0,0,Matches
+Leandro Sanca,pt POR,"FW,MF",23-074,0.4,1,1,0,0,1,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+Raimonds Krollis,lv LVA,FW,21-142,0.2,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
+Julius Beck,dk DEN,MF,17-326,0.1,2,1,1,1,0,0,0,,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,26.3,27.0,465,267,209,183,73,181,386,46.9,205,338,123,215,229,694,582,7,
+Opponent Total,,,27.7,27.0,483,269,230,184,69,205,387,53.0,182,305,86,219,269,752,492,5,

@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Nicolás Tagliafico,ar ARG,DF,30-200,25.7,49,1.9,39,4,0,3,2,1,5,0.19,4,1,0,0,0,0,Matches
+Castello Lukeba,fr FRA,DF,20-092,24.2,15,0.62,15,0,0,0,0,0,2,0.08,2,0,0,0,0,0,Matches
+Alexandre Lacazette,fr FRA,FW,31-295,22.8,82,3.59,59,1,7,6,8,1,7,0.31,6,0,0,0,1,0,Matches
+Maxence Caqueret,fr FRA,MF,23-032,21.9,78,3.56,58,7,6,3,3,1,12,0.55,9,0,1,1,0,1,Matches
+Anthony Lopes,pt POR,GK,32-169,21.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Thiago Mendes,br BRA,"MF,DF",31-004,17.9,21,1.17,20,0,0,1,0,0,1,0.06,1,0,0,0,0,0,Matches
+Johann Lepenant,fr FRA,MF,20-148,17.5,28,1.6,22,0,0,2,3,1,3,0.17,2,0,0,0,1,0,Matches
+Malo Gusto,fr FRA,DF,19-304,16.0,46,2.87,38,2,4,0,2,0,2,0.12,2,0,0,0,0,0,Matches
+Corentin Tolisso,fr FRA,MF,28-228,14.5,53,3.64,45,4,0,1,3,0,5,0.34,5,0,0,0,0,0,Matches
+Karl Toko Ekambi,cm CMR,"FW,MF",30-186,15.0,47,3.13,39,0,4,3,1,0,2,0.13,2,0,0,0,0,0,Matches
+Sinaly Diomande,ci CIV,DF,21-344,14.4,8,0.55,7,1,0,0,0,0,1,0.07,0,1,0,0,0,0,Matches
+Tetê,br BRA,"FW,MF",23-032,12.3,30,2.44,20,4,2,3,1,0,7,0.57,4,0,1,1,1,0,Matches
+Rayan Cherki,fr FRA,"MF,FW",19-214,12.5,88,7.05,49,22,13,3,1,0,8,0.64,5,1,1,1,0,0,Matches
+Dejan Lovren,hr CRO,DF,33-257,10.7,8,0.75,4,0,0,4,0,0,0,0.0,0,0,0,0,0,0,Matches
+Moussa Dembélé,fr FRA,"FW,MF",26-250,9.3,13,1.39,11,0,1,0,0,1,2,0.21,2,0,0,0,0,0,Matches
+Bradley Barcola,fr FRA,"FW,MF",20-198,8.6,18,2.09,15,0,1,1,0,1,4,0.46,4,0,0,0,0,0,Matches
+Sael Kumbedi,fr FRA,DF,17-358,7.9,11,1.4,8,1,1,1,0,0,4,0.51,3,1,0,0,0,0,Matches
+Rémy Riou,fr FRA,GK,35-225,6.7,1,0.15,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Houssem Aouar,fr FRA,MF,24-262,4.9,11,2.22,7,0,2,2,0,0,2,0.4,2,0,0,0,0,0,Matches
+Amin Sarr,se SWE,FW,22-008,4.6,6,1.31,4,0,0,0,2,0,1,0.22,1,0,0,0,0,0,Matches
+Jérôme Boateng,de GER,DF,34-197,3.5,2,0.57,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Damien Da Silva,fr FRA,DF,34-306,3.8,1,0.27,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Romain Faivre,fr FRA,MF,24-248,3.3,13,3.87,10,3,0,0,0,0,1,0.3,0,1,0,0,0,0,Matches
+Lucas Paquetá,br BRA,MF,25-204,1.8,9,5.09,5,0,1,1,0,2,1,0.57,0,0,0,1,0,0,Matches
+Jeff Reine-Adélaïde,fr FRA,MF,25-061,3.7,20,5.36,16,1,1,1,0,1,2,0.54,2,0,0,0,0,0,Matches
+Henrique,br BRA,DF,28-328,1.5,2,1.38,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Jefferson,br BRA,FW,23-079,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mohamed El Arouch,fr FRA,MF,18-347,0.0,1,90.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,26.3,28.0,661,23.61,497,50,43,35,27,9,72,2.57,56,5,3,4,3,1,
+Opponent Total,,,26.9,28.0,508,18.14,372,47,27,25,28,9,52,1.86,33,5,3,3,8,0,

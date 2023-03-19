@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Álex Remiro,es ESP,GK,27-360,25.0,911,672,232,79,0,1,0,0,0,0,0,0,658,7,0,Matches
+Martín Zubimendi,es ESP,MF,24-045,22.8,1229,1184,39,35,3,6,2,2,0,0,0,0,1036,6,16,Matches
+Brais Méndez,es ESP,MF,26-071,20.3,993,868,120,39,5,12,87,4,71,21,33,0,774,5,19,Matches
+Robin Le Normand,fr FRA,DF,26-128,20.1,1128,1075,52,40,1,2,1,2,0,0,0,0,1007,1,1,Matches
+Takefusa Kubo,jp JPN,"FW,MF",21-288,17.7,570,534,29,2,3,3,42,3,21,6,8,1,411,7,27,Matches
+Alexander Sørloth,no NOR,FW,27-104,17.7,317,292,23,0,1,0,3,1,0,0,0,0,221,2,15,Matches
+Igor Zubeldia,es ESP,DF,25-354,18.0,1028,980,47,29,0,8,3,18,0,0,0,0,885,1,8,Matches
+Mikel Merino,es ESP,MF,26-270,17.8,972,943,20,17,6,8,17,2,1,0,0,0,733,9,20,Matches
+Diego Rico,es ESP,DF,30-024,16.3,906,718,184,21,0,6,50,163,0,0,0,0,687,4,19,Matches
+David Silva,es ESP,MF,37-070,13.6,725,702,17,9,6,4,14,4,3,1,2,0,603,6,8,Matches
+Aritz Elustondo,es ESP,DF,28-356,11.4,595,509,82,9,0,0,4,73,0,0,0,0,487,4,7,Matches
+Andoni Gorosabel,es ESP,DF,26-227,10.1,590,463,127,14,0,1,22,113,0,0,0,0,502,0,13,Matches
+Aihen Muñoz,es ESP,DF,25-215,8.7,456,379,75,6,0,0,25,69,0,0,0,0,366,2,9,Matches
+Jon Pacheco,es ESP,DF,22-070,8.5,592,563,27,20,1,2,0,2,0,0,0,0,537,2,3,Matches
+Asier Illarramendi,es ESP,MF,33-011,7.4,397,377,18,12,0,3,3,5,0,0,0,0,340,2,6,Matches
+Mikel Oyarzabal,es ESP,"FW,MF",25-332,6.4,195,191,3,2,0,1,8,0,0,0,0,0,145,1,6,Matches
+Carlos Fernández,es ESP,FW,26-301,4.5,104,100,4,0,1,0,0,1,0,0,0,0,66,0,1,Matches
+Ander Barrenetxea,es ESP,"DF,FW",21-082,4.5,187,159,28,4,0,0,5,23,1,0,0,0,147,0,8,Matches
+Mohamed Ali Cho,fr FRA,FW,19-059,3.9,85,80,4,0,0,0,19,0,0,0,0,0,52,1,4,Matches
+Pablo Marín,es ESP,MF,19-259,3.8,161,158,2,2,1,1,3,0,0,0,0,0,123,1,6,Matches
+Alex Sola,es ESP,DF,23-283,3.8,194,148,46,4,0,0,11,42,0,0,0,0,155,0,5,Matches
+Alexander Isak,se SWE,FW,23-179,1.7,30,25,4,0,0,0,2,0,0,0,0,0,17,1,2,Matches
+Roberto Navarro,es ESP,"MF,FW",20-341,3.8,135,117,17,5,0,1,15,0,11,5,3,0,98,1,5,Matches
+Ander Guevara,es ESP,MF,25-255,1.5,120,119,0,0,1,0,0,0,0,0,0,0,108,1,1,Matches
+Beñat Turrientes,es ESP,"MF,FW",21-047,1.2,47,40,7,4,0,2,4,0,3,2,1,0,40,0,0,Matches
+Umar Sadiq,ng NGA,FW,26-045,0.9,13,13,0,0,0,1,0,0,0,0,0,0,13,0,0,Matches
+Jon Karrikaburu,es ESP,FW,20-181,1.0,18,18,0,0,1,0,1,0,0,0,0,0,11,0,0,Matches
+Jon Magunacelaya,es ESP,"MF,FW",22-249,0.7,16,15,1,1,0,0,2,0,0,0,0,0,8,0,1,Matches
+Olasagasti,es ESP,"MF,DF",22-215,0.7,48,47,1,1,0,2,0,0,0,0,0,0,39,0,0,Matches
+Ander Martin,es ESP,"MF,FW",22-123,0.5,24,22,2,1,0,0,4,0,1,1,0,0,12,0,0,Matches
+Squad Total,,,26.5,25.0,12786,11511,1211,356,30,64,347,527,112,36,47,1,10281,64,210,
+Opponent Total,,,28.1,25.0,10294,8886,1351,462,20,95,396,536,103,33,39,0,7717,57,196,

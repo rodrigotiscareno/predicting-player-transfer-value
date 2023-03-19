@@ -1,37 +1,36 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,Unnamed: 21_level_0
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Brennan Johnson,wls WAL,"FW,MF",21-299,24.6,4,0,0,26,15,10,48,3,16,0,0,0,68,13,41,24.1,Matches
-Morgan Gibbs-White,eng ENG,"MF,FW",23-050,22.3,3,0,0,21,19,4,117,10,9,0,0,0,103,32,69,31.7,Matches
-Remo Freuler,ch SUI,MF,30-337,20.1,3,0,0,21,9,0,5,25,19,0,0,0,116,20,18,52.6,Matches
-Dean Henderson,eng ENG,GK,26-006,18.0,2,0,0,1,1,0,0,0,0,0,1,0,11,1,0,100.0,Matches
-Renan Lodi,br BRA,DF,24-344,16.9,5,0,0,18,31,1,54,26,25,0,0,0,105,14,16,46.7,Matches
-Ryan Yates,eng ENG,MF,25-117,16.6,4,0,0,39,45,1,6,8,15,1,0,0,96,29,19,60.4,Matches
-Scott McKenna,sct SCO,DF,26-126,16.2,4,0,0,8,4,0,2,11,7,0,1,0,64,31,22,58.5,Matches
-Joe Worrall,eng ENG,DF,26-067,17.9,6,0,0,22,3,0,3,19,15,0,2,0,95,38,19,66.7,Matches
-Serge Aurier,ci CIV,DF,30-084,15.9,2,0,0,14,19,0,38,22,33,0,0,0,98,36,23,61.0,Matches
-Neco Williams,wls WAL,DF,21-339,15.2,4,0,0,25,16,1,76,29,35,0,0,0,97,13,19,40.6,Matches
-Jesse Lingard,eng ENG,"FW,MF",30-093,10.2,1,0,0,8,9,2,5,5,4,0,0,0,39,1,2,33.3,Matches
-Steve Cook,eng ENG,DF,31-333,10.6,4,0,0,5,2,0,1,12,4,0,1,0,35,27,10,73.0,Matches
-Orel Mangala,be BEL,MF,25-000,8.4,1,0,0,9,12,0,5,11,8,0,0,0,47,7,4,63.6,Matches
-Taiwo Awoniyi,ng NGA,FW,25-218,8.1,0,0,0,8,10,7,3,1,8,0,0,0,33,7,30,18.9,Matches
-Cheikhou Kouyaté,sn SEN,"MF,DF",33-087,7.8,2,0,0,15,7,0,0,5,15,0,0,0,45,14,5,73.7,Matches
-Willy Boly,ci CIV,DF,32-043,6.6,2,0,0,4,5,3,0,12,6,0,0,0,35,14,7,66.7,Matches
-Keylor Navas,cr CRC,GK,36-093,7.0,1,0,0,0,0,0,0,0,0,0,0,0,6,3,0,100.0,Matches
-Harry Toffolo,eng ENG,DF,27-211,7.1,0,0,0,3,4,0,24,6,6,0,1,0,40,12,10,54.5,Matches
-Lewis O'Brien,eng ENG,MF,24-155,6.5,2,0,0,5,15,0,4,5,9,0,0,0,51,2,6,25.0,Matches
-Felipe,br BRA,DF,33-306,5.9,1,0,0,5,6,1,0,18,8,0,0,0,44,24,12,66.7,Matches
-Jonjo Shelvey,eng ENG,MF,31-019,4.9,1,0,0,7,0,0,10,4,0,0,1,0,26,3,1,75.0,Matches
-Chris Wood,nz NZL,FW,31-101,4.1,0,0,0,2,3,3,0,1,0,0,0,0,4,19,24,44.2,Matches
-Emmanuel Dennis,ng NGA,FW,25-123,6.1,3,0,0,9,25,4,8,0,9,0,0,0,31,9,12,42.9,Matches
-Jack Colback,eng ENG,MF,33-145,5.5,0,0,0,9,8,0,1,3,13,0,0,0,24,4,8,33.3,Matches
-Moussa Niakhate,fr FRA,DF,27-010,2.8,0,0,0,4,0,0,0,2,0,0,1,0,8,13,8,61.9,Matches
-Wayne Hennessey,wls WAL,GK,36-053,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Matches
-Gustavo Scarpa,br BRA,"MF,FW",29-072,1.8,1,0,0,4,7,0,3,0,1,0,0,0,10,1,2,33.3,Matches
-Danilo,br BRA,MF,21-323,1.6,1,0,0,2,1,0,0,0,4,0,0,0,11,2,2,50.0,Matches
-Sam Surridge,eng ENG,FW,24-233,3.1,2,0,0,10,8,3,3,0,0,0,0,0,15,13,15,46.4,Matches
-André Ayew,gh GHA,FW,33-091,2.5,0,0,0,1,5,1,1,0,2,0,0,0,5,8,16,33.3,Matches
-Giulian Biancone,fr FRA,DF,22-352,0.2,0,0,0,0,0,0,1,1,1,0,0,0,5,2,0,100.0,Matches
-Alexander Mighten,eng ENG,FW,20-341,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Matches
-Cafú,pt POR,MF,30-020,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+Brennan Johnson,wls WAL,"FW,MF",21-300,24.6,4,0,0,26,15,10,48,3,16,0,0,0,68,13,41,24.1,Matches
+Morgan Gibbs-White,eng ENG,"MF,FW",23-051,22.3,3,0,0,21,19,4,117,10,9,0,0,0,103,32,69,31.7,Matches
+Remo Freuler,ch SUI,MF,30-338,20.1,3,0,0,21,9,0,5,25,19,0,0,0,116,20,18,52.6,Matches
+Dean Henderson,eng ENG,GK,26-007,18.0,2,0,0,1,1,0,0,0,0,0,1,0,11,1,0,100.0,Matches
+Renan Lodi,br BRA,DF,24-345,16.9,5,0,0,18,31,1,54,26,25,0,0,0,105,14,16,46.7,Matches
+Ryan Yates,eng ENG,MF,25-118,16.6,4,0,0,39,45,1,6,8,15,1,0,0,96,29,19,60.4,Matches
+Scott McKenna,sct SCO,DF,26-127,16.2,4,0,0,8,4,0,2,11,7,0,1,0,64,31,22,58.5,Matches
+Joe Worrall,eng ENG,DF,26-068,17.9,6,0,0,22,3,0,3,19,15,0,2,0,95,38,19,66.7,Matches
+Serge Aurier,ci CIV,DF,30-085,15.9,2,0,0,14,19,0,38,22,33,0,0,0,98,36,23,61.0,Matches
+Neco Williams,wls WAL,DF,21-340,15.2,4,0,0,25,16,1,76,29,35,0,0,0,97,13,19,40.6,Matches
+Jesse Lingard,eng ENG,"FW,MF",30-094,10.2,1,0,0,8,9,2,5,5,4,0,0,0,39,1,2,33.3,Matches
+Steve Cook,eng ENG,DF,31-334,10.6,4,0,0,5,2,0,1,12,4,0,1,0,35,27,10,73.0,Matches
+Orel Mangala,be BEL,MF,25-001,8.4,1,0,0,9,12,0,5,11,8,0,0,0,47,7,4,63.6,Matches
+Taiwo Awoniyi,ng NGA,FW,25-219,8.1,0,0,0,8,10,7,3,1,8,0,0,0,33,7,30,18.9,Matches
+Cheikhou Kouyaté,sn SEN,"MF,DF",33-088,7.8,2,0,0,15,7,0,0,5,15,0,0,0,45,14,5,73.7,Matches
+Willy Boly,ci CIV,DF,32-044,6.6,2,0,0,4,5,3,0,12,6,0,0,0,35,14,7,66.7,Matches
+Keylor Navas,cr CRC,GK,36-094,7.0,1,0,0,0,0,0,0,0,0,0,0,0,6,3,0,100.0,Matches
+Harry Toffolo,eng ENG,DF,27-212,7.1,0,0,0,3,4,0,24,6,6,0,1,0,40,12,10,54.5,Matches
+Lewis O'Brien,eng ENG,MF,24-156,6.5,2,0,0,5,15,0,4,5,9,0,0,0,51,2,6,25.0,Matches
+Felipe,br BRA,DF,33-307,5.9,1,0,0,5,6,1,0,18,8,0,0,0,44,24,12,66.7,Matches
+Jonjo Shelvey,eng ENG,MF,31-020,4.9,1,0,0,7,0,0,10,4,0,0,1,0,26,3,1,75.0,Matches
+Chris Wood,nz NZL,FW,31-102,4.1,0,0,0,2,3,3,0,1,0,0,0,0,4,19,24,44.2,Matches
+Emmanuel Dennis,ng NGA,FW,25-124,6.1,3,0,0,9,25,4,8,0,9,0,0,0,31,9,12,42.9,Matches
+Jack Colback,eng ENG,MF,33-146,5.5,0,0,0,9,8,0,1,3,13,0,0,0,24,4,8,33.3,Matches
+Moussa Niakhate,fr FRA,DF,27-011,2.8,0,0,0,4,0,0,0,2,0,0,1,0,8,13,8,61.9,Matches
+Wayne Hennessey,wls WAL,GK,36-054,2.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Matches
+Gustavo Scarpa,br BRA,"MF,FW",29-073,1.8,1,0,0,4,7,0,3,0,1,0,0,0,10,1,2,33.3,Matches
+Danilo,br BRA,MF,21-324,1.6,1,0,0,2,1,0,0,0,4,0,0,0,11,2,2,50.0,Matches
+Sam Surridge,eng ENG,FW,24-234,3.1,2,0,0,10,8,3,3,0,0,0,0,0,15,13,15,46.4,Matches
+André Ayew,gh GHA,FW,33-092,2.5,0,0,0,1,5,1,1,0,2,0,0,0,5,8,16,33.3,Matches
+Giulian Biancone,fr FRA,DF,22-353,0.2,0,0,0,0,0,0,1,1,1,0,0,0,5,2,0,100.0,Matches
+Alexander Mighten,eng ENG,FW,20-342,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Matches
+Cafú,pt POR,MF,30-021,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
 Squad Total,,,27.2,27.0,59,0,0,305,291,41,418,239,272,1,8,0,1368,412,420,49.5,
 Opponent Total,,,27.7,27.0,48,0,0,307,290,41,587,216,224,4,3,1,1451,420,412,50.5,

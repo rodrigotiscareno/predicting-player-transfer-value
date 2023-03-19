@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Alex Bangura,sl SLE,DF,23-249,20.7,33,1.6,30,3,0,0,0,0,4,0.19,3,1,0,0,0,0,Matches
+Leon Bergsma,nl NED,DF,26-053,19.2,13,0.68,12,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mitchell Paulissen,nl NED,MF,29-332,18.5,56,3.03,42,6,2,3,1,2,1,0.05,1,0,0,0,0,0,Matches
+Daniël van Kaam,nl NED,MF,22-269,17.7,26,1.47,23,0,0,3,0,0,1,0.06,1,0,0,0,0,0,Matches
+Mees Hoedemakers,nl NED,MF,25-029,16.4,36,2.2,26,7,0,1,0,2,3,0.18,3,0,0,0,0,0,Matches
+Marco Tol,nl NED,DF,24-328,16.2,8,0.49,8,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+João Virgínia,pt POR,GK,23-160,17.0,4,0.24,2,2,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Doke Schmidt,nl NED,DF,30-346,15.6,20,1.28,16,2,0,1,1,0,2,0.13,2,0,0,0,0,0,Matches
+Silvester van der Water,nl NED,"FW,MF",26-170,12.3,33,2.67,24,4,2,1,2,0,0,0.0,0,0,0,0,0,0,Matches
+Floris Smand,nl NED,DF,20-058,13.3,9,0.68,5,2,0,0,0,2,0,0.0,0,0,0,0,0,0,Matches
+Jamie Jacobs,nl NED,MF,25-106,11.8,30,2.55,19,2,3,4,1,1,3,0.25,1,0,1,1,0,0,Matches
+Sai van Wermeskerken,jp JPN,DF,28-264,12.7,20,1.57,17,2,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Michael Breij,nl NED,"FW,MF",26-063,12.7,37,2.91,29,2,2,1,2,1,5,0.39,5,0,0,0,0,0,Matches
+Roberts Uldriķis,lv LVA,FW,24-350,10.2,21,2.06,16,0,2,2,1,0,0,0.0,0,0,0,0,0,0,Matches
+Remco Balk,nl NED,"FW,MF",22-017,9.7,26,2.68,19,0,1,3,3,0,1,0.1,0,0,0,0,1,0,Matches
+Robbin Ruiter,nl NED,GK,35-359,8.0,4,0.5,4,0,0,0,0,0,1,0.12,1,0,0,0,0,0,Matches
+Tom Boere,nl NED,FW,30-115,6.8,9,1.31,8,0,0,0,1,0,1,0.15,1,0,0,0,0,0,Matches
+Navarone Foor,nl NED,"MF,FW",31-043,5.4,20,3.7,13,2,2,1,1,1,3,0.55,3,0,0,0,0,0,Matches
+Bjørn Johnsen,no NOR,FW,31-133,5.2,10,1.94,8,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Milan Smit,nl NED,"FW,MF",20-034,3.8,8,2.07,6,0,0,0,1,1,2,0.52,1,0,0,0,0,1,Matches
+Robin Maulun,fr FRA,"MF,FW",26-116,3.4,16,4.75,14,1,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Felix Mambimbi,ch SUI,"FW,MF",22-060,3.3,8,2.39,5,1,1,0,1,0,1,0.3,1,0,0,0,0,0,Matches
+Mimoun Mahi,ma MAR,"FW,MF",29-006,3.2,10,3.1,9,1,0,0,0,0,3,0.93,3,0,0,0,0,0,Matches
+Calvin Mac-Intosch,sr SUR,DF,33-222,2.8,1,0.35,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+David Sambissa,ga GAB,"FW,MF",27-067,4.6,24,5.26,20,1,0,0,3,0,2,0.44,2,0,0,0,0,0,Matches
+Jasper Ter Heide,nl NED,"MF,FW",23-355,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Vincent Pichel,nl NED,"MF,FW",21-127,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ben Rienstra,nl NED,"MF,DF",32-287,0.5,2,4.0,1,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Sékou Oumar Sylla,gn GUI,DF,24-069,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Sam Hendriks,nl NED,MF,28-053,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,26.2,25.0,484,19.36,377,40,17,22,18,10,33,1.32,28,1,1,1,1,1,
+Opponent Total,,,25.6,25.0,743,29.72,556,63,40,46,27,11,73,2.92,51,3,4,9,4,2,

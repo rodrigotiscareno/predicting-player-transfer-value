@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Filipe Relvas,pt POR,DF,23-180,24.9,1438,1321,109,47,0,17,12,62,0,0,0,0,1183,8,4,Matches
+Fahd Moufi,ma MAR,DF,26-318,21.7,1105,822,282,16,2,2,96,266,0,0,0,0,775,1,33,Matches
+Kosuke Nakamura,jp JPN,GK,28-020,21.0,829,590,236,48,0,3,0,0,0,0,0,0,568,3,1,Matches
+Pedrão,br BRA,DF,25-320,21.0,1157,1094,62,30,5,18,9,32,0,0,0,0,929,1,12,Matches
+Moustapha Seck,sn SEN,DF,27-024,19.4,789,579,202,19,2,0,103,175,8,5,2,0,501,8,35,Matches
+Welinton Júnior,br BRA,"FW,MF",29-284,16.7,291,261,27,4,1,2,10,2,1,0,0,0,193,3,18,Matches
+Paulo Estrela Moreira,pt POR,MF,24-027,13.9,715,620,92,37,5,11,64,5,50,26,16,0,561,3,8,Matches
+Lamine Diaby,fr FRA,"MF,DF",26-197,13.3,479,467,11,10,0,3,5,1,0,0,0,0,389,1,10,Matches
+Yago Cariello,br BRA,FW,23-235,12.4,211,185,25,0,0,2,3,2,0,0,0,0,129,1,6,Matches
+Zié Mohamed Ouattara,ci CIV,"FW,MF",23-069,12.1,493,445,45,12,1,2,36,26,7,2,3,0,363,3,12,Matches
+Luquinha,br BRA,"MF,FW",22-167,13.0,527,486,35,9,3,1,39,2,24,18,4,0,408,6,14,Matches
+Pedro Sá,pt POR,MF,29-108,8.1,344,329,12,11,1,1,2,1,0,0,0,0,262,3,5,Matches
+Bryan Róchez,hn HON,FW,28-077,7.9,143,132,11,0,1,0,2,3,0,0,0,0,89,0,5,Matches
+Gustavo Klismahn,br BRA,MF,23-116,6.1,184,169,14,2,0,0,20,1,11,10,0,0,129,1,6,Matches
+Rui Gomes,pt POR,"FW,MF",25-196,8.7,300,251,47,12,3,0,55,12,22,10,6,0,203,2,20,Matches
+Ewerton,br BRA,MF,30-108,6.5,214,208,5,5,0,2,1,0,0,0,0,0,170,1,5,Matches
+Lucão,br BRA,DF,30-240,5.5,288,270,18,18,0,0,0,0,0,0,0,0,244,0,0,Matches
+Henrique Jocú,pt POR,"MF,FW",21-191,5.1,219,196,23,15,1,7,12,0,8,4,2,1,176,0,2,Matches
+Park Ji-soo,kr KOR,DF,28-279,5.0,265,242,22,16,1,4,0,6,0,0,0,0,207,1,3,Matches
+Anderson,br BRA,"FW,MF",24-246,4.2,140,137,3,0,1,0,6,3,0,0,0,0,111,0,5,Matches
+Nonoca,br BRA,MF,24-304,3.9,118,101,16,9,0,0,7,1,5,0,5,0,99,1,3,Matches
+Maurício,br BRA,"MF,DF",34-149,4.8,211,200,9,6,1,1,4,2,1,0,1,0,181,2,3,Matches
+Samuel Portugal,br BRA,GK,28-355,4.0,138,105,33,6,0,0,0,0,0,0,0,0,91,0,0,Matches
+Willyan,br BRA,"DF,MF",28-051,4.0,252,236,15,12,0,1,1,3,0,0,0,0,191,1,2,Matches
+Yony González,co COL,"FW,MF",28-251,2.9,64,63,0,0,1,1,8,0,0,0,0,0,42,1,3,Matches
+Gonçalo Costa,pt POR,"FW,DF",23-029,2.1,80,71,8,0,0,0,10,8,0,0,0,0,51,1,2,Matches
+Adewele Sapara,ng NGA,"FW,MF",28-051,1.3,39,36,2,0,0,1,6,0,1,0,1,0,32,1,0,Matches
+Wagner,br BRA,DF,23-239,1.0,52,40,12,0,0,0,0,12,0,0,0,0,44,0,0,Matches
+Ricardo Matos,pt POR,"FW,MF",22-359,2.1,39,37,2,0,0,0,0,0,0,0,0,0,29,0,0,Matches
+Bruno Reis,pt POR,MF,23-242,0.5,19,19,0,0,0,0,0,0,0,0,0,0,12,0,2,Matches
+Sérgio Conceição,pt POR,MF,26-127,0.1,16,13,3,0,0,0,3,3,0,0,0,0,13,0,1,Matches
+David Pastor,br BRA,MF,23-027,0.0,3,3,0,0,0,0,1,0,0,0,0,0,3,0,0,Matches
+Wilinton Aponzá,co COL,MF,22-355,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,26.2,25.0,11163,9729,1381,344,29,79,515,628,138,75,40,1,8379,53,220,
+Opponent Total,,,26.9,25.0,11521,10084,1398,406,51,96,497,600,139,60,48,0,8782,39,204,

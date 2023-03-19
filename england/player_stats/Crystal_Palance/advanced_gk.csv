@@ -1,6 +1,5 @@
-Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Goals,Goals,Goals,Goals,Goals,Expected,Expected,Expected,Expected,Launched,Launched,Launched,Passes,Passes,Passes,Passes,Goal Kicks,Goal Kicks,Goal Kicks,Crosses,Crosses,Crosses,Sweeper,Sweeper,Sweeper,Unnamed: 30_level_0
-Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att,Thr,Launch%,AvgLen,Att,Launch%,AvgLen,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist,Matches
-Vicente Guaita,es ESP,GK,36-067,26.0,33,2,0,4,2,32.1,0.27,1.1,0.04,113,318,35.5,609,133,35.6,32.7,205,49.3,37.5,406,25,6.2,26,1.0,13.2,Matches
-Joseph Whitworth,eng ENG,GK,19-017,1.0,1,0,0,0,0,0.8,0.17,-0.2,-0.16,4,14,28.6,38,4,28.9,29.1,8,37.5,32.5,9,0,0.0,2,2.0,19.3,Matches
+Player,Nation,Pos,Age,90s,GA,PKA,FK,CK,OG,PSxG,PSxG/SoT,PSxG+/-,/90,Cmp,Att,Cmp%,Att.1,Thr,Launch%,AvgLen,Att.2,Launch%.1,AvgLen.1,Opp,Stp,Stp%,#OPA,#OPA/90,AvgDist,Matches
+Vicente Guaita,es ESP,GK,36-068,26.0,33,2,0,4,2,32.1,0.27,1.1,0.04,113,318,35.5,609,133,35.6,32.7,205,49.3,37.5,406,25,6.2,26,1.0,13.2,Matches
+Joseph Whitworth,eng ENG,GK,19-018,1.0,1,0,0,0,0,0.8,0.17,-0.2,-0.16,4,14,28.6,38,4,28.9,29.1,8,37.5,32.5,9,0,0.0,2,2.0,19.3,Matches
 Squad Total,,,27.6,27.0,34,2,0,4,2,33.0,0.26,1.0,0.04,117,332,35.2,647,137,35.2,32.5,213,48.8,37.3,415,25,6.0,28,1.04,13.4,
 Opponent Total,,,27.3,27.0,21,0,1,4,1,24.9,0.28,4.9,0.18,97,230,42.2,750,119,24.7,28.4,150,30.0,29.9,298,17,5.7,38,1.41,16.4,

@@ -1,0 +1,30 @@
+Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+Alexander Nübel,de GER,GK,26-170,27.0,808,562,246,60,1,2,0,0,0,0,0,0,614,0,0,Matches
+Axel Disasi,fr FRA,DF,25-008,26.0,1424,1364,57,36,2,21,12,21,0,0,0,0,1187,3,12,Matches
+Youssouf Fofana,fr FRA,MF,24-068,24.4,1269,1227,34,22,7,11,5,1,0,0,0,0,1034,8,20,Matches
+Caio Henrique Oliveira Silva,br BRA,DF,25-231,22.5,1379,1085,289,59,0,3,110,182,48,30,13,0,1044,5,28,Matches
+Aleksandr Golovin,ru RUS,"MF,FW",26-293,20.9,838,755,80,22,6,7,82,11,47,17,24,1,590,3,27,Matches
+Wissam Ben Yedder,fr FRA,FW,32-219,15.5,407,381,25,0,1,0,13,0,0,0,0,0,308,1,12,Matches
+Breel Embolo,ch SUI,FW,26-033,18.5,389,368,14,1,3,3,1,1,0,0,0,0,265,7,18,Matches
+Krépin Diatta,sn SEN,"MF,FW",24-022,18.1,605,592,9,1,0,1,46,8,0,0,0,0,453,4,19,Matches
+Guillermo Maripán,cl CHI,DF,28-317,16.5,814,784,29,25,0,6,0,0,0,0,0,0,709,1,8,Matches
+Mohamed Camara,ml MLI,MF,23-072,16.4,881,851,25,21,3,15,3,4,0,0,0,0,773,5,10,Matches
+Vanderson,br BRA,DF,21-271,14.9,907,772,132,12,0,11,58,119,1,0,1,0,715,3,16,Matches
+Benoît Badiashile,fr FRA,DF,21-358,9.3,468,455,13,13,0,5,0,0,0,0,0,0,403,0,2,Matches
+Eliot Matazo,be BEL,MF,21-032,9.0,350,343,6,5,0,5,0,0,0,0,0,0,291,1,4,Matches
+Ruben Aguilar,fr FRA,DF,29-327,8.6,543,455,87,7,0,1,22,80,0,0,0,0,445,1,10,Matches
+Malang Sarr,fr FRA,DF,24-055,8.0,517,503,13,9,0,10,1,3,0,0,0,0,460,1,5,Matches
+Eliesse Ben Seghir,fr FRA,"FW,MF",18-031,6.8,237,223,14,0,2,3,5,0,2,2,0,0,186,0,8,Matches
+Takumi Minamino,jp JPN,"MF,FW",28-062,5.5,176,157,18,5,0,2,28,2,10,9,1,0,117,1,7,Matches
+Ismail Jakobs,sn SEN,"DF,MF",23-214,7.2,443,376,62,11,0,1,39,48,3,1,0,0,295,5,14,Matches
+Kevin Volland,de GER,"MF,FW",30-232,3.9,120,119,0,0,1,0,2,0,0,0,0,0,78,1,6,Matches
+Maghnes Akliouche,fr FRA,"MF,FW",21-022,3.4,131,125,5,1,0,0,10,3,1,1,0,0,99,1,5,Matches
+Gelson Martins,pt POR,"MF,FW",27-312,3.8,155,154,1,0,0,0,5,1,0,0,0,0,121,0,6,Matches
+Jean Lucas,br BRA,MF,24-270,3.2,154,152,1,1,1,2,1,0,0,0,0,0,134,1,1,Matches
+Chrislain Matsima,fr FRA,DF,20-308,1.4,118,98,18,3,0,0,2,15,0,0,0,0,101,2,0,Matches
+Myron Boadu,nl NED,FW,22-064,1.5,35,34,1,0,0,0,1,0,0,0,0,0,22,0,1,Matches
+Sofiane Diop,fr FRA,MF,22-283,0.7,33,26,7,1,0,0,7,0,6,4,2,0,20,0,1,Matches
+Soungoutou Magassa,ml MLI,MF,19-162,0.8,27,25,1,1,0,0,0,0,0,0,0,0,22,1,0,Matches
+Edan Diop,fr FRA,DF,18-203,0.7,54,51,2,1,1,0,2,1,0,0,0,0,43,1,3,Matches
+Squad Total,,,25.4,27.0,13282,12037,1189,317,28,109,455,500,118,64,41,1,10529,56,243,
+Opponent Total,,,27.0,27.0,14102,12864,1196,383,41,86,407,419,113,37,40,0,11455,42,273,

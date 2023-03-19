@@ -1,0 +1,34 @@
+Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
+Odisseas Vlachodimos,gr GRE,GK,28-327,25.0,1,0.04,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Álex Grimaldo,es ESP,DF,27-180,23.7,80,3.37,70,4,0,5,1,0,14,0.59,12,0,0,1,1,0,Matches
+João Mário,pt POR,FW,30-059,21.3,111,5.2,85,9,4,5,8,0,12,0.56,11,0,0,1,0,0,Matches
+Nicolás Otamendi,ar ARG,DF,35-035,22.8,23,1.01,16,1,0,4,1,1,2,0.09,1,1,0,0,0,0,Matches
+António Silva,pt POR,DF,19-140,21.9,13,0.59,13,0,0,0,0,0,4,0.18,4,0,0,0,0,0,Matches
+Florentino Luís,pt POR,MF,23-212,20.2,26,1.29,22,1,0,0,1,2,5,0.25,5,0,0,0,0,0,Matches
+Gonçalo Ramos,pt POR,FW,21-272,18.0,36,2.0,19,0,4,8,5,0,6,0.33,2,0,1,2,1,0,Matches
+Alexander Bah,dk DEN,DF,25-100,18.3,55,3.01,45,3,2,0,3,2,5,0.27,4,0,0,0,1,0,Matches
+Rafa Silva,pt POR,"MF,FW",29-306,15.9,77,4.85,46,0,13,4,12,2,15,0.94,8,0,2,2,3,0,Matches
+Enzo Fernández,ar ARG,MF,22-061,15.4,68,4.42,55,10,0,1,2,0,11,0.72,10,1,0,0,0,0,Matches
+David Neres,br BRA,"FW,MF",26-016,15.1,70,4.64,50,8,6,6,0,0,11,0.73,9,0,1,1,0,0,Matches
+Fredrik Aursnes,no NOR,"MF,FW",27-099,15.0,51,3.41,45,0,0,5,1,0,8,0.53,7,0,0,1,0,0,Matches
+Chiquinho,pt POR,"MF,FW",27-243,8.7,33,3.77,25,7,0,1,0,0,4,0.46,4,0,0,0,0,0,Matches
+Gilberto,br BRA,DF,30-012,6.6,24,3.61,20,0,1,2,1,0,2,0.3,1,0,0,1,0,0,Matches
+Morato,br BRA,DF,21-262,5.2,3,0.58,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Julian Draxler,de GER,"MF,FW",29-180,4.5,21,4.64,20,0,0,1,0,0,2,0.44,2,0,0,0,0,0,Matches
+Gonçalo Guedes,pt POR,"FW,MF",26-110,3.5,15,4.3,11,0,3,0,1,0,3,0.86,1,0,1,0,1,0,Matches
+Petar Musa,hr CRO,FW,25-015,5.8,27,4.63,20,0,1,3,1,2,4,0.69,2,0,0,1,1,0,Matches
+Diogo Gonçalves,pt POR,FW,26-041,3.4,15,4.5,11,2,0,2,0,0,2,0.6,2,0,0,0,0,0,Matches
+Mihailo Ristić,rs SRB,DF,27-139,1.2,4,3.24,4,0,0,0,0,0,1,0.81,1,0,0,0,0,0,Matches
+Henrique Araújo,pt POR,"MF,FW",21-059,0.8,2,2.57,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+João Neves,pt POR,"FW,MF",18-173,0.7,3,4.35,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Julian Weigl,de GER,MF,27-192,0.6,2,3.1,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Roman Yaremchuk,ua UKR,FW,27-112,0.6,4,7.2,3,0,0,0,1,0,1,1.8,1,0,0,0,0,0,Matches
+Rodrigo Pinho,br BRA,FW,31-293,0.5,1,1.96,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Lucas Veríssimo,br BRA,DF,27-260,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+John Brooks,us USA,"MF,DF",30-050,0.0,1,22.5,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Jan Vertonghen,be BEL,DF,35-329,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Cher Ndour,it ITA,MF,18-235,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Andreas Schjelderup,no NOR,FW,18-291,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Casper Tengstedt,dk DEN,FW,22-291,0.0,1,90.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,26.6,25.0,767,30.68,594,45,34,47,38,9,112,4.48,87,2,5,10,8,0,
+Opponent Total,,,26.6,25.0,267,10.68,175,30,16,16,20,10,24,0.96,19,0,2,1,2,0,
