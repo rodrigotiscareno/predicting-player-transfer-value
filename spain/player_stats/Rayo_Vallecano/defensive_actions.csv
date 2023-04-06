@@ -1,31 +1,31 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Francisco Garcia,es ESP,DF,23-232,25.9,45,29,32,8,5,29,51,56.9,22,30,5,25,33,78,38,0,Matches
-Stole Dimitrievski,mk MKD,GK,29-099,25.0,0,0,0,0,0,0,0,,0,2,0,2,1,1,11,3,Matches
-Iván Balliu,al ALB,DF,31-092,24.2,32,20,16,13,3,12,18,66.7,6,18,2,16,17,49,56,1,Matches
-Catena,es ESP,DF,28-157,24.0,17,11,13,4,0,9,19,47.4,10,23,19,4,12,29,110,1,Matches
-Florian Lejeune,fr FRA,DF,31-318,22.5,21,12,15,5,1,13,18,72.2,5,22,14,8,13,34,97,0,Matches
-Isaac Palazón Camacho,es ESP,"FW,MF",28-097,22.2,26,21,7,14,5,13,34,38.2,21,26,1,25,10,36,20,0,Matches
-Álvaro García,es ESP,"FW,MF",30-158,22.4,35,20,14,7,14,6,19,31.6,13,24,3,21,21,56,15,0,Matches
-Sergio Camello,es ESP,FW,22-052,20.3,13,8,3,8,2,4,10,40.0,6,6,0,6,1,14,18,0,Matches
-Óscar Trejo,ar ARG,"MF,FW",34-342,17.6,33,24,7,16,10,7,23,30.4,16,21,3,18,6,39,7,1,Matches
-Óscar Valentín,es ESP,MF,28-226,18.5,66,36,21,34,11,34,80,42.5,46,40,7,33,29,95,20,0,Matches
-Santi Comesaña,es ESP,MF,26-180,17.2,48,30,20,27,1,26,51,51.0,25,18,1,17,19,67,10,0,Matches
-Pathé Ciss,sn SEN,"MF,DF",29-018,11.6,32,24,9,18,5,11,27,40.7,16,19,9,10,18,50,26,0,Matches
-Unai López,es ESP,MF,27-155,10.1,23,15,6,14,3,9,24,37.5,15,9,1,8,12,35,4,1,Matches
-Radamel Falcao,co COL,"FW,MF",37-052,5.6,3,3,1,2,0,1,6,16.7,5,4,1,3,2,5,9,0,Matches
-Salvi,es ESP,"FW,MF",32-004,3.5,7,5,2,3,2,1,3,33.3,2,0,0,0,2,9,0,0,Matches
-Abdul Mumin,gh GHA,DF,24-301,3.4,3,2,2,1,0,0,0,,0,4,2,2,2,5,8,1,Matches
-Raúl de Tomás,es ESP,FW,28-168,2.9,1,0,0,0,1,1,2,50.0,1,0,0,0,0,1,0,0,Matches
-Andrés Martín,es ESP,"FW,MF",23-266,1.6,4,2,2,1,1,3,5,60.0,2,1,0,1,0,4,2,0,Matches
-Mario Hernández,es ESP,DF,24-068,1.1,3,2,2,1,0,3,7,42.9,4,2,0,2,2,5,0,0,Matches
-Diego López,es ESP,GK,41-151,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1,Matches
-José Pozo,es ESP,"MF,FW",27-019,0.9,2,2,0,2,0,0,0,,0,0,0,0,1,3,1,0,Matches
-Randy Ntekja,fr FRA,"FW,MF",25-118,1.3,4,2,2,2,0,1,1,100.0,0,2,0,2,2,6,3,0,Matches
-Pep Chavarría,es ESP,"FW,DF",24-358,1.1,1,1,0,0,1,0,1,0.0,1,1,0,1,0,1,5,0,Matches
-Bebé,cv CPV,FW,32-265,0.7,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0,Matches
-Pablo Muñoz,es ESP,MF,19-211,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
-Mario Suárez,es ESP,"DF,MF",36-038,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
-Diego Méndez,es ESP,MF,19-217,0.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-Esteban Saveljich,me MNE,FW,31-318,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,28.7,26.0,419,269,174,180,65,183,402,45.5,219,274,68,206,204,623,460,9,
-Opponent Total,,,28.0,26.0,471,270,219,205,47,208,397,52.4,189,293,97,196,245,716,557,8,
+Francisco Garcia,es ESP,DF,23-235,26.9,51,33,35,10,6,33,56,58.9,23,31,6,25,34,85,43,0,Matches
+Stole Dimitrievski,mk MKD,GK,29-102,26.0,0,0,0,0,0,0,0,,0,2,0,2,1,1,13,3,Matches
+Iván Balliu,al ALB,DF,31-095,25.2,35,21,18,14,3,12,18,66.7,6,18,2,16,19,54,60,1,Matches
+Catena,es ESP,DF,28-160,25.0,19,11,15,4,0,9,19,47.4,10,24,19,5,12,31,119,1,Matches
+Florian Lejeune,fr FRA,DF,31-321,23.5,22,13,16,5,1,13,18,72.2,5,22,14,8,13,35,105,0,Matches
+Isaac Palazón Camacho,es ESP,"FW,MF",28-100,23.2,28,23,8,14,6,13,36,36.1,23,30,2,28,11,39,24,0,Matches
+Álvaro García,es ESP,"FW,MF",30-161,23.0,36,20,15,7,14,6,19,31.6,13,24,3,21,22,58,16,0,Matches
+Sergio Camello,es ESP,FW,22-055,21.2,13,8,3,8,2,4,12,33.3,8,6,0,6,2,15,21,0,Matches
+Óscar Trejo,ar ARG,"MF,FW",34-345,18.4,33,24,7,16,10,7,26,26.9,19,23,3,20,6,39,7,1,Matches
+Óscar Valentín,es ESP,MF,28-229,19.4,68,37,21,36,11,36,89,40.4,53,41,8,33,31,99,22,0,Matches
+Santi Comesaña,es ESP,MF,26-183,18.2,51,32,21,29,1,28,54,51.9,26,19,1,18,19,70,11,0,Matches
+Pathé Ciss,sn SEN,"MF,DF",29-021,11.6,32,24,9,18,5,11,27,40.7,16,19,9,10,18,50,26,0,Matches
+Unai López,es ESP,MF,27-158,10.4,24,15,7,14,3,10,26,38.5,16,10,1,9,12,36,4,1,Matches
+Radamel Falcao,co COL,"FW,MF",37-055,5.6,3,3,1,2,0,1,6,16.7,5,4,1,3,2,5,9,0,Matches
+Salvi,es ESP,"FW,MF",32-007,3.6,7,5,2,3,2,1,3,33.3,2,0,0,0,2,9,0,0,Matches
+Abdul Mumin,gh GHA,DF,24-304,3.5,3,2,2,1,0,0,0,,0,4,2,2,2,5,8,1,Matches
+Raúl de Tomás,es ESP,FW,28-171,3.0,1,0,0,0,1,1,2,50.0,1,0,0,0,0,1,0,0,Matches
+Andrés Martín,es ESP,"FW,MF",23-269,1.6,4,2,2,1,1,3,5,60.0,2,1,0,1,0,4,2,0,Matches
+Mario Hernández,es ESP,DF,24-071,1.1,3,2,2,1,0,3,7,42.9,4,2,0,2,2,5,0,0,Matches
+Diego López,es ESP,GK,41-154,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1,Matches
+José Pozo,es ESP,"MF,FW",27-022,0.9,2,2,0,2,0,0,0,,0,0,0,0,1,3,1,0,Matches
+Pep Chavarría,es ESP,"FW,MF",24-361,1.4,2,2,1,0,1,0,1,0.0,1,1,0,1,0,2,5,0,Matches
+Randy Ntekja,fr FRA,"FW,MF",25-121,1.3,4,2,2,2,0,1,1,100.0,0,2,0,2,2,6,3,0,Matches
+Bebé,cv CPV,FW,32-268,0.7,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0,Matches
+Pablo Muñoz,es ESP,MF,19-214,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches
+Mario Suárez,es ESP,"DF,MF",36-041,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+Diego Méndez,es ESP,MF,19-220,0.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Esteban Saveljich,me MNE,FW,31-321,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,28.7,27.0,441,281,187,187,67,192,428,44.9,236,285,71,214,212,653,499,9,
+Opponent Total,,,27.9,27.0,490,282,229,214,47,213,408,52.2,195,304,97,207,251,741,582,8,

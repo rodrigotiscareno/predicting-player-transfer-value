@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Stijn van Gassel,nl NED,GK,26-167,27.0,1025,745,276,45,0,0,0,0,0,0,0,0,655,4,0,Matches
-Siebe Horemans,be BEL,DF,24-305,26.2,1351,1085,264,34,1,24,59,230,0,0,0,0,979,2,36,Matches
-Redouan El Yaakoubi,nl NED,DF,27-068,25.5,1189,1135,48,47,2,17,6,1,0,0,0,0,885,6,8,Matches
-Kenzo Goudmijn,nl NED,MF,21-106,24.5,873,815,54,6,3,12,27,5,0,0,0,0,649,4,23,Matches
-Nathan Tjoe-A-On,nl NED,DF,21-102,23.0,1037,829,207,23,1,13,49,183,1,1,0,0,773,1,30,Matches
-Julian Baas,nl NED,"MF,FW",20-352,21.3,708,622,83,28,0,5,69,5,50,28,17,0,522,3,21,Matches
-Marouan Azarkan,nl NED,"FW,MF",21-116,16.1,561,481,77,22,6,1,102,17,28,24,3,0,359,3,16,Matches
-Couhaib Driouech,nl NED,"FW,MF",20-351,19.8,552,526,26,1,1,5,47,17,4,2,1,0,385,0,18,Matches
-Sven Nieuwpoort,nl NED,DF,29-355,16.6,505,476,28,19,0,0,1,1,0,0,0,0,443,1,1,Matches
-Reda Kharchouch,nl NED,FW,27-219,12.6,312,296,16,0,0,1,4,6,0,0,0,0,197,0,9,Matches
-Lazaros Lamprou,gr GRE,"FW,MF",25-105,11.7,360,316,44,10,2,6,38,9,20,10,9,0,250,0,13,Matches
-Serano Seymor,nl NED,DF,21-089,10.9,410,397,13,10,0,2,2,1,0,0,0,0,333,0,2,Matches
-Peer Koopmeiners,nl NED,MF,22-334,9.4,340,331,9,5,0,1,4,4,0,0,0,0,272,0,3,Matches
-Yassin Ayoub,nl NED,MF,29-028,7.4,347,316,29,11,1,1,19,4,14,3,8,0,275,2,8,Matches
-Mike van Duinen,nl NED,"FW,MF",31-148,10.0,144,132,10,0,0,0,3,2,0,0,0,0,85,2,9,Matches
-Adrian Fein,de GER,MF,24-016,8.1,318,308,10,9,0,2,3,1,0,0,0,0,257,0,4,Matches
-Joshua Eijgenraam,nl NED,MF,22-044,6.5,202,199,2,1,0,1,1,1,0,0,0,0,152,1,8,Matches
-Nikolas Agrafiotis,nl NED,FW,22-343,5.2,147,146,1,0,2,0,1,0,0,0,0,0,85,0,5,Matches
-Nathan Markelo,cw CUW,"DF,MF",24-086,4.1,173,150,22,3,0,1,4,19,0,0,0,0,136,1,4,Matches
-Noah Naujoks,nl NED,MF,20-336,3.3,88,82,6,0,0,0,4,0,0,0,0,0,62,0,4,Matches
-Maxime Awoudja,de GER,DF,25-060,2.8,97,95,2,2,0,2,1,0,0,0,0,0,73,0,0,Matches
-Arthur Zagre,fr FRA,DF,21-181,2.1,73,50,22,2,1,1,0,20,0,0,0,0,56,1,1,Matches
-Raphaël Eyongo,nl NED,"FW,MF",19-317,0.9,17,16,1,0,0,0,0,0,0,0,0,0,9,0,0,Matches
-Jacky Donkor,be BEL,"FW,MF",24-142,0.7,37,33,4,0,0,0,5,4,0,0,0,0,21,0,2,Matches
-Vicente Besuijen,nl NED,"FW,MF",21-358,0.7,25,24,1,0,0,1,2,1,0,0,0,0,18,0,2,Matches
-Luuk Admiraal,nl NED,FW,21-019,0.0,3,3,0,0,0,0,1,0,0,0,0,0,2,0,0,Matches
-Squad Total,,,24.2,27.0,10894,9608,1255,278,20,96,452,531,117,68,38,0,7933,31,227,
-Opponent Total,,,25.8,27.0,15354,14058,1261,270,32,105,587,595,166,88,48,1,12321,35,255,
+Stijn van Gassel,nl NED,GK,26-170,27.0,1026,745,277,45,0,0,0,0,0,0,0,0,656,4,0,Matches
+Siebe Horemans,be BEL,DF,24-308,26.2,1352,1086,264,34,1,24,59,230,0,0,0,0,980,2,35,Matches
+Redouan El Yaakoubi,nl NED,DF,27-071,25.5,1192,1138,48,47,2,17,6,1,0,0,0,0,886,6,9,Matches
+Kenzo Goudmijn,nl NED,MF,21-109,24.5,872,814,54,6,3,12,27,5,0,0,0,0,649,4,22,Matches
+Nathan Tjoe-A-On,nl NED,DF,21-105,23.0,1038,830,207,23,1,13,49,183,1,1,0,0,773,1,30,Matches
+Julian Baas,nl NED,"MF,FW",20-355,21.3,708,622,83,28,0,5,69,5,50,28,17,0,522,3,21,Matches
+Marouan Azarkan,nl NED,"FW,MF",21-119,16.1,561,481,77,22,6,1,102,17,28,24,3,0,359,3,16,Matches
+Couhaib Driouech,nl NED,"FW,MF",20-354,19.8,552,526,26,1,1,5,47,17,4,2,1,0,385,0,18,Matches
+Sven Nieuwpoort,nl NED,DF,29-358,16.6,505,476,28,19,0,0,1,1,0,0,0,0,443,1,1,Matches
+Reda Kharchouch,nl NED,FW,27-222,12.6,312,296,16,0,0,1,4,6,0,0,0,0,197,0,9,Matches
+Lazaros Lamprou,gr GRE,"FW,MF",25-108,11.7,361,317,44,10,2,6,38,9,20,10,9,0,251,0,13,Matches
+Serano Seymor,nl NED,DF,21-092,10.9,410,397,13,10,0,2,2,1,0,0,0,0,333,0,2,Matches
+Peer Koopmeiners,nl NED,MF,22-337,9.4,340,331,9,5,0,1,4,4,0,0,0,0,272,0,3,Matches
+Yassin Ayoub,nl NED,MF,29-031,7.4,346,315,29,11,1,1,19,4,14,3,8,0,275,2,8,Matches
+Mike van Duinen,nl NED,"FW,MF",31-151,10.0,144,132,10,0,0,0,3,2,0,0,0,0,85,2,9,Matches
+Adrian Fein,de GER,MF,24-019,8.1,318,308,10,9,0,2,3,1,0,0,0,0,257,0,4,Matches
+Joshua Eijgenraam,nl NED,MF,22-047,6.5,202,199,2,1,0,1,1,1,0,0,0,0,152,1,8,Matches
+Nikolas Agrafiotis,nl NED,FW,22-346,5.2,146,145,1,0,2,0,1,0,0,0,0,0,85,0,5,Matches
+Nathan Markelo,cw CUW,"DF,MF",24-089,4.1,173,150,22,3,0,1,4,19,0,0,0,0,136,1,4,Matches
+Noah Naujoks,nl NED,MF,20-339,3.3,88,82,6,0,0,0,4,0,0,0,0,0,62,0,4,Matches
+Maxime Awoudja,de GER,DF,25-063,2.8,97,95,2,2,0,2,1,0,0,0,0,0,73,0,0,Matches
+Arthur Zagre,fr FRA,DF,21-184,2.1,73,50,22,2,1,1,0,20,0,0,0,0,56,1,1,Matches
+Raphaël Eyongo,nl NED,"FW,MF",19-320,0.9,17,16,1,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+Jacky Donkor,be BEL,"FW,MF",24-145,0.7,37,33,4,0,0,0,5,4,0,0,0,0,21,0,2,Matches
+Vicente Besuijen,nl NED,"FW,MF",21-361,0.7,25,24,1,0,0,1,2,1,0,0,0,0,18,0,2,Matches
+Luuk Admiraal,nl NED,FW,21-022,0.0,3,3,0,0,0,0,1,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,24.2,27.0,10898,9611,1256,278,20,96,452,531,117,68,38,0,7937,31,226,
+Opponent Total,,,25.8,27.0,15360,14064,1261,271,32,105,587,594,166,88,48,1,12327,35,255,

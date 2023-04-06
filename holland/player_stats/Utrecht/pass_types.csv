@@ -1,35 +1,36 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Vasilios Barkas,gr GRE,GK,28-308,26.0,862,616,244,46,0,0,0,0,0,0,0,0,636,2,1,Matches
-Modibo Sagnan,fr FRA,DF,23-354,19.9,997,984,12,11,0,7,1,1,0,0,0,0,823,1,7,Matches
-Jens Toornstra,nl NED,MF,33-364,18.3,1069,952,114,48,3,4,71,10,53,11,32,0,812,3,21,Matches
-Mark van der Maarel,nl NED,DF,33-234,18.3,989,872,116,18,0,11,13,98,0,0,0,0,803,1,15,Matches
-Othman Boussaid,be BEL,"MF,FW",23-027,17.6,798,740,54,4,7,16,66,23,6,4,1,0,583,4,17,Matches
-Sander van de Streek,nl NED,MF,30-010,17.3,537,525,9,2,5,2,14,1,0,0,0,0,355,3,25,Matches
-Sean Klaiber,sr SUR,DF,28-246,17.3,1119,942,177,11,0,9,65,166,0,0,0,0,842,0,26,Matches
-Anastasios Douvikas,gr GRE,FW,23-244,16.6,312,298,13,0,1,3,11,1,0,0,0,0,208,1,15,Matches
-Mike van der Hoorn,nl NED,DF,30-170,16.0,940,922,16,14,0,5,3,2,0,0,0,0,781,2,8,Matches
-Taylor Booth,us USA,"FW,MF",21-307,14.2,581,515,65,18,6,5,86,12,33,17,14,0,416,1,21,Matches
-Luuk Brouwers,nl NED,MF,24-335,14.4,669,645,23,14,0,4,12,7,0,0,0,0,574,1,11,Matches
-Bas Dost,nl NED,FW,33-307,13.6,386,370,15,0,0,1,0,0,0,0,0,0,251,1,4,Matches
-Can Bozdogan,de GER,MF,21-363,13.2,644,559,84,28,4,6,65,3,53,39,8,0,490,1,12,Matches
-Nick Viergever,nl NED,DF,33-243,10.1,590,518,72,18,1,3,5,52,0,0,0,0,457,0,5,Matches
-Daishawn Redan,nl NED,FW,22-060,8.1,162,154,8,1,0,1,5,3,0,0,0,0,116,0,5,Matches
-Hidde ter Avest,nl NED,DF,25-318,8.6,542,410,132,9,0,2,32,123,0,0,0,0,403,0,17,Matches
-Djevencio van der Kust,nl NED,DF,21-338,6.4,269,227,42,5,0,0,27,36,1,0,0,1,207,0,5,Matches
-Moussa Sylla,fr FRA,"FW,MF",23-129,5.9,218,213,5,0,0,0,38,5,0,0,0,0,140,0,18,Matches
-Ruben Kluivert,nl NED,DF,21-317,4.0,270,261,9,6,0,0,0,3,0,0,0,0,218,0,1,Matches
-Amin Younes,de GER,"FW,MF",29-240,3.7,195,180,14,1,0,2,14,9,4,2,1,0,159,1,7,Matches
-Naoki Maeda,jp JPN,FW,28-137,2.8,88,87,1,0,0,0,5,1,0,0,0,0,71,0,4,Matches
-Zakaria Labyad,ma MAR,"FW,MF",30-025,2.0,67,63,2,0,1,0,5,0,1,0,0,0,46,2,3,Matches
-Django Warmerdam,nl NED,DF,27-213,2.8,141,110,31,3,0,1,6,28,0,0,0,0,108,0,4,Matches
-Victor Jensen,dk DEN,"MF,FW",23-054,2.4,126,122,4,3,0,0,5,1,0,0,0,0,98,0,3,Matches
-Ramon Hendriks,nl NED,DF,21-259,2.0,90,83,7,3,0,2,1,4,0,0,0,0,68,0,0,Matches
-Anthony Descotte,be BEL,"FW,MF",19-243,1.0,11,11,0,0,0,0,1,0,0,0,0,0,10,0,1,Matches
-Rocco Robert Shein,ee EST,MF,19-263,0.9,75,74,1,1,0,0,1,0,0,0,0,0,67,0,0,Matches
-Arthur Zagre,fr FRA,"FW,MF",21-181,0.8,24,24,0,0,0,0,1,0,0,0,0,0,21,0,0,Matches
-Bart Ramselaar,nl NED,"FW,MF",26-278,0.6,30,30,0,0,0,1,0,0,0,0,0,0,29,0,0,Matches
-Derensili Fernandes,nl NED,"FW,DF",21-310,0.5,31,29,2,0,1,1,5,2,0,0,0,0,21,0,0,Matches
-Mimoun Mahi,ma MAR,"MF,FW",29-021,0.4,7,7,0,0,0,0,2,0,0,0,0,0,1,0,2,Matches
-Albert Lottin,fr FRA,MF,21-217,0.2,7,5,2,0,0,0,1,1,1,0,0,0,5,0,0,Matches
-Squad Total,,,27.3,26.0,12846,11548,1274,264,29,86,561,592,152,73,56,1,9819,24,258,
-Opponent Total,,,25.6,26.0,12930,11770,1131,240,33,102,506,538,111,55,42,1,9985,29,225,
+Vasilios Barkas,gr GRE,GK,28-311,26.0,862,616,244,46,0,0,0,0,0,0,0,0,636,2,1,Matches
+Modibo Sagnan,fr FRA,DF,23-357,19.9,997,984,12,11,0,7,1,1,0,0,0,0,823,1,7,Matches
+Jens Toornstra,nl NED,MF,34-002,19.3,1128,1005,120,49,4,5,77,11,57,12,35,0,854,3,21,Matches
+Sander van de Streek,nl NED,MF,30-013,18.2,575,561,10,3,5,2,16,1,0,0,0,0,376,4,29,Matches
+Mark van der Maarel,nl NED,DF,33-237,18.3,989,872,116,18,0,11,13,98,0,0,0,0,803,1,15,Matches
+Sean Klaiber,sr SUR,DF,28-249,18.3,1224,1033,191,13,2,10,68,178,0,0,0,0,920,0,28,Matches
+Othman Boussaid,be BEL,"FW,MF",23-030,17.9,812,752,56,5,7,16,68,24,6,4,1,0,589,4,17,Matches
+Anastasios Douvikas,gr GRE,FW,23-247,17.6,329,314,13,0,1,3,11,1,0,0,0,0,216,2,15,Matches
+Mike van der Hoorn,nl NED,DF,30-173,17.0,1001,981,18,16,0,5,3,2,0,0,0,0,833,2,8,Matches
+Taylor Booth,us USA,"FW,MF",21-310,14.9,620,544,75,20,6,5,97,13,40,22,15,0,443,1,22,Matches
+Luuk Brouwers,nl NED,MF,24-338,15.4,731,705,25,16,1,5,13,7,0,0,0,0,623,1,11,Matches
+Bas Dost,nl NED,FW,33-310,13.9,394,378,15,0,0,1,0,0,0,0,0,0,257,1,4,Matches
+Can Bozdogan,de GER,MF,22-001,13.2,644,559,84,28,4,6,65,3,53,39,8,0,490,1,12,Matches
+Nick Viergever,nl NED,DF,33-246,11.1,675,596,79,23,1,3,5,54,0,0,0,0,534,0,5,Matches
+Daishawn Redan,nl NED,FW,22-063,8.1,162,154,8,1,0,1,5,3,0,0,0,0,116,0,5,Matches
+Hidde ter Avest,nl NED,DF,25-321,8.6,542,410,132,9,0,2,32,123,0,0,0,0,403,0,17,Matches
+Djevencio van der Kust,nl NED,DF,21-341,6.4,269,227,42,5,0,0,27,36,1,0,0,1,207,0,5,Matches
+Moussa Sylla,fr FRA,"FW,MF",23-132,5.9,218,213,5,0,0,0,38,5,0,0,0,0,140,0,18,Matches
+Ruben Kluivert,nl NED,DF,21-320,4.0,270,261,9,6,0,0,0,3,0,0,0,0,218,0,1,Matches
+Amin Younes,de GER,"FW,MF",29-243,3.7,195,180,14,1,0,2,14,9,4,2,1,0,159,1,7,Matches
+Ramon Hendriks,nl NED,DF,21-262,3.0,154,137,17,4,0,3,6,13,0,0,0,0,112,0,1,Matches
+Naoki Maeda,jp JPN,FW,28-140,2.8,88,87,1,0,0,0,5,1,0,0,0,0,71,0,4,Matches
+Zakaria Labyad,ma MAR,"FW,MF",30-028,2.0,67,63,2,0,1,0,5,0,1,0,0,0,46,2,3,Matches
+Django Warmerdam,nl NED,DF,27-216,2.8,141,110,31,3,0,1,6,28,0,0,0,0,108,0,4,Matches
+Victor Jensen,dk DEN,"MF,FW",23-057,2.5,129,125,4,3,0,0,6,1,0,0,0,0,99,0,5,Matches
+Bart Ramselaar,nl NED,"FW,MF",26-281,1.3,56,54,2,0,0,1,1,1,0,0,0,0,48,0,0,Matches
+Anthony Descotte,be BEL,"FW,MF",19-246,1.0,11,11,0,0,0,0,1,0,0,0,0,0,10,0,1,Matches
+Fabian de Keijzer,nl NED,GK,22-331,1.0,21,13,8,3,0,0,0,0,0,0,0,0,13,0,0,Matches
+Rocco Robert Shein,ee EST,MF,19-266,0.9,75,74,1,1,0,0,1,0,0,0,0,0,67,0,0,Matches
+Arthur Zagre,fr FRA,"FW,MF",21-184,0.8,24,24,0,0,0,0,1,0,0,0,0,0,21,0,0,Matches
+Derensili Fernandes,nl NED,"FW,DF",21-313,0.5,31,29,2,0,1,1,5,2,0,0,0,0,21,0,0,Matches
+Mimoun Mahi,ma MAR,"MF,FW",29-024,0.4,7,7,0,0,0,0,2,0,0,0,0,0,1,0,2,Matches
+Albert Lottin,fr FRA,MF,21-220,0.2,7,5,2,0,0,0,1,1,1,0,0,0,5,0,0,Matches
+Squad Total,,,27.3,27.0,13448,12084,1338,284,33,90,593,619,163,79,60,1,10262,26,268,
+Opponent Total,,,25.5,27.0,13223,12016,1172,253,33,104,520,551,118,57,45,1,10148,35,231,

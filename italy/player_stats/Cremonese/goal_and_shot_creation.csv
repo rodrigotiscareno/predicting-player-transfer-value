@@ -1,34 +1,34 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Emanuele Valeri,it ITA,DF,24-117,23.1,64,2.78,42,14,1,0,6,1,4,0.17,2,2,0,0,0,0,Matches
-Charles Pickel,ch SUI,MF,25-323,21.8,39,1.79,37,1,0,1,0,0,1,0.05,1,0,0,0,0,0,Matches
-Leonardo Sernicola,it ITA,DF,25-247,19.8,45,2.27,32,5,1,3,4,0,2,0.1,2,0,0,0,0,0,Matches
-David Okereke,ng NGA,"FW,MF",25-217,19.8,63,3.19,37,1,8,7,8,2,3,0.15,0,0,0,1,2,0,Matches
-Matteo Bianchetti,it ITA,DF,30-017,19.8,13,0.66,8,4,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Marco Carnesecchi,it ITA,GK,22-276,19.0,7,0.37,4,3,0,0,0,0,2,0.11,1,1,0,0,0,0,Matches
-Soualiho Meïté,fr FRA,MF,29-017,16.3,28,1.72,24,1,2,0,0,1,2,0.12,2,0,0,0,0,0,Matches
-Cyriel Dessers,ng NGA,FW,28-116,15.0,35,2.33,22,2,3,4,3,1,1,0.07,0,0,1,0,0,0,Matches
-Emanuel Aiwum,at AUT,DF,22-099,15.4,10,0.65,10,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Luka Lochoshvili,ge GEO,DF,24-309,14.0,13,0.93,9,0,1,2,0,1,2,0.14,1,0,0,1,0,0,Matches
-Johan Vásquez,mx MEX,DF,24-163,12.0,12,1.0,11,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Vlad Chiricheș,ro ROU,DF,33-140,8.1,5,0.62,5,0,0,0,0,0,1,0.12,1,0,0,0,0,0,Matches
-Ionuț Radu,ro ROU,GK,25-310,9.0,6,0.67,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Luca Zanimacchia,it ITA,"MF,FW",24-258,8.3,33,3.99,19,6,1,3,2,2,0,0.0,0,0,0,0,0,0,Matches
-Alex Ferrari,it ITA,DF,28-276,7.6,4,0.53,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Frank Tsadjout,it ITA,"FW,MF",23-249,7.5,12,1.6,10,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
-Michele Castagnetti,it ITA,MF,33-097,9.3,37,3.97,30,3,0,3,1,0,2,0.21,2,0,0,0,0,0,Matches
-Marco Benassi,it ITA,MF,28-207,8.2,16,1.96,8,6,1,0,0,1,1,0.12,1,0,0,0,0,0,Matches
-Santiago Ascacíbar,ar ARG,MF,26-037,8.1,25,3.09,17,1,0,7,0,0,3,0.37,1,0,0,2,0,0,Matches
-Gonzalo Escalante,ar ARG,MF,30-007,6.2,10,1.62,8,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
-Daniel Ciofani,it ITA,FW,37-246,7.7,20,2.58,13,0,0,5,1,1,4,0.52,1,0,0,3,0,0,Matches
-Paolo Ghiglione,it ITA,DF,26-060,6.1,15,2.48,13,2,0,0,0,0,2,0.33,2,0,0,0,0,0,Matches
-Felix Afena-Gyan,gh GHA,"FW,MF",20-074,6.7,9,1.34,8,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Giacomo Quagliata,it ITA,DF,23-043,5.5,17,3.1,10,3,0,1,3,0,0,0.0,0,0,0,0,0,0,Matches
-Cristian Buonaiuto,it ITA,"MF,FW",30-095,6.7,45,6.71,19,7,8,6,3,2,1,0.15,0,0,0,1,0,0,Matches
-Jack Hendry,sct SCO,DF,27-331,2.4,4,1.64,4,0,0,0,0,0,1,0.41,1,0,0,0,0,0,Matches
-Pablo Galdames Millán,cl CHI,"MF,DF",26-094,2.3,9,3.89,7,2,0,0,0,0,1,0.43,1,0,0,0,0,0,Matches
-Jaime Báez,uy URU,DF,27-343,1.1,5,4.69,2,3,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Samuel Di Carmine,it ITA,"FW,MF",34-186,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Tommaso Milanese,it ITA,MF,20-246,0.3,2,6.43,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Christian Acella,it ITA,MF,20-270,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Emanuele Valeri,it ITA,DF,24-120,23.1,64,2.78,42,14,1,0,6,1,4,0.17,2,2,0,0,0,0,Matches
+Charles Pickel,ch SUI,MF,25-326,21.8,39,1.79,37,1,0,1,0,0,1,0.05,1,0,0,0,0,0,Matches
+Leonardo Sernicola,it ITA,DF,25-250,19.8,45,2.27,32,5,1,3,4,0,2,0.1,2,0,0,0,0,0,Matches
+David Okereke,ng NGA,"FW,MF",25-220,19.8,63,3.19,37,1,8,7,8,2,3,0.15,0,0,0,1,2,0,Matches
+Matteo Bianchetti,it ITA,DF,30-020,19.8,13,0.66,8,4,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Marco Carnesecchi,it ITA,GK,22-279,19.0,7,0.37,4,3,0,0,0,0,2,0.11,1,1,0,0,0,0,Matches
+Soualiho Meïté,fr FRA,MF,29-020,16.3,28,1.72,24,1,2,0,0,1,2,0.12,2,0,0,0,0,0,Matches
+Cyriel Dessers,ng NGA,FW,28-119,15.0,35,2.33,22,2,3,4,3,1,1,0.07,0,0,1,0,0,0,Matches
+Emanuel Aiwum,at AUT,DF,22-102,15.4,10,0.65,10,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Luka Lochoshvili,ge GEO,DF,24-312,14.0,13,0.93,9,0,1,2,0,1,2,0.14,1,0,0,1,0,0,Matches
+Johan Vásquez,mx MEX,DF,24-166,12.0,12,1.0,11,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Vlad Chiricheș,ro ROU,DF,33-143,8.1,5,0.62,5,0,0,0,0,0,1,0.12,1,0,0,0,0,0,Matches
+Ionuț Radu,ro ROU,GK,25-313,9.0,6,0.67,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Luca Zanimacchia,it ITA,"MF,FW",24-261,8.3,33,3.99,19,6,1,3,2,2,0,0.0,0,0,0,0,0,0,Matches
+Alex Ferrari,it ITA,DF,28-279,7.6,4,0.53,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Frank Tsadjout,it ITA,"FW,MF",23-252,7.5,12,1.6,10,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
+Michele Castagnetti,it ITA,MF,33-100,9.3,37,3.97,30,3,0,3,1,0,2,0.21,2,0,0,0,0,0,Matches
+Marco Benassi,it ITA,MF,28-210,8.2,16,1.96,8,6,1,0,0,1,1,0.12,1,0,0,0,0,0,Matches
+Santiago Ascacíbar,ar ARG,MF,26-040,8.1,25,3.09,17,1,0,7,0,0,3,0.37,1,0,0,2,0,0,Matches
+Gonzalo Escalante,ar ARG,MF,30-010,6.2,10,1.62,8,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
+Daniel Ciofani,it ITA,FW,37-249,7.7,20,2.58,13,0,0,5,1,1,4,0.52,1,0,0,3,0,0,Matches
+Paolo Ghiglione,it ITA,DF,26-063,6.1,15,2.48,13,2,0,0,0,0,2,0.33,2,0,0,0,0,0,Matches
+Felix Afena-Gyan,gh GHA,"FW,MF",20-077,6.7,9,1.34,8,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Giacomo Quagliata,it ITA,DF,23-046,5.5,17,3.1,10,3,0,1,3,0,0,0.0,0,0,0,0,0,0,Matches
+Cristian Buonaiuto,it ITA,"MF,FW",30-098,6.7,45,6.71,19,7,8,6,3,2,1,0.15,0,0,0,1,0,0,Matches
+Jack Hendry,sct SCO,DF,27-334,2.4,4,1.64,4,0,0,0,0,0,1,0.41,1,0,0,0,0,0,Matches
+Pablo Galdames Millán,cl CHI,"MF,DF",26-097,2.3,9,3.89,7,2,0,0,0,0,1,0.43,1,0,0,0,0,0,Matches
+Jaime Báez,uy URU,DF,27-346,1.1,5,4.69,2,3,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Samuel Di Carmine,it ITA,"FW,MF",34-189,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Tommaso Milanese,it ITA,MF,20-249,0.3,2,6.43,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Christian Acella,it ITA,MF,20-273,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
 Squad Total,,,26.6,28.0,603,21.54,419,66,26,46,34,12,33,1.18,19,3,1,8,2,0,
 Opponent Total,,,27.3,28.0,748,26.71,520,78,42,54,39,15,90,3.21,62,3,6,10,7,2,

@@ -1,33 +1,33 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Ricardo Batista,pt POR,GK,36-135,24.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Vasco Fernandes,pt POR,DF,36-142,23.0,13,0.57,11,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
-Lucas Soares,br BRA,"MF,DF",24-334,22.0,44,2.0,29,7,5,2,1,0,3,0.14,3,0,0,0,0,0,Matches
-Afonso Taira,pt POR,MF,30-290,18.6,45,2.41,38,0,1,2,2,2,2,0.11,2,0,0,0,0,0,Matches
-Nermin Zolotić,ba BIH,DF,29-270,20.4,19,0.93,16,2,0,0,1,0,1,0.05,1,0,0,0,0,0,Matches
-Saviour Godwin,ng NGA,"FW,MF",26-224,20.2,58,2.87,38,0,7,7,4,2,8,0.4,5,0,1,1,1,0,Matches
-Fernando Varela,cv CPV,DF,35-128,16.6,13,0.78,9,1,0,2,1,0,1,0.06,0,0,0,1,0,0,Matches
-Leonardo Lelo,pt POR,"MF,DF",23-004,17.4,36,2.06,27,2,3,1,1,2,6,0.34,4,0,0,1,0,1,Matches
-Takahiro Kunimoto,jp JPN,"FW,MF",25-177,13.6,41,3.0,23,12,3,3,0,0,3,0.22,2,1,0,0,0,0,Matches
-Neto,br BRA,MF,31-213,12.2,31,2.55,21,6,0,1,2,1,2,0.16,2,0,0,0,0,0,Matches
-Rafael Martins,br BRA,FW,34-017,12.1,23,1.9,14,0,0,6,1,2,3,0.25,1,0,0,1,1,0,Matches
-João Nunes,pt POR,DF,27-135,13.8,10,0.72,9,0,0,0,1,0,1,0.07,0,0,0,0,1,0,Matches
-Clayton,br BRA,FW,24-082,11.8,18,1.53,8,0,2,4,2,2,0,0.0,0,0,0,0,0,0,Matches
-Derick,br BRA,"MF,DF",29-214,10.7,16,1.5,11,4,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Romário Baró,pt POR,"MF,FW",23-068,10.4,31,2.99,27,0,1,1,2,0,3,0.29,2,0,0,0,1,0,Matches
-Yuki Soma,jp JPN,"FW,MF",26-037,6.6,21,3.21,4,12,2,0,3,0,1,0.15,0,1,0,0,0,0,Matches
-Beni,ao ANG,MF,20-317,5.6,10,1.79,9,0,0,0,0,1,1,0.18,1,0,0,0,0,0,Matches
-Yan Brice Eteki,cm CMR,MF,25-220,6.6,9,1.36,8,0,0,0,0,1,1,0.15,1,0,0,0,0,0,Matches
-Bolgado,br BRA,DF,24-226,4.5,2,0.45,1,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
-Diogo Pinto,pt POR,"FW,MF",23-278,3.2,6,1.86,4,2,0,0,0,0,1,0.31,0,1,0,0,0,0,Matches
-Cuca,cv CPV,MF,32-084,3.9,11,2.81,9,0,0,1,1,0,1,0.26,1,0,0,0,0,0,Matches
-Felippe Cardoso,br BRA,FW,24-181,1.5,6,4.0,4,0,2,0,0,0,1,0.67,0,0,1,0,0,0,Matches
-João,br BRA,GK,24-335,1.0,1,1.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Lucas Paes,br BRA,GK,25-117,1.0,1,1.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Eduardo Fereira,ve VEN,"FW,MF",22-186,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Carnejy Antoine,ht HAI,"FW,MF",31-250,1.4,5,3.72,4,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
-Vitó Ferreira,pt POR,"MF,FW",25-197,0.8,1,1.3,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Léo Natel,br BRA,FW,26-020,0.6,3,4.82,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Anderson,br BRA,"MF,FW",24-175,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Francisco Kiki,pt POR,MF,25-048,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,29.1,26.0,474,18.23,329,48,26,33,23,15,39,1.5,25,3,2,4,4,1,
-Opponent Total,,,26.5,26.0,616,23.69,462,39,48,25,31,11,44,1.69,35,2,1,2,4,0,
+Ricardo Batista,pt POR,GK,36-138,24.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Vasco Fernandes,pt POR,DF,36-145,23.0,13,0.57,11,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
+Lucas Soares,br BRA,"MF,DF",24-337,22.0,44,2.0,29,7,5,2,1,0,3,0.14,3,0,0,0,0,0,Matches
+Afonso Taira,pt POR,MF,30-293,18.6,46,2.47,39,0,1,2,2,2,2,0.11,2,0,0,0,0,0,Matches
+Nermin Zolotić,ba BIH,DF,29-273,20.4,19,0.93,16,2,0,0,1,0,1,0.05,1,0,0,0,0,0,Matches
+Saviour Godwin,ng NGA,"FW,MF",26-227,20.2,58,2.87,38,0,7,7,4,2,8,0.4,5,0,1,1,1,0,Matches
+Fernando Varela,cv CPV,DF,35-131,16.6,13,0.78,9,1,0,2,1,0,1,0.06,0,0,0,1,0,0,Matches
+Leonardo Lelo,pt POR,"MF,DF",23-007,17.4,35,2.01,27,2,2,1,1,2,6,0.34,4,0,0,1,0,1,Matches
+Takahiro Kunimoto,jp JPN,"FW,MF",25-180,13.6,41,3.0,23,12,3,3,0,0,3,0.22,2,1,0,0,0,0,Matches
+Neto,br BRA,MF,31-216,12.2,31,2.55,21,6,0,1,2,1,2,0.16,2,0,0,0,0,0,Matches
+Rafael Martins,br BRA,FW,34-020,12.1,23,1.9,14,0,0,6,1,2,3,0.25,1,0,0,1,1,0,Matches
+João Nunes,pt POR,DF,27-138,13.8,10,0.72,9,0,0,0,1,0,1,0.07,0,0,0,0,1,0,Matches
+Clayton,br BRA,FW,24-085,11.8,18,1.53,8,0,2,4,2,2,0,0.0,0,0,0,0,0,0,Matches
+Derick,br BRA,"MF,DF",29-217,10.7,16,1.5,11,4,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Romário Baró,pt POR,"MF,FW",23-071,10.4,31,2.99,27,0,1,1,2,0,3,0.29,2,0,0,0,1,0,Matches
+Yuki Soma,jp JPN,"FW,MF",26-040,6.6,21,3.21,4,12,2,0,3,0,1,0.15,0,1,0,0,0,0,Matches
+Beni,ao ANG,MF,20-320,5.6,10,1.79,9,0,0,0,0,1,1,0.18,1,0,0,0,0,0,Matches
+Yan Brice Eteki,cm CMR,MF,25-223,6.6,9,1.36,8,0,0,0,0,1,1,0.15,1,0,0,0,0,0,Matches
+Bolgado,br BRA,DF,24-229,4.5,2,0.45,1,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Diogo Pinto,pt POR,"FW,MF",23-281,3.2,6,1.86,4,2,0,0,0,0,1,0.31,0,1,0,0,0,0,Matches
+Cuca,cv CPV,MF,32-087,3.9,11,2.81,9,0,0,1,1,0,1,0.26,1,0,0,0,0,0,Matches
+Felippe Cardoso,br BRA,FW,24-184,1.5,6,4.0,4,0,2,0,0,0,1,0.67,0,0,1,0,0,0,Matches
+João,br BRA,GK,24-338,1.0,1,1.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Lucas Paes,br BRA,GK,25-120,1.0,1,1.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Eduardo Fereira,ve VEN,"FW,MF",22-189,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Carnejy Antoine,ht HAI,"FW,MF",31-253,1.4,5,3.72,4,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Vitó Ferreira,pt POR,"MF,FW",25-200,0.8,1,1.3,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Léo Natel,br BRA,FW,26-023,0.6,3,4.82,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Anderson,br BRA,"MF,FW",24-178,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Francisco Kiki,pt POR,MF,25-051,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,29.1,26.0,474,18.23,330,48,25,33,23,15,39,1.5,25,3,2,4,4,1,
+Opponent Total,,,26.6,26.0,616,23.69,462,39,48,25,31,11,44,1.69,35,2,1,2,4,0,

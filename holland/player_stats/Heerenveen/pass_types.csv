@@ -1,28 +1,28 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Milan van Ewijk,nl NED,DF,22-207,27.0,1245,1000,240,10,0,6,90,230,0,0,0,0,895,5,37,Matches
-Paweł Bochniewicz,pl POL,DF,27-063,26.4,1427,1376,48,29,2,12,2,3,0,0,0,0,1194,3,5,Matches
-Mats Köhlert,de GER,DF,24-336,23.2,1333,1110,221,16,1,1,75,204,1,0,1,0,1101,2,22,Matches
-Thom Haye,nl NED,MF,28-053,23.2,1512,1328,180,78,5,29,146,6,95,35,36,3,1157,4,25,Matches
-Anas Tahiri,be BEL,MF,27-323,22.2,1293,1229,61,41,3,6,35,4,15,7,6,0,1129,3,12,Matches
-Sydney van Hooijdonk,nl NED,FW,23-056,22.0,459,436,20,1,0,0,7,0,0,0,0,0,308,3,10,Matches
-Simon Olsson,se SWE,"MF,FW",25-201,18.9,640,626,12,5,6,8,6,2,0,0,0,0,493,2,17,Matches
-Amin Sarr,se SWE,FW,22-023,18.2,448,424,21,0,0,0,19,4,0,0,0,0,340,3,11,Matches
-Andries Noppert,nl NED,GK,28-361,17.0,642,485,157,35,0,1,0,0,0,0,0,0,454,0,1,Matches
-Sven van Beek,nl NED,DF,28-249,15.0,910,871,37,22,0,18,14,14,0,0,0,0,761,2,8,Matches
-Joost van Aken,nl NED,DF,28-325,11.0,584,564,18,6,0,13,2,7,0,0,0,0,469,2,5,Matches
-Xavier Mous,nl NED,GK,27-242,10.0,337,234,103,10,0,1,0,0,0,0,0,0,221,0,0,Matches
-Pelle van Amersfoort,nl NED,"MF,FW",27-002,9.1,243,238,4,0,1,0,7,2,0,0,0,0,153,1,13,Matches
-Rami Al Hajj,se SWE,"MF,FW",21-198,7.5,350,337,13,2,1,1,11,4,3,2,0,0,294,0,11,Matches
-Tibor Halilović,hr CRO,MF,28-016,7.2,344,335,7,4,4,1,5,0,0,0,0,0,283,2,7,Matches
-Syb Van Ottele,nl NED,DF,21-060,7.1,422,411,6,6,0,6,1,0,0,0,0,0,323,5,3,Matches
-Jeffrey Bruma,nl NED,DF,31-141,5.2,275,270,5,5,2,1,0,0,0,0,0,0,242,0,2,Matches
-Ché Nunnely,nl NED,"FW,MF",24-058,4.5,124,122,2,0,1,1,13,1,0,0,0,0,97,0,7,Matches
-Rami Kaib,tn TUN,"DF,FW",25-330,5.9,354,275,77,5,1,0,39,66,6,1,2,1,227,2,20,Matches
-Osame Sahraoui,no NOR,"FW,MF",21-296,5.7,239,230,8,3,1,0,15,4,1,0,0,0,184,1,9,Matches
-Antoine Colassin,be BEL,"FW,MF",22-036,5.6,199,195,4,0,3,1,10,2,0,0,0,0,128,0,10,Matches
-Alex Timossi Andersson,se SWE,"FW,MF",22-074,2.9,48,44,4,0,0,0,9,1,0,0,0,0,32,0,5,Matches
-Daniel Karlsbakk,no NOR,"FW,MF",19-361,1.6,30,26,4,0,0,0,0,0,0,0,0,0,17,0,1,Matches
-Hussein Ali,se SWE,"MF,FW",21-033,0.3,16,13,3,0,0,0,1,3,0,0,0,0,9,0,1,Matches
-Timo Zaal,nl NED,MF,19-053,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,25.7,27.0,13474,12179,1255,278,31,106,507,557,121,45,45,4,10511,40,242,
-Opponent Total,,,25.9,27.0,13718,12413,1268,273,43,123,511,582,148,69,51,1,10758,37,202,
+Milan van Ewijk,nl NED,DF,22-210,27.0,1247,1001,241,10,0,6,90,231,0,0,0,0,897,5,37,Matches
+Paweł Bochniewicz,pl POL,DF,27-066,26.4,1427,1376,48,29,2,12,2,3,0,0,0,0,1194,3,5,Matches
+Mats Köhlert,de GER,DF,24-339,23.2,1333,1110,221,16,1,1,75,204,1,0,1,0,1101,2,22,Matches
+Thom Haye,nl NED,MF,28-056,23.2,1513,1329,180,78,5,29,146,6,95,35,36,3,1157,4,25,Matches
+Anas Tahiri,be BEL,MF,27-326,22.2,1293,1229,61,41,3,6,35,4,15,7,6,0,1129,3,12,Matches
+Sydney van Hooijdonk,nl NED,FW,23-059,22.0,457,434,20,1,0,0,7,0,0,0,0,0,307,3,10,Matches
+Simon Olsson,se SWE,"MF,FW",25-204,18.9,641,627,12,5,6,8,6,2,0,0,0,0,494,2,16,Matches
+Amin Sarr,se SWE,FW,22-026,18.2,448,424,21,0,0,0,19,4,0,0,0,0,340,3,11,Matches
+Andries Noppert,nl NED,GK,28-364,17.0,642,485,157,35,0,1,0,0,0,0,0,0,454,0,1,Matches
+Sven van Beek,nl NED,DF,28-252,15.0,910,871,37,22,0,18,14,14,0,0,0,0,761,2,8,Matches
+Joost van Aken,nl NED,DF,28-328,11.0,584,564,18,6,0,13,2,7,0,0,0,0,469,2,5,Matches
+Xavier Mous,nl NED,GK,27-245,10.0,337,234,103,10,0,1,0,0,0,0,0,0,221,0,0,Matches
+Pelle van Amersfoort,nl NED,"MF,FW",27-005,9.1,244,239,4,0,1,0,7,2,0,0,0,0,153,1,13,Matches
+Rami Al Hajj,se SWE,"MF,FW",21-201,7.5,350,337,13,2,1,1,11,4,3,2,0,0,294,0,11,Matches
+Tibor Halilović,hr CRO,MF,28-019,7.2,344,335,7,4,4,1,5,0,0,0,0,0,283,2,7,Matches
+Syb Van Ottele,nl NED,DF,21-063,7.1,423,412,6,6,0,6,1,0,0,0,0,0,323,5,3,Matches
+Jeffrey Bruma,nl NED,DF,31-144,5.2,275,270,5,5,2,1,0,0,0,0,0,0,242,0,2,Matches
+Ché Nunnely,nl NED,"FW,MF",24-061,4.5,124,122,2,0,1,1,13,1,0,0,0,0,97,0,7,Matches
+Rami Kaib,tn TUN,"DF,FW",25-333,5.9,354,275,77,5,1,0,39,66,6,1,2,1,227,2,20,Matches
+Osame Sahraoui,no NOR,"FW,MF",21-299,5.7,239,230,8,3,1,0,15,4,1,0,0,0,184,1,9,Matches
+Antoine Colassin,be BEL,"FW,MF",22-039,5.6,199,195,4,0,3,1,10,2,0,0,0,0,128,0,10,Matches
+Alex Timossi Andersson,se SWE,"FW,MF",22-077,2.9,48,44,4,0,0,0,9,1,0,0,0,0,32,0,5,Matches
+Daniel Karlsbakk,no NOR,"FW,MF",19-364,1.6,30,26,4,0,0,0,0,0,0,0,0,0,17,0,1,Matches
+Hussein Ali,se SWE,"MF,FW",21-036,0.3,16,13,3,0,0,0,1,3,0,0,0,0,9,0,1,Matches
+Timo Zaal,nl NED,MF,19-056,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,25.7,27.0,13478,12182,1256,278,31,106,507,558,121,45,45,4,10513,40,241,
+Opponent Total,,,25.9,27.0,13720,12415,1268,273,44,123,511,582,148,69,51,1,10757,37,202,

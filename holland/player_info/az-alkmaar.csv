@@ -1,8 +1,8 @@
 name,price,position,dob,nationality,height,foot,join_date,contract_expiration
 Mathew Ryan,€4.00m,Goalkeeper,"Apr 8, 1992 (30)",Australia,"1,84m",right,"Jan 9, 2023","Jun 30, 2024"
 Hobie Verhulst,€650k,Goalkeeper,"Apr 2, 1993 (30)",Netherlands,"1,92m",left,"Jul 1, 2020","Jun 30, 2025"
-Sem Westerveld,€250k,Goalkeeper,"Jul 18, 2002 (20)",Netherlands,"1,90m",,"Jul 1, 2022","Jun 30, 2026"
-Rome Jayden Owusu-Oduro,€100k,Goalkeeper,"Jul 2, 2004 (18)",Netherlands,-,right,-,"Jun 30, 2026"
+Sem Westerveld,€500k,Goalkeeper,"Jul 18, 2002 (20)",Netherlands,"1,90m",,"Jul 1, 2022","Jun 30, 2026"
+Rome Jayden Owusu-Oduro,€300k,Goalkeeper,"Jul 2, 2004 (18)",Netherlands,-,right,-,"Jun 30, 2026"
 Zinho Vanheusden,€6.00m,Centre-Back,"Jul 29, 1999 (23)",Belgium,"1,87m",right,"Jul 25, 2022","Jun 30, 2023"
 Pantelis Chatzidiakos,€3.50m,Centre-Back,"Jan 18, 1997 (26)",Greece,"1,85m",right,"Dec 4, 2015","Jun 30, 2024"
 Sam Beukema,€3.00m,Centre-Back,"Nov 17, 1998 (24)",Netherlands,"1,88m",right,"Jul 1, 2021","Jun 30, 2026"

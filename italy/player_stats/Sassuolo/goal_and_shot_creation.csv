@@ -1,32 +1,32 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Davide Frattesi,it ITA,MF,23-162,23.9,69,2.89,53,0,4,5,5,2,4,0.17,4,0,0,0,0,0,Matches
-Andrea Consigli,it ITA,GK,36-065,25.0,6,0.24,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Rogério,br BRA,DF,25-079,23.3,52,2.23,41,6,1,1,3,0,4,0.17,3,0,0,0,1,0,Matches
-Jeremy Toljan,de GER,DF,28-237,20.7,37,1.79,36,1,0,0,0,0,2,0.1,2,0,0,0,0,0,Matches
-Armand Lauriente,fr FRA,FW,24-119,18.2,87,4.78,62,7,10,2,4,2,12,0.66,7,0,2,1,2,0,Matches
-Gian Marco Ferrari,it ITA,DF,31-046,19.0,12,0.63,10,1,0,0,1,0,2,0.1,2,0,0,0,0,0,Matches
-Martin Erlic,hr CRO,DF,25-068,18.9,7,0.37,5,0,0,1,0,1,0,0.0,0,0,0,0,0,0,Matches
-Andrea Pinamonti,it ITA,FW,23-318,18.2,42,2.31,28,0,1,8,5,0,3,0.17,0,0,0,2,1,0,Matches
-Maxime Lopez,fr FRA,MF,25-119,16.8,41,2.44,38,3,0,0,0,0,3,0.18,3,0,0,0,0,0,Matches
-Domenico Berardi,it ITA,FW,28-244,13.0,63,4.84,45,8,3,4,3,0,10,0.77,6,1,0,2,1,0,Matches
-Matheus Henrique,br BRA,MF,25-104,13.3,44,3.31,37,1,1,1,2,2,2,0.15,2,0,0,0,0,0,Matches
-Kristian Thorstvedt,no NOR,MF,24-020,11.1,22,1.98,16,0,1,3,1,1,1,0.09,1,0,0,0,0,0,Matches
-Ruan,br BRA,DF,23-299,10.3,3,0.29,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Giorgos Kyriakopoulos,gr GRE,"FW,DF",27-056,8.5,26,3.05,21,0,2,1,1,1,3,0.35,2,0,0,1,0,0,Matches
-Pedro Obiang,gq EQG,MF,31-006,7.8,8,1.02,6,0,1,1,0,0,1,0.13,1,0,0,0,0,0,Matches
-Grégoire Defrel,mq MTQ,FW,31-289,7.6,10,1.32,8,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
-Hamed Junior Traorè,ci CIV,"MF,FW",23-045,6.6,26,3.96,21,5,0,0,0,0,6,0.91,4,2,0,0,0,0,Matches
-Kaan Ayhan,tr TUR,DF,28-143,6.1,5,0.83,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Nadir Zortea,it ITA,DF,23-287,5.0,9,1.8,7,1,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Luca D'Andrea,it ITA,FW,18-208,3.5,15,4.27,12,1,1,1,0,0,1,0.28,1,0,0,0,0,0,Matches
-Emil Ceide,no NOR,FW,21-211,3.7,14,3.82,11,0,2,0,1,0,2,0.55,0,0,1,0,1,0,Matches
-Abdou Harroui,nl NED,MF,25-079,3.8,7,1.87,7,0,0,0,0,0,1,0.27,1,0,0,0,0,0,Matches
-Nedim Bajrami,al ALB,FW,24-033,3.5,6,1.7,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Riccardo Marchizza,it ITA,DF,25-007,2.0,6,2.97,5,0,1,0,0,0,2,0.99,2,0,0,0,0,0,Matches
-Gianluca Pegolo,it ITA,GK,42-008,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Agustín Álvarez Martínez,uy URU,"FW,MF",21-318,3.5,6,1.73,2,0,1,2,1,0,2,0.58,1,0,0,1,0,0,Matches
-Mert Müldür,tr TUR,DF,23-364,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Janis Antiste,fr FRA,FW,20-227,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Giacomo Raspadori,it ITA,FW,23-043,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,26.8,27.0,623,23.07,489,36,30,31,28,9,61,2.26,42,3,3,7,6,0,
-Opponent Total,,,27.1,27.0,594,22.0,446,61,23,27,22,15,64,2.37,48,3,6,5,2,0,
+Davide Frattesi,it ITA,MF,23-166,24.9,69,2.77,53,0,4,5,5,2,4,0.16,4,0,0,0,0,0,Matches
+Andrea Consigli,it ITA,GK,36-069,26.0,6,0.23,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Rogério,br BRA,DF,25-083,24.3,54,2.22,43,6,1,1,3,0,4,0.16,3,0,0,0,1,0,Matches
+Jeremy Toljan,de GER,DF,28-241,21.7,37,1.71,36,1,0,0,0,0,2,0.09,2,0,0,0,0,0,Matches
+Armand Lauriente,fr FRA,FW,24-123,19.2,93,4.84,66,9,10,2,4,2,12,0.62,7,0,2,1,2,0,Matches
+Gian Marco Ferrari,it ITA,DF,31-050,20.0,13,0.65,11,1,0,0,1,0,2,0.1,2,0,0,0,0,0,Matches
+Andrea Pinamonti,it ITA,FW,23-322,19.0,45,2.37,29,0,1,8,6,1,3,0.16,0,0,0,2,1,0,Matches
+Martin Erlic,hr CRO,DF,25-072,18.9,7,0.37,5,0,0,1,0,1,0,0.0,0,0,0,0,0,0,Matches
+Maxime Lopez,fr FRA,MF,25-123,17.8,43,2.42,40,3,0,0,0,0,3,0.17,3,0,0,0,0,0,Matches
+Domenico Berardi,it ITA,FW,28-248,13.9,67,4.83,47,8,3,5,3,1,11,0.79,6,1,0,3,1,0,Matches
+Matheus Henrique,br BRA,MF,25-108,14.1,46,3.26,39,1,1,1,2,2,2,0.14,2,0,0,0,0,0,Matches
+Ruan,br BRA,DF,23-303,11.3,3,0.27,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Kristian Thorstvedt,no NOR,MF,24-024,11.1,22,1.97,16,0,1,3,1,1,1,0.09,1,0,0,0,0,0,Matches
+Giorgos Kyriakopoulos,gr GRE,"FW,DF",27-060,8.5,26,3.05,21,0,2,1,1,1,3,0.35,2,0,0,1,0,0,Matches
+Pedro Obiang,gq EQG,MF,31-010,7.8,8,1.02,6,0,1,1,0,0,1,0.13,1,0,0,0,0,0,Matches
+Grégoire Defrel,mq MTQ,FW,31-293,7.8,10,1.29,8,0,0,1,1,0,0,0.0,0,0,0,0,0,0,Matches
+Hamed Junior Traorè,ci CIV,"MF,FW",23-049,6.6,26,3.96,21,5,0,0,0,0,6,0.91,4,2,0,0,0,0,Matches
+Kaan Ayhan,tr TUR,DF,28-147,6.1,5,0.83,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Nadir Zortea,it ITA,DF,23-291,5.0,9,1.8,7,1,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Luca D'Andrea,it ITA,FW,18-212,3.5,15,4.27,12,1,1,1,0,0,1,0.28,1,0,0,0,0,0,Matches
+Emil Ceide,no NOR,FW,21-215,3.7,14,3.82,11,0,2,0,1,0,2,0.55,0,0,1,0,1,0,Matches
+Abdou Harroui,nl NED,MF,25-083,3.9,8,2.03,8,0,0,0,0,0,1,0.25,1,0,0,0,0,0,Matches
+Nedim Bajrami,al ALB,FW,24-037,3.7,6,1.63,5,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Riccardo Marchizza,it ITA,DF,25-011,2.0,6,2.97,5,0,1,0,0,0,2,0.99,2,0,0,0,0,0,Matches
+Gianluca Pegolo,it ITA,GK,42-012,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Agustín Álvarez Martínez,uy URU,"FW,MF",21-322,3.5,6,1.73,2,0,1,2,1,0,2,0.58,1,0,0,1,0,0,Matches
+Mert Müldür,tr TUR,DF,24-003,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Janis Antiste,fr FRA,FW,20-231,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Giacomo Raspadori,it ITA,FW,23-047,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,26.9,28.0,644,23.0,504,38,30,32,29,11,62,2.21,42,3,3,8,6,0,
+Opponent Total,,,27.1,28.0,623,22.25,465,64,28,29,22,15,66,2.36,50,3,6,5,2,0,

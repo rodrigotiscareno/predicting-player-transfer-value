@@ -1,30 +1,30 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Alexander Nübel,de GER,GK,26-185,28.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,5,3,Matches
-Axel Disasi,fr FRA,DF,25-023,27.0,25,17,11,10,4,13,25,52.0,12,40,24,16,45,70,86,1,Matches
-Youssouf Fofana,fr FRA,MF,24-083,25.4,64,31,26,33,5,31,59,52.5,28,34,3,31,33,97,27,0,Matches
-Caio Henrique Oliveira Silva,br BRA,DF,25-246,23.5,56,39,33,20,3,33,55,60.0,22,22,7,15,15,71,47,1,Matches
-Aleksandr Golovin,ru RUS,"MF,FW",26-308,20.9,48,27,13,26,9,21,55,38.2,34,23,0,23,28,76,10,0,Matches
-Wissam Ben Yedder,fr FRA,FW,32-234,16.3,10,6,2,2,6,3,10,30.0,7,13,0,13,4,14,0,0,Matches
-Breel Embolo,ch SUI,FW,26-048,19.5,15,9,2,7,6,5,9,55.6,4,13,3,10,5,20,12,0,Matches
-Krépin Diatta,sn SEN,"MF,FW",24-037,18.4,23,16,4,11,8,11,23,47.8,12,25,1,24,13,36,8,0,Matches
-Guillermo Maripán,cl CHI,DF,28-332,17.5,34,20,20,14,0,10,23,43.5,13,27,19,8,29,63,51,0,Matches
-Mohamed Camara,ml MLI,MF,23-087,17.4,61,37,25,33,3,33,58,56.9,25,35,4,31,21,82,10,0,Matches
-Vanderson,br BRA,"DF,MF",21-286,15.9,54,30,19,25,10,29,45,64.4,16,27,5,22,34,88,22,1,Matches
-Ruben Aguilar,fr FRA,DF,29-342,9.6,16,6,7,4,5,6,15,40.0,9,6,0,6,14,30,23,1,Matches
-Benoît Badiashile,fr FRA,DF,22-008,9.3,10,8,6,4,0,5,10,50.0,5,9,6,3,17,27,40,1,Matches
-Eliot Matazo,be BEL,MF,21-047,9.0,13,5,5,8,0,5,13,38.5,8,10,3,7,10,23,10,1,Matches
-Eliesse Ben Seghir,fr FRA,"FW,MF",18-046,7.6,14,9,4,9,1,3,8,37.5,5,10,0,10,3,17,0,0,Matches
-Malang Sarr,fr FRA,DF,24-070,8.0,6,3,5,1,0,1,5,20.0,4,11,7,4,15,21,29,2,Matches
-Takumi Minamino,jp JPN,"MF,FW",28-077,5.6,12,6,3,6,3,6,25,24.0,19,14,0,14,5,17,3,0,Matches
-Ismail Jakobs,sn SEN,"DF,MF",23-229,7.2,5,2,3,2,0,2,6,33.3,4,4,1,3,4,9,7,0,Matches
-Kevin Volland,de GER,"MF,FW",30-247,3.9,7,3,0,5,2,1,3,33.3,2,2,0,2,2,9,0,0,Matches
-Maghnes Akliouche,fr FRA,"MF,FW",21-037,3.4,6,3,3,3,0,1,5,20.0,4,2,0,2,3,9,2,0,Matches
-Gelson Martins,pt POR,"MF,FW",27-327,3.8,15,8,6,4,5,4,13,30.8,9,4,1,3,3,18,2,0,Matches
-Jean Lucas,br BRA,MF,24-285,3.2,9,5,3,5,1,6,12,50.0,6,2,1,1,4,13,2,0,Matches
-Chrislain Matsima,fr FRA,DF,20-323,1.4,3,2,1,1,1,1,2,50.0,1,1,1,0,1,4,3,0,Matches
-Myron Boadu,nl NED,FW,22-079,1.5,1,1,0,0,1,0,4,0.0,4,0,0,0,0,1,1,0,Matches
-Sofiane Diop,fr FRA,MF,22-298,0.7,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-Soungoutou Magassa,ml MLI,MF,19-177,0.8,3,1,2,1,0,1,2,50.0,1,2,0,2,1,4,1,0,Matches
-Edan Diop,fr FRA,DF,18-218,0.7,3,1,0,1,2,2,2,100.0,0,3,0,3,1,4,0,0,Matches
-Squad Total,,,25.4,28.0,513,295,203,235,75,233,488,47.7,255,339,86,253,312,825,401,11,
-Opponent Total,,,27.1,28.0,483,268,225,203,55,221,458,48.3,237,297,69,228,327,810,496,10,
+Alexander Nübel,de GER,GK,26-188,29.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,6,3,Matches
+Axel Disasi,fr FRA,DF,25-026,28.0,25,17,11,10,4,13,25,52.0,12,40,24,16,48,73,88,1,Matches
+Youssouf Fofana,fr FRA,MF,24-086,26.3,64,31,26,33,5,31,59,52.5,28,34,3,31,35,99,27,0,Matches
+Caio Henrique Oliveira Silva,br BRA,DF,25-249,24.1,56,39,33,20,3,33,55,60.0,22,23,7,16,16,72,47,1,Matches
+Aleksandr Golovin,ru RUS,"MF,FW",26-311,21.8,48,27,13,26,9,21,58,36.2,37,25,0,25,28,76,10,0,Matches
+Wissam Ben Yedder,fr FRA,FW,32-237,17.2,11,7,2,3,6,4,11,36.4,7,13,0,13,4,15,0,0,Matches
+Breel Embolo,ch SUI,FW,26-051,19.5,15,9,2,7,6,5,9,55.6,4,13,3,10,5,20,12,0,Matches
+Guillermo Maripán,cl CHI,DF,28-335,18.5,36,21,20,16,0,10,23,43.5,13,29,21,8,31,67,63,0,Matches
+Mohamed Camara,ml MLI,MF,23-090,18.4,63,38,26,34,3,35,62,56.5,27,36,4,32,21,84,11,0,Matches
+Krépin Diatta,sn SEN,"MF,FW",24-040,18.4,23,16,4,11,8,11,23,47.8,12,25,1,24,13,36,8,0,Matches
+Vanderson,br BRA,"DF,MF",21-289,16.9,59,34,21,28,10,33,51,64.7,18,27,5,22,35,94,24,1,Matches
+Ruben Aguilar,fr FRA,DF,29-345,10.1,16,6,7,4,5,6,15,40.0,9,7,0,7,14,30,25,1,Matches
+Eliesse Ben Seghir,fr FRA,"FW,MF",18-049,8.2,15,9,4,10,1,3,8,37.5,5,10,0,10,3,18,0,0,Matches
+Benoît Badiashile,fr FRA,DF,22-011,9.3,10,8,6,4,0,5,10,50.0,5,9,6,3,17,27,40,1,Matches
+Eliot Matazo,be BEL,"MF,FW",21-050,9.1,14,6,6,8,0,6,15,40.0,9,10,3,7,10,24,10,1,Matches
+Malang Sarr,fr FRA,DF,24-073,8.0,6,3,5,1,0,1,5,20.0,4,11,7,4,15,21,29,2,Matches
+Takumi Minamino,jp JPN,"MF,FW",28-080,5.6,12,6,3,6,3,6,25,24.0,19,14,0,14,5,17,3,0,Matches
+Ismail Jakobs,sn SEN,"DF,MF",23-232,7.6,5,2,3,2,0,2,6,33.3,4,4,1,3,4,9,9,0,Matches
+Kevin Volland,de GER,"FW,MF",30-250,4.3,7,3,0,5,2,1,4,25.0,3,4,0,4,2,9,0,0,Matches
+Maghnes Akliouche,fr FRA,"MF,FW",21-040,3.4,6,3,3,3,0,1,5,20.0,4,2,0,2,3,9,2,0,Matches
+Gelson Martins,pt POR,"MF,FW",27-330,3.8,15,8,6,4,5,4,13,30.8,9,4,1,3,3,18,2,0,Matches
+Jean Lucas,br BRA,MF,24-288,3.2,9,5,3,5,1,6,12,50.0,6,2,1,1,4,13,2,0,Matches
+Chrislain Matsima,fr FRA,DF,20-326,1.4,3,2,1,1,1,1,2,50.0,1,1,1,0,1,4,3,0,Matches
+Myron Boadu,nl NED,FW,22-082,1.5,1,1,0,0,1,0,4,0.0,4,0,0,0,0,1,1,0,Matches
+Sofiane Diop,fr FRA,MF,22-301,0.7,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Edan Diop,fr FRA,DF,18-221,1.2,5,2,2,1,2,3,7,42.9,4,4,0,4,3,8,1,0,Matches
+Soungoutou Magassa,ml MLI,MF,19-180,0.8,3,1,2,1,0,1,2,50.0,1,2,0,2,1,4,1,0,Matches
+Squad Total,,,25.4,29.0,527,304,209,243,75,242,510,47.5,268,349,88,261,323,850,424,11,
+Opponent Total,,,27.1,29.0,500,276,233,210,57,229,474,48.3,245,309,71,238,345,845,518,10,

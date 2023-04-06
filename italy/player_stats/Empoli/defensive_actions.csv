@@ -1,33 +1,33 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Sebastiano Luperto,it ITA,DF,26-209,24.0,22,12,15,7,0,5,12,41.7,7,39,28,11,27,49,118,1,Matches
-Guglielmo Vicario,it ITA,GK,26-178,24.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,12,2,Matches
-Fabiano Parisi,it ITA,DF,22-145,22.5,49,26,29,15,5,25,52,48.1,27,39,14,25,25,74,63,0,Matches
-Filippo Bandinelli,it ITA,MF,28-005,19.3,44,28,15,21,8,12,29,41.4,17,17,5,12,10,54,29,0,Matches
-Răzvan Marin,ro ROU,MF,26-315,20.5,36,18,21,15,0,15,32,46.9,17,26,10,16,12,48,21,0,Matches
-Martin Satriano,uy URU,FW,22-042,18.0,13,8,5,6,2,6,12,50.0,6,5,0,5,3,16,19,0,Matches
-Ardian Ismajli,al ALB,DF,26-185,18.6,36,28,22,14,0,16,21,76.2,5,40,26,14,23,59,104,0,Matches
-Tommaso Baldanzi,it ITA,MF,20-011,12.9,18,9,7,10,1,5,23,21.7,18,12,1,11,2,20,4,0,Matches
-Petar Stojanović,si SVN,DF,27-178,15.3,38,20,24,10,4,23,39,59.0,16,15,4,11,11,49,52,0,Matches
-Tyronne Ebuehi,ng NGA,DF,27-108,11.9,13,8,4,6,3,5,7,71.4,2,16,9,7,6,19,39,1,Matches
-Francesco Caputo,it ITA,FW,35-240,10.7,2,2,0,1,1,0,0,,0,5,2,3,1,3,4,0,Matches
-Jean-Daniel Akpa-Akpro,ci CIV,MF,30-174,10.2,36,27,18,13,5,12,21,57.1,9,28,4,24,12,48,23,0,Matches
-Nicolas Haas,ch SUI,MF,27-070,10.6,22,11,11,6,5,9,20,45.0,11,13,4,9,7,29,22,0,Matches
-Koni De Winter,be BEL,DF,20-295,9.9,13,8,10,3,0,4,9,44.4,5,10,10,0,6,19,51,0,Matches
-Sam Lammers,nl NED,FW,25-338,9.8,20,10,5,9,6,7,11,63.6,4,4,1,3,3,23,8,0,Matches
-Liam Henderson,sct SCO,MF,26-343,8.7,9,8,4,4,1,4,17,23.5,13,8,2,6,8,17,8,0,Matches
-Nedim Bajrami,al ALB,"MF,FW",24-034,10.4,8,4,3,3,2,4,6,66.7,2,5,0,5,7,15,4,0,Matches
-Alberto Grassi,it ITA,MF,28-027,6.3,17,15,9,8,0,10,13,76.9,3,12,8,4,17,34,25,0,Matches
-Mattia Destro,it ITA,FW,32-014,5.1,1,1,0,1,0,0,0,,0,2,0,2,1,2,4,0,Matches
-Marko Pjaca,hr CRO,"MF,FW",27-332,5.1,2,1,1,1,0,2,4,50.0,2,1,0,1,1,3,0,0,Matches
-Nicolò Cambiaghi,it ITA,"FW,MF",22-096,6.4,15,11,7,4,4,3,7,42.9,4,9,1,8,4,19,5,0,Matches
-Liberato Cacace,nz NZL,DF,22-188,4.3,19,7,10,6,3,8,12,66.7,4,10,5,5,4,23,11,0,Matches
-Jacopo Fazzini,it ITA,MF,20-018,4.1,17,9,13,3,1,9,15,60.0,6,10,2,8,5,22,8,0,Matches
-Samuele Perisan,it ITA,GK,25-225,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Sebastian Walukiewicz,pl POL,DF,22-363,1.8,2,1,1,1,0,0,1,0.0,1,3,3,0,1,3,12,0,Matches
-Roberto Piccoli,it ITA,"FW,MF",22-066,1.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,3,0,Matches
-Emanuel Vignato,it ITA,"FW,MF",22-222,0.3,2,0,2,0,0,0,0,,0,0,0,0,0,2,0,0,Matches
-Emmanuel Ekong,se SWE,"FW,MF",20-282,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Duccio Degl'Innocenti,it ITA,MF,19-340,0.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-Herculano Nabian,pt POR,MF,19-068,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,25.9,27.0,454,272,236,167,51,184,365,50.4,181,329,139,190,197,651,649,4,
-Opponent Total,,,27.3,27.0,489,268,224,197,68,219,417,52.5,198,335,99,236,240,729,435,7,
+Sebastiano Luperto,it ITA,DF,26-212,25.0,23,12,16,7,0,5,13,38.5,8,39,28,11,28,51,119,1,Matches
+Fabiano Parisi,it ITA,DF,22-148,23.5,49,26,29,15,5,25,53,47.2,28,40,14,26,28,77,67,0,Matches
+Guglielmo Vicario,it ITA,GK,26-181,24.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,12,2,Matches
+Filippo Bandinelli,it ITA,MF,28-008,20.2,45,29,16,21,8,12,29,41.4,17,17,5,12,10,55,31,0,Matches
+Răzvan Marin,ro ROU,MF,26-318,21.5,38,20,21,17,0,17,34,50.0,17,27,10,17,12,50,23,0,Matches
+Martin Satriano,uy URU,FW,22-045,18.1,13,8,5,6,2,6,12,50.0,6,5,0,5,3,16,20,0,Matches
+Ardian Ismajli,al ALB,DF,26-188,19.6,37,29,22,15,0,17,22,77.3,5,42,27,15,24,61,106,0,Matches
+Tommaso Baldanzi,it ITA,MF,20-014,13.7,18,9,7,10,1,5,24,20.8,19,12,1,11,2,20,4,0,Matches
+Petar Stojanović,si SVN,DF,27-181,15.3,38,20,24,10,4,23,39,59.0,16,15,4,11,11,49,52,0,Matches
+Tyronne Ebuehi,ng NGA,DF,27-111,12.9,14,8,5,6,3,5,7,71.4,2,16,9,7,6,20,44,1,Matches
+Francesco Caputo,it ITA,FW,35-243,11.6,2,2,0,1,1,0,0,,0,5,2,3,1,3,5,0,Matches
+Jean-Daniel Akpa-Akpro,ci CIV,MF,30-177,10.7,37,28,18,14,5,13,22,59.1,9,29,4,25,12,49,23,0,Matches
+Nicolas Haas,ch SUI,MF,27-073,10.8,22,11,11,6,5,9,20,45.0,11,13,4,9,7,29,22,0,Matches
+Koni De Winter,be BEL,DF,20-298,9.9,13,8,10,3,0,4,9,44.4,5,10,10,0,6,19,51,0,Matches
+Sam Lammers,nl NED,FW,25-341,9.8,20,10,5,9,6,7,11,63.6,4,4,1,3,3,23,8,0,Matches
+Liam Henderson,sct SCO,MF,26-346,8.7,9,8,4,4,1,4,17,23.5,13,8,2,6,8,17,8,0,Matches
+Nedim Bajrami,al ALB,"MF,FW",24-037,10.4,8,4,3,3,2,4,6,66.7,2,5,0,5,7,15,4,0,Matches
+Alberto Grassi,it ITA,MF,28-030,6.4,18,16,9,9,0,10,13,76.9,3,13,8,5,17,35,26,0,Matches
+Mattia Destro,it ITA,FW,32-017,5.1,1,1,0,1,0,0,0,,0,2,0,2,1,2,4,0,Matches
+Marko Pjaca,hr CRO,"MF,FW",27-335,5.1,2,1,1,1,0,2,4,50.0,2,1,0,1,1,3,0,0,Matches
+Nicolò Cambiaghi,it ITA,"FW,MF",22-099,6.6,15,11,7,4,4,3,7,42.9,4,9,1,8,4,19,5,0,Matches
+Samuele Perisan,it ITA,GK,25-228,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Jacopo Fazzini,it ITA,MF,20-021,4.6,20,12,14,4,2,11,20,55.0,9,10,2,8,6,26,11,0,Matches
+Liberato Cacace,nz NZL,DF,22-191,4.3,19,7,10,6,3,8,12,66.7,4,10,5,5,4,23,11,0,Matches
+Roberto Piccoli,it ITA,"FW,MF",22-069,2.3,0,0,0,0,0,0,2,0.0,2,2,1,1,0,0,3,0,Matches
+Sebastian Walukiewicz,pl POL,DF,23-001,1.8,2,1,1,1,0,0,1,0.0,1,3,3,0,1,3,12,0,Matches
+Emanuel Vignato,it ITA,"FW,MF",22-225,0.3,2,0,2,0,0,0,0,,0,0,0,0,0,2,0,0,Matches
+Emmanuel Ekong,se SWE,"FW,MF",20-285,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Duccio Degl'Innocenti,it ITA,MF,19-343,0.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Herculano Nabian,pt POR,MF,19-071,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,25.9,28.0,465,281,240,173,52,190,378,50.3,188,337,141,196,203,668,671,4,
+Opponent Total,,,27.3,28.0,507,278,234,204,69,231,441,52.4,210,353,104,249,252,759,457,7,

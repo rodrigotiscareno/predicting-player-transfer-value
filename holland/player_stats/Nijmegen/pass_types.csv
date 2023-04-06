@@ -1,25 +1,25 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Iván Márquez,es ESP,DF,28-298,26.4,1376,1326,50,41,0,7,0,4,0,0,0,0,1174,0,7,Matches
-Jasper Cillessen,nl NED,GK,33-346,26.0,922,659,259,57,0,1,0,0,0,0,0,0,623,4,2,Matches
-Bart van Rooij,nl NED,DF,21-312,26.0,1373,1124,248,27,5,10,55,221,0,0,0,0,1059,1,20,Matches
-Souffian El Karouani,ma MAR,DF,22-166,25.3,1266,1010,253,23,2,2,114,230,0,0,0,0,932,3,46,Matches
-Lasse Schöne,dk DEN,MF,36-311,25.1,1487,1324,161,89,2,3,96,5,67,11,49,2,1249,2,13,Matches
-Dirk Proper,nl NED,MF,21-038,24.7,1131,1109,21,14,0,6,3,6,0,0,0,0,992,1,14,Matches
-Elayis Tavsan,nl NED,FW,21-338,23.0,618,583,33,9,3,3,58,7,17,2,15,0,470,2,28,Matches
-Oussama Tannane,ma MAR,MF,29-011,20.2,1052,900,145,61,14,27,118,11,64,16,42,0,751,7,25,Matches
-Landry Dimata,be BEL,FW,25-214,19.3,315,288,26,0,1,0,3,0,0,0,0,0,236,1,8,Matches
-Magnus Mattsson,dk DEN,"FW,MF",24-037,14.3,471,464,4,2,3,2,9,1,0,0,0,0,364,3,22,Matches
-Philippe Sandler,nl NED,DF,26-052,12.3,796,773,23,19,1,8,1,1,0,0,0,0,697,0,5,Matches
-Mikkel Duelund,dk DEN,"MF,FW",25-278,10.3,316,311,5,1,5,3,3,1,0,0,0,0,236,0,18,Matches
-Calvin Verdonk,nl NED,DF,25-342,10.7,722,659,62,14,0,7,9,45,0,0,0,0,600,1,10,Matches
-Joris Kramer,nl NED,DF,26-244,8.9,440,427,13,7,0,5,1,2,0,0,0,0,387,0,6,Matches
-Ibrahim Cissoko,nl NED,FW,20-008,7.4,235,229,6,0,0,0,23,6,0,0,0,0,163,0,9,Matches
-Pedro David Rosendo Marques,pt POR,FW,24-343,6.2,143,129,14,0,0,0,0,1,0,0,0,0,105,0,3,Matches
-Jordy Bruijn,nl NED,"MF,FW",26-254,4.2,175,166,8,4,0,5,4,0,1,0,1,0,146,1,3,Matches
-Terry Lartey Sanniez,nl NED,DF,26-236,1.2,63,62,1,1,0,4,0,0,0,0,0,0,58,0,0,Matches
-Mattijs Branderhorst,nl NED,GK,29-093,1.0,36,23,13,1,0,0,0,0,0,0,0,0,19,0,0,Matches
-Andri Fannar Baldursson,is ISL,"MF,FW",21-083,1.4,56,55,1,1,0,0,0,0,0,0,0,0,41,0,1,Matches
-Anthony Musaba,nl NED,"FW,MF",22-118,1.3,41,40,1,1,0,0,2,0,0,0,0,0,31,0,5,Matches
-Ilias Bronkhorst,nl NED,"FW,DF",25-328,0.6,18,16,2,0,0,0,2,1,0,0,0,0,11,0,0,Matches
-Squad Total,,,26.4,27.0,13052,11677,1349,372,36,93,501,542,149,29,107,2,10344,26,245,
+Iván Márquez,es ESP,DF,28-301,26.4,1376,1326,50,41,0,7,0,4,0,0,0,0,1174,0,7,Matches
+Jasper Cillessen,nl NED,GK,33-349,26.0,922,659,259,57,0,1,0,0,0,0,0,0,623,4,2,Matches
+Bart van Rooij,nl NED,DF,21-315,26.0,1373,1124,248,27,5,10,55,221,0,0,0,0,1059,1,20,Matches
+Souffian El Karouani,ma MAR,DF,22-169,25.3,1266,1010,253,23,2,2,114,230,0,0,0,0,932,3,46,Matches
+Lasse Schöne,dk DEN,MF,36-314,25.1,1487,1324,161,89,2,3,96,5,67,11,49,2,1249,2,13,Matches
+Dirk Proper,nl NED,MF,21-041,24.7,1131,1109,21,14,0,6,3,6,0,0,0,0,992,1,14,Matches
+Elayis Tavsan,nl NED,FW,21-341,23.0,618,583,33,9,3,3,58,7,17,2,15,0,470,2,28,Matches
+Oussama Tannane,ma MAR,MF,29-014,20.2,1052,900,145,61,14,27,118,11,64,16,42,0,750,7,25,Matches
+Landry Dimata,be BEL,FW,25-217,19.3,315,288,26,0,1,0,3,0,0,0,0,0,236,1,8,Matches
+Magnus Mattsson,dk DEN,"FW,MF",24-040,14.3,472,465,4,2,3,2,9,1,0,0,0,0,364,3,22,Matches
+Philippe Sandler,nl NED,DF,26-055,12.3,796,773,23,19,1,8,1,1,0,0,0,0,697,0,5,Matches
+Mikkel Duelund,dk DEN,"MF,FW",25-281,10.3,316,311,5,1,5,3,3,1,0,0,0,0,236,0,18,Matches
+Calvin Verdonk,nl NED,DF,25-345,10.7,722,659,62,14,0,7,9,45,0,0,0,0,600,1,10,Matches
+Joris Kramer,nl NED,DF,26-247,8.9,440,427,13,7,0,5,1,2,0,0,0,0,387,0,6,Matches
+Ibrahim Cissoko,nl NED,FW,20-011,7.4,235,229,6,0,0,0,23,6,0,0,0,0,163,0,9,Matches
+Pedro David Rosendo Marques,pt POR,FW,24-346,6.2,143,129,14,0,0,0,0,1,0,0,0,0,105,0,3,Matches
+Jordy Bruijn,nl NED,"MF,FW",26-257,4.2,175,166,8,4,0,5,4,0,1,0,1,0,146,1,3,Matches
+Terry Lartey Sanniez,nl NED,DF,26-239,1.2,63,62,1,1,0,4,0,0,0,0,0,0,58,0,0,Matches
+Mattijs Branderhorst,nl NED,GK,29-096,1.0,36,23,13,1,0,0,0,0,0,0,0,0,19,0,0,Matches
+Andri Fannar Baldursson,is ISL,"MF,FW",21-086,1.4,56,55,1,1,0,0,0,0,0,0,0,0,41,0,1,Matches
+Anthony Musaba,nl NED,"FW,MF",22-121,1.3,41,40,1,1,0,0,2,0,0,0,0,0,31,0,5,Matches
+Ilias Bronkhorst,nl NED,"FW,DF",25-331,0.6,18,16,2,0,0,0,2,1,0,0,0,0,11,0,0,Matches
+Squad Total,,,26.4,27.0,13053,11678,1349,372,36,93,501,542,149,29,107,2,10343,26,245,
 Opponent Total,,,25.8,27.0,12686,11470,1182,291,31,91,523,481,155,84,47,2,9982,34,216,

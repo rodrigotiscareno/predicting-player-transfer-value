@@ -1,36 +1,36 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Benjamin Leroy,fr FRA,GK,33-361,24.1,658,399,254,101,0,0,0,0,0,0,0,0,401,5,0,Matches
-Mounaim El Idrissy,fr FRA,FW,24-052,21.4,486,444,39,0,1,1,17,3,0,0,0,0,321,3,17,Matches
-Vincent Marchetti,fr FRA,MF,25-273,20.4,840,817,20,14,8,14,4,6,0,0,0,0,672,3,26,Matches
-Mohamed Youssouf,km COM,DF,35-008,21.2,1074,834,236,15,0,0,77,221,0,0,0,0,789,4,43,Matches
-Oumar Gonzalez,cm CMR,DF,25-037,20.6,824,794,30,29,1,1,3,1,0,0,0,0,673,0,3,Matches
-Cyrille Bayala,bf BFA,MF,26-314,18.2,553,518,32,1,4,0,35,31,0,0,0,0,336,3,26,Matches
-Ismael Diallo,ci CIV,DF,26-064,19.1,880,723,155,10,4,3,31,145,0,0,0,0,659,2,21,Matches
-Cédric Avinel,gp GLP,DF,36-204,16.2,610,592,18,18,0,1,0,0,0,0,0,0,518,0,2,Matches
-Mathieu Coutadeur,fr FRA,MF,37-014,14.9,863,814,47,45,5,5,4,2,0,0,0,0,726,2,10,Matches
-Youcef Belaïli,dz ALG,"MF,FW",31-020,12.1,432,374,54,22,4,2,40,11,14,3,6,0,309,4,11,Matches
-Clément Vidal,fr FRA,"DF,MF",22-289,13.1,560,539,21,10,0,0,3,11,0,0,0,0,426,0,8,Matches
-Riad Nouri,fr FRA,MF,37-300,14.2,506,460,42,19,0,1,78,8,15,1,12,0,338,4,20,Matches
-Mickaël Alphonse,gp GLP,DF,33-265,12.4,599,463,134,6,0,0,26,128,0,0,0,0,389,2,20,Matches
-Romain Hamouma,fr FRA,"FW,MF",36-005,9.5,290,238,50,11,0,1,49,5,20,4,14,0,206,2,10,Matches
-Thomas Mangani,fr FRA,MF,35-339,9.9,658,558,97,57,1,6,61,3,37,17,15,0,446,3,13,Matches
-Mickaël Barreto,fr FRA,MF,32-075,7.9,398,347,50,32,0,4,42,7,11,2,5,0,277,1,12,Matches
-Bevic Moussiti-Oko,cg CGO,FW,28-065,7.8,163,150,11,0,0,0,4,0,0,0,0,0,90,2,7,Matches
-Youssouf Koné,ml MLI,DF,27-272,5.8,221,191,30,2,0,2,13,28,0,0,0,0,168,0,3,Matches
-Fernand Mayembo,cg CGO,DF,27-084,6.4,263,253,10,9,0,1,0,0,0,0,0,0,230,0,1,Matches
-Kevin Spadanuda,ch SUI,"MF,FW",26-077,5.8,134,125,9,0,0,1,3,8,0,0,0,0,109,0,0,Matches
-Yoann Touzghar,tn TUN,FW,36-126,4.3,99,95,4,0,0,0,2,0,0,0,0,0,70,0,9,Matches
-Florian Chabrolle,fr FRA,MF,24-361,3.6,133,129,4,3,0,0,0,0,0,0,0,0,116,0,0,Matches
-Yanis Cimignani,fr FRA,"MF,DF",21-071,3.1,113,101,11,1,0,0,10,9,1,1,0,0,75,1,6,Matches
-François-Joseph Sollacaro,fr FRA,GK,29-013,3.0,63,41,22,8,0,0,0,0,0,0,0,0,35,0,0,Matches
-Kouamé Botué,bf BFA,"FW,MF",20-239,2.5,47,47,0,0,0,0,0,0,0,0,0,0,33,0,1,Matches
-Qazim Laçi,al ALB,MF,27-074,2.4,142,134,8,5,0,1,8,0,3,1,2,0,111,0,2,Matches
-Moussa Soumano,fr FRA,"FW,MF",17-268,2.3,23,19,3,0,0,0,1,0,0,0,0,0,13,1,2,Matches
-Moussa Djitte,sn SEN,FW,23-181,1.5,32,32,0,0,0,0,0,0,0,0,0,0,24,0,1,Matches
-Ghjuvanni Quilichini,fr FRA,GK,20-214,0.9,34,20,14,6,0,0,0,0,0,0,0,0,14,0,0,Matches
-Paolo Lebas,pt POR,MF,19-348,0.6,16,15,1,1,0,0,0,0,0,0,0,0,12,0,0,Matches
-Ruan Levine,br BRA,MF,24-074,0.3,13,13,0,0,0,0,0,0,0,0,0,0,12,0,1,Matches
-Mehdi Puch Herrantz,fr FRA,MF,19-073,0.3,18,18,0,0,0,0,0,0,0,0,0,0,14,0,0,Matches
-Anthony Khelifa,fr FRA,DF,17-195,0.1,12,11,1,1,0,0,0,0,0,0,0,0,11,0,0,Matches
-Squad Total,,,30.0,28.0,11757,10308,1407,426,28,44,511,627,101,29,54,0,8623,42,275,
-Opponent Total,,,26.7,28.0,14391,12921,1414,426,32,84,410,626,107,45,37,0,11292,56,217,
+Benjamin Leroy,fr FRA,GK,33-364,25.1,691,417,269,107,0,0,0,0,0,0,0,0,414,5,0,Matches
+Mounaim El Idrissy,fr FRA,FW,24-055,22.4,510,465,41,0,1,1,17,3,0,0,0,0,336,4,17,Matches
+Vincent Marchetti,fr FRA,MF,25-276,20.4,840,817,20,14,8,14,4,6,0,0,0,0,672,3,26,Matches
+Mohamed Youssouf,km COM,DF,35-011,21.3,1083,841,238,15,0,0,78,223,0,0,0,0,796,4,43,Matches
+Oumar Gonzalez,cm CMR,DF,25-040,20.6,824,794,30,29,1,1,3,1,0,0,0,0,673,0,3,Matches
+Cyrille Bayala,bf BFA,MF,26-317,18.2,553,518,32,1,4,0,35,31,0,0,0,0,336,3,26,Matches
+Ismael Diallo,ci CIV,DF,26-067,19.1,880,723,155,10,4,3,31,145,0,0,0,0,659,2,21,Matches
+Cédric Avinel,gp GLP,DF,36-207,16.4,611,593,18,18,0,1,0,0,0,0,0,0,518,0,2,Matches
+Mathieu Coutadeur,fr FRA,MF,37-017,15.9,899,849,48,46,5,5,4,2,0,0,0,0,755,2,10,Matches
+Clément Vidal,fr FRA,"DF,MF",22-292,14.1,581,556,25,12,0,0,3,13,0,0,0,0,439,0,9,Matches
+Youcef Belaïli,dz ALG,"MF,FW",31-023,12.1,432,374,54,22,4,2,40,11,14,3,6,0,309,4,11,Matches
+Riad Nouri,fr FRA,MF,37-303,15.1,528,482,42,19,0,2,78,8,15,1,12,0,354,4,22,Matches
+Mickaël Alphonse,gp GLP,DF,33-268,13.4,634,490,142,7,0,0,26,135,0,0,0,0,405,2,21,Matches
+Romain Hamouma,fr FRA,"FW,MF",36-008,9.5,290,238,50,11,0,1,49,5,20,4,14,0,206,2,10,Matches
+Thomas Mangani,fr FRA,MF,35-342,10.0,661,561,97,57,1,6,61,3,37,17,15,0,448,3,13,Matches
+Mickaël Barreto,fr FRA,MF,32-078,8.9,436,383,52,33,0,4,43,7,12,3,5,0,304,1,12,Matches
+Youssouf Koné,ml MLI,DF,27-275,6.5,243,207,35,4,0,2,15,31,0,0,0,0,182,1,3,Matches
+Bevic Moussiti-Oko,cg CGO,FW,28-068,7.8,163,150,11,0,0,0,4,0,0,0,0,0,90,2,7,Matches
+Fernand Mayembo,cg CGO,DF,27-087,7.4,293,281,12,11,0,1,0,0,0,0,0,0,253,0,2,Matches
+Kevin Spadanuda,ch SUI,"MF,FW",26-080,6.7,148,139,9,0,0,1,3,8,0,0,0,0,116,0,0,Matches
+Yoann Touzghar,tn TUN,FW,36-129,4.6,107,102,5,0,0,0,2,0,0,0,0,0,76,0,9,Matches
+Florian Chabrolle,fr FRA,MF,24-364,3.6,133,129,4,3,0,0,0,0,0,0,0,0,116,0,0,Matches
+Yanis Cimignani,fr FRA,"MF,DF",21-074,3.1,113,101,11,1,0,0,10,9,1,1,0,0,75,1,6,Matches
+François-Joseph Sollacaro,fr FRA,GK,29-016,3.0,63,41,22,8,0,0,0,0,0,0,0,0,35,0,0,Matches
+Moussa Soumano,fr FRA,"FW,MF",17-271,3.0,30,26,3,0,0,0,1,0,0,0,0,0,17,1,3,Matches
+Kouamé Botué,bf BFA,"FW,MF",20-242,2.5,47,47,0,0,0,0,0,0,0,0,0,0,33,0,1,Matches
+Qazim Laçi,al ALB,MF,27-077,2.4,142,134,8,5,0,1,8,0,3,1,2,0,111,0,2,Matches
+Moussa Djitte,sn SEN,FW,23-184,1.5,32,32,0,0,0,0,0,0,0,0,0,0,24,0,1,Matches
+Ghjuvanni Quilichini,fr FRA,GK,20-217,0.9,34,20,14,6,0,0,0,0,0,0,0,0,14,0,0,Matches
+Paolo Lebas,pt POR,MF,19-351,0.6,16,15,1,1,0,0,0,0,0,0,0,0,12,0,0,Matches
+Ruan Levine,br BRA,"MF,FW",24-077,0.3,14,14,0,0,0,0,0,0,0,0,0,0,13,0,1,Matches
+Mehdi Puch Herrantz,fr FRA,MF,19-076,0.3,18,18,0,0,0,0,0,0,0,0,0,0,14,0,0,Matches
+Anthony Khelifa,fr FRA,DF,17-198,0.1,12,11,1,1,0,0,0,0,0,0,0,0,11,0,0,Matches
+Squad Total,,,30.0,29.0,12061,10568,1449,441,28,45,515,641,102,30,54,0,8816,44,281,
+Opponent Total,,,26.7,29.0,15013,13486,1470,447,33,89,433,653,112,49,38,0,11808,57,225,

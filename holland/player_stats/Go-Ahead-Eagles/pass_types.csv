@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Jeffrey De Lange,nl NED,GK,25-002,25.0,920,678,239,50,0,0,0,0,0,0,0,0,656,3,0,Matches
-Isac Lidberg,se SWE,FW,24-207,22.2,496,473,23,0,1,1,12,1,0,0,0,0,325,0,16,Matches
-Jay Idzes,nl NED,"DF,MF",22-305,23.0,1017,971,45,20,0,3,1,3,0,0,0,0,846,1,5,Matches
-Mats Deijl,nl NED,DF,25-262,22.2,1086,859,227,11,0,3,60,213,3,0,0,0,761,0,24,Matches
-Oliver Edvardsen,no NOR,"MF,FW",24-015,18.1,477,429,46,9,2,2,43,12,14,8,5,0,323,2,14,Matches
-Bobby Adekanye,nl NED,"MF,FW",24-048,16.5,417,405,11,6,3,3,25,1,2,1,0,0,295,1,15,Matches
-Jamal Amofa,nl NED,DF,24-129,19.6,899,841,57,22,1,5,9,30,0,0,0,0,745,1,13,Matches
-Philippe Rommens,be BEL,MF,25-226,18.5,1060,875,181,77,2,12,135,6,79,32,39,2,794,4,8,Matches
-Willum Þór Willumsson,is ISL,"MF,FW",24-162,15.3,556,539,13,4,3,1,12,6,0,0,0,0,396,4,15,Matches
-Evert Linthorst,nl NED,MF,23-031,13.9,587,577,9,4,4,8,10,4,0,0,0,0,458,1,4,Matches
-Bas Kuipers,nl NED,DF,28-229,13.8,588,429,157,25,0,3,50,124,8,2,4,0,416,2,15,Matches
-Enric Llansana,nl NED,MF,21-356,10.3,435,423,11,7,3,2,7,3,1,1,0,0,349,1,6,Matches
-Gerrit Nauber,de GER,DF,30-355,11.5,533,491,42,30,0,5,2,7,0,0,0,0,447,0,3,Matches
-José Fontán,es ESP,DF,23-051,9.7,438,387,51,6,1,3,19,41,0,0,0,0,317,0,16,Matches
-Finn Stokkers,nl NED,FW,26-350,10.5,251,243,6,0,0,1,13,0,0,0,0,0,162,2,8,Matches
-Rashaan Fernandes,nl NED,"MF,FW",24-217,5.6,210,195,15,3,2,0,20,4,7,4,2,0,149,0,7,Matches
-Tesfaldet Tekie,se SWE,MF,25-303,3.9,201,195,5,5,1,2,1,0,0,0,0,0,157,1,5,Matches
-Fredrik Oppegard,no NOR,DF,20-239,3.5,174,140,34,3,0,1,7,31,0,0,0,0,132,0,7,Matches
-Justin Bakker,nl NED,DF,25-031,2.5,119,109,10,2,0,3,1,0,1,1,0,0,85,0,0,Matches
-Xander Blomme,be BEL,MF,20-286,0.8,40,40,0,0,0,0,0,0,0,0,0,0,28,0,2,Matches
-Sylla Sow,nl NED,"FW,MF",26-238,4.3,122,119,3,0,0,0,5,0,0,0,0,0,91,0,6,Matches
-Federico Mattiello,it ITA,"DF,MF",27-263,1.1,60,49,10,0,0,0,4,10,0,0,0,0,48,1,2,Matches
-Jahnoah Markelo,nl NED,"MF,FW",20-089,0.9,37,34,3,1,0,2,10,2,0,0,0,0,21,0,1,Matches
-Martijn Berden,nl NED,"FW,MF",25-248,0.9,24,23,1,0,0,0,0,1,0,0,0,0,18,0,1,Matches
-Pim Saathof,nl NED,"MF,DF",19-096,0.2,10,6,4,0,0,0,1,4,0,0,0,0,6,0,0,Matches
-Aventis Aventisian,gr GRE,MF,20-229,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-Squad Total,,,24.9,26.0,10761,9534,1203,285,23,60,447,503,115,49,50,2,8027,24,193,
-Opponent Total,,,26.2,26.0,13173,11867,1272,295,40,99,537,556,146,56,48,1,10294,34,250,
+Jeffrey De Lange,nl NED,GK,25-005,26.0,956,707,246,55,0,0,0,0,0,0,0,0,679,3,0,Matches
+Isac Lidberg,se SWE,FW,24-210,23.2,513,490,23,0,1,1,12,1,0,0,0,0,335,0,16,Matches
+Jay Idzes,nl NED,"DF,MF",22-308,24.0,1046,999,46,21,0,3,1,3,0,0,0,0,867,1,5,Matches
+Mats Deijl,nl NED,DF,25-265,23.2,1120,885,234,11,0,3,62,220,3,0,0,0,786,1,24,Matches
+Bobby Adekanye,nl NED,"MF,FW",24-051,17.5,432,420,11,6,4,4,28,1,2,1,0,0,304,1,15,Matches
+Jamal Amofa,nl NED,DF,24-132,20.6,920,861,58,23,1,5,9,30,0,0,0,0,762,1,13,Matches
+Philippe Rommens,be BEL,MF,25-229,19.5,1114,922,188,81,2,12,139,6,81,33,40,2,832,4,10,Matches
+Oliver Edvardsen,no NOR,"MF,FW",24-018,18.3,481,433,46,9,2,2,43,12,14,8,5,0,326,2,14,Matches
+Willum Þór Willumsson,is ISL,"MF,FW",24-165,16.3,596,578,14,4,3,2,13,7,0,0,0,0,427,4,17,Matches
+Evert Linthorst,nl NED,MF,23-034,13.9,587,577,9,4,4,8,10,4,0,0,0,0,458,1,4,Matches
+Bas Kuipers,nl NED,DF,28-232,13.8,588,429,157,25,0,3,50,124,8,2,4,0,416,2,15,Matches
+Gerrit Nauber,de GER,DF,30-358,12.5,564,512,52,32,0,6,3,10,0,0,0,0,469,0,3,Matches
+Enric Llansana,nl NED,MF,21-359,10.3,435,423,11,7,3,2,7,3,1,1,0,0,349,1,6,Matches
+Finn Stokkers,nl NED,FW,26-353,11.3,267,259,6,0,0,1,13,0,0,0,0,0,173,2,8,Matches
+José Fontán,es ESP,DF,23-054,9.9,444,392,52,6,1,3,19,42,0,0,0,0,320,0,16,Matches
+Rashaan Fernandes,nl NED,"MF,FW",24-220,5.6,210,195,15,3,2,0,20,4,7,4,2,0,149,0,7,Matches
+Fredrik Oppegard,no NOR,DF,20-242,4.4,187,148,39,3,0,1,7,36,0,0,0,0,142,0,7,Matches
+Tesfaldet Tekie,se SWE,MF,25-306,3.9,201,195,5,5,1,2,1,0,0,0,0,0,157,1,5,Matches
+Justin Bakker,nl NED,DF,25-034,2.5,119,109,10,2,0,3,1,0,1,1,0,0,85,0,0,Matches
+Xander Blomme,be BEL,MF,20-289,0.8,40,40,0,0,0,0,0,0,0,0,0,0,28,0,2,Matches
+Sylla Sow,nl NED,"FW,MF",26-241,4.3,122,119,3,0,0,0,5,0,0,0,0,0,91,0,6,Matches
+Federico Mattiello,it ITA,"DF,MF",27-266,1.1,60,49,10,0,0,0,4,10,0,0,0,0,48,1,2,Matches
+Jahnoah Markelo,nl NED,"MF,FW",20-092,0.9,37,34,3,1,0,2,10,2,0,0,0,0,21,0,1,Matches
+Martijn Berden,nl NED,"FW,MF",25-251,0.9,24,23,1,0,0,0,0,1,0,0,0,0,18,0,1,Matches
+Pim Saathof,nl NED,"MF,DF",19-099,0.2,10,6,4,0,0,0,1,4,0,0,0,0,6,0,0,Matches
+Aventis Aventisian,gr GRE,MF,20-232,0.1,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,24.9,27.0,11077,9809,1243,298,24,63,458,520,117,50,51,2,8250,25,197,
+Opponent Total,,,26.2,27.0,13870,12516,1318,304,43,99,563,581,152,60,50,1,10885,36,257,

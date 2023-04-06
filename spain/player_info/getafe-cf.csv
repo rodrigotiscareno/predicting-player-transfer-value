@@ -1,5 +1,5 @@
 name,price,position,dob,nationality,height,foot,join_date,contract_expiration
-David Soria,€10.00m,Goalkeeper,"Apr 4, 1993 (29)",Spain,"1,92m",right,"Jul 13, 2018","Jun 30, 2023"
+David Soria,€10.00m,Goalkeeper,"Apr 4, 1993 (30)",Spain,"1,92m",right,"Jul 13, 2018","Jun 30, 2023"
 Kiko Casilla,€400k,Goalkeeper,"Oct 2, 1986 (36)",Spain,"1,90m",right,"Aug 10, 2022","Jun 30, 2023"
 Diego Conde,€300k,Goalkeeper,"Oct 28, 1998 (24)",Spain,"1,88m",,"Jul 28, 2021","Jun 30, 2024"
 Domingos Duarte,€8.00m,Centre-Back,"Mar 10, 1995 (28)",Portugal,"1,92m",right,"Jul 11, 2022","Jun 30, 2026"
@@ -20,7 +20,7 @@ Gonzalo Villar,€4.50m,Central Midfield,"Mar 23, 1998 (25)",Spain,"1,81m",right
 Jaime Seoane,€3.50m,Central Midfield,"Jan 22, 1997 (26)",Spain,"1,77m",right,"Jul 1, 2022","Jun 30, 2025"
 Portu,€4.50m,Right Winger,"May 21, 1992 (30)",Spain,"1,67m",right,"Jul 1, 2022","Jun 30, 2023"
 Enes Ünal,€25.00m,Centre-Forward,"May 10, 1997 (25)",Turkey,"1,87m",right,"Aug 12, 2020","Jun 30, 2025"
-Borja Mayoral,€9.00m,Centre-Forward,"Apr 5, 1997 (25)",Spain,"1,82m",right,"Aug 1, 2022","Jun 30, 2027"
+Borja Mayoral,€9.00m,Centre-Forward,"Apr 5, 1997 (26)",Spain,"1,82m",right,"Aug 1, 2022","Jun 30, 2027"
 Munir El Haddadi,€4.00m,Centre-Forward,"Sep 1, 1995 (27)",Morocco,"1,75m",left,"Aug 31, 2022","Jun 30, 2023"
 Jaime Mata,€1.50m,Centre-Forward,"Oct 24, 1988 (34)",Spain,"1,86m",right,"Jul 1, 2018","Jun 30, 2024"
 Juanmi Latasa,€1.00m,Centre-Forward,"Mar 23, 2001 (22)",Spain,"1,92m",left,"Aug 26, 2022","Jun 30, 2023"

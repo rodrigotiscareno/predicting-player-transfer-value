@@ -1,34 +1,34 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Michele Di Gregorio,it ITA,GK,25-250,26.0,0,0,0,0,0,0,0,3,0,0,0,0,22,4,1,80.0,Matches
-Carlos,br BRA,DF,24-086,23.3,2,0,0,33,14,4,41,14,19,0,0,0,108,37,21,63.8,Matches
-Matteo Pessina,it ITA,MF,25-347,22.9,5,0,0,28,39,1,31,25,24,0,0,0,148,29,22,56.9,Matches
-Gianluca Caprari,it ITA,"MF,FW",29-247,20.1,4,0,0,31,40,9,57,7,6,0,0,0,77,4,15,21.1,Matches
-Patrick Ciurria,it ITA,"DF,MF",28-053,19.8,2,0,0,19,26,6,65,3,14,0,0,0,85,7,10,41.2,Matches
-Luca Caldirola,it ITA,DF,32-061,18.4,4,0,0,24,18,0,5,18,8,0,0,0,70,29,25,53.7,Matches
-Armando Izzo,it ITA,DF,31-032,18.0,5,0,0,28,32,1,6,32,38,1,0,0,100,32,22,59.3,Matches
-Pablo Marí,es ESP,DF,29-215,18.6,3,0,0,16,8,0,1,17,12,0,0,0,94,36,17,67.9,Matches
-Stefano Sensi,it ITA,MF,27-241,14.5,5,0,0,14,42,2,42,15,25,1,0,0,100,7,8,46.7,Matches
-Andrea Petagna,it ITA,FW,27-277,14.0,1,0,0,16,23,7,3,2,5,1,0,0,39,28,25,52.8,Matches
-Marlon,br BRA,DF,27-208,13.5,5,0,0,16,4,0,3,18,16,0,0,1,55,29,13,69.0,Matches
-Samuele Birindelli,it ITA,DF,23-258,12.1,6,0,0,12,10,2,60,13,13,0,0,0,56,4,7,36.4,Matches
-Dany Mota,pt POR,"FW,MF",24-336,13.0,1,0,0,14,20,12,32,2,4,1,0,0,40,21,38,35.6,Matches
-Nicolò Rovella,it ITA,MF,21-120,11.5,3,1,0,17,13,0,19,26,22,0,0,0,89,5,6,45.5,Matches
-Pepín,gq EQG,MF,26-232,9.6,4,0,0,18,10,0,10,11,8,0,0,0,47,5,7,41.7,Matches
-Filippo Ranocchia,it ITA,MF,21-324,5.9,1,0,0,7,12,0,13,4,6,0,0,0,32,2,6,25.0,Matches
-Andrea Colpani,it ITA,MF,23-327,6.0,1,0,0,13,14,0,17,3,5,0,0,0,38,4,9,30.8,Matches
-Christian Gytkjær,dk DEN,FW,32-332,5.6,0,0,0,9,4,10,1,0,2,0,0,0,9,8,18,30.8,Matches
-Andrea Barberis,it ITA,MF,29-113,3.5,0,0,0,0,2,0,4,8,2,0,0,0,14,2,1,66.7,Matches
-Giulio Donati,it ITA,DF,33-057,3.4,3,1,1,4,5,0,9,4,1,0,0,0,15,2,3,40.0,Matches
-Marco D'Alessandro,it ITA,"DF,FW",32-045,3.2,2,0,0,6,9,1,13,1,4,0,0,0,19,2,2,50.0,Matches
-Mattia Valoti,it ITA,MF,29-209,3.0,1,0,0,11,7,1,1,2,6,0,0,0,13,9,8,52.9,Matches
-Luca Marrone,it ITA,DF,33-006,1.5,0,0,0,1,2,0,0,0,0,0,0,0,8,4,5,44.4,Matches
-Salvatore Molina,it ITA,DF,31-092,2.5,1,0,0,4,3,0,14,1,5,0,0,0,10,0,1,0.0,Matches
-Valentin Antov,bg BUL,DF,22-145,2.2,1,0,0,2,1,0,1,0,4,0,0,0,15,5,8,38.5,Matches
-Andrea Carboni,it ITA,DF,22-058,1.9,0,0,0,1,1,0,5,3,2,0,0,0,8,0,3,0.0,Matches
-Alessio Cragno,it ITA,GK,28-279,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
-Andrea Ranocchia,it ITA,DF,35-046,0.5,0,0,0,2,0,0,0,0,1,0,0,0,1,1,2,33.3,Matches
-Warren Bondo,fr FRA,MF,19-200,0.7,1,0,0,2,3,0,0,0,0,0,0,0,4,1,0,100.0,Matches
-Franco Carboni,it ITA,DF,19-364,0.6,0,0,0,0,0,0,9,1,1,0,0,0,6,1,0,100.0,Matches
-Samuele Vignato,it ITA,"FW,MF",19-038,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,Matches
-Squad Total,,,27.3,27.0,61,2,1,348,362,56,463,233,253,4,0,1,1325,318,303,51.2,
-Opponent Total,,,27.2,27.0,55,3,1,389,335,45,486,236,237,0,4,1,1424,303,318,48.8,
+Michele Di Gregorio,it ITA,GK,25-253,27.0,0,0,0,0,0,0,0,3,0,0,0,0,24,4,1,80.0,Matches
+Carlos,br BRA,DF,24-089,24.3,2,0,0,33,14,4,41,14,20,0,0,0,115,38,22,63.3,Matches
+Gianluca Caprari,it ITA,"MF,FW",29-250,20.9,5,0,0,32,40,9,63,7,6,0,0,0,79,5,15,25.0,Matches
+Matteo Pessina,it ITA,MF,25-350,22.9,5,0,0,28,39,1,31,25,24,0,0,0,148,29,22,56.9,Matches
+Patrick Ciurria,it ITA,"DF,MF",28-056,20.8,3,0,0,22,26,7,69,3,14,0,0,0,87,7,10,41.2,Matches
+Pablo Marí,es ESP,DF,29-218,19.6,3,0,0,17,8,0,1,17,12,0,0,0,102,37,17,68.5,Matches
+Luca Caldirola,it ITA,DF,32-064,18.4,4,0,0,24,18,0,5,18,8,0,0,0,70,29,25,53.7,Matches
+Armando Izzo,it ITA,DF,31-035,18.0,5,0,0,28,32,1,6,32,38,1,0,0,100,32,22,59.3,Matches
+Stefano Sensi,it ITA,MF,27-244,15.5,6,0,0,16,42,2,44,16,25,1,0,0,106,8,8,50.0,Matches
+Andrea Petagna,it ITA,FW,27-280,14.6,1,0,0,16,24,7,3,2,5,1,0,0,40,28,26,51.9,Matches
+Marlon,br BRA,DF,27-211,14.1,6,0,0,19,5,0,3,18,16,0,0,1,55,29,13,69.0,Matches
+Nicolò Rovella,it ITA,MF,21-123,12.2,3,1,0,17,15,0,19,30,22,0,0,0,94,5,6,45.5,Matches
+Samuele Birindelli,it ITA,DF,23-261,12.1,6,0,0,12,10,2,60,13,13,0,0,0,56,4,7,36.4,Matches
+Dany Mota,pt POR,"FW,MF",24-339,13.4,1,0,0,14,22,12,33,2,4,1,0,0,41,21,38,35.6,Matches
+Pepín,gq EQG,MF,26-235,10.4,4,0,0,18,10,0,10,11,9,0,0,0,51,5,7,41.7,Matches
+Filippo Ranocchia,it ITA,MF,21-327,5.9,1,0,0,7,12,0,13,4,6,0,0,0,32,2,6,25.0,Matches
+Andrea Colpani,it ITA,MF,23-330,6.3,1,0,0,15,15,0,21,3,6,0,0,0,41,4,9,30.8,Matches
+Giulio Donati,it ITA,DF,33-060,4.4,4,1,1,5,6,0,9,4,1,0,0,0,20,3,3,50.0,Matches
+Christian Gytkjær,dk DEN,"FW,MF",32-335,5.8,0,0,0,9,4,10,1,0,2,0,0,0,9,9,19,32.1,Matches
+Andrea Barberis,it ITA,MF,29-116,3.6,0,0,0,0,2,0,4,8,2,0,0,0,15,2,2,50.0,Matches
+Marco D'Alessandro,it ITA,"DF,FW",32-048,3.2,2,0,0,6,9,1,13,1,4,0,0,0,19,2,2,50.0,Matches
+Mattia Valoti,it ITA,MF,29-212,3.0,1,0,0,11,7,1,1,2,6,0,0,0,13,9,8,52.9,Matches
+Luca Marrone,it ITA,DF,33-009,1.5,0,0,0,1,2,0,0,0,0,0,0,0,8,4,5,44.4,Matches
+Valentin Antov,bg BUL,DF,22-148,2.6,1,0,0,2,1,0,2,1,4,0,0,0,19,5,8,38.5,Matches
+Salvatore Molina,it ITA,DF,31-095,2.5,1,0,0,4,3,0,14,1,5,0,0,0,10,0,1,0.0,Matches
+Andrea Carboni,it ITA,DF,22-061,1.9,0,0,0,1,1,0,5,3,2,0,0,0,8,0,3,0.0,Matches
+Alessio Cragno,it ITA,GK,28-282,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+Andrea Ranocchia,it ITA,DF,35-049,0.5,0,0,0,2,0,0,0,0,1,0,0,0,1,1,2,33.3,Matches
+Warren Bondo,fr FRA,MF,19-203,0.7,1,0,0,2,3,0,0,0,0,0,0,0,4,1,0,100.0,Matches
+Franco Carboni,it ITA,DF,20-002,0.6,0,0,0,0,0,0,9,1,1,0,0,0,6,1,0,100.0,Matches
+Samuele Vignato,it ITA,"FW,MF",19-041,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,Matches
+Squad Total,,,27.3,28.0,66,2,1,361,370,57,481,239,256,4,0,1,1376,324,307,51.3,
+Opponent Total,,,27.3,28.0,57,3,1,397,346,46,495,243,246,0,4,1,1470,307,324,48.7,

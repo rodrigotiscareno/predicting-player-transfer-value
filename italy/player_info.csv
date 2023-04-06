@@ -10,7 +10,7 @@ Luca Caldirola,€1.00m,Centre-Back,"Feb 1, 1991 (32)",Italy,"1,86m",left,"Jul 1
 Valentin Antov,€800k,Centre-Back,"Nov 9, 2000 (22)",Bulgaria,"1,87m",right,"Jul 1, 2022",-
 Luca Marrone,€300k,Centre-Back,"Mar 28, 1990 (33)",Italy,"1,86m",right,"Aug 31, 2021","Jun 30, 2023"
 Carlos Augusto,€8.00m,Left-Back,"Jan 7, 1999 (24)",Brazil,"1,84m",left,"Sep 1, 2020","Jun 30, 2024"
-Franco Carboni,€1.00m,Left-Back,"Apr 4, 2003 (19)",Argentina,"1,90m",left,"Jan 24, 2023","Jun 30, 2024"
+Franco Carboni,€1.00m,Left-Back,"Apr 4, 2003 (20)",Argentina,"1,90m",left,"Jan 24, 2023","Jun 30, 2024"
 Samuele Birindelli,€2.30m,Right-Back,"Jul 19, 1999 (23)",Italy,"1,76m",right,"Jul 7, 2022","Jun 30, 2026"
 Giulio Donati,€500k,Right-Back,"Feb 5, 1990 (33)",Italy,"1,78m",right,"Sep 1, 2020","Jun 30, 2023"
 Nicolò Rovella,€12.00m,Defensive Midfield,"Dec 4, 2001 (21)",Italy,"1,79m",right,"Aug 31, 2022","Jun 30, 2023"
@@ -270,7 +270,7 @@ Leonardo Buta,€2.00m,Left-Back,"Jun 5, 2002 (20)",Portugal,"1,82m",left,"Jul 1
 Marvin Zeegelaar,€400k,Left-Back,"Aug 12, 1990 (32)",Netherlands,"1,86m",left,"Mar 7, 2023","Jun 30, 2023"
 Festy Ebosele,€3.50m,Right-Back,"Aug 2, 2002 (20)",Ireland,"1,80m",right,"Jul 1, 2022","Jun 30, 2027"
 Kingsley Ehizibue,€2.30m,Right-Back,"May 25, 1995 (27)",Netherlands,"1,89m",right,"Aug 29, 2022","Jun 30, 2026"
-Walace,€7.00m,Defensive Midfield,"Apr 4, 1995 (27)",Brazil,"1,88m",right,"Aug 12, 2019","Jun 30, 2026"
+Walace,€7.00m,Defensive Midfield,"Apr 4, 1995 (28)",Brazil,"1,88m",right,"Aug 12, 2019","Jun 30, 2026"
 Sandi Lovric,€7.00m,Central Midfield,"Mar 28, 1998 (25)",Slovenia,"1,80m",right,"Jul 1, 2022","Jun 30, 2027"
 Roberto Pereyra,€6.50m,Central Midfield,"Jan 7, 1991 (32)",Argentina,"1,82m",both,"Sep 28, 2020","Jun 30, 2023"
 Tolgay Arslan,€2.00m,Central Midfield,"Aug 16, 1990 (32)",Germany,"1,80m",right,"Sep 18, 2020","Jun 30, 2023"
@@ -288,7 +288,7 @@ Samir Ujkani,€200k,Goalkeeper,"Jul 5, 1988 (34)",Kosovo,"1,86m",right,"Aug 1, 
 Lovro Stubljar,€200k,Goalkeeper,"Aug 9, 2004 (18)",Slovenia,-,left,"Jul 1, 2022",-
 Koni De Winter,€4.00m,Centre-Back,"Jun 12, 2002 (20)",Belgium,"1,91m",right,"Jul 9, 2022","Jun 30, 2023"
 Ardian Ismajli,€3.50m,Centre-Back,"Sep 30, 1996 (26)",Albania,"1,85m",right,"Aug 9, 2021","Jun 30, 2025"
-Sebastian Walukiewicz,€3.00m,Centre-Back,"Apr 5, 2000 (22)",Poland,"1,88m",right,"Sep 1, 2022","Jun 30, 2023"
+Sebastian Walukiewicz,€3.00m,Centre-Back,"Apr 5, 2000 (23)",Poland,"1,88m",right,"Sep 1, 2022","Jun 30, 2023"
 Sebastiano Luperto,€3.00m,Centre-Back,"Sep 6, 1996 (26)",Italy,"1,91m",left,"Jul 18, 2022","Jun 30, 2023"
 Lorenzo Tonelli,€800k,Centre-Back,"Jan 17, 1990 (33)",Italy,"1,83m",right,"Aug 27, 2021","Jun 30, 2023"
 Gabriele Guarino,€200k,Centre-Back,"Apr 14, 2004 (18)",Italy,"1,78m",right,"Jul 1, 2022",-
@@ -552,7 +552,7 @@ Giacomo Bonaventura,€2.50m,Central Midfield,"Aug 22, 1989 (33)",Italy,"1,80m",
 Alessandro Bianco,€600k,Central Midfield,"Oct 1, 2002 (20)",Italy,"1,73m",right,"Jul 1, 2022","Jun 30, 2026"
 Antonin Barak,€12.00m,Attacking Midfield,"Dec 3, 1994 (28)",Czech Republic,"1,90m",left,"Jan 31, 2023","Jun 30, 2027"
 Riccardo Saponara,€2.00m,Attacking Midfield,"Dec 21, 1991 (31)",Italy,"1,84m",right,"Jul 1, 2018","Jun 30, 2023"
-Nicolás González,€28.00m,Left Winger,"Apr 6, 1998 (24)",Argentina,"1,80m",left,"Jul 1, 2021","Jun 30, 2026"
+Nicolás González,€28.00m,Left Winger,"Apr 6, 1998 (25)",Argentina,"1,80m",left,"Jul 1, 2021","Jun 30, 2026"
 Riccardo Sottil,€9.00m,Left Winger,"Jun 3, 1999 (23)",Italy,"1,80m",right,"Jul 1, 2018","Jun 30, 2026"
 Josip Brekalo,€6.50m,Left Winger,"Jun 23, 1998 (24)",Croatia,"1,75m",right,"Jan 28, 2023","Jun 30, 2026"
 Jonathan Ikoné,€16.00m,Right Winger,"May 2, 1998 (24)",France,"1,75m",left,"Jan 3, 2022","Jun 30, 2026"

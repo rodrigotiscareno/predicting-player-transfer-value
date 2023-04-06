@@ -1,35 +1,35 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Dante,br BRA,DF,39-167,27.0,44,26,29,12,3,19,35,54.3,16,41,24,17,39,83,96,1,Matches
-Kasper Schmeichel,dk DEN,GK,36-149,26.0,0,0,0,0,0,0,3,0.0,3,1,0,1,1,1,7,1,Matches
-Jean-Clair Todibo,fr FRA,DF,23-094,24.5,58,38,40,15,3,31,44,70.5,13,31,16,15,28,86,92,1,Matches
-Khéphren Thuram-Ulie,fr FRA,MF,22-008,22.3,41,22,17,20,4,17,37,45.9,20,24,9,15,29,70,27,0,Matches
-Jordan Lotomba,ch SUI,DF,24-186,21.5,48,30,26,18,4,26,36,72.2,10,32,8,24,26,74,41,0,Matches
-Gaëtan Laborde,fr FRA,FW,28-335,19.3,29,15,8,14,7,12,23,52.2,11,19,2,17,7,36,11,0,Matches
-Melvin Bard,fr FRA,DF,22-148,19.1,71,45,43,23,5,45,64,70.3,19,26,1,25,38,109,31,1,Matches
-Nicolas Pépé,ci CIV,"FW,MF",27-309,14.6,19,9,11,4,4,9,20,45.0,11,16,0,16,1,20,1,0,Matches
-Aaron Ramsey,wls WAL,MF,32-098,13.8,41,20,16,16,9,12,27,44.4,15,20,4,16,15,56,14,0,Matches
-Hicham Boudaoui,dz ALG,MF,23-192,13.2,47,21,26,19,2,27,37,73.0,10,22,5,17,23,70,12,0,Matches
-Sofiane Diop,fr FRA,"MF,FW",22-298,11.2,18,10,8,6,4,6,15,40.0,9,13,2,11,11,29,4,0,Matches
-Pablo Rosario,nl NED,"MF,DF",26-086,13.5,30,17,14,12,4,12,20,60.0,8,11,4,7,16,46,21,0,Matches
-Mario Lemina,ga GAB,"MF,DF",29-214,9.3,32,21,11,14,7,12,18,66.7,6,13,5,8,11,43,20,0,Matches
-Andy Delort,dz ALG,FW,31-176,8.7,2,0,1,1,0,1,2,50.0,1,0,0,0,1,3,7,0,Matches
-Ross Barkley,eng ENG,"MF,FW",29-119,7.8,10,5,4,2,4,5,9,55.6,4,6,1,5,4,14,5,0,Matches
-Youcef Atal,dz ALG,"DF,MF",26-321,7.1,34,19,16,14,4,21,27,77.8,6,6,0,6,11,45,11,0,Matches
-Mattia Viti,it ITA,DF,21-069,7.0,4,2,1,1,2,2,5,40.0,3,9,3,6,8,12,22,0,Matches
-Terem Moffi,ng NGA,FW,23-313,5.5,1,0,0,1,0,0,4,0.0,4,0,0,0,0,1,1,0,Matches
-Alexis Beka Beka,fr FRA,"MF,DF",22-005,4.3,10,4,5,5,0,2,10,20.0,8,6,1,5,10,20,2,0,Matches
-Youssouf Ndayishimiye,bi BDI,"DF,MF",24-158,4.4,10,7,5,5,0,3,5,60.0,2,7,4,3,8,18,19,0,Matches
-Bilal Brahimi,dz ALG,"FW,MF",23-020,6.1,4,2,1,2,1,0,3,0.0,3,3,0,3,3,7,0,0,Matches
-Badredine Bouanani,dz ALG,"FW,MF",18-116,3.7,3,2,1,1,1,2,6,33.3,4,2,0,2,0,3,0,0,Matches
-Amine Gouiri,fr FRA,"FW,MF",23-046,2.5,1,1,1,0,0,0,1,0.0,1,1,0,1,0,1,3,0,Matches
-Calvin Stengs,nl NED,FW,24-106,2.4,2,2,1,0,1,1,2,50.0,1,0,0,0,0,2,0,0,Matches
-Ayoub Amraoui,ma MAR,"DF,FW",18-324,2.6,4,3,2,2,0,2,5,40.0,3,1,0,1,4,8,4,0,Matches
-Marcin Bułka,pl POL,GK,23-181,2.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,Matches
-Antoine Mendy,fr FRA,DF,18-311,1.9,7,5,4,3,0,4,8,50.0,4,3,0,3,1,8,7,0,Matches
-Joe Bryan,eng ENG,"MF,DF",29-198,1.8,5,4,3,2,0,4,4,100.0,0,2,0,2,1,6,1,0,Matches
-Rareş Ilie,ro ROU,"MF,FW",19-349,1.6,3,3,0,1,2,2,4,50.0,2,2,0,2,1,4,1,0,Matches
-Flavius Daniliuc,at AUT,DF,21-341,1.0,2,0,2,0,0,1,1,100.0,0,4,1,3,0,2,1,0,Matches
-Alexis Claude-Maurice,fr FRA,FW,24-301,0.7,3,2,2,1,0,3,3,100.0,0,0,0,0,2,5,1,0,Matches
-Reda Belahyane,fr FRA,MF,18-306,0.1,1,0,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0,Matches
-Squad Total,,,27.4,28.0,584,335,298,215,71,282,480,58.8,198,322,90,232,300,884,462,4,
-Opponent Total,,,27.1,28.0,519,312,234,191,94,233,514,45.3,281,311,79,232,274,793,425,10,
+Dante,br BRA,DF,39-170,28.0,44,26,29,12,3,19,35,54.3,16,42,25,17,39,83,98,1,Matches
+Kasper Schmeichel,dk DEN,GK,36-152,27.0,1,0,1,0,0,1,4,25.0,3,1,0,1,1,2,8,1,Matches
+Jean-Clair Todibo,fr FRA,DF,23-097,25.5,61,40,43,15,3,32,46,69.6,14,32,16,16,31,92,95,2,Matches
+Khéphren Thuram-Ulie,fr FRA,MF,22-011,23.3,44,24,20,20,4,18,38,47.4,20,25,9,16,32,76,30,0,Matches
+Jordan Lotomba,ch SUI,DF,24-189,21.5,48,30,26,18,4,26,36,72.2,10,32,8,24,26,74,41,0,Matches
+Gaëtan Laborde,fr FRA,FW,28-338,20.3,30,15,9,14,7,12,24,50.0,12,19,2,17,8,38,11,0,Matches
+Melvin Bard,fr FRA,DF,22-151,20.0,75,48,47,23,5,46,69,66.7,23,28,1,27,40,115,31,1,Matches
+Nicolas Pépé,ci CIV,"FW,MF",27-312,15.6,21,10,12,4,5,10,22,45.5,12,17,0,17,2,23,1,0,Matches
+Aaron Ramsey,wls WAL,MF,32-101,14.6,43,22,16,17,10,13,30,43.3,17,20,4,16,15,58,16,0,Matches
+Hicham Boudaoui,dz ALG,MF,23-195,13.2,47,21,26,19,2,27,37,73.0,10,22,5,17,23,70,12,0,Matches
+Pablo Rosario,nl NED,"MF,DF",26-089,14.3,33,19,16,13,4,14,23,60.9,9,11,4,7,17,50,23,0,Matches
+Sofiane Diop,fr FRA,"MF,FW",22-301,11.2,18,10,8,6,4,6,15,40.0,9,13,2,11,11,29,4,0,Matches
+Mario Lemina,ga GAB,"MF,DF",29-217,9.3,32,21,11,14,7,12,18,66.7,6,13,5,8,11,43,20,0,Matches
+Andy Delort,dz ALG,FW,31-179,8.7,2,0,1,1,0,1,2,50.0,1,0,0,0,1,3,7,0,Matches
+Ross Barkley,eng ENG,"MF,FW",29-122,7.9,11,5,5,2,4,5,9,55.6,4,6,1,5,4,15,5,0,Matches
+Youcef Atal,dz ALG,"DF,MF",26-324,7.1,34,19,16,14,4,21,27,77.8,6,6,0,6,11,45,11,0,Matches
+Mattia Viti,it ITA,DF,21-072,7.0,4,2,1,1,2,2,5,40.0,3,9,3,6,8,12,22,0,Matches
+Terem Moffi,ng NGA,FW,23-316,6.3,1,0,0,1,0,0,5,0.0,5,1,0,1,0,1,1,0,Matches
+Alexis Beka Beka,fr FRA,"MF,DF",22-008,4.4,11,4,5,6,0,2,10,20.0,8,6,1,5,10,21,2,0,Matches
+Youssouf Ndayishimiye,bi BDI,"DF,MF",24-161,4.6,11,8,6,5,0,4,6,66.7,2,7,4,3,9,20,20,0,Matches
+Bilal Brahimi,dz ALG,"FW,MF",23-023,6.3,4,2,1,2,1,0,3,0.0,3,3,0,3,3,7,0,0,Matches
+Badredine Bouanani,dz ALG,"FW,MF",18-119,3.9,4,2,1,2,1,2,6,33.3,4,2,0,2,0,4,0,0,Matches
+Antoine Mendy,fr FRA,DF,18-314,2.8,13,8,9,3,1,5,9,55.6,4,4,0,4,1,14,8,0,Matches
+Amine Gouiri,fr FRA,"FW,MF",23-049,2.5,1,1,1,0,0,0,1,0.0,1,1,0,1,0,1,3,0,Matches
+Calvin Stengs,nl NED,FW,24-109,2.4,2,2,1,0,1,1,2,50.0,1,0,0,0,0,2,0,0,Matches
+Ayoub Amraoui,ma MAR,"DF,FW",18-327,2.6,4,3,2,2,0,2,5,40.0,3,1,0,1,4,8,4,0,Matches
+Marcin Bułka,pl POL,GK,23-184,2.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,Matches
+Joe Bryan,eng ENG,"MF,DF",29-201,1.8,5,4,3,2,0,4,4,100.0,0,2,0,2,1,6,1,0,Matches
+Rareş Ilie,ro ROU,"MF,FW",19-352,1.6,3,3,0,1,2,2,4,50.0,2,2,0,2,1,4,1,0,Matches
+Flavius Daniliuc,at AUT,DF,21-344,1.0,2,0,2,0,0,1,1,100.0,0,4,1,3,0,2,1,0,Matches
+Alexis Claude-Maurice,fr FRA,FW,24-304,0.7,3,2,2,1,0,3,3,100.0,0,0,0,0,2,5,1,0,Matches
+Reda Belahyane,fr FRA,MF,18-309,0.1,1,0,0,1,0,1,1,100.0,0,1,0,1,0,1,0,0,Matches
+Squad Total,,,27.4,29.0,613,351,320,219,74,292,501,58.3,209,330,91,239,312,925,477,5,
+Opponent Total,,,27.1,29.0,534,321,241,196,97,236,527,44.8,291,325,82,243,282,816,448,10,

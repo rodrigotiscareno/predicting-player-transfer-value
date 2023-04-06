@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Manuel Riemann,de GER,GK,34-206,26.0,2,1,2,0,0,2,2,100.0,0,1,0,1,5,7,17,4,Matches
-Anthony Losilla,fr FRA,MF,37-024,23.4,55,37,26,23,6,28,51,54.9,23,28,9,19,27,82,55,0,Matches
-Kevin Stöger,at AUT,MF,29-219,22.4,62,32,28,25,9,21,63,33.3,42,21,4,17,22,84,18,0,Matches
-Philipp Hofmann,de GER,FW,30-004,22.1,12,7,0,8,4,4,9,44.4,5,17,7,10,6,18,32,0,Matches
-Ivan Ordets,ua UKR,DF,30-269,19.2,26,15,19,6,1,15,24,62.5,9,24,10,14,35,61,89,0,Matches
-Danilo Soares,br BRA,DF,31-156,15.2,56,38,30,19,7,34,52,65.4,18,25,4,21,22,78,39,1,Matches
-Simon Zoller,de GER,FW,31-281,14.2,8,2,2,6,0,3,9,33.3,6,13,1,12,6,14,20,0,Matches
-Erhan Mašović,rs SRB,DF,24-132,16.5,40,27,22,18,0,23,39,59.0,16,22,11,11,17,57,58,0,Matches
-Cristian Gamboa,cr CRC,DF,33-161,14.1,37,20,26,10,1,17,25,68.0,8,17,6,11,14,51,31,1,Matches
-Christopher Antwi-Adjei,gh GHA,"FW,MF",29-055,14.5,16,11,4,5,7,5,19,26.3,14,10,0,10,3,19,10,0,Matches
-Takuma Asano,jp JPN,"FW,MF",28-144,12.1,7,4,2,2,3,1,5,20.0,4,10,1,9,6,13,3,0,Matches
-Philipp Förster,de GER,MF,28-058,11.4,24,16,10,10,4,7,30,23.3,23,18,0,18,4,28,4,0,Matches
-Kostas Stafylidis,gr GRE,"DF,MF",29-122,9.9,26,15,12,8,6,9,19,47.4,10,19,8,11,14,40,26,1,Matches
-Saidy Janko,gm GAM,DF,27-163,9.0,18,11,12,4,2,9,15,60.0,6,16,4,12,10,28,22,1,Matches
-Gerrit Holtmann,ph PHI,FW,28-009,9.5,12,6,6,5,1,10,16,62.5,6,14,1,13,2,14,2,0,Matches
-Patrick Osterhage,de GER,MF,23-061,8.1,17,15,6,9,2,10,14,71.4,4,12,4,8,10,27,19,0,Matches
-Vassilis Lambropoulos,gr GRE,DF,33-003,6.9,10,8,7,3,0,6,9,66.7,3,5,3,2,12,22,40,0,Matches
-Jordi Osei-Tutu,eng ENG,"DF,FW",24-183,7.2,20,15,11,5,4,9,15,60.0,6,12,5,7,9,29,7,0,Matches
-Keven Schlotterbeck,de GER,DF,25-340,6.5,14,6,10,4,0,7,8,87.5,1,11,5,6,13,27,36,0,Matches
-Dominique Heintz,de GER,DF,29-231,5.6,7,5,4,3,0,3,10,30.0,7,9,5,4,9,16,29,0,Matches
-Pierre Kunde,cm CMR,MF,27-251,3.6,10,5,2,8,0,4,12,33.3,8,6,1,5,4,14,7,0,Matches
-Tim Oermann,de GER,DF,19-179,2.2,2,1,2,0,0,1,1,100.0,0,3,2,1,1,3,8,1,Matches
-Jacek Góralski,pl POL,MF,30-194,1.6,6,3,3,3,0,4,6,66.7,2,4,0,4,3,9,5,0,Matches
-Jannes Horn,de GER,"DF,FW",26-056,0.7,2,1,1,1,0,1,1,100.0,0,1,0,1,3,5,2,0,Matches
-Silvère Ganvoula M'Boussy,cg CGO,"FW,MF",26-285,2.6,2,2,0,1,1,0,0,,0,0,0,0,0,2,3,0,Matches
-Moritz Broschinski,de GER,"FW,MF",22-192,1.2,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,4,0,Matches
+Manuel Riemann,de GER,GK,34-209,26.0,2,1,2,0,0,2,2,100.0,0,1,0,1,5,7,17,4,Matches
+Anthony Losilla,fr FRA,MF,37-027,23.4,55,37,26,23,6,28,51,54.9,23,28,9,19,27,82,55,0,Matches
+Kevin Stöger,at AUT,MF,29-222,22.4,62,32,28,25,9,21,63,33.3,42,21,4,17,22,84,18,0,Matches
+Philipp Hofmann,de GER,FW,30-007,22.1,12,7,0,8,4,4,9,44.4,5,17,7,10,6,18,32,0,Matches
+Ivan Ordets,ua UKR,DF,30-272,19.2,26,15,19,6,1,15,24,62.5,9,24,10,14,35,61,89,0,Matches
+Danilo Soares,br BRA,DF,31-159,15.2,56,38,30,19,7,34,52,65.4,18,25,4,21,22,78,39,1,Matches
+Simon Zoller,de GER,FW,31-284,14.2,8,2,2,6,0,3,9,33.3,6,13,1,12,6,14,20,0,Matches
+Erhan Mašović,rs SRB,DF,24-135,16.5,40,27,22,18,0,23,39,59.0,16,22,11,11,17,57,58,0,Matches
+Cristian Gamboa,cr CRC,DF,33-164,14.1,37,20,26,10,1,17,25,68.0,8,17,6,11,14,51,31,1,Matches
+Christopher Antwi-Adjei,gh GHA,"FW,MF",29-058,14.5,16,11,4,5,7,5,19,26.3,14,10,0,10,3,19,10,0,Matches
+Takuma Asano,jp JPN,"FW,MF",28-147,12.1,7,4,2,2,3,1,5,20.0,4,10,1,9,6,13,3,0,Matches
+Philipp Förster,de GER,MF,28-061,11.4,24,16,10,10,4,7,30,23.3,23,18,0,18,4,28,4,0,Matches
+Kostas Stafylidis,gr GRE,"DF,MF",29-125,9.9,26,15,12,8,6,9,19,47.4,10,19,8,11,14,40,26,1,Matches
+Saidy Janko,gm GAM,DF,27-166,9.0,18,11,12,4,2,9,15,60.0,6,16,4,12,10,28,22,1,Matches
+Gerrit Holtmann,ph PHI,FW,28-012,9.5,12,6,6,5,1,10,16,62.5,6,14,1,13,2,14,2,0,Matches
+Patrick Osterhage,de GER,MF,23-064,8.1,17,15,6,9,2,10,14,71.4,4,12,4,8,10,27,19,0,Matches
+Vassilis Lambropoulos,gr GRE,DF,33-006,6.9,10,8,7,3,0,6,9,66.7,3,5,3,2,12,22,40,0,Matches
+Jordi Osei-Tutu,eng ENG,"DF,FW",24-186,7.2,20,15,11,5,4,9,15,60.0,6,12,5,7,9,29,7,0,Matches
+Keven Schlotterbeck,de GER,DF,25-343,6.5,14,6,10,4,0,7,8,87.5,1,11,5,6,13,27,36,0,Matches
+Dominique Heintz,de GER,DF,29-234,5.6,7,5,4,3,0,3,10,30.0,7,9,5,4,9,16,29,0,Matches
+Pierre Kunde,cm CMR,MF,27-254,3.6,10,5,2,8,0,4,12,33.3,8,6,1,5,4,14,7,0,Matches
+Tim Oermann,de GER,DF,19-182,2.2,2,1,2,0,0,1,1,100.0,0,3,2,1,1,3,8,1,Matches
+Jacek Góralski,pl POL,MF,30-197,1.6,6,3,3,3,0,4,6,66.7,2,4,0,4,3,9,5,0,Matches
+Jannes Horn,de GER,"DF,FW",26-059,0.7,2,1,1,1,0,1,1,100.0,0,1,0,1,3,5,2,0,Matches
+Silvère Ganvoula M'Boussy,cg CGO,"FW,MF",26-288,2.6,2,2,0,1,1,0,0,,0,0,0,0,0,2,3,0,Matches
+Moritz Broschinski,de GER,"FW,MF",22-195,1.2,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,4,0,Matches
 Squad Total,,,30.1,26.0,491,303,247,186,58,233,456,51.1,223,318,91,227,257,748,586,9,
-Opponent Total,,,27.1,26.0,363,225,165,146,52,150,287,52.3,137,251,70,181,235,598,539,8,
+Opponent Total,,,27.2,26.0,363,225,165,146,52,150,287,52.3,137,251,70,181,235,598,539,8,

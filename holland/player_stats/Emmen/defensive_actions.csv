@@ -1,31 +1,31 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Keziah Veendorp,nl NED,"DF,MF",26-045,26.3,37,22,19,15,3,25,43,58.1,18,27,9,18,24,61,59,1,Matches
-Mark Diemers,nl NED,"MF,FW",29-174,24.5,26,20,8,10,8,13,32,40.6,19,20,2,18,12,38,12,1,Matches
-Miguel Araujo,pe PER,DF,28-161,23.7,43,19,27,15,1,17,22,77.3,5,34,21,13,28,71,105,0,Matches
-Richairo Živković,cw CUW,FW,26-210,20.6,33,23,12,9,12,12,28,42.9,16,11,2,9,9,42,22,0,Matches
-Ole Romeny,nl NED,"FW,MF",22-287,21.4,30,21,8,15,7,14,25,56.0,11,14,3,11,8,38,18,0,Matches
-Lucas Bernadou,fr FRA,MF,22-191,19.6,43,25,19,19,5,26,50,52.0,24,15,2,13,29,72,21,0,Matches
-Jeroen Veldmate,nl NED,DF,34-146,19.6,25,16,15,10,0,11,13,84.6,2,15,9,6,23,48,98,0,Matches
-Mickey van der Hart,nl NED,GK,28-294,18.0,1,1,1,0,0,0,1,0.0,1,0,0,0,0,1,3,0,Matches
-Jari Vlak,nl NED,MF,24-231,16.8,31,16,16,11,4,10,43,23.3,33,31,10,21,23,54,36,0,Matches
-Rui Mendes,de GER,"FW,MF",23-144,15.7,14,9,5,7,2,7,16,43.8,9,4,1,3,8,22,4,0,Matches
-Mohamed Bouchouari,be BEL,DF,22-139,16.4,44,22,23,14,7,21,42,50.0,21,31,4,27,14,58,39,0,Matches
-Lorenzo Burnet,nl NED,DF,32-082,10.7,26,17,17,9,0,12,17,70.6,5,15,3,12,7,33,28,0,Matches
-Julius Dirksen,nl NED,DF,20-060,11.1,35,22,14,17,4,26,40,65.0,14,17,8,9,27,62,47,1,Matches
-Ahmed El Messaoudi,ma MAR,"MF,FW",27-243,10.9,14,7,7,5,2,3,13,23.1,10,16,5,11,4,18,11,0,Matches
-Eric Oelschlägel,de GER,GK,27-195,9.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0,Matches
-Mike te Wierik,nl NED,DF,30-299,6.8,11,8,7,4,0,6,8,75.0,2,7,5,2,13,24,22,0,Matches
-Jeremy Antonisse,cw CUW,"FW,MF",21-005,4.2,6,2,4,2,0,6,19,31.6,13,7,0,7,3,9,8,0,Matches
-Jeff Hardeveld,nl NED,DF,28-035,3.9,15,13,7,5,3,7,12,58.3,5,2,1,1,12,27,10,0,Matches
-Jasin Assehnoun,fi FIN,"FW,DF",24-098,6.4,17,10,6,8,3,9,21,42.9,12,14,1,13,4,21,6,0,Matches
-Dennis Vos,nl NED,DF,21-126,3.0,5,0,2,1,2,2,3,66.7,1,4,1,3,2,7,7,0,Matches
-Michaël Heylen,be BEL,"DF,MF",29-090,2.7,6,4,6,0,0,4,7,57.1,3,5,5,0,1,7,9,1,Matches
-Danny Hoesen,nl NED,FW,32-078,1.2,0,0,0,0,0,0,0,,0,2,2,0,0,0,0,0,Matches
-Maikel Kieftenbeld,nl NED,MF,32-281,1.0,1,0,1,0,0,1,1,100.0,0,1,0,1,2,3,2,0,Matches
-Fernando Pacheco Rivas,pe PER,"FW,MF",23-281,0.9,2,2,0,1,1,2,7,28.6,5,1,1,0,0,2,4,0,Matches
-Ben Scholte,nl NED,"MF,DF",21-236,0.8,0,0,0,0,0,0,1,0.0,1,3,1,2,1,1,2,0,Matches
-Oussama Darfalou,dz ALG,FW,29-187,0.8,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-Azzeddine Toufiqui,fr FRA,"MF,FW",23-343,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
-Metehan Güçlü,tr TUR,FW,24-001,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,26.5,27.0,465,279,224,177,64,234,465,50.3,231,296,96,200,255,720,578,4,
-Opponent Total,,,25.5,27.0,430,267,204,170,56,218,386,56.5,168,312,82,230,261,691,519,3,
+Keziah Veendorp,nl NED,"DF,MF",26-048,26.3,37,22,19,15,3,25,43,58.1,18,27,9,18,24,61,59,1,Matches
+Mark Diemers,nl NED,"MF,FW",29-177,24.5,26,20,8,10,8,13,32,40.6,19,20,2,18,12,38,12,1,Matches
+Miguel Araujo,pe PER,DF,28-164,23.7,43,19,27,15,1,17,22,77.3,5,34,21,13,28,71,105,0,Matches
+Richairo Živković,cw CUW,FW,26-213,20.6,33,23,12,9,12,12,28,42.9,16,11,2,9,9,42,22,0,Matches
+Ole Romeny,nl NED,"FW,MF",22-290,21.4,30,21,8,15,7,14,25,56.0,11,14,3,11,8,38,18,0,Matches
+Lucas Bernadou,fr FRA,MF,22-194,19.6,43,25,19,19,5,26,50,52.0,24,15,2,13,29,72,21,0,Matches
+Jeroen Veldmate,nl NED,DF,34-149,19.6,24,15,14,10,0,11,13,84.6,2,15,9,6,23,47,98,0,Matches
+Mickey van der Hart,nl NED,GK,28-297,18.0,1,1,1,0,0,0,1,0.0,1,0,0,0,0,1,2,0,Matches
+Jari Vlak,nl NED,MF,24-234,16.8,31,16,16,11,4,10,43,23.3,33,31,10,21,23,54,36,0,Matches
+Rui Mendes,de GER,"FW,MF",23-147,15.7,14,9,5,7,2,7,16,43.8,9,4,1,3,8,22,4,0,Matches
+Mohamed Bouchouari,be BEL,DF,22-142,16.4,44,22,23,14,7,21,42,50.0,21,31,4,27,14,58,39,0,Matches
+Lorenzo Burnet,nl NED,DF,32-085,10.7,26,17,17,9,0,12,17,70.6,5,15,3,12,7,33,28,0,Matches
+Julius Dirksen,nl NED,DF,20-063,11.1,35,22,14,17,4,26,40,65.0,14,17,8,9,27,62,47,1,Matches
+Ahmed El Messaoudi,ma MAR,"MF,FW",27-246,10.9,14,7,7,5,2,3,13,23.1,10,16,5,11,4,18,11,0,Matches
+Eric Oelschlägel,de GER,GK,27-198,9.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0,Matches
+Mike te Wierik,nl NED,DF,30-302,6.8,11,8,7,4,0,6,8,75.0,2,7,5,2,13,24,22,0,Matches
+Jeremy Antonisse,cw CUW,"FW,MF",21-008,4.2,6,2,4,2,0,6,19,31.6,13,7,0,7,3,9,8,0,Matches
+Jeff Hardeveld,nl NED,DF,28-038,3.9,15,13,7,5,3,7,12,58.3,5,2,1,1,12,27,10,0,Matches
+Jasin Assehnoun,fi FIN,"FW,DF",24-101,6.4,17,10,6,8,3,9,21,42.9,12,14,1,13,4,21,6,0,Matches
+Dennis Vos,nl NED,DF,21-129,3.0,5,0,2,1,2,2,3,66.7,1,4,1,3,2,7,7,0,Matches
+Michaël Heylen,be BEL,"DF,MF",29-093,2.7,6,4,6,0,0,4,7,57.1,3,5,5,0,1,7,9,1,Matches
+Danny Hoesen,nl NED,FW,32-081,1.2,0,0,0,0,0,0,0,,0,2,2,0,0,0,0,0,Matches
+Maikel Kieftenbeld,nl NED,MF,32-284,1.0,1,0,1,0,0,1,1,100.0,0,1,0,1,2,3,2,0,Matches
+Fernando Pacheco Rivas,pe PER,"FW,MF",23-284,0.9,2,2,0,1,1,2,7,28.6,5,1,1,0,0,2,4,0,Matches
+Ben Scholte,nl NED,"MF,DF",21-239,0.8,0,0,0,0,0,0,1,0.0,1,3,1,2,1,1,2,0,Matches
+Oussama Darfalou,dz ALG,FW,29-190,0.8,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Azzeddine Toufiqui,fr FRA,"MF,FW",23-346,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
+Metehan Güçlü,tr TUR,FW,24-004,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,26.5,27.0,464,278,223,177,64,234,465,50.3,231,296,96,200,255,719,577,4,
+Opponent Total,,,25.5,27.0,430,267,204,170,56,218,389,56.0,171,312,82,230,261,691,519,3,

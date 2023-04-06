@@ -1,30 +1,30 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Alisson,br BRA,GK,30-183,27.0,1050,858,188,43,0,2,0,0,0,0,0,0,903,4,1,Matches
-Mohamed Salah,eg EGY,FW,30-292,26.5,729,705,18,1,8,1,19,10,0,0,0,0,551,6,25,Matches
-Trent Alexander-Arnold,eng ENG,DF,24-178,22.5,1949,1575,364,46,12,41,185,250,68,12,51,1,1429,10,29,Matches
-Virgil van Dijk,nl NED,DF,31-269,22.5,1776,1718,57,47,1,24,0,8,0,0,0,0,1589,1,6,Matches
-Andrew Robertson,sct SCO,DF,29-023,20.5,1505,1233,269,45,1,7,144,162,62,16,37,0,1179,3,31,Matches
-Fabinho,br BRA,MF,29-162,19.7,1172,1138,32,26,3,4,5,6,0,0,0,0,1026,2,10,Matches
-Harvey Elliott,eng ENG,"MF,FW",19-364,16.6,918,877,34,0,5,3,31,8,1,0,0,0,733,7,22,Matches
-Darwin Núñez,uy URU,FW,23-283,15.2,305,292,9,0,2,7,16,6,1,0,0,0,194,4,16,Matches
-Jordan Henderson,eng ENG,MF,32-290,15.0,1084,1048,31,12,6,7,16,10,0,0,0,0,899,5,17,Matches
-Thiago Alcántara,es ESP,MF,31-357,12.8,980,949,28,21,8,14,1,5,0,0,0,0,842,3,21,Matches
-Joe Gomez,eng ENG,DF,25-315,14.3,1217,1187,25,6,2,10,3,19,0,0,0,0,1040,5,4,Matches
-Roberto Firmino,br BRA,"FW,MF",31-183,11.7,495,480,14,1,7,0,12,6,0,0,0,0,389,1,20,Matches
-Joël Matip,cm CMR,DF,31-238,9.1,664,653,10,7,0,3,1,3,0,0,0,0,573,1,4,Matches
-Cody Gakpo,nl NED,FW,23-331,8.2,158,155,1,0,1,0,10,0,0,0,0,0,104,2,4,Matches
-Ibrahima Konaté,fr FRA,DF,23-313,8.2,537,525,12,10,0,2,0,2,0,0,0,0,471,0,3,Matches
-Luis Díaz,co COL,FW,26-080,6.8,256,254,2,0,0,6,7,2,0,0,0,0,203,0,10,Matches
-James Milner,eng ENG,"DF,MF",37-089,8.1,572,484,85,16,1,3,46,58,11,2,9,0,438,3,17,Matches
-Kostas Tsimikas,gr GRE,DF,26-326,6.2,435,327,107,19,0,2,61,63,25,8,16,0,335,1,6,Matches
-Stefan Bajcetic,es ESP,MF,18-163,5.8,258,255,3,3,0,3,5,0,0,0,0,0,200,0,6,Matches
-Diogo Jota,pt POR,"FW,MF",26-120,5.8,168,167,1,0,2,1,5,0,0,0,0,0,120,0,8,Matches
-Fabio Carvalho,pt POR,"MF,FW",20-216,3.8,139,136,2,0,0,0,2,1,0,0,0,0,114,1,3,Matches
-Alex Oxlade-Chamberlain,eng ENG,"FW,MF",29-231,3.7,106,102,2,0,2,3,2,2,0,0,0,0,75,2,4,Matches
-Naby Keïta,gn GUI,MF,28-052,3.3,168,161,6,1,0,0,2,1,0,0,0,0,129,1,7,Matches
-Curtis Jones,eng ENG,"MF,FW",22-063,2.2,141,138,3,0,1,1,3,2,0,0,0,0,121,0,2,Matches
-Nathaniel Phillips,eng ENG,DF,26-013,0.7,82,80,2,2,0,2,0,0,0,0,0,0,71,0,0,Matches
-Ben Doak,sct SCO,FW,17-143,0.3,14,14,0,0,0,0,0,0,0,0,0,0,10,0,1,Matches
-Bobby Clark,eng ENG,MF,18-055,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
-Squad Total,,,28.2,27.0,16879,15512,1305,306,62,146,576,624,168,38,113,1,13739,62,277,
-Opponent Total,,,27.3,27.0,11930,10649,1217,310,51,94,379,492,98,51,28,1,9023,64,228,
+Alisson,br BRA,GK,30-186,28.0,1098,894,200,46,0,2,0,0,0,0,0,0,943,4,1,Matches
+Mohamed Salah,eg EGY,FW,30-295,26.8,739,715,18,1,8,1,19,10,0,0,0,0,558,6,26,Matches
+Trent Alexander-Arnold,eng ENG,DF,24-181,22.5,1951,1578,364,46,12,41,185,250,68,12,51,1,1432,9,29,Matches
+Virgil van Dijk,nl NED,DF,31-272,22.5,1779,1720,58,48,1,24,0,8,0,0,0,0,1592,1,6,Matches
+Andrew Robertson,sct SCO,DF,29-026,20.7,1525,1249,273,45,1,7,145,165,63,17,37,0,1193,3,31,Matches
+Fabinho,br BRA,MF,29-165,20.7,1218,1178,36,30,3,4,5,6,0,0,0,0,1064,4,11,Matches
+Harvey Elliott,eng ENG,"MF,FW",20-002,16.6,918,877,34,0,5,3,31,8,1,0,0,0,733,7,22,Matches
+Darwin Núñez,uy URU,FW,23-286,16.1,333,320,9,0,2,8,16,6,1,0,0,0,214,4,18,Matches
+Jordan Henderson,eng ENG,MF,32-293,16.0,1143,1105,32,11,6,7,20,11,0,0,0,0,944,6,19,Matches
+Joe Gomez,eng ENG,DF,25-318,15.3,1275,1233,36,6,2,10,4,30,0,0,0,0,1086,6,5,Matches
+Thiago Alcántara,es ESP,MF,31-360,12.8,980,949,28,21,8,14,1,5,0,0,0,0,842,3,21,Matches
+Roberto Firmino,br BRA,"FW,MF",31-186,12.4,526,511,14,1,7,0,12,6,0,0,0,0,416,1,20,Matches
+Joël Matip,cm CMR,DF,31-241,10.1,729,717,11,7,0,4,1,4,0,0,0,0,630,1,4,Matches
+Ibrahima Konaté,fr FRA,DF,23-316,9.2,605,592,13,11,0,2,0,2,0,0,0,0,531,0,3,Matches
+Cody Gakpo,nl NED,FW,23-334,8.3,162,159,1,0,1,0,10,0,0,0,0,0,108,2,4,Matches
+Kostas Tsimikas,gr GRE,DF,26-329,6.9,489,368,120,20,0,2,67,71,29,10,18,0,374,1,7,Matches
+Luis Díaz,co COL,FW,26-083,6.8,256,254,2,0,0,6,7,2,0,0,0,0,203,0,10,Matches
+James Milner,eng ENG,"MF,DF",37-092,8.2,582,493,86,16,1,3,46,59,11,2,9,0,444,3,17,Matches
+Diogo Jota,pt POR,"FW,MF",26-123,6.8,198,197,1,0,2,1,5,0,0,0,0,0,144,0,9,Matches
+Stefan Bajcetic,es ESP,MF,18-166,5.8,258,255,3,3,0,3,5,0,0,0,0,0,200,0,6,Matches
+Fabio Carvalho,pt POR,"MF,FW",20-219,3.8,139,136,2,0,0,0,2,1,0,0,0,0,114,1,3,Matches
+Alex Oxlade-Chamberlain,eng ENG,"FW,MF",29-234,3.7,106,102,2,0,2,3,2,2,0,0,0,0,75,2,4,Matches
+Naby Keïta,gn GUI,MF,28-055,3.3,168,161,6,1,0,0,2,1,0,0,0,0,129,1,7,Matches
+Curtis Jones,eng ENG,"MF,FW",22-066,3.0,196,192,4,1,2,1,4,2,0,0,0,0,171,0,3,Matches
+Nathaniel Phillips,eng ENG,DF,26-016,0.7,82,80,2,2,0,2,0,0,0,0,0,0,71,0,0,Matches
+Ben Doak,sct SCO,FW,17-146,0.3,14,14,0,0,0,0,0,0,0,0,0,0,10,0,1,Matches
+Bobby Clark,eng ENG,MF,18-058,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,28.2,28.0,17470,16050,1355,316,63,148,589,649,173,41,115,1,14222,65,287,
+Opponent Total,,,27.3,28.0,12500,11172,1260,330,53,96,392,509,101,53,29,1,9488,68,241,

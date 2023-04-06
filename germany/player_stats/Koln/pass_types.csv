@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Marvin Schwäbe,de GER,GK,27-343,25.0,1025,835,189,52,0,1,0,0,0,0,0,0,828,1,0,Matches
-Ellyes Skhiri,tn TUN,MF,27-328,23.7,1237,1183,52,44,0,8,12,8,0,0,0,0,1079,2,18,Matches
-Jonas Hector,de GER,DF,32-311,22.4,1313,1042,267,52,0,3,80,200,13,7,3,0,975,4,35,Matches
-Benno Schmitz,de GER,DF,28-137,20.2,1136,893,236,7,1,1,79,229,0,0,0,0,705,7,40,Matches
-Florian Kainz,at AUT,"FW,MF",30-161,18.5,841,653,176,45,4,4,183,22,109,47,42,0,501,12,35,Matches
-Timo Hübers,de GER,DF,26-257,19.4,1178,1114,62,34,0,3,1,5,0,0,0,0,975,2,5,Matches
-Linton Maina,de GER,"FW,MF",23-284,17.0,458,422,35,3,1,1,63,10,17,10,5,0,308,1,31,Matches
-Steffen Tigges,de GER,FW,24-246,14.7,276,251,24,0,0,1,11,4,0,0,0,0,158,1,13,Matches
-Eric Martel,de GER,MF,20-339,15.0,616,605,9,9,1,2,14,0,0,0,0,0,486,2,17,Matches
-Dejan Ljubicic,at AUT,MF,25-177,12.7,390,379,9,0,2,1,24,2,2,1,1,0,287,2,12,Matches
-Luca Kilian,de GER,DF,23-214,12.2,673,651,19,13,0,5,0,3,0,0,0,0,578,3,5,Matches
-Julian Chabot,de GER,DF,25-050,11.0,659,616,41,25,0,1,1,0,0,0,0,0,561,2,2,Matches
-Ondrej Duda,sk SVK,MF,28-119,7.7,279,259,19,6,0,7,12,2,1,1,0,0,208,1,10,Matches
-Denis Huseinbasic,de GER,"MF,FW",21-274,7.6,249,246,3,1,0,1,10,2,0,0,0,0,190,0,12,Matches
-Nikola Soldo,hr CRO,DF,22-068,6.6,348,333,12,11,0,2,1,1,0,0,0,0,270,3,6,Matches
-Mathias Olesen,lu LUX,MF,22-013,4.9,141,135,5,1,0,2,2,0,0,0,0,0,109,1,4,Matches
-Jan Thielmann,de GER,FW,20-312,6.2,142,131,9,0,0,3,16,9,0,0,0,0,90,2,8,Matches
-Kingsley Schindler,gh GHA,"DF,MF",29-265,7.8,345,279,64,3,0,1,22,58,3,1,1,0,212,2,19,Matches
-Sargis Adamyan,am ARM,"FW,MF",29-315,7.0,172,152,19,0,1,1,13,6,0,0,0,0,118,1,7,Matches
-Florian Dietz,de GER,FW,24-243,4.4,76,66,9,0,0,0,4,2,0,0,0,0,39,1,3,Matches
-Davie Selke,de GER,FW,28-073,4.0,84,81,1,0,0,0,3,0,0,0,0,0,41,2,5,Matches
-Kristian Pedersen,dk DEN,DF,28-242,3.0,161,129,32,3,0,2,4,29,0,0,0,0,115,0,4,Matches
-Kingsley Ehizibue,nl NED,DF,27-313,0.7,24,18,6,1,0,0,0,5,0,0,0,0,15,0,1,Matches
-Tim Lemperle,de GER,"FW,MF",21-057,1.3,47,45,1,0,2,0,1,0,0,0,0,0,26,1,3,Matches
-Mark Uth,de GER,"MF,FW",31-222,0.5,15,12,3,1,0,0,2,0,1,0,1,0,11,0,0,Matches
-Justin Diehl,de GER,"MF,FW",18-127,0.2,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-Squad Total,,,26.7,25.0,11887,10532,1302,311,12,50,558,597,146,67,53,0,8887,53,295,
-Opponent Total,,,27.3,25.0,12345,10994,1312,328,22,88,446,628,119,47,48,0,9517,39,270,
+Marvin Schwäbe,de GER,GK,27-346,26.0,1080,883,196,54,0,1,0,0,0,0,0,0,875,1,0,Matches
+Ellyes Skhiri,tn TUN,MF,27-331,24.7,1308,1253,53,44,0,8,12,9,0,0,0,0,1147,2,18,Matches
+Jonas Hector,de GER,DF,32-314,23.4,1369,1083,281,55,0,3,89,209,15,8,3,0,1014,5,37,Matches
+Benno Schmitz,de GER,DF,28-140,21.2,1178,924,247,7,1,1,82,240,0,0,0,0,737,7,41,Matches
+Florian Kainz,at AUT,"FW,MF",30-164,19.4,895,694,189,47,4,6,195,23,118,49,46,0,533,12,39,Matches
+Timo Hübers,de GER,DF,26-260,20.4,1237,1172,63,35,0,3,1,5,0,0,0,0,1026,2,6,Matches
+Linton Maina,de GER,"FW,MF",23-287,17.9,483,445,37,3,1,1,70,12,17,10,5,0,322,1,33,Matches
+Eric Martel,de GER,MF,20-342,16.0,645,634,9,9,1,2,15,0,0,0,0,0,509,2,18,Matches
+Steffen Tigges,de GER,FW,24-249,15.0,283,257,25,0,0,1,12,5,0,0,0,0,163,1,13,Matches
+Dejan Ljubicic,at AUT,MF,25-180,13.0,400,389,9,0,2,1,25,2,2,1,1,0,292,2,12,Matches
+Luca Kilian,de GER,DF,23-217,12.2,673,651,19,13,0,5,0,3,0,0,0,0,578,3,5,Matches
+Julian Chabot,de GER,DF,25-053,12.0,722,676,44,26,0,1,1,0,0,0,0,0,613,2,2,Matches
+Ondrej Duda,sk SVK,MF,28-122,7.7,279,259,19,6,0,7,12,2,1,1,0,0,208,1,10,Matches
+Denis Huseinbasic,de GER,"MF,FW",21-277,7.7,252,249,3,1,0,1,10,2,0,0,0,0,193,0,12,Matches
+Nikola Soldo,hr CRO,DF,22-071,6.6,348,333,12,11,0,2,1,1,0,0,0,0,270,3,6,Matches
+Mathias Olesen,lu LUX,MF,22-016,4.9,141,135,5,1,0,2,2,0,0,0,0,0,109,1,4,Matches
+Kingsley Schindler,gh GHA,"DF,MF",29-268,8.5,369,298,69,3,0,1,28,63,3,1,1,0,226,2,21,Matches
+Jan Thielmann,de GER,FW,20-315,6.3,148,137,9,0,0,3,19,9,0,0,0,0,93,2,11,Matches
+Davie Selke,de GER,FW,28-076,4.7,95,92,1,0,0,0,3,0,0,0,0,0,48,2,5,Matches
+Sargis Adamyan,am ARM,"FW,MF",29-318,7.0,172,152,19,0,1,1,13,6,0,0,0,0,118,1,7,Matches
+Florian Dietz,de GER,FW,24-246,4.4,76,66,9,0,0,0,4,2,0,0,0,0,39,1,3,Matches
+Kristian Pedersen,dk DEN,DF,28-245,3.0,161,129,32,3,0,2,4,29,0,0,0,0,115,0,4,Matches
+Kingsley Ehizibue,nl NED,DF,27-316,0.7,24,18,6,1,0,0,0,5,0,0,0,0,15,0,1,Matches
+Tim Lemperle,de GER,"FW,MF",21-060,1.3,47,45,1,0,2,0,1,0,0,0,0,0,26,1,3,Matches
+Mark Uth,de GER,"MF,FW",31-225,0.5,15,12,3,1,0,0,2,0,1,0,1,0,11,0,0,Matches
+Justin Diehl,de GER,"MF,FW",18-130,0.2,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,26.7,26.0,12402,10988,1360,320,12,52,601,627,157,70,57,0,9282,54,311,
+Opponent Total,,,27.3,26.0,12834,11431,1362,347,22,90,455,649,120,47,49,0,9904,41,285,

@@ -1,32 +1,32 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Marco Bizot,nl NED,GK,32-024,27.0,3,0.11,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Lilian Brassier,fr FRA,DF,23-152,24.4,23,0.94,20,1,0,1,1,0,1,0.04,0,1,0,0,0,0,Matches
-Franck Honorat,fr FRA,"FW,MF",26-235,22.1,94,4.25,56,26,3,7,2,0,7,0.32,4,2,0,1,0,0,Matches
-Pierre Lees-Melou,fr FRA,MF,29-313,21.7,33,1.52,26,1,0,3,0,3,3,0.14,2,0,0,0,0,1,Matches
-Haris Belkebla,dz ALG,MF,29-065,20.1,31,1.54,27,0,0,0,2,2,1,0.05,0,0,0,0,1,0,Matches
-Jean-Kevin Duverne,fr FRA,DF,25-265,19.4,31,1.6,25,3,0,0,3,0,1,0.05,0,0,0,0,1,0,Matches
-Brendan Chardonnet,fr FRA,DF,28-102,17.7,17,0.96,15,1,0,1,0,0,1,0.06,1,0,0,0,0,0,Matches
-Mahdi Camara,fr FRA,MF,24-277,16.0,29,1.8,19,0,4,2,2,2,2,0.12,0,0,1,0,1,0,Matches
-Hugo Magnetti,fr FRA,MF,24-308,15.3,31,2.03,26,0,2,2,0,1,5,0.33,3,0,0,1,0,1,Matches
-Achraf Dari,ma MAR,DF,23-332,14.6,7,0.48,3,2,0,0,1,1,2,0.14,1,0,0,0,1,0,Matches
-Noah Fadiga,sn SEN,DF,23-121,13.3,15,1.13,8,0,3,0,3,1,2,0.15,1,0,1,0,0,0,Matches
-Jérémy Le Douaron,fr FRA,"FW,MF",24-347,14.4,27,1.88,15,0,2,4,3,3,3,0.21,2,0,0,1,0,0,Matches
-Mathias Pereira Lage,pt POR,"MF,FW",26-124,12.0,22,1.83,15,1,2,1,3,0,3,0.25,2,0,0,0,1,0,Matches
-Christophe Hérelle,mq MTQ,DF,30-224,11.8,6,0.51,4,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Islam Slimani,dz ALG,FW,34-289,11.0,23,2.1,22,0,0,1,0,0,3,0.27,3,0,0,0,0,0,Matches
-Romain Del Castillo,fr FRA,"FW,MF",27-005,10.5,43,4.1,25,11,1,3,2,1,10,0.95,6,2,1,0,1,0,Matches
-Steve Mounié,bj BEN,FW,28-186,8.7,13,1.48,8,0,0,4,0,1,2,0.23,1,0,0,1,0,0,Matches
-Kenny Lala,fr FRA,DF,31-182,6.7,16,2.37,3,12,0,0,1,0,1,0.15,1,0,0,0,0,0,Matches
-Youcef Belaïli,dz ALG,"FW,MF",31-020,4.0,15,3.79,8,6,0,0,1,0,2,0.51,0,2,0,0,0,0,Matches
-Jere Uronen,fi FIN,DF,28-264,3.3,4,1.2,4,0,0,0,0,0,1,0.3,1,0,0,0,0,0,Matches
-Alberth Elis,hn HON,"MF,FW",27-050,2.7,10,3.75,6,0,0,0,3,1,0,0.0,0,0,0,0,0,0,Matches
-Irvin Cardona,fr FRA,"FW,MF",25-238,2.6,3,1.16,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Félix Lemaréchal,ci CIV,MF,19-239,1.6,3,1.93,2,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Banzouzi Locko,fr FRA,DF,20-332,1.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Taïryk Arconte,fr FRA,FW,19-142,1.4,3,2.11,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Joaquín Blázquez,ar ARG,GK,22-065,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Karamoko Dembele,sct SCO,"FW,MF",20-040,1.8,7,3.87,4,2,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Axel Camblan,fr FRA,"FW,MF",19-216,0.8,3,3.97,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Hianga Mananga Mbock,fr FRA,MF,23-096,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,27.3,28.0,512,18.29,351,68,18,31,28,16,50,1.79,28,7,3,4,6,2,
-Opponent Total,,,26.8,28.0,679,24.25,489,63,35,50,37,5,75,2.68,49,8,3,8,6,1,
+Marco Bizot,nl NED,GK,32-027,28.0,3,0.11,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Lilian Brassier,fr FRA,DF,23-155,25.4,23,0.91,20,1,0,1,1,0,1,0.04,0,1,0,0,0,0,Matches
+Franck Honorat,fr FRA,"FW,MF",26-238,23.1,98,4.24,58,28,3,7,2,0,9,0.39,4,4,0,1,0,0,Matches
+Pierre Lees-Melou,fr FRA,MF,29-316,22.7,34,1.49,27,1,0,3,0,3,3,0.13,2,0,0,0,0,1,Matches
+Haris Belkebla,dz ALG,MF,29-068,21.1,32,1.51,28,0,0,0,2,2,1,0.05,0,0,0,0,1,0,Matches
+Jean-Kevin Duverne,fr FRA,DF,25-268,20.4,34,1.66,25,3,0,0,6,0,3,0.15,0,0,0,0,3,0,Matches
+Brendan Chardonnet,fr FRA,DF,28-105,18.7,17,0.91,15,1,0,1,0,0,1,0.05,1,0,0,0,0,0,Matches
+Mahdi Camara,fr FRA,MF,24-280,16.2,30,1.84,20,0,4,2,2,2,2,0.12,0,0,1,0,1,0,Matches
+Hugo Magnetti,fr FRA,MF,24-311,15.3,31,2.03,26,0,2,2,0,1,5,0.33,3,0,0,1,0,1,Matches
+Jérémy Le Douaron,fr FRA,"FW,MF",24-350,15.2,29,1.91,15,0,2,6,3,3,4,0.26,2,0,0,2,0,0,Matches
+Achraf Dari,ma MAR,DF,23-335,14.6,7,0.48,3,2,0,0,1,1,2,0.14,1,0,0,0,1,0,Matches
+Noah Fadiga,sn SEN,DF,23-124,13.3,15,1.13,8,0,3,0,3,1,2,0.15,1,0,1,0,0,0,Matches
+Mathias Pereira Lage,pt POR,"MF,FW",26-127,12.0,22,1.83,15,1,2,1,3,0,3,0.25,2,0,0,0,1,0,Matches
+Christophe Hérelle,mq MTQ,DF,30-227,11.8,6,0.51,4,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Romain Del Castillo,fr FRA,"MF,FW",27-008,11.4,49,4.29,29,12,2,3,2,1,11,0.96,6,3,1,0,1,0,Matches
+Islam Slimani,dz ALG,FW,34-292,11.0,23,2.1,22,0,0,1,0,0,3,0.27,3,0,0,0,0,0,Matches
+Steve Mounié,bj BEN,FW,28-189,9.7,15,1.55,8,0,0,4,1,2,2,0.21,1,0,0,1,0,0,Matches
+Kenny Lala,fr FRA,DF,31-185,7.7,18,2.32,5,12,0,0,1,0,1,0.13,1,0,0,0,0,0,Matches
+Youcef Belaïli,dz ALG,"FW,MF",31-023,4.0,15,3.79,8,6,0,0,1,0,2,0.51,0,2,0,0,0,0,Matches
+Jere Uronen,fi FIN,DF,28-267,3.3,4,1.2,4,0,0,0,0,0,1,0.3,1,0,0,0,0,0,Matches
+Alberth Elis,hn HON,"MF,FW",27-053,2.7,12,4.48,6,0,1,1,3,1,0,0.0,0,0,0,0,0,0,Matches
+Irvin Cardona,fr FRA,"FW,MF",25-241,2.6,3,1.16,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Félix Lemaréchal,ci CIV,MF,19-242,1.6,4,2.48,3,0,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Banzouzi Locko,fr FRA,DF,20-335,1.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Taïryk Arconte,fr FRA,FW,19-145,1.4,3,2.11,2,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Joaquín Blázquez,ar ARG,GK,22-068,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Karamoko Dembele,sct SCO,"FW,MF",20-043,1.8,7,3.87,4,2,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Axel Camblan,fr FRA,"FW,MF",19-219,0.8,3,3.97,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Hianga Mananga Mbock,fr FRA,MF,23-099,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,27.3,29.0,537,18.52,363,71,20,34,32,17,56,1.93,28,10,3,5,8,2,
+Opponent Total,,,26.8,29.0,696,24.0,501,64,37,52,37,5,77,2.66,51,8,3,8,6,1,

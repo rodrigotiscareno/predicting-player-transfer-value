@@ -1,29 +1,30 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Marco Silvestri,it ITA,GK,32-032,27.0,2,1,2,0,0,2,3,66.7,1,0,0,0,1,3,7,1,Matches
-Walace,br BRA,MF,27-364,26.1,65,33,32,26,7,34,72,47.2,38,37,10,27,38,103,37,0,Matches
-Nehuén Pérez,ar ARG,DF,22-283,22.4,55,27,39,15,1,31,39,79.5,8,32,15,17,25,80,87,1,Matches
-Iyenoma Udogie,it ITA,DF,20-126,22.2,59,36,36,19,4,28,48,58.3,20,28,5,23,24,83,21,0,Matches
-Roberto Pereyra,ar ARG,"DF,MF",32-086,21.5,32,19,17,12,3,15,31,48.4,16,16,4,12,14,46,21,0,Matches
-Jaka Bijol,si SVN,DF,24-057,20.4,22,15,18,4,0,9,16,56.3,7,31,17,14,22,44,132,0,Matches
-Rodrigo Becão,br BRA,DF,27-074,20.7,62,30,46,13,3,37,46,80.4,9,37,21,16,16,78,53,1,Matches
-Beto,gw GNB,FW,25-062,19.0,15,9,0,9,6,4,15,26.7,11,14,1,13,3,18,23,0,Matches
-Isaac Success,ng NGA,FW,27-086,17.9,8,4,2,5,1,3,7,42.9,4,12,2,10,4,12,16,0,Matches
-Sandi Lovrić,si SVN,MF,25-006,16.2,34,14,13,15,6,22,33,66.7,11,14,1,13,15,49,16,0,Matches
-Gerard Deulofeu,es ESP,FW,29-021,13.5,8,5,5,1,2,5,15,33.3,10,8,1,7,2,10,1,0,Matches
-Tolgay Arslan,de GER,MF,32-230,10.3,20,11,9,10,1,8,23,34.8,15,12,0,12,7,27,9,0,Matches
-Jean-Victor Makengo,fr FRA,MF,24-295,8.9,16,13,7,7,2,5,9,55.6,4,8,2,6,9,25,3,0,Matches
-Kingsley Ehizibue,nl NED,DF,27-313,11.7,32,22,19,9,4,23,35,65.7,12,12,1,11,5,37,30,1,Matches
-Lazar Samardzic,rs SRB,MF,21-038,11.7,20,11,5,11,4,11,25,44.0,14,7,0,7,9,29,10,0,Matches
-Enzo Ebosse,cm CMR,DF,24-023,10.3,15,9,11,4,0,9,13,69.2,4,27,6,21,11,26,29,0,Matches
-Adam Masina,ma MAR,DF,29-091,5.3,5,4,2,3,0,3,6,50.0,3,6,3,3,10,15,18,1,Matches
-Bram Nuytinck,nl NED,DF,32-334,4.3,7,4,3,4,0,4,8,50.0,4,6,6,0,5,12,22,0,Matches
-Florian Thauvin,fr FRA,FW,30-067,2.2,1,0,0,1,0,1,3,33.3,2,2,0,2,1,2,1,0,Matches
-Festy Ebosele,ie IRL,"DF,FW",20-244,1.7,9,7,5,4,0,2,6,33.3,4,3,0,3,1,10,4,0,Matches
-Brandon Soppy,fr FRA,DF,21-041,1.0,1,1,0,1,0,0,0,,0,4,0,4,1,2,1,0,Matches
-Ilija Nestorovski,mk MKD,"FW,MF",33-022,1.3,1,0,0,0,1,1,4,25.0,3,2,0,2,0,1,2,0,Matches
-Mato Jajalo,ba BIH,MF,34-313,0.7,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,2,0,Matches
-Simone Pafundi,it ITA,MF,17-048,0.1,2,2,1,1,0,0,0,,0,0,0,0,0,2,0,0,Matches
-Marvin Zeegelaar,nl NED,DF,32-234,0.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0,Matches
-Vivaldo Semedo,pt POR,FW,18-065,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,26.8,27.0,491,277,272,174,45,257,458,56.1,201,319,95,224,223,714,546,5,
-Opponent Total,,,27.3,27.0,508,279,272,173,63,252,471,53.5,219,345,119,226,208,716,461,10,
+Marco Silvestri,it ITA,GK,32-035,28.0,2,1,2,0,0,2,3,66.7,1,0,0,0,1,3,7,1,Matches
+Walace,br BRA,MF,28-002,26.1,65,33,32,26,7,34,72,47.2,38,37,10,27,38,103,37,0,Matches
+Iyenoma Udogie,it ITA,DF,20-129,23.0,61,37,36,20,5,29,49,59.2,20,28,5,23,25,86,22,0,Matches
+Roberto Pereyra,ar ARG,"DF,MF",32-089,22.5,32,19,17,12,3,15,33,45.5,18,16,4,12,14,46,21,0,Matches
+Nehuén Pérez,ar ARG,DF,22-286,22.4,55,27,39,15,1,31,39,79.5,8,32,15,17,25,80,87,1,Matches
+Jaka Bijol,si SVN,DF,24-060,21.4,23,15,18,5,0,9,17,52.9,8,32,18,14,23,46,133,0,Matches
+Rodrigo Becão,br BRA,DF,27-077,20.7,62,30,46,13,3,37,46,80.4,9,37,21,16,16,78,53,1,Matches
+Beto,gw GNB,FW,25-065,20.0,16,9,0,9,7,4,15,26.7,11,14,1,13,3,19,24,0,Matches
+Isaac Success,ng NGA,FW,27-089,17.9,8,4,2,5,1,3,7,42.9,4,12,2,10,4,12,16,0,Matches
+Sandi Lovrić,si SVN,MF,25-009,17.1,35,15,13,16,6,23,34,67.6,11,14,1,13,18,53,16,0,Matches
+Gerard Deulofeu,es ESP,FW,29-024,13.5,8,5,5,1,2,5,15,33.3,10,8,1,7,2,10,1,0,Matches
+Kingsley Ehizibue,nl NED,DF,27-316,12.7,37,26,22,10,5,26,38,68.4,12,13,2,11,6,43,32,1,Matches
+Tolgay Arslan,de GER,MF,32-233,10.5,20,11,9,10,1,8,25,32.0,17,12,0,12,7,27,9,0,Matches
+Jean-Victor Makengo,fr FRA,MF,24-298,8.9,16,13,7,7,2,5,9,55.6,4,8,2,6,9,25,3,0,Matches
+Lazar Samardzic,rs SRB,MF,21-041,12.5,21,11,5,12,4,12,27,44.4,15,7,0,7,9,30,10,0,Matches
+Enzo Ebosse,cm CMR,DF,24-026,10.3,15,9,11,4,0,9,13,69.2,4,27,6,21,11,26,29,0,Matches
+Adam Masina,ma MAR,DF,29-094,5.5,5,4,2,3,0,3,7,42.9,4,6,3,3,10,15,19,1,Matches
+Bram Nuytinck,nl NED,DF,32-337,4.3,7,4,3,4,0,4,8,50.0,4,6,6,0,5,12,22,0,Matches
+Florian Thauvin,fr FRA,"FW,MF",30-070,3.0,1,0,0,1,0,1,4,25.0,3,2,0,2,1,2,1,0,Matches
+Festy Ebosele,ie IRL,DF,20-247,2.2,9,7,5,4,0,2,6,33.3,4,3,0,3,1,10,4,0,Matches
+Marvin Zeegelaar,nl NED,DF,32-237,1.0,2,1,1,1,0,1,1,100.0,0,1,0,1,1,3,2,0,Matches
+Brandon Soppy,fr FRA,DF,21-044,1.0,1,1,0,1,0,0,0,,0,4,0,4,1,2,1,0,Matches
+Ilija Nestorovski,mk MKD,"FW,MF",33-025,1.8,3,0,0,1,2,3,6,50.0,3,2,0,2,0,3,3,0,Matches
+Mato Jajalo,ba BIH,MF,34-316,0.7,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,2,0,Matches
+Simone Pafundi,it ITA,MF,17-051,0.3,2,2,1,1,0,0,0,,0,0,0,0,0,2,0,0,Matches
+James Abankwah,ie IRL,DF,19-080,0.1,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0,Matches
+Vivaldo Semedo,pt POR,FW,18-068,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,26.8,28.0,507,285,276,182,49,266,475,56.0,209,321,97,224,230,737,554,5,
+Opponent Total,,,27.3,28.0,536,296,280,188,68,269,502,53.6,233,355,122,233,216,752,475,10,

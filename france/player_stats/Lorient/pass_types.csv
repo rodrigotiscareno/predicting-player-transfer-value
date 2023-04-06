@@ -1,31 +1,31 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Montassar Talbi,tn TUN,DF,24-312,28.0,1454,1359,95,37,0,1,1,2,0,0,0,0,1306,0,5,Matches
-Enzo Le Fée,fr FRA,MF,23-059,26.9,1686,1480,201,88,10,12,111,7,78,31,32,2,1358,5,41,Matches
-Vincent Le Goff,fr FRA,DF,33-170,27.0,1448,1175,269,44,2,1,35,225,0,0,0,0,1193,4,24,Matches
-Gedeon Kalulu,cd COD,DF,25-217,22.0,1152,960,187,32,0,3,25,155,0,0,0,0,905,5,29,Matches
-Laurent Abergel,fr FRA,MF,30-061,17.2,867,838,27,25,6,3,5,1,1,0,0,0,756,2,8,Matches
-Dango Ouattara,bf BFA,"FW,MF",21-051,17.2,444,431,12,1,6,0,33,8,2,0,0,0,267,1,10,Matches
-Julien Laporte,fr FRA,DF,29-150,17.1,731,714,15,9,0,9,0,2,0,0,0,0,621,2,6,Matches
-Terem Moffi,ng NGA,FW,23-313,15.4,208,204,2,0,2,1,3,0,0,0,0,0,154,2,6,Matches
-Julien Ponceau,fr FRA,MF,22-126,15.0,640,593,43,7,2,2,12,9,2,0,0,0,520,4,19,Matches
-Vito Mannone,it ITA,GK,35-032,14.9,480,343,137,41,0,0,0,0,0,0,0,0,366,0,0,Matches
-Yvon Mvogo,ch SUI,GK,28-301,13.1,428,274,152,47,0,1,0,0,0,0,0,0,312,2,1,Matches
-Théo Le Bris,fr FRA,"MF,DF",20-184,13.1,468,426,40,4,0,0,11,32,0,0,0,0,372,2,16,Matches
-Stéphane Diarra,fr FRA,"FW,MF",24-115,11.0,306,292,14,1,0,0,15,9,4,2,0,0,221,0,14,Matches
-Bonke Innocent,ng NGA,MF,27-073,10.2,428,421,7,7,0,3,0,0,0,0,0,0,379,0,3,Matches
-Ibrahima Koné,ml MLI,FW,23-291,10.8,221,218,3,0,1,0,1,1,0,0,0,0,144,0,6,Matches
-Bamo Meïté,ci CIV,DF,21-287,8.8,503,495,8,7,0,0,0,1,0,0,0,0,456,0,4,Matches
-Yoann Cathline,fr FRA,"FW,MF",20-255,8.3,227,214,12,2,1,0,31,5,5,2,2,0,148,1,14,Matches
-Jean-Victor Makengo,fr FRA,MF,24-295,6.8,305,292,10,9,0,1,1,1,0,0,0,0,262,3,4,Matches
-Bamba Dieng,sn SEN,FW,23-011,4.8,80,79,1,0,1,0,5,1,0,0,0,0,61,0,5,Matches
-Romain Faivre,fr FRA,"FW,MF",24-263,5.2,196,182,14,2,0,0,14,1,11,10,0,0,159,0,2,Matches
-Igor Carioca,br BRA,DF,26-225,3.3,180,152,27,3,0,0,4,24,0,0,0,0,150,1,5,Matches
-Armand Lauriente,fr FRA,FW,24-120,3.0,95,92,3,1,2,0,6,0,2,1,1,0,73,0,1,Matches
-Chrislain Matsima,fr FRA,"DF,MF",20-323,2.5,127,120,7,7,0,0,0,0,0,0,0,0,108,0,3,Matches
-Quentin Boisgard,fr FRA,MF,26-017,2.0,98,91,7,1,0,0,8,0,5,3,2,0,79,0,2,Matches
-Darlin Yongwa,cm CMR,"DF,FW",22-193,1.8,86,70,16,1,0,0,3,15,0,0,0,0,67,0,4,Matches
-Adil Aouchiche,fr FRA,"MF,FW",20-262,1.2,73,64,9,2,0,4,7,0,5,1,3,0,56,0,2,Matches
-Ckene Doucouré,km COM,"FW,MF",20-360,1.0,35,34,1,0,1,0,0,0,1,0,0,0,22,0,1,Matches
-Adrian Grbić,at AUT,"MF,FW",26-242,0.3,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1,Matches
-Squad Total,,,25.9,28.0,12968,11615,1319,378,34,41,331,499,116,50,40,2,10516,34,236,
-Opponent Total,,,27.1,28.0,15534,14291,1209,298,26,93,707,521,151,65,65,0,12893,34,295,
+Montassar Talbi,tn TUN,DF,24-315,29.0,1499,1400,98,39,0,1,1,2,0,0,0,0,1343,1,5,Matches
+Vincent Le Goff,fr FRA,DF,33-173,28.0,1492,1208,280,46,2,2,35,234,0,0,0,0,1224,4,26,Matches
+Enzo Le Fée,fr FRA,MF,23-062,26.9,1686,1480,201,88,10,12,111,7,78,31,32,2,1358,5,41,Matches
+Gedeon Kalulu,cd COD,DF,25-220,22.0,1152,960,187,32,0,3,25,155,0,0,0,0,905,5,29,Matches
+Laurent Abergel,fr FRA,MF,30-064,18.1,910,880,28,26,6,4,5,1,1,0,0,0,793,2,8,Matches
+Dango Ouattara,bf BFA,"FW,MF",21-054,17.2,444,431,12,1,6,0,33,8,2,0,0,0,267,1,10,Matches
+Julien Laporte,fr FRA,DF,29-153,17.1,731,714,15,9,0,9,0,2,0,0,0,0,621,2,6,Matches
+Julien Ponceau,fr FRA,MF,22-129,15.7,671,624,43,7,2,2,12,9,2,0,0,0,546,4,20,Matches
+Terem Moffi,ng NGA,FW,23-316,15.4,208,204,2,0,2,1,3,0,0,0,0,0,154,2,6,Matches
+Vito Mannone,it ITA,GK,35-035,15.9,516,365,151,45,0,0,0,0,0,0,0,0,394,0,0,Matches
+Théo Le Bris,fr FRA,"MF,DF",20-187,14.1,519,472,45,6,0,0,12,35,0,0,0,0,415,2,18,Matches
+Yvon Mvogo,ch SUI,GK,28-304,13.1,428,274,152,47,0,1,0,0,0,0,0,0,312,2,1,Matches
+Stéphane Diarra,fr FRA,"FW,MF",24-118,11.2,308,293,15,1,0,0,15,10,4,2,0,0,223,0,14,Matches
+Bonke Innocent,ng NGA,MF,27-076,10.2,428,421,7,7,0,3,0,0,0,0,0,0,379,0,3,Matches
+Bamo Meïté,ci CIV,DF,21-290,9.8,561,553,8,7,0,0,0,1,0,0,0,0,508,0,4,Matches
+Ibrahima Koné,ml MLI,FW,23-294,11.0,230,225,5,0,1,0,1,1,0,0,0,0,151,0,7,Matches
+Yoann Cathline,fr FRA,"FW,MF",20-258,9.1,243,229,13,2,1,0,33,6,5,2,2,0,157,1,16,Matches
+Jean-Victor Makengo,fr FRA,MF,24-298,7.8,342,328,11,9,1,1,1,1,0,0,0,0,294,3,4,Matches
+Bamba Dieng,sn SEN,FW,23-014,5.7,91,89,2,0,1,0,5,1,0,0,0,0,70,0,6,Matches
+Romain Faivre,fr FRA,"FW,MF",24-266,6.0,220,203,17,4,0,0,16,1,12,11,0,0,179,0,2,Matches
+Igor Carioca,br BRA,DF,26-228,3.3,180,152,27,3,0,0,4,24,0,0,0,0,150,1,5,Matches
+Armand Lauriente,fr FRA,FW,24-123,3.0,95,92,3,1,2,0,6,0,2,1,1,0,73,0,1,Matches
+Chrislain Matsima,fr FRA,"DF,MF",20-326,2.5,127,120,7,7,0,0,0,0,0,0,0,0,108,0,3,Matches
+Quentin Boisgard,fr FRA,MF,26-020,2.0,98,91,7,1,0,0,8,0,5,3,2,0,79,0,2,Matches
+Darlin Yongwa,cm CMR,"DF,FW",22-196,1.8,88,72,16,1,0,0,4,15,0,0,0,0,68,0,4,Matches
+Adil Aouchiche,fr FRA,"MF,FW",20-265,1.5,87,75,12,5,0,4,9,0,5,1,3,0,66,0,2,Matches
+Ckene Doucouré,km COM,"FW,MF",20-363,1.0,35,34,1,0,1,0,0,0,1,0,0,0,22,0,1,Matches
+Adrian Grbić,at AUT,"MF,FW",26-245,0.3,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1,Matches
+Squad Total,,,25.9,29.0,13391,11991,1365,394,35,43,339,513,117,51,40,2,10860,35,245,
+Opponent Total,,,27.1,29.0,16159,14883,1240,307,29,94,726,533,156,67,68,0,13433,36,300,

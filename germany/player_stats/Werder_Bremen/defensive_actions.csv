@@ -1,27 +1,27 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Marvin Ducksch,de GER,FW,29-027,23.2,7,3,1,4,2,2,12,16.7,10,7,0,7,6,13,32,1,Matches
-Niclas Füllkrug,de GER,FW,30-053,23.5,9,4,0,6,3,3,12,25.0,9,12,4,8,1,10,23,0,Matches
-Jiří Pavlenka,cz CZE,GK,30-354,23.3,1,0,1,0,0,1,5,20.0,4,0,0,0,2,3,16,1,Matches
-Anthony Jung,de GER,"DF,FW",31-151,21.7,38,23,15,16,7,27,43,62.8,16,21,3,18,16,54,42,0,Matches
-Amos Pieper,de GER,DF,25-076,20.5,43,26,22,19,2,22,35,62.9,13,21,11,10,26,69,85,1,Matches
-Mitchell Weiser,de GER,"DF,FW",28-347,20.4,54,34,25,22,7,26,53,49.1,27,38,5,33,24,78,26,1,Matches
-Marco Friedl,at AUT,DF,25-018,19.8,38,27,24,14,0,21,39,53.8,18,27,12,15,46,84,82,1,Matches
-Miloš Veljković,rs SRB,DF,27-189,16.9,23,13,14,9,0,14,23,60.9,9,20,11,9,26,49,68,0,Matches
-Christian Groß,de GER,MF,34-054,15.3,43,20,13,28,2,23,49,46.9,26,17,5,12,17,60,31,1,Matches
-Ilia Gruev,bg BUL,MF,22-332,14.5,36,22,12,21,3,16,26,61.5,10,19,5,14,19,55,16,1,Matches
-Niklas Stark,de GER,DF,27-354,14.6,38,27,20,16,2,18,27,66.7,9,10,4,6,27,65,66,0,Matches
-Jens Stage,dk DEN,MF,26-146,13.4,26,13,10,15,1,6,26,23.1,20,28,8,20,13,39,19,0,Matches
-Leonardo Bittencourt,de GER,"MF,DF",29-105,11.3,25,14,5,15,5,10,23,43.5,13,7,0,7,9,34,7,0,Matches
-Romano Schmid,at AUT,MF,23-066,12.1,21,13,4,12,5,9,18,50.0,9,18,3,15,6,27,10,0,Matches
-Niklas Schmidt,de GER,MF,25-033,10.1,23,10,11,10,2,11,25,44.0,14,7,0,7,3,26,8,0,Matches
-Lee Buchanan,eng ENG,"DF,FW",22-027,3.6,10,7,2,8,0,6,8,75.0,2,4,0,4,8,18,10,0,Matches
-Oliver Burke,sct SCO,"FW,MF",25-361,3.0,1,0,0,0,1,0,0,,0,2,0,2,0,1,0,0,Matches
-Michael Zetterer,de GER,GK,27-265,1.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-Fabio Chiarodia,it ITA,DF,17-302,0.7,0,0,0,0,0,0,0,,0,1,0,1,2,2,4,0,Matches
-Eren Dinkçi,de GER,"FW,MF",21-111,2.0,4,4,2,0,2,1,4,25.0,3,2,0,2,0,4,1,0,Matches
-Maximilian Philipp,de GER,"MF,FW",29-033,1.0,2,1,2,0,0,0,2,0.0,2,3,1,2,3,5,1,0,Matches
-Nicolai Rapp,de GER,"MF,DF",26-111,0.8,3,1,3,0,0,0,3,0.0,3,0,0,0,0,3,1,0,Matches
-Felix Agu,de GER,"DF,FW",23-188,0.5,1,0,0,1,0,0,0,,0,1,1,0,0,1,0,0,Matches
-Dikeni Salifou,tg TOG,MF,19-299,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,28.0,25.0,446,262,186,216,44,216,433,49.9,217,265,73,192,254,700,549,7,
-Opponent Total,,,26.9,25.0,351,213,142,160,49,166,333,49.8,167,285,59,226,228,579,431,4,
+Marvin Ducksch,de GER,FW,29-030,24.2,7,3,1,4,2,2,12,16.7,10,7,0,7,6,13,33,1,Matches
+Niclas Füllkrug,de GER,FW,30-056,24.5,9,4,0,6,3,3,12,25.0,9,12,4,8,1,10,24,0,Matches
+Jiří Pavlenka,cz CZE,GK,30-357,24.3,1,0,1,0,0,1,5,20.0,4,0,0,0,3,4,16,1,Matches
+Anthony Jung,de GER,"DF,FW",31-154,22.7,40,24,16,17,7,27,44,61.4,17,23,3,20,18,58,42,0,Matches
+Mitchell Weiser,de GER,"DF,FW",28-350,21.4,57,36,27,23,7,28,55,50.9,27,38,5,33,24,81,26,1,Matches
+Marco Friedl,at AUT,DF,25-021,20.8,42,30,27,15,0,25,44,56.8,19,34,13,21,47,89,85,1,Matches
+Amos Pieper,de GER,DF,25-079,20.7,43,26,22,19,2,22,36,61.1,14,21,11,10,27,70,87,1,Matches
+Miloš Veljković,rs SRB,DF,27-192,17.9,23,13,14,9,0,14,23,60.9,9,24,13,11,27,50,78,0,Matches
+Christian Groß,de GER,MF,34-057,16.1,44,20,13,29,2,23,49,46.9,26,17,5,12,18,62,33,1,Matches
+Niklas Stark,de GER,DF,27-357,15.4,39,28,20,16,3,18,27,66.7,9,10,4,6,27,66,71,0,Matches
+Ilia Gruev,bg BUL,MF,22-335,14.5,36,22,12,21,3,16,26,61.5,10,19,5,14,19,55,16,1,Matches
+Jens Stage,dk DEN,MF,26-149,13.8,27,13,10,16,1,6,28,21.4,22,28,8,20,13,40,19,0,Matches
+Leonardo Bittencourt,de GER,"MF,DF",29-108,11.6,27,16,5,16,6,11,24,45.8,13,7,0,7,9,36,7,0,Matches
+Romano Schmid,at AUT,MF,23-069,12.8,23,14,5,12,6,10,19,52.6,9,18,3,15,6,29,10,0,Matches
+Niklas Schmidt,de GER,MF,25-036,10.8,23,10,11,10,2,11,25,44.0,14,9,0,9,4,27,9,0,Matches
+Lee Buchanan,eng ENG,"DF,FW",22-030,3.6,10,7,2,8,0,6,8,75.0,2,4,0,4,8,18,10,0,Matches
+Oliver Burke,sct SCO,"FW,MF",25-364,3.0,1,0,0,0,1,0,0,,0,2,0,2,0,1,0,0,Matches
+Michael Zetterer,de GER,GK,27-268,1.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Fabio Chiarodia,it ITA,DF,17-305,0.7,0,0,0,0,0,0,0,,0,1,0,1,2,2,4,0,Matches
+Eren Dinkçi,de GER,"FW,MF",21-114,2.0,4,4,2,0,2,1,4,25.0,3,2,0,2,0,4,1,0,Matches
+Maximilian Philipp,de GER,"MF,FW",29-036,1.2,2,1,2,0,0,0,2,0.0,2,3,1,2,3,5,1,0,Matches
+Nicolai Rapp,de GER,"MF,DF",26-114,0.8,3,1,3,0,0,0,3,0.0,3,0,0,0,0,3,1,0,Matches
+Felix Agu,de GER,"DF,FW",23-191,0.5,1,0,0,1,0,0,0,,0,1,1,0,0,1,0,0,Matches
+Dikeni Salifou,tg TOG,MF,19-302,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,28.0,26.0,462,272,193,222,47,224,446,50.2,222,280,76,204,262,724,574,7,
+Opponent Total,,,27.0,26.0,367,221,147,168,52,174,353,49.3,179,292,60,232,239,606,453,4,

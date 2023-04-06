@@ -1,32 +1,32 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Fernando,es ESP,GK,32-297,24.5,908,601,304,87,0,2,0,0,0,0,0,0,650,3,0,Matches
-Rodrigo Ely,br BRA,DF,29-151,24.1,1040,988,50,48,1,12,2,1,0,0,0,0,832,2,6,Matches
-Sergio Akieme,es ESP,DF,25-108,23.5,997,779,211,23,3,13,68,188,0,0,0,0,773,7,20,Matches
-Lucas Robertone,ar ARG,MF,26-016,21.4,918,807,106,47,9,10,106,8,48,22,21,0,699,5,13,Matches
-Srđan Babić,rs SRB,DF,26-346,22.5,981,927,48,43,0,10,2,5,0,0,0,0,837,6,7,Matches
-Léo Baptistão,br BRA,"FW,MF",30-220,13.8,388,380,6,2,6,5,11,4,0,0,0,0,264,2,16,Matches
-El Bilal Touré,ml MLI,FW,21-182,13.0,243,219,22,0,0,0,4,0,0,0,0,0,171,2,8,Matches
-Gonzalo Melero,es ESP,MF,29-091,12.5,468,460,6,3,0,3,1,2,0,0,0,0,410,2,6,Matches
-Samu Costa,pt POR,MF,22-127,13.8,711,679,26,25,3,9,5,1,0,0,0,0,554,6,17,Matches
-Alejandro Pozo Pozo,es ESP,"DF,MF",24-040,13.4,763,621,137,8,0,4,54,129,0,0,0,0,556,5,20,Matches
-César de la Hoz,es ESP,MF,31-004,13.1,406,392,9,9,1,6,2,0,0,0,0,0,325,5,5,Matches
-Largie Ramazani,be BEL,"FW,MF",22-035,13.2,263,240,18,1,2,1,18,5,1,1,0,0,178,5,15,Matches
-Adri Embarba,es ESP,"FW,MF",30-331,10.8,371,309,59,10,0,5,82,4,45,22,14,1,233,3,15,Matches
-Juan Brandáriz,es ESP,DF,24-032,11.3,507,445,60,17,0,2,5,39,0,0,0,0,420,2,8,Matches
-Íñigo Eguaras,es ESP,MF,31-027,9.4,471,455,12,8,4,5,3,1,2,0,0,0,399,4,6,Matches
-Houboulang Mendes,fr FRA,DF,24-334,8.2,286,204,81,3,0,0,25,78,0,0,0,0,202,1,7,Matches
-Luis Javier Suárez,co COL,FW,25-122,8.2,212,187,25,1,2,3,8,4,1,0,1,0,150,0,2,Matches
-Kaiky,br BRA,DF,19-081,5.4,173,159,14,13,0,4,1,1,0,0,0,0,140,0,2,Matches
-Umar Sadiq,ng NGA,FW,26-060,2.7,36,32,3,0,0,0,0,1,0,0,0,0,22,1,2,Matches
-Francisco Portillo,es ESP,"MF,FW",32-294,4.6,293,278,13,5,3,0,7,4,4,0,2,0,229,2,9,Matches
-Arnau Puigmal,es ESP,"MF,DF",22-083,4.4,165,134,30,3,1,0,13,21,6,0,2,0,123,1,4,Matches
-Dyego Sousa,pt POR,FW,33-201,4.1,108,99,8,0,1,0,1,0,0,0,0,0,73,1,4,Matches
-Lázaro,br BRA,"MF,FW",21-022,3.3,120,113,7,1,0,4,7,1,2,2,0,0,91,0,3,Matches
-Álex Centelles,es ESP,DF,25-146,2.5,129,108,21,2,0,0,12,19,0,0,0,0,90,0,6,Matches
-Fernando Pacheco,es ESP,GK,30-320,1.0,31,22,8,4,0,0,0,0,0,0,0,0,20,1,0,Matches
-Diego Mariño,es ESP,GK,32-329,0.5,8,2,6,1,0,0,0,0,0,0,0,0,7,0,0,Matches
-Curro,es ESP,MF,27-090,0.5,28,24,3,1,0,0,1,0,2,0,1,0,21,1,1,Matches
-José Carlos Lazo,es ESP,"MF,FW",27-046,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-Marko Milovanović,rs SRB,FW,19-242,0.2,9,8,1,0,0,0,0,0,0,0,0,0,4,0,1,Matches
-Squad Total,,,27.1,26.0,11037,9676,1294,365,36,98,438,516,111,47,41,1,8476,67,203,
-Opponent Total,,,28.7,26.0,12969,11568,1287,372,50,130,544,517,148,54,62,0,10288,114,225,
+Fernando,es ESP,GK,32-300,25.5,949,624,322,92,0,2,0,0,0,0,0,0,681,3,0,Matches
+Rodrigo Ely,br BRA,DF,29-154,25.1,1090,1038,50,48,1,12,2,1,0,0,0,0,879,2,6,Matches
+Sergio Akieme,es ESP,DF,25-111,23.5,997,779,211,23,3,13,68,188,0,0,0,0,773,7,20,Matches
+Lucas Robertone,ar ARG,MF,26-019,22.4,953,841,107,47,9,10,107,8,49,22,22,0,726,5,14,Matches
+Srđan Babić,rs SRB,DF,26-349,23.5,1018,962,50,45,0,12,2,5,0,0,0,0,869,6,7,Matches
+Léo Baptistão,br BRA,"FW,MF",30-223,14.5,406,398,6,2,6,5,12,4,0,0,0,0,277,2,16,Matches
+Gonzalo Melero,es ESP,MF,29-094,13.4,497,489,6,3,0,3,1,2,0,0,0,0,434,2,6,Matches
+Samu Costa,pt POR,MF,22-130,14.8,761,727,28,27,3,9,5,1,0,0,0,0,594,6,20,Matches
+El Bilal Touré,ml MLI,FW,21-185,13.0,243,219,22,0,0,0,4,0,0,0,0,0,171,2,8,Matches
+Alejandro Pozo Pozo,es ESP,"DF,MF",24-043,13.7,773,631,137,8,0,4,54,129,0,0,0,0,562,5,21,Matches
+César de la Hoz,es ESP,MF,31-007,13.3,411,397,9,9,1,6,2,0,0,0,0,0,328,5,5,Matches
+Largie Ramazani,be BEL,"FW,MF",22-038,13.5,264,241,18,1,2,1,18,5,1,1,0,0,178,5,15,Matches
+Adri Embarba,es ESP,"FW,MF",30-334,10.8,371,309,59,10,0,5,82,4,45,22,14,1,233,3,15,Matches
+Juan Brandáriz,es ESP,DF,24-035,12.3,583,508,73,18,0,3,6,51,0,0,0,0,480,2,9,Matches
+Íñigo Eguaras,es ESP,MF,31-030,9.4,471,455,12,8,4,5,3,1,2,0,0,0,399,4,6,Matches
+Luis Javier Suárez,co COL,FW,25-125,9.2,233,205,28,1,2,3,8,4,1,0,1,0,163,0,2,Matches
+Houboulang Mendes,fr FRA,DF,24-337,8.2,286,204,81,3,0,0,25,78,0,0,0,0,202,1,7,Matches
+Kaiky,br BRA,DF,19-084,5.4,173,159,14,13,0,4,1,1,0,0,0,0,140,0,2,Matches
+Arnau Puigmal,es ESP,"MF,DF",22-086,5.0,185,154,30,3,2,0,13,21,6,0,2,0,136,1,5,Matches
+Umar Sadiq,ng NGA,FW,26-063,2.7,36,32,3,0,0,0,0,1,0,0,0,0,22,1,2,Matches
+Francisco Portillo,es ESP,"MF,FW",32-297,4.6,293,278,13,5,3,0,7,4,4,0,2,0,229,2,9,Matches
+Dyego Sousa,pt POR,FW,33-204,4.1,108,99,8,0,1,0,1,0,0,0,0,0,73,1,4,Matches
+Álex Centelles,es ESP,DF,25-149,3.5,168,132,36,7,0,0,15,29,0,0,0,0,113,0,7,Matches
+Lázaro,br BRA,"MF,FW",21-025,3.3,120,113,7,1,0,4,7,1,2,2,0,0,91,0,3,Matches
+Fernando Pacheco,es ESP,GK,30-323,1.0,31,22,8,4,0,0,0,0,0,0,0,0,20,1,0,Matches
+Diego Mariño,es ESP,GK,32-332,0.5,8,2,6,1,0,0,0,0,0,0,0,0,7,0,0,Matches
+Curro,es ESP,MF,27-093,0.5,28,24,3,1,0,0,1,0,2,0,1,0,21,1,1,Matches
+José Carlos Lazo,es ESP,"MF,FW",27-049,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Marko Milovanović,rs SRB,FW,19-245,0.2,9,8,1,0,0,0,0,0,0,0,0,0,4,0,1,Matches
+Squad Total,,,27.1,27.0,11469,10054,1348,380,37,101,444,538,112,47,42,1,8808,67,211,
+Opponent Total,,,28.7,27.0,13531,12078,1336,384,55,136,567,542,152,55,64,1,10746,117,230,

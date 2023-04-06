@@ -1,31 +1,31 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-João Othavio Basso,br BRA,DF,26-080,25.0,1300,1216,81,72,0,9,1,4,0,0,0,0,1123,3,4,Matches
-Quaresma,br BRA,DF,26-224,21.7,1173,924,244,26,8,10,48,218,0,0,0,0,854,5,33,Matches
-Alan Ruiz,ar ARG,MF,29-227,18.8,900,829,65,36,17,15,51,2,27,22,2,0,682,6,18,Matches
-Ignacio De Arruabarrena,uy URU,GK,26-077,21.0,729,458,270,58,1,1,0,0,0,0,0,0,487,1,1,Matches
-David Simão,pt POR,MF,32-323,19.9,1126,1031,90,48,5,13,53,7,35,15,11,4,892,5,14,Matches
-Ismaila Soro,ci CIV,MF,24-331,15.9,667,659,8,7,1,5,1,1,0,0,0,0,567,0,14,Matches
-Antony,br BRA,"FW,MF",21-207,18.4,459,453,3,0,8,2,10,0,1,1,0,0,342,3,12,Matches
-Tiago Esgaio,pt POR,DF,27-245,17.5,861,664,190,12,2,3,42,178,0,0,0,0,574,7,14,Matches
-Jerome Opoku,eng ENG,DF,24-171,15.7,580,548,32,30,1,13,2,2,0,0,0,0,467,0,6,Matches
-Morlaye Sylla,gn GUI,"MF,FW",24-250,16.3,707,666,37,8,12,2,35,10,11,6,2,2,556,4,14,Matches
-André Bukia,cd COD,"FW,MF",28-031,11.4,284,280,3,3,7,2,13,0,0,0,0,0,220,1,9,Matches
-Rafa Mújica,es ESP,FW,24-156,10.6,157,132,25,0,1,0,0,1,0,0,0,0,113,0,2,Matches
-Oday Dabbagh,ps PLE,FW,24-121,10.2,238,222,16,0,1,0,2,0,0,0,0,0,183,0,5,Matches
-Bogdan Milovanov,ua UKR,DF,24-349,10.3,497,389,108,6,1,2,12,102,0,0,0,0,336,0,20,Matches
-Arsénio Martins Lafuente Nunes,pt POR,"FW,MF",33-216,9.4,331,312,16,4,2,1,25,2,10,4,3,0,236,3,8,Matches
-Nino Galović,hr CRO,DF,30-271,8.5,382,371,10,10,0,2,0,0,0,0,0,0,333,1,3,Matches
-Oriol Busquets,es ESP,MF,24-073,5.5,295,287,8,8,0,1,0,0,0,0,0,0,257,0,4,Matches
-Emilijus Zubas,lt LTU,GK,32-267,3.0,105,63,42,9,0,0,0,1,0,0,0,0,69,0,1,Matches
-Moses Yaw,gh GHA,MF,24-086,3.4,140,133,5,5,0,4,0,0,0,0,0,0,104,2,3,Matches
-Vitinho,br BRA,"MF,FW",23-089,2.7,92,81,10,6,0,1,16,1,3,0,3,0,59,1,3,Matches
-Benji Michel,us USA,FW,25-162,1.8,45,42,2,0,1,0,1,0,0,0,0,0,30,1,2,Matches
-Rafael Fernandes,pt POR,"DF,FW",20-279,1.5,55,54,1,1,0,0,0,0,0,0,0,0,52,0,0,Matches
-Mosquito,br BRA,GK,26-295,1.0,25,19,6,1,0,0,0,0,0,0,0,0,23,0,0,Matches
-Weverson,br BRA,"DF,FW",22-272,0.8,39,35,4,0,0,0,2,4,0,0,0,0,29,0,1,Matches
-Bruninho,br BRA,FW,24-040,1.8,58,54,4,0,0,1,1,0,0,0,0,0,35,0,2,Matches
-Pedro Manuel da Silva Moreira,pt POR,MF,33-323,0.8,53,50,3,1,0,0,0,2,0,0,0,0,49,0,0,Matches
-Yusuf Lawal,ng NGA,"FW,MF",25-011,0.3,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
-José Manuel Velázquez,ve VEN,DF,32-207,0.1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,26.7,25.0,11306,9980,1283,351,68,87,315,535,87,48,21,6,8679,43,193,
-Opponent Total,,,27.0,25.0,12389,11019,1311,363,46,103,607,565,159,78,57,3,9617,59,228,
+João Othavio Basso,br BRA,DF,26-083,26.0,1368,1282,82,73,0,9,1,4,0,0,0,0,1185,4,4,Matches
+Quaresma,br BRA,DF,26-227,22.7,1224,963,256,27,8,11,52,229,0,0,0,0,887,5,37,Matches
+Alan Ruiz,ar ARG,MF,29-230,19.8,954,882,65,36,17,15,53,2,27,22,2,0,719,7,18,Matches
+Ignacio De Arruabarrena,uy URU,GK,26-080,22.0,753,473,279,58,1,1,0,0,0,0,0,0,509,1,1,Matches
+David Simão,pt POR,MF,32-326,20.9,1191,1093,93,50,5,13,54,7,36,15,11,5,952,5,14,Matches
+Ismaila Soro,ci CIV,MF,24-334,15.9,667,659,8,7,1,5,1,1,0,0,0,0,567,0,14,Matches
+Antony,br BRA,"FW,MF",21-210,19.4,487,481,3,0,8,2,11,0,1,1,0,0,365,3,14,Matches
+Tiago Esgaio,pt POR,DF,27-248,18.5,917,709,201,12,2,4,42,189,0,0,0,0,622,7,14,Matches
+Jerome Opoku,eng ENG,DF,24-174,15.7,580,548,32,30,1,13,2,2,0,0,0,0,467,0,6,Matches
+Morlaye Sylla,gn GUI,"FW,MF",24-253,17.3,750,706,40,9,12,2,36,11,11,6,2,2,592,4,15,Matches
+Rafa Mújica,es ESP,FW,24-159,11.4,165,140,25,0,1,0,0,1,0,0,0,0,117,0,2,Matches
+André Bukia,cd COD,"FW,MF",28-034,11.4,284,280,3,3,7,2,13,0,0,0,0,0,220,1,9,Matches
+Oday Dabbagh,ps PLE,FW,24-124,10.2,238,222,16,0,1,0,2,0,0,0,0,0,183,0,5,Matches
+Bogdan Milovanov,ua UKR,DF,24-352,10.3,497,389,108,6,1,2,12,102,0,0,0,0,336,0,20,Matches
+Nino Galović,hr CRO,DF,30-274,9.5,441,425,15,15,0,3,0,0,0,0,0,0,386,1,3,Matches
+Arsénio Martins Lafuente Nunes,pt POR,"FW,MF",33-219,9.4,331,312,16,4,2,1,25,2,10,4,3,0,236,3,8,Matches
+Oriol Busquets,es ESP,MF,24-076,6.5,348,340,8,8,0,1,0,0,0,0,0,0,301,0,4,Matches
+Emilijus Zubas,lt LTU,GK,32-270,3.0,105,63,42,9,0,0,0,1,0,0,0,0,69,0,1,Matches
+Moses Yaw,gh GHA,MF,24-089,3.4,140,133,5,5,0,4,0,0,0,0,0,0,104,2,3,Matches
+Vitinho,br BRA,"MF,FW",23-092,2.7,92,81,10,6,0,1,16,1,3,0,3,0,59,1,3,Matches
+Benji Michel,us USA,FW,25-165,2.0,49,46,2,0,1,0,1,0,0,0,0,0,33,1,2,Matches
+Rafael Fernandes,pt POR,"DF,FW",20-282,1.5,55,54,1,1,0,0,0,0,0,0,0,0,52,0,0,Matches
+Mosquito,br BRA,GK,26-298,1.0,25,19,6,1,0,0,0,0,0,0,0,0,23,0,0,Matches
+Weverson,br BRA,"DF,FW",22-275,0.8,39,35,4,0,0,0,2,4,0,0,0,0,29,0,1,Matches
+Bruninho,br BRA,FW,24-043,1.8,58,54,4,0,0,1,1,0,0,0,0,0,35,0,2,Matches
+Pedro Manuel da Silva Moreira,pt POR,MF,33-326,0.8,53,50,3,1,0,0,0,2,0,0,0,0,49,0,0,Matches
+Yusuf Lawal,ng NGA,"FW,MF",25-014,0.3,7,7,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+José Manuel Velázquez,ve VEN,DF,32-210,0.1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,26.7,26.0,11819,10447,1327,361,68,90,324,558,88,48,21,7,9104,45,200,
+Opponent Total,,,26.9,26.0,12873,11444,1370,380,47,107,637,589,166,80,62,3,10005,59,236,

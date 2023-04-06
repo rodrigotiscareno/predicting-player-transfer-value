@@ -1,30 +1,30 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Marc-André ter Stegen,de GER,GK,30-338,27.0,1041,834,207,56,0,5,0,1,0,0,0,0,881,0,0,Matches
-Robert Lewandowski,pl POL,FW,34-225,20.6,521,505,9,4,9,4,14,0,0,0,0,0,399,7,19,Matches
-Gavi,es ESP,"MF,FW",18-241,19.8,867,834,30,9,5,13,32,8,0,0,0,0,739,3,17,Matches
-Frenkie de Jong,nl NED,MF,25-326,19.8,1489,1433,47,28,11,12,21,11,7,2,2,0,1331,9,20,Matches
-Alejandro Balde,es ESP,DF,19-167,18.4,1180,1009,163,23,0,5,37,140,0,0,0,0,1051,8,13,Matches
-Sergio Busquets,es ESP,MF,34-261,18.3,1324,1274,48,47,11,3,3,1,0,0,0,0,1169,2,15,Matches
-Pedri,es ESP,MF,20-129,18.1,1169,1111,54,22,19,22,21,8,12,0,11,0,1020,4,14,Matches
-Jules Koundé,fr FRA,DF,24-142,17.5,1287,1168,115,30,3,9,14,85,0,0,0,0,1134,4,12,Matches
-Raphinha,br BRA,FW,26-110,15.0,835,713,117,23,7,21,116,20,74,25,27,1,603,5,21,Matches
-Andreas Christensen,dk DEN,DF,26-358,14.0,1102,1058,44,35,2,13,1,7,0,0,0,0,1034,0,5,Matches
-Ronald Araújo,uy URU,DF,24-027,13.3,792,739,50,26,2,11,3,22,0,0,0,0,696,3,5,Matches
-Ousmane Dembélé,fr FRA,FW,25-323,12.2,647,588,54,6,9,4,71,8,40,14,11,1,499,5,25,Matches
-Eric García,es ESP,DF,22-084,11.1,880,846,32,24,1,12,0,7,0,0,0,0,806,2,3,Matches
-Ferrán Torres,es ESP,FW,23-033,12.1,457,426,29,7,1,3,48,9,12,4,5,0,347,2,14,Matches
-Jordi Alba,es ESP,DF,34-013,12.1,1134,985,145,33,4,7,67,112,0,0,0,0,958,4,22,Matches
-Sergi Roberto,es ESP,"DF,MF",31-055,11.5,739,668,68,11,1,5,18,57,0,0,0,0,671,3,8,Matches
-Ansu Fati,es ESP,FW,20-154,11.3,425,415,7,2,0,3,6,1,1,0,0,0,357,3,14,Matches
-Marcos Alonso,es ESP,DF,32-096,8.6,683,653,29,11,1,6,11,10,7,1,4,0,620,1,7,Matches
-Franck Kessié,ci CIV,MF,26-105,6.9,262,254,5,3,2,3,3,1,1,0,0,0,220,3,5,Matches
-Gerard Piqué,es ESP,DF,36-060,4.3,385,372,11,6,0,6,0,0,0,0,0,0,353,2,2,Matches
-Memphis,nl NED,FW,29-049,1.3,66,60,6,1,1,0,4,0,4,0,2,0,53,0,1,Matches
-Héctor Bellerín,es ESP,DF,28-015,1.6,96,82,13,1,1,0,3,12,0,0,0,0,77,1,3,Matches
-Pablo Torre,es ESP,"MF,FW",20-000,0.5,24,22,2,1,1,0,2,0,1,0,1,0,19,0,0,Matches
-Ángel Alarcón,es ESP,"MF,FW",18-323,0.3,5,5,0,0,0,0,1,0,0,0,0,0,4,0,0,Matches
-Pierre-Emerick Aubameyang,ga GAB,FW,33-289,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-Aleix Garrido,es ESP,FW,19-040,0.1,3,3,0,0,0,0,1,0,0,0,0,0,2,0,0,Matches
-Chadi Riad,ma MAR,MF,19-290,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
-Squad Total,,,26.6,27.0,17417,16061,1285,409,91,167,497,520,159,46,63,2,15047,71,245,
-Opponent Total,,,28.2,27.0,10237,8842,1309,377,25,111,374,499,89,41,34,1,7769,86,229,
+Marc-André ter Stegen,de GER,GK,30-341,27.0,1041,834,207,56,0,5,0,1,0,0,0,0,881,0,0,Matches
+Robert Lewandowski,pl POL,FW,34-228,20.6,520,504,9,4,10,4,14,0,0,0,0,0,399,7,19,Matches
+Gavi,es ESP,"MF,FW",18-244,19.8,867,834,30,9,7,13,32,8,0,0,0,0,739,3,17,Matches
+Frenkie de Jong,nl NED,MF,25-329,19.8,1489,1433,47,28,11,12,21,11,7,2,2,0,1331,9,20,Matches
+Alejandro Balde,es ESP,DF,19-170,18.4,1180,1009,163,23,0,5,37,140,0,0,0,0,1051,8,13,Matches
+Sergio Busquets,es ESP,MF,34-264,18.3,1324,1274,48,47,11,3,3,1,0,0,0,0,1169,2,15,Matches
+Pedri,es ESP,MF,20-132,18.1,1169,1111,54,22,19,22,21,8,12,0,11,0,1020,4,14,Matches
+Jules Koundé,fr FRA,DF,24-145,17.5,1287,1168,115,30,3,9,14,85,0,0,0,0,1134,4,12,Matches
+Raphinha,br BRA,FW,26-113,15.0,835,713,117,23,7,21,116,20,74,25,27,1,603,5,21,Matches
+Andreas Christensen,dk DEN,DF,26-361,14.0,1102,1058,44,35,2,13,1,7,0,0,0,0,1034,0,5,Matches
+Ronald Araújo,uy URU,DF,24-030,13.3,792,739,50,26,2,11,3,22,0,0,0,0,696,3,5,Matches
+Ousmane Dembélé,fr FRA,FW,25-326,12.2,647,588,54,6,9,4,71,8,40,14,11,1,499,5,25,Matches
+Eric García,es ESP,DF,22-087,11.1,880,846,32,24,1,12,0,7,0,0,0,0,806,2,3,Matches
+Ferrán Torres,es ESP,FW,23-036,12.1,457,426,29,7,1,3,48,9,12,4,5,0,347,2,14,Matches
+Jordi Alba,es ESP,DF,34-016,12.1,1134,985,145,33,4,7,67,112,0,0,0,0,958,4,22,Matches
+Sergi Roberto,es ESP,"DF,MF",31-058,11.5,740,669,68,11,1,5,18,57,0,0,0,0,671,3,8,Matches
+Ansu Fati,es ESP,FW,20-157,11.3,425,415,7,2,0,3,6,1,1,0,0,0,357,3,14,Matches
+Marcos Alonso,es ESP,DF,32-099,8.6,683,653,29,11,1,6,11,10,7,1,4,0,620,1,7,Matches
+Franck Kessié,ci CIV,MF,26-108,6.9,262,254,5,3,2,3,3,1,1,0,0,0,220,3,5,Matches
+Gerard Piqué,es ESP,DF,36-063,4.3,385,372,11,6,0,6,0,0,0,0,0,0,353,2,2,Matches
+Memphis,nl NED,FW,29-052,1.3,66,60,6,1,1,0,4,0,4,0,2,0,53,0,1,Matches
+Héctor Bellerín,es ESP,DF,28-018,1.6,96,82,13,1,1,0,3,12,0,0,0,0,77,1,3,Matches
+Pablo Torre,es ESP,"MF,FW",20-003,0.5,24,22,2,1,1,0,2,0,1,0,1,0,19,0,0,Matches
+Ángel Alarcón,es ESP,"MF,FW",18-326,0.3,5,5,0,0,0,0,1,0,0,0,0,0,4,0,0,Matches
+Pierre-Emerick Aubameyang,ga GAB,FW,33-292,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Aleix Garrido,es ESP,FW,19-043,0.1,3,3,0,0,0,0,1,0,0,0,0,0,2,0,0,Matches
+Chadi Riad,ma MAR,MF,19-293,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Squad Total,,,26.6,27.0,17417,16061,1285,409,94,167,497,520,159,46,63,2,15047,71,245,
+Opponent Total,,,28.2,27.0,10239,8844,1309,377,26,111,374,499,89,42,33,1,7771,86,229,

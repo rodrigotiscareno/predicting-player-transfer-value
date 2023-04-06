@@ -1,33 +1,34 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Jefferson Lerma,co COL,"MF,DF",28-160,26.3,5,0,0,26,29,2,7,33,21,0,2,1,192,51,28,64.6,Matches
-Adam Smith,eng ENG,DF,31-339,25.4,8,0,0,26,20,0,29,17,22,0,1,0,100,20,32,38.5,Matches
-Philip Billing,dk DEN,"MF,FW",26-296,22.7,5,0,0,25,29,3,27,25,32,0,0,0,111,37,22,62.7,Matches
-Marcos Senesi,ar ARG,DF,25-328,21.9,4,0,0,19,12,0,6,29,29,0,2,0,128,23,15,60.5,Matches
-Dominic Solanke,eng ENG,"FW,MF",25-201,21.9,1,0,0,26,37,6,6,2,5,0,0,0,65,38,61,38.4,Matches
-Chris Mepham,wls WAL,DF,25-149,19.4,7,0,0,15,6,0,0,20,16,0,0,2,64,36,23,61.0,Matches
-Neto,br BRA,GK,33-258,17.5,4,0,0,0,3,0,0,0,0,0,0,0,11,3,2,60.0,Matches
-Lewis Cook,eng ENG,MF,26-059,16.8,2,0,0,12,8,0,36,18,22,0,0,0,115,7,8,46.7,Matches
-Jordan Zemura,zw ZIM,DF,23-140,16.2,1,0,0,17,14,0,18,16,24,0,1,0,78,7,11,38.9,Matches
-Marcus Tavernier,eng ENG,"MF,FW",24-012,15.7,1,0,0,16,27,4,81,5,17,0,0,0,104,14,23,37.8,Matches
-Lloyd Kelly,eng ENG,DF,24-179,13.0,2,0,0,9,3,0,7,17,10,0,1,0,59,24,9,72.7,Matches
-Kieffer Moore,wls WAL,FW,30-238,12.4,0,0,0,22,28,1,6,1,11,0,0,0,24,55,51,51.9,Matches
-Ryan Christie,sct SCO,"MF,FW",28-040,12.3,1,0,0,22,28,0,15,19,16,0,0,0,78,7,14,33.3,Matches
-Jaidon Anthony,eng ENG,"MF,FW",23-123,11.7,2,0,0,9,10,5,34,8,15,0,0,0,64,9,11,45.0,Matches
-Mark Travers,ie IRL,GK,23-320,10.5,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,100.0,Matches
-Jack Stephens,eng ENG,DF,29-066,9.0,2,0,0,4,2,0,2,8,10,0,0,0,32,10,14,41.7,Matches
-Dango Ouattara,bf BFA,MF,21-051,7.9,1,0,0,5,10,5,19,8,7,0,0,0,36,21,25,45.7,Matches
-Ryan Fredericks,eng ENG,DF,30-175,5.9,1,0,0,3,1,0,15,1,2,0,0,0,13,5,10,33.3,Matches
-Joe Rothwell,eng ENG,MF,28-082,5.8,0,0,0,10,1,0,13,6,4,0,0,0,25,1,2,33.3,Matches
-Hamed Junior Traorè,ci CIV,"MF,FW",23-046,4.0,0,0,0,4,4,0,31,2,10,0,0,0,32,3,2,60.0,Matches
-Jack Stacey,eng ENG,DF,26-362,3.3,2,0,0,4,0,1,10,5,4,0,0,0,15,5,3,62.5,Matches
-Ben Pearson,eng ENG,MF,28-089,3.2,1,0,0,9,2,0,0,2,3,0,0,0,19,2,3,40.0,Matches
-Antoine Semenyo,gh GHA,"FW,MF",23-086,2.6,0,0,0,5,5,0,1,2,0,0,0,0,13,8,6,57.1,Matches
-Siriki Dembélé,ci CIV,"FW,MF",26-208,1.2,0,0,0,1,2,0,3,1,1,0,0,0,9,0,4,0.0,Matches
-Junior Stanislas,eng ENG,MF,33-128,0.7,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0.0,Matches
-Matías Viña,uy URU,"MF,DF",25-145,0.2,0,0,0,0,1,0,1,0,1,0,0,0,3,0,0,,Matches
-David Brooks,wls WAL,DF,25-269,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
-Jamal Lowe,jm JAM,"MF,FW",28-256,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-Owen Bevan,wls WAL,DF,19-159,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-Emiliano Marcondes,dk DEN,MF,28-025,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
-Squad Total,,,27.0,28.0,50,0,0,289,283,27,368,245,282,0,7,3,1398,389,381,50.5,
-Opponent Total,,,27.3,28.0,43,0,0,287,275,49,715,188,311,3,0,0,1582,381,389,49.5,
+Jefferson Lerma,co COL,"MF,DF",28-163,27.3,5,0,0,26,30,2,8,34,22,0,2,1,200,53,29,64.6,Matches
+Adam Smith,eng ENG,DF,31-342,26.4,8,0,0,27,20,0,30,17,23,0,1,0,100,25,32,43.9,Matches
+Philip Billing,dk DEN,"MF,FW",26-299,23.6,5,0,0,26,30,3,27,27,32,0,0,0,115,39,23,62.9,Matches
+Marcos Senesi,ar ARG,DF,25-331,22.8,4,0,0,22,12,0,7,32,29,0,2,0,135,23,15,60.5,Matches
+Dominic Solanke,eng ENG,"FW,MF",25-204,22.9,1,0,0,27,38,6,7,2,5,0,0,0,68,38,65,36.9,Matches
+Chris Mepham,wls WAL,DF,25-152,19.4,7,0,0,15,6,0,0,20,16,0,0,2,64,36,23,61.0,Matches
+Neto,br BRA,GK,33-261,18.5,4,0,0,0,3,0,0,0,0,0,0,0,13,3,2,60.0,Matches
+Lewis Cook,eng ENG,MF,26-062,16.9,3,0,0,13,8,0,36,19,22,0,0,0,115,7,8,46.7,Matches
+Jordan Zemura,zw ZIM,DF,23-143,16.2,1,0,0,17,14,0,18,16,24,0,1,0,78,7,11,38.9,Matches
+Marcus Tavernier,eng ENG,"MF,FW",24-015,16.1,1,0,0,16,27,4,82,7,17,0,0,0,108,15,24,38.5,Matches
+Lloyd Kelly,eng ENG,DF,24-182,14.0,2,0,0,9,3,0,7,18,10,0,1,0,64,24,12,66.7,Matches
+Ryan Christie,sct SCO,"MF,FW",28-043,13.0,1,0,0,24,29,0,15,22,19,0,0,0,82,8,15,34.8,Matches
+Kieffer Moore,wls WAL,FW,30-241,12.4,0,0,0,22,28,1,6,1,11,0,0,0,24,55,51,51.9,Matches
+Jaidon Anthony,eng ENG,"MF,FW",23-126,11.7,2,0,0,9,10,5,34,8,15,0,0,0,64,9,11,45.0,Matches
+Mark Travers,ie IRL,GK,23-323,10.5,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,100.0,Matches
+Jack Stephens,eng ENG,DF,29-069,10.0,2,0,0,5,2,0,2,9,10,0,0,0,44,11,15,42.3,Matches
+Dango Ouattara,bf BFA,MF,21-054,8.8,1,0,0,5,10,5,22,9,9,0,0,0,40,21,26,44.7,Matches
+Ryan Fredericks,eng ENG,DF,30-178,5.9,1,0,0,3,1,0,15,1,2,0,0,0,13,5,10,33.3,Matches
+Joe Rothwell,eng ENG,MF,28-085,5.8,0,0,0,10,1,0,13,6,4,0,0,0,25,1,2,33.3,Matches
+Hamed Junior Traorè,ci CIV,"FW,MF",23-049,4.7,0,0,0,4,4,1,41,2,11,0,0,0,33,3,2,60.0,Matches
+Jack Stacey,eng ENG,DF,27-000,3.3,2,0,0,4,0,1,10,5,4,0,0,0,15,5,3,62.5,Matches
+Ben Pearson,eng ENG,MF,28-092,3.2,1,0,0,9,2,0,0,2,3,0,0,0,19,2,3,40.0,Matches
+Antoine Semenyo,gh GHA,"FW,MF",23-089,2.7,0,0,0,5,5,0,1,2,0,0,0,0,13,8,6,57.1,Matches
+Siriki Dembélé,ci CIV,"FW,MF",26-211,1.2,0,0,0,1,2,0,3,1,1,0,0,0,9,0,4,0.0,Matches
+Junior Stanislas,eng ENG,MF,33-131,0.7,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0.0,Matches
+David Brooks,wls WAL,"DF,FW",25-272,0.3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0.0,Matches
+Matías Viña,uy URU,"MF,DF",25-148,0.2,0,0,0,0,1,0,1,0,1,0,0,0,3,0,0,,Matches
+Jamal Lowe,jm JAM,"MF,FW",28-259,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Owen Bevan,wls WAL,DF,19-162,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+Emiliano Marcondes,dk DEN,MF,28-028,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+Illia Zabarnyi,ua UKR,DF,20-217,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Squad Total,,,27.0,29.0,51,0,0,300,287,28,386,260,290,0,7,3,1452,401,395,50.4,
+Opponent Total,,,27.3,29.0,44,0,0,292,285,49,726,195,320,3,0,0,1638,395,401,49.6,

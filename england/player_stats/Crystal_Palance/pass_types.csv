@@ -1,28 +1,28 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Marc Guéhi,eng ENG,DF,22-264,28.0,1576,1511,61,57,0,21,0,2,0,0,0,0,1351,4,11,Matches
-Vicente Guaita,es ESP,GK,36-083,27.0,845,590,251,45,0,4,0,0,0,0,0,0,610,4,0,Matches
-Cheick Doucouré,ml MLI,MF,23-085,23.5,951,939,10,10,2,2,3,0,0,0,0,0,784,2,23,Matches
-Jeffrey Schlupp,gh GHA,"MF,FW",30-101,23.4,776,731,40,12,1,1,14,24,0,0,0,0,585,5,17,Matches
-Tyrick Mitchell,eng ENG,DF,23-214,23.1,1089,841,245,26,0,0,46,219,0,0,0,0,766,3,44,Matches
-Wilfried Zaha,ci CIV,"FW,MF",30-144,22.9,553,531,20,5,3,1,30,5,0,0,0,0,430,2,21,Matches
-Joachim Andersen,dk DEN,DF,26-307,22.4,1413,1313,95,85,2,33,7,8,1,0,0,0,1121,5,10,Matches
-Michael Olise,fr FRA,"FW,MF",21-112,21.6,989,837,151,41,1,13,158,14,81,34,34,3,694,1,36,Matches
-Jordan Ayew,gh GHA,"FW,MF",31-204,21.4,615,606,8,3,5,0,33,4,0,0,0,0,468,1,21,Matches
-Eberechi Eze,eng ENG,"MF,FW",24-278,20.3,823,707,109,51,4,4,56,6,40,16,12,1,642,7,7,Matches
-Nathaniel Clyne,eng ENG,DF,31-363,18.2,827,670,155,7,0,3,21,148,0,0,0,0,649,2,12,Matches
-Joel Ward,eng ENG,DF,33-156,16.6,778,633,144,24,0,2,24,120,0,0,0,0,586,1,17,Matches
-Odsonne Édouard,fr FRA,FW,25-077,15.1,324,305,17,0,0,0,4,0,0,0,0,0,235,2,10,Matches
-Jean-Philippe Mateta,fr FRA,FW,25-279,7.8,135,129,6,0,0,0,1,0,0,0,0,0,93,0,8,Matches
-Albert Sambi Lokonga,be BEL,MF,23-163,5.2,238,224,10,9,2,1,0,1,0,0,0,0,205,4,2,Matches
-Luka Milivojević,rs SRB,MF,31-361,4.6,203,192,10,7,0,2,5,1,2,2,0,0,161,1,0,Matches
-Will Hughes,eng ENG,MF,27-351,4.8,197,181,14,6,0,0,12,2,4,2,2,0,148,2,8,Matches
-Chris Richards,us USA,DF,23-006,4.0,146,140,6,3,0,0,0,3,0,0,0,0,120,0,0,Matches
-James Tomkins,eng ENG,DF,34-005,3.7,171,164,7,5,0,0,0,0,0,0,0,0,138,0,3,Matches
-Joseph Whitworth,eng ENG,GK,19-033,2.0,83,63,20,5,0,0,0,0,0,0,0,0,61,0,0,Matches
-Naouirou Ahamada,fr FRA,"MF,FW",21-005,1.0,46,45,1,0,0,0,2,0,0,0,0,0,37,0,0,Matches
-Jaïro Riedewald,nl NED,"DF,FW",26-206,0.5,35,28,7,2,0,0,0,4,1,0,0,0,26,0,1,Matches
-Malcolm Ebiowei,eng ENG,"MF,FW",19-211,0.4,10,10,0,0,0,0,3,0,0,0,0,0,5,0,2,Matches
-James McArthur,sct SCO,MF,35-178,0.1,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
-David Ozoh,,FW,17-307,0.0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Marc Guéhi,eng ENG,DF,22-267,28.0,1576,1511,61,57,0,21,0,2,0,0,0,0,1351,4,11,Matches
+Vicente Guaita,es ESP,GK,36-086,27.0,845,590,251,45,0,4,0,0,0,0,0,0,610,4,0,Matches
+Cheick Doucouré,ml MLI,MF,23-088,23.5,951,939,10,10,2,2,3,0,0,0,0,0,784,2,23,Matches
+Jeffrey Schlupp,gh GHA,"MF,FW",30-104,23.4,776,731,40,12,1,1,14,24,0,0,0,0,585,5,17,Matches
+Tyrick Mitchell,eng ENG,DF,23-217,23.1,1089,841,245,26,0,0,46,219,0,0,0,0,766,3,44,Matches
+Wilfried Zaha,ci CIV,"FW,MF",30-147,22.9,553,531,20,5,3,1,30,5,0,0,0,0,430,2,21,Matches
+Joachim Andersen,dk DEN,DF,26-310,22.4,1413,1313,95,85,2,33,7,8,1,0,0,0,1121,5,10,Matches
+Michael Olise,fr FRA,"FW,MF",21-115,21.6,989,837,151,41,1,13,158,14,81,34,34,3,694,1,36,Matches
+Jordan Ayew,gh GHA,"FW,MF",31-207,21.4,615,606,8,3,5,0,33,4,0,0,0,0,468,1,21,Matches
+Eberechi Eze,eng ENG,"MF,FW",24-281,20.3,823,707,109,51,4,4,56,6,40,16,12,1,642,7,7,Matches
+Nathaniel Clyne,eng ENG,DF,32-001,18.2,827,670,155,7,0,3,21,148,0,0,0,0,649,2,12,Matches
+Joel Ward,eng ENG,DF,33-159,16.6,778,633,144,24,0,2,24,120,0,0,0,0,586,1,17,Matches
+Odsonne Édouard,fr FRA,FW,25-080,15.1,324,305,17,0,0,0,4,0,0,0,0,0,235,2,10,Matches
+Jean-Philippe Mateta,fr FRA,FW,25-282,7.8,135,129,6,0,0,0,1,0,0,0,0,0,93,0,8,Matches
+Albert Sambi Lokonga,be BEL,MF,23-166,5.2,238,224,10,9,2,1,0,1,0,0,0,0,205,4,2,Matches
+Luka Milivojević,rs SRB,MF,31-364,4.6,203,192,10,7,0,2,5,1,2,2,0,0,161,1,0,Matches
+Will Hughes,eng ENG,MF,27-354,4.8,197,181,14,6,0,0,12,2,4,2,2,0,148,2,8,Matches
+Chris Richards,us USA,DF,23-009,4.0,146,140,6,3,0,0,0,3,0,0,0,0,120,0,0,Matches
+James Tomkins,eng ENG,DF,34-008,3.7,171,164,7,5,0,0,0,0,0,0,0,0,138,0,3,Matches
+Joseph Whitworth,eng ENG,GK,19-036,2.0,83,63,20,5,0,0,0,0,0,0,0,0,61,0,0,Matches
+Naouirou Ahamada,fr FRA,"MF,FW",21-008,1.0,46,45,1,0,0,0,2,0,0,0,0,0,37,0,0,Matches
+Jaïro Riedewald,nl NED,"DF,FW",26-209,0.5,35,28,7,2,0,0,0,4,1,0,0,0,26,0,1,Matches
+Malcolm Ebiowei,eng ENG,"MF,FW",19-214,0.4,10,10,0,0,0,0,3,0,0,0,0,0,5,0,2,Matches
+James McArthur,sct SCO,MF,35-181,0.1,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+David Ozoh,,FW,17-310,0.0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
 Squad Total,,,27.6,29.0,12834,11401,1387,403,20,87,419,561,129,54,48,4,9925,46,253,
 Opponent Total,,,27.3,29.0,16546,15151,1342,382,39,112,554,594,135,64,40,7,13500,53,303,

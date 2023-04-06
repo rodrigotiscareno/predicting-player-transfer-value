@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Karim Onisiwo,at AUT,"FW,MF",31-017,21.1,14,8,1,7,6,3,13,23.1,10,14,0,14,2,16,6,0,Matches
-Robin Zentner,de GER,GK,28-157,20.0,0,0,0,0,0,0,4,0.0,4,0,0,0,0,0,13,1,Matches
-Edimilson Fernandes,ch SUI,DF,26-353,19.7,27,19,20,4,3,12,22,54.5,10,35,15,20,42,69,61,2,Matches
-Dominik Kohr,de GER,MF,29-062,18.8,43,25,13,25,5,20,46,43.5,26,31,7,24,28,71,19,0,Matches
-Lee Jae-sung,kr KOR,MF,30-236,16.4,29,14,7,17,5,11,28,39.3,17,26,5,21,11,40,13,0,Matches
-Stefan Bell,de GER,DF,31-222,18.7,29,17,24,5,0,15,29,51.7,14,27,12,15,37,66,93,0,Matches
-Leandro Barreiro Martins,lu LUX,MF,23-090,17.7,41,25,12,20,9,14,31,45.2,17,30,11,19,29,70,25,0,Matches
-Anton Stach,de GER,MF,24-139,17.7,24,18,10,12,2,13,29,44.8,16,24,2,22,32,56,24,0,Matches
-Anthony Caci,fr FRA,DF,25-276,17.0,41,20,24,12,5,17,26,65.4,9,17,4,13,44,85,30,0,Matches
-Aarón Martín,es ESP,DF,25-346,16.6,32,22,19,9,4,16,25,64.0,9,14,1,13,13,45,24,0,Matches
-Silvan Widmer,ch SUI,DF,30-029,15.1,22,14,14,7,1,16,28,57.1,12,18,6,12,30,52,20,0,Matches
-Alexander Hack,de GER,DF,29-207,12.5,29,17,20,9,0,18,32,56.3,14,16,5,11,24,53,45,1,Matches
-Marcus Ingvartsen,dk DEN,"FW,MF",27-089,11.3,3,1,0,1,2,1,8,12.5,7,8,1,7,2,5,9,0,Matches
-Danny da Costa,de GER,DF,29-264,10.9,14,13,3,7,4,6,12,50.0,6,20,3,17,9,23,21,0,Matches
-Andreas Hanche-Olsen,no NOR,DF,26-076,9.6,22,15,16,3,3,14,24,58.3,10,9,5,4,19,41,41,2,Matches
-Ludovic Ajorque,fr FRA,FW,29-037,8.2,2,2,1,1,0,0,3,0.0,3,8,2,6,0,2,5,0,Matches
-Maxim Leitsch,de GER,DF,24-320,7.4,9,7,6,3,0,4,5,80.0,1,7,4,3,18,27,26,1,Matches
-Jonathan Burkardt,de GER,"MF,FW",22-266,5.9,3,1,0,1,2,1,4,25.0,3,6,1,5,1,4,1,0,Matches
-Finn Dahmen,de GER,GK,25-007,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Angelo Fulgini,fr FRA,MF,26-226,5.8,6,5,2,3,1,5,12,41.7,7,5,0,5,5,11,7,0,Matches
-Aymen Barkok,ma MAR,MF,24-317,4.6,14,7,9,3,2,3,6,50.0,3,5,0,5,3,17,7,0,Matches
-Delano Burgzorg,nl NED,"FW,MF",24-147,2.4,3,3,1,1,1,2,3,66.7,1,2,0,2,0,3,1,0,Matches
-Niklas Tauer,de GER,"DF,MF",22-045,1.0,2,1,2,0,0,1,3,33.3,2,2,1,1,2,4,4,0,Matches
-Suliman Mustapha,at AUT,"FW,MF",21-314,0.8,2,2,0,2,0,0,0,,0,4,0,4,0,2,0,0,Matches
-Nelson Weiper,de GER,"FW,MF",18-017,0.4,2,0,0,0,2,1,1,100.0,0,1,0,1,0,2,1,0,Matches
-Brajan Gruda,de GER,MF,18-307,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,27.6,26.0,413,256,204,152,57,193,394,49.0,201,329,85,244,351,764,496,7,
+Karim Onisiwo,at AUT,"FW,MF",31-020,21.1,14,8,1,7,6,3,13,23.1,10,14,0,14,2,16,6,0,Matches
+Robin Zentner,de GER,GK,28-160,20.0,0,0,0,0,0,0,4,0.0,4,0,0,0,0,0,13,1,Matches
+Edimilson Fernandes,ch SUI,DF,26-356,19.7,27,19,20,4,3,12,22,54.5,10,35,15,20,42,69,61,2,Matches
+Dominik Kohr,de GER,MF,29-065,18.8,43,25,13,25,5,20,46,43.5,26,31,7,24,28,71,19,0,Matches
+Lee Jae-sung,kr KOR,MF,30-239,16.4,29,14,7,17,5,11,28,39.3,17,26,5,21,11,40,13,0,Matches
+Stefan Bell,de GER,DF,31-225,18.7,29,17,24,5,0,15,29,51.7,14,27,12,15,37,66,93,0,Matches
+Leandro Barreiro Martins,lu LUX,MF,23-093,17.7,41,25,12,20,9,14,31,45.2,17,30,11,19,29,70,25,0,Matches
+Anton Stach,de GER,MF,24-142,17.7,24,18,10,12,2,13,29,44.8,16,24,2,22,32,56,24,0,Matches
+Anthony Caci,fr FRA,DF,25-279,17.0,40,19,24,12,4,17,26,65.4,9,17,4,13,44,84,30,0,Matches
+Aarón Martín,es ESP,DF,25-349,16.6,32,22,19,9,4,16,25,64.0,9,14,1,13,13,45,24,0,Matches
+Silvan Widmer,ch SUI,DF,30-032,15.1,22,14,14,7,1,16,28,57.1,12,18,6,12,30,52,20,0,Matches
+Alexander Hack,de GER,DF,29-210,12.5,29,17,20,9,0,18,32,56.3,14,16,5,11,24,53,45,1,Matches
+Marcus Ingvartsen,dk DEN,"FW,MF",27-092,11.3,3,1,0,1,2,1,8,12.5,7,8,1,7,2,5,9,0,Matches
+Danny da Costa,de GER,DF,29-267,10.9,14,13,3,7,4,6,12,50.0,6,20,3,17,9,23,21,0,Matches
+Andreas Hanche-Olsen,no NOR,DF,26-079,9.6,22,15,16,3,3,14,24,58.3,10,9,5,4,19,41,41,2,Matches
+Ludovic Ajorque,fr FRA,FW,29-040,8.2,3,3,1,1,1,0,3,0.0,3,8,2,6,0,3,5,0,Matches
+Maxim Leitsch,de GER,DF,24-323,7.4,9,7,6,3,0,4,5,80.0,1,7,4,3,18,27,26,1,Matches
+Jonathan Burkardt,de GER,"MF,FW",22-269,5.9,3,1,0,1,2,1,4,25.0,3,6,1,5,1,4,1,0,Matches
+Finn Dahmen,de GER,GK,25-010,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Angelo Fulgini,fr FRA,MF,26-229,5.8,6,5,2,3,1,5,12,41.7,7,5,0,5,5,11,7,0,Matches
+Aymen Barkok,ma MAR,MF,24-320,4.6,14,7,9,3,2,3,6,50.0,3,5,0,5,3,17,7,0,Matches
+Delano Burgzorg,nl NED,"FW,MF",24-150,2.4,3,3,1,1,1,2,3,66.7,1,2,0,2,0,3,1,0,Matches
+Niklas Tauer,de GER,"DF,MF",22-048,1.0,2,1,2,0,0,1,3,33.3,2,2,1,1,2,4,4,0,Matches
+Suliman Mustapha,at AUT,"FW,MF",21-317,0.8,2,2,0,2,0,0,0,,0,4,0,4,0,2,0,0,Matches
+Nelson Weiper,de GER,"FW,MF",18-020,0.4,2,0,0,0,2,1,1,100.0,0,1,0,1,0,2,1,0,Matches
+Brajan Gruda,de GER,MF,18-310,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,27.7,26.0,413,256,204,152,57,193,394,49.0,201,329,85,244,351,764,496,7,
 Opponent Total,,,27.4,26.0,357,224,171,147,39,160,322,49.7,162,310,82,228,235,592,611,12,

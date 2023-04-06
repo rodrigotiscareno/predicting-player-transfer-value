@@ -1,32 +1,33 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Dávid Hancko,sk SVK,DF,25-111,22.5,0,0,0,10,15,1,21,23,31,0,0,0,180,25,15,62.5,Matches
-Orkun Kökçü,tr TUR,MF,22-095,22.3,6,0,0,18,22,0,118,14,15,0,0,0,181,8,8,50.0,Matches
-Javairô Dilrosun,nl NED,"FW,MF",24-285,19.6,1,0,0,10,21,2,62,14,8,0,0,1,75,7,13,35.0,Matches
-Lutsharel Geertruida,nl NED,"DF,MF",22-259,22.1,1,0,0,14,11,0,8,22,26,0,0,0,150,17,13,56.7,Matches
-Marcus Pedersen,no NOR,DF,22-261,19.2,3,0,0,24,7,2,48,8,20,0,0,0,107,3,6,33.3,Matches
-Justin Bijlow,nl NED,GK,25-071,19.0,1,0,0,0,1,0,0,0,1,0,0,0,32,1,0,100.0,Matches
-Quinten Timber,nl NED,MF,21-290,16.1,2,0,0,21,23,0,9,21,18,0,0,0,101,6,12,33.3,Matches
-Sebastian Szymański,pl POL,"MF,FW",23-328,15.3,2,0,0,18,25,1,82,6,16,0,0,0,70,7,18,28.0,Matches
-Gernot Trauner,at AUT,DF,31-009,14.8,4,0,0,10,3,0,0,22,22,0,0,0,109,42,23,64.6,Matches
-Danilo,br BRA,FW,23-361,13.2,0,0,0,9,4,5,1,7,1,0,0,0,61,21,31,40.4,Matches
-Quilindschy Hartman,nl NED,DF,21-140,12.3,4,0,0,16,2,0,35,22,14,0,0,0,67,21,15,58.3,Matches
-Santiago Giménez,mx MEX,FW,21-350,13.8,2,0,0,15,18,10,1,3,2,2,0,0,36,25,21,54.3,Matches
-Mats Wieffer,nl NED,MF,23-138,11.9,3,0,0,26,15,0,10,18,22,0,0,0,116,43,32,57.3,Matches
-Alireza Jahanbakhsh,ir IRN,FW,29-235,10.8,2,0,0,16,11,2,56,9,10,0,0,0,73,21,16,56.8,Matches
-Oussama Idrissi,ma MAR,FW,27-036,10.1,5,0,0,13,6,3,51,2,16,0,0,0,51,2,5,28.6,Matches
-Igor Paixão,br BRA,"FW,MF",22-279,8.0,2,0,0,4,15,2,18,4,5,0,0,0,34,12,19,38.7,Matches
-Jacob Rasmussen,dk DEN,DF,25-310,7.2,0,0,0,1,1,0,0,8,3,0,0,0,48,20,7,74.1,Matches
-Timon Wellenreuther,de GER,GK,27-121,7.0,0,0,0,0,1,0,0,0,0,0,0,0,16,1,1,50.0,Matches
-Marcos López,pe PER,DF,23-134,7.1,1,0,0,7,17,1,20,20,11,0,0,0,54,21,4,84.0,Matches
-Patrik Wålemark,se SWE,"FW,MF",21-171,6.6,1,0,0,5,13,2,34,1,8,1,0,1,22,5,3,62.5,Matches
-Fredrik Aursnes,no NOR,MF,27-114,2.0,0,0,0,1,0,0,5,2,1,0,0,0,16,3,5,37.5,Matches
-Fredrik André Bjørkan,no NOR,DF,24-225,0.8,0,0,0,2,0,0,2,0,0,0,0,0,5,0,1,0.0,Matches
-Ezequiel Bullaude,ar ARG,"MF,DF",22-159,1.5,0,0,0,0,3,0,0,0,1,0,0,0,13,4,7,36.4,Matches
-Mohamed Taabouni,nl NED,MF,21-005,1.0,0,0,0,3,4,0,5,1,1,0,0,0,7,0,0,,Matches
-Jens Toornstra,nl NED,"MF,DF",33-364,0.9,0,0,0,1,0,0,1,0,1,0,0,0,8,0,1,0.0,Matches
-Mimeirhel Benita,nl NED,DF,19-137,0.6,0,0,0,1,0,0,2,1,1,0,0,0,7,1,1,50.0,Matches
-Neraysho Kasanwirjo,nl NED,DF,21-044,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,50.0,Matches
-Noah Naujoks,nl NED,"FW,MF",20-336,0.2,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,,Matches
-Cole Bassett,us USA,FW,21-249,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-Squad Total,,,24.3,26.0,40,0,0,246,238,31,589,228,255,3,0,2,1642,317,278,53.3,
-Opponent Total,,,25.8,26.0,46,5,1,256,230,50,357,262,316,0,3,2,1473,278,317,46.7,
+Dávid Hancko,sk SVK,DF,25-114,23.5,0,0,0,10,16,1,21,24,32,0,0,0,185,26,16,61.9,Matches
+Orkun Kökçü,tr TUR,MF,22-098,23.3,6,0,0,19,24,0,122,14,15,0,0,0,190,8,8,50.0,Matches
+Javairô Dilrosun,nl NED,"FW,MF",24-288,19.8,1,0,0,11,21,2,62,14,9,0,0,1,78,7,13,35.0,Matches
+Lutsharel Geertruida,nl NED,"DF,MF",22-262,22.1,1,0,0,14,11,0,8,22,26,0,0,0,150,17,13,56.7,Matches
+Marcus Pedersen,no NOR,DF,22-264,20.2,3,0,0,24,7,3,50,8,22,0,0,0,113,3,6,33.3,Matches
+Justin Bijlow,nl NED,GK,25-074,19.0,1,0,0,0,1,0,0,0,1,0,0,0,32,1,0,100.0,Matches
+Sebastian Szymański,pl POL,"MF,FW",23-331,16.3,2,0,0,18,25,1,90,6,17,0,0,0,72,7,20,25.9,Matches
+Quinten Timber,nl NED,MF,21-293,16.1,2,0,0,21,23,0,9,21,18,0,0,0,101,6,12,33.3,Matches
+Gernot Trauner,at AUT,DF,31-012,15.8,4,0,0,11,3,0,0,23,23,0,0,0,115,44,26,62.9,Matches
+Quilindschy Hartman,nl NED,DF,21-143,13.3,4,0,0,16,2,0,37,23,14,0,0,0,73,25,16,61.0,Matches
+Santiago Giménez,mx MEX,FW,21-353,14.8,2,0,0,15,19,11,1,3,2,2,0,0,40,26,24,52.0,Matches
+Danilo,br BRA,FW,23-364,13.3,0,0,0,9,5,5,1,7,1,0,0,0,61,21,31,40.4,Matches
+Mats Wieffer,nl NED,MF,23-141,12.9,4,0,0,30,17,0,10,19,22,0,1,0,125,50,34,59.5,Matches
+Alireza Jahanbakhsh,ir IRN,FW,29-238,11.6,2,0,0,16,11,2,62,10,10,0,0,0,77,22,16,57.9,Matches
+Oussama Idrissi,ma MAR,FW,27-039,10.1,5,0,0,13,6,3,51,2,16,0,0,0,51,2,5,28.6,Matches
+Igor Paixão,br BRA,"FW,MF",22-282,8.9,2,0,0,4,17,2,20,5,6,0,0,0,40,14,20,41.2,Matches
+Timon Wellenreuther,de GER,GK,27-124,8.0,0,0,0,0,1,0,0,0,0,0,0,0,16,1,1,50.0,Matches
+Jacob Rasmussen,dk DEN,DF,25-313,7.2,0,0,0,1,1,0,0,8,3,0,0,0,48,20,7,74.1,Matches
+Marcos López,pe PER,DF,23-137,7.1,1,0,0,7,17,1,20,20,11,0,0,0,54,21,4,84.0,Matches
+Patrik Wålemark,se SWE,"FW,MF",21-174,6.6,1,0,0,5,13,2,34,1,8,1,0,1,22,5,3,62.5,Matches
+Fredrik Aursnes,no NOR,MF,27-117,2.0,0,0,0,1,0,0,5,2,1,0,0,0,16,3,5,37.5,Matches
+Fredrik André Bjørkan,no NOR,DF,24-228,0.8,0,0,0,2,0,0,2,0,0,0,0,0,5,0,1,0.0,Matches
+Ezequiel Bullaude,ar ARG,"MF,DF",22-162,1.5,0,0,0,0,3,0,0,0,1,0,0,0,13,4,7,36.4,Matches
+Mohamed Taabouni,nl NED,MF,21-008,1.0,0,0,0,3,4,0,5,1,1,0,0,0,7,0,0,,Matches
+Jens Toornstra,nl NED,"MF,DF",34-002,0.9,0,0,0,1,0,0,1,0,1,0,0,0,8,0,1,0.0,Matches
+Mimeirhel Benita,nl NED,DF,19-140,0.6,0,0,0,1,0,0,2,1,1,0,0,0,7,1,1,50.0,Matches
+Neraysho Kasanwirjo,nl NED,DF,21-047,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,50.0,Matches
+Noah Naujoks,nl NED,"FW,MF",20-339,0.2,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,,Matches
+Cole Bassett,us USA,FW,21-252,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Antoni Milambo,nl NED,MF,15-003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Squad Total,,,24.3,27.0,41,0,0,253,247,33,613,234,262,3,1,2,1702,335,291,53.5,
+Opponent Total,,,25.8,27.0,47,5,1,265,236,52,371,275,330,0,3,2,1526,291,335,46.5,

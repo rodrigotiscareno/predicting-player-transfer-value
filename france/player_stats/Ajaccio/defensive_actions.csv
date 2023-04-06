@@ -1,36 +1,36 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Benjamin Leroy,fr FRA,GK,33-361,24.1,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,10,2,Matches
-Mounaim El Idrissy,fr FRA,FW,24-052,21.4,26,17,4,15,7,10,27,37.0,17,12,0,12,11,37,16,0,Matches
-Vincent Marchetti,fr FRA,MF,25-273,20.4,44,22,22,17,5,20,49,40.8,29,13,1,12,15,59,16,0,Matches
-Mohamed Youssouf,km COM,DF,35-008,21.2,57,34,29,21,7,29,46,63.0,17,23,6,17,51,108,49,0,Matches
-Oumar Gonzalez,cm CMR,DF,25-037,20.6,38,19,24,11,3,19,28,67.9,9,24,9,15,37,75,51,0,Matches
-Cyrille Bayala,bf BFA,MF,26-314,18.2,47,34,14,17,16,20,39,51.3,19,20,3,17,21,68,13,0,Matches
-Ismael Diallo,ci CIV,DF,26-064,19.1,32,23,23,8,1,22,43,51.2,21,21,10,11,23,55,36,1,Matches
-Cédric Avinel,gp GLP,DF,36-204,16.2,11,5,6,5,0,6,9,66.7,3,15,10,5,12,23,67,1,Matches
-Mathieu Coutadeur,fr FRA,MF,37-014,14.9,18,11,10,8,0,6,15,40.0,9,11,1,10,13,31,14,0,Matches
-Youcef Belaïli,dz ALG,"MF,FW",31-020,12.1,15,9,2,7,6,7,19,36.8,12,10,1,9,5,20,4,0,Matches
-Clément Vidal,fr FRA,"DF,MF",22-289,13.1,16,8,9,7,0,10,21,47.6,11,17,8,9,18,34,36,0,Matches
-Riad Nouri,fr FRA,MF,37-300,14.2,18,10,4,10,4,9,21,42.9,12,5,1,4,14,32,9,0,Matches
-Mickaël Alphonse,gp GLP,DF,33-265,12.4,30,20,17,9,4,19,27,70.4,8,15,4,11,29,59,35,1,Matches
-Romain Hamouma,fr FRA,"FW,MF",36-005,9.5,6,2,2,2,2,2,4,50.0,2,4,0,4,2,8,1,0,Matches
-Thomas Mangani,fr FRA,MF,35-339,9.9,19,12,6,10,3,9,24,37.5,15,13,1,12,21,40,14,1,Matches
-Mickaël Barreto,fr FRA,MF,32-075,7.9,24,14,8,13,3,5,28,17.9,23,9,0,9,11,35,6,0,Matches
-Bevic Moussiti-Oko,cg CGO,FW,28-065,7.8,3,1,1,1,1,1,2,50.0,1,5,3,2,2,5,8,0,Matches
-Youssouf Koné,ml MLI,DF,27-272,5.8,20,13,17,3,0,10,15,66.7,5,6,2,4,8,28,19,1,Matches
-Fernand Mayembo,cg CGO,DF,27-084,6.4,6,4,5,1,0,3,6,50.0,3,2,0,2,7,13,32,0,Matches
-Kevin Spadanuda,ch SUI,"MF,FW",26-077,5.8,11,8,6,4,1,3,10,30.0,7,6,0,6,5,16,3,0,Matches
-Yoann Touzghar,tn TUN,FW,36-126,4.3,3,2,0,2,1,0,1,0.0,1,0,0,0,0,3,1,0,Matches
-Florian Chabrolle,fr FRA,MF,24-361,3.6,6,4,1,5,0,2,3,66.7,1,3,0,3,6,12,1,0,Matches
-Yanis Cimignani,fr FRA,"MF,DF",21-071,3.1,11,5,3,7,1,4,5,80.0,1,5,1,4,2,13,2,0,Matches
-François-Joseph Sollacaro,fr FRA,GK,29-013,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-Kouamé Botué,bf BFA,"FW,MF",20-239,2.5,4,2,2,1,1,0,2,0.0,2,1,0,1,0,4,1,0,Matches
-Qazim Laçi,al ALB,MF,27-074,2.4,6,3,2,3,1,4,9,44.4,5,5,0,5,2,8,3,0,Matches
-Moussa Soumano,fr FRA,"FW,MF",17-268,2.3,1,1,0,0,1,0,0,,0,2,0,2,0,1,0,0,Matches
-Moussa Djitte,sn SEN,FW,23-181,1.5,1,0,0,0,1,1,2,50.0,1,0,0,0,0,1,1,0,Matches
-Ghjuvanni Quilichini,fr FRA,GK,20-214,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-Paolo Lebas,pt POR,MF,19-348,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Ruan Levine,br BRA,MF,24-074,0.3,1,1,0,1,0,0,0,,0,1,0,1,2,3,0,0,Matches
-Mehdi Puch Herrantz,fr FRA,MF,19-073,0.3,1,1,0,0,1,0,0,,0,1,0,1,1,2,0,0,Matches
-Anthony Khelifa,fr FRA,DF,17-195,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,30.0,28.0,475,285,217,188,70,221,457,48.4,236,249,61,188,319,794,450,7,
-Opponent Total,,,26.7,28.0,460,281,213,206,41,207,408,50.7,201,306,66,240,268,728,492,4,
+Benjamin Leroy,fr FRA,GK,33-364,25.1,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,11,2,Matches
+Mounaim El Idrissy,fr FRA,FW,24-055,22.4,28,18,5,16,7,10,30,33.3,20,12,0,12,11,39,18,0,Matches
+Vincent Marchetti,fr FRA,MF,25-276,20.4,44,22,22,17,5,20,49,40.8,29,13,1,12,15,59,16,0,Matches
+Mohamed Youssouf,km COM,DF,35-011,21.3,57,34,29,21,7,29,46,63.0,17,23,6,17,52,109,49,0,Matches
+Oumar Gonzalez,cm CMR,DF,25-040,20.6,38,19,24,11,3,19,28,67.9,9,24,9,15,37,75,51,0,Matches
+Cyrille Bayala,bf BFA,MF,26-317,18.2,47,34,14,17,16,20,39,51.3,19,20,3,17,21,68,13,0,Matches
+Ismael Diallo,ci CIV,DF,26-067,19.1,32,23,23,8,1,22,43,51.2,21,21,10,11,23,55,36,1,Matches
+Cédric Avinel,gp GLP,DF,36-207,16.4,11,5,6,5,0,6,9,66.7,3,15,10,5,12,23,67,1,Matches
+Mathieu Coutadeur,fr FRA,MF,37-017,15.9,19,11,10,9,0,6,17,35.3,11,13,2,11,14,33,16,0,Matches
+Clément Vidal,fr FRA,"DF,MF",22-292,14.1,18,9,9,9,0,12,24,50.0,12,17,8,9,19,37,38,0,Matches
+Youcef Belaïli,dz ALG,"MF,FW",31-023,12.1,15,9,2,7,6,7,19,36.8,12,10,1,9,5,20,4,0,Matches
+Riad Nouri,fr FRA,MF,37-303,15.1,18,10,4,10,4,9,21,42.9,12,6,1,5,14,32,9,0,Matches
+Mickaël Alphonse,gp GLP,DF,33-268,13.4,31,21,18,9,4,20,30,66.7,10,16,4,12,31,62,39,1,Matches
+Romain Hamouma,fr FRA,"FW,MF",36-008,9.5,6,2,2,2,2,2,4,50.0,2,4,0,4,2,8,1,0,Matches
+Thomas Mangani,fr FRA,MF,35-342,10.0,19,12,6,10,3,9,25,36.0,16,13,1,12,21,40,14,1,Matches
+Mickaël Barreto,fr FRA,MF,32-078,8.9,26,16,8,15,3,7,32,21.9,25,9,0,9,16,42,6,0,Matches
+Youssouf Koné,ml MLI,DF,27-275,6.5,22,15,19,3,0,12,17,70.6,5,6,2,4,8,30,20,1,Matches
+Bevic Moussiti-Oko,cg CGO,FW,28-068,7.8,3,1,1,1,1,1,2,50.0,1,5,3,2,2,5,8,0,Matches
+Fernand Mayembo,cg CGO,DF,27-087,7.4,8,5,6,2,0,4,8,50.0,4,2,0,2,11,19,35,0,Matches
+Kevin Spadanuda,ch SUI,"MF,FW",26-080,6.7,14,10,7,5,2,5,16,31.3,11,10,0,10,6,20,3,0,Matches
+Yoann Touzghar,tn TUN,FW,36-129,4.6,3,2,0,2,1,0,1,0.0,1,0,0,0,0,3,1,0,Matches
+Florian Chabrolle,fr FRA,MF,24-364,3.6,6,4,1,5,0,2,3,66.7,1,3,0,3,6,12,1,0,Matches
+Yanis Cimignani,fr FRA,"MF,DF",21-074,3.1,11,5,3,7,1,4,5,80.0,1,5,1,4,2,13,2,0,Matches
+François-Joseph Sollacaro,fr FRA,GK,29-016,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Moussa Soumano,fr FRA,"FW,MF",17-271,3.0,1,1,0,0,1,0,4,0.0,4,2,0,2,0,1,0,0,Matches
+Kouamé Botué,bf BFA,"FW,MF",20-242,2.5,4,2,2,1,1,0,2,0.0,2,1,0,1,0,4,1,0,Matches
+Qazim Laçi,al ALB,MF,27-077,2.4,6,3,2,3,1,4,9,44.4,5,5,0,5,2,8,3,0,Matches
+Moussa Djitte,sn SEN,FW,23-184,1.5,1,0,0,0,1,1,2,50.0,1,0,0,0,0,1,1,0,Matches
+Ghjuvanni Quilichini,fr FRA,GK,20-217,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Paolo Lebas,pt POR,MF,19-351,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Ruan Levine,br BRA,"MF,FW",24-077,0.3,2,2,1,1,0,0,0,,0,1,0,1,2,4,0,0,Matches
+Mehdi Puch Herrantz,fr FRA,MF,19-076,0.3,1,1,0,0,1,0,0,,0,1,0,1,1,2,0,0,Matches
+Anthony Khelifa,fr FRA,DF,17-198,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,30.0,29.0,491,296,224,196,71,231,487,47.4,256,257,62,195,334,825,465,7,
+Opponent Total,,,26.7,29.0,476,289,219,212,45,216,433,49.9,217,312,66,246,274,750,499,5,

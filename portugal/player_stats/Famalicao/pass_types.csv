@@ -1,33 +1,34 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Luiz Lúcio Reis Júnior,br BRA,GK,22-079,25.0,802,527,268,56,0,1,0,0,0,0,0,0,539,7,0,Matches
-Enea Mihaj,al ALB,DF,24-272,23.0,1164,1113,51,49,0,13,0,2,0,0,0,0,1030,0,7,Matches
-Riccieli,br BRA,DF,24-198,21.5,1013,978,32,31,0,14,0,0,0,0,0,0,890,3,3,Matches
-Santiago Colombatto,ar ARG,MF,26-076,21.1,1047,910,133,69,1,8,94,3,59,39,18,1,860,4,11,Matches
-Alexandre Penetra,pt POR,DF,21-206,20.4,1076,897,176,38,1,26,57,138,0,0,0,0,821,3,12,Matches
-Ivo Rodrigues,pt POR,"MF,FW",28-004,18.5,769,697,71,42,6,9,63,8,20,11,7,0,580,1,20,Matches
-Moura,pt POR,DF,23-230,17.2,870,693,175,32,0,3,53,143,0,0,0,0,650,2,27,Matches
-Zaydou Youssouf,fr FRA,MF,23-266,16.9,642,609,29,27,2,16,10,1,1,1,0,0,511,4,4,Matches
-Ivan Jaime Pajuelo,es ESP,FW,22-189,12.7,362,340,21,11,6,7,20,0,9,5,3,0,286,1,8,Matches
-Rúben Lima,pt POR,DF,33-182,10.5,529,394,134,20,0,3,28,114,0,0,0,0,382,1,10,Matches
-Álex Millán,es ESP,FW,23-147,8.6,168,149,19,0,1,0,9,0,0,0,0,0,124,0,3,Matches
-Jhonder Cádiz,ve VEN,FW,27-248,9.8,201,183,18,1,2,1,9,1,0,0,0,0,126,0,5,Matches
-Gustavo Assuncao,pt POR,MF,23-004,8.5,428,408,17,14,2,8,7,1,2,0,0,0,346,3,8,Matches
-Junior Kadile,fr FRA,"FW,MF",20-108,7.1,161,149,11,2,0,1,29,9,0,0,0,0,98,1,5,Matches
-Pelé,gw GNB,MF,31-186,6.8,314,295,19,18,0,6,5,1,0,0,0,0,272,0,7,Matches
-Hernán De La Fuente,ar ARG,DF,26-086,6.0,324,235,89,10,1,1,11,79,0,0,0,0,245,0,10,Matches
-Mihai Dobre,ro ROU,FW,24-216,5.9,143,142,1,0,0,0,8,0,0,0,0,0,100,0,6,Matches
-José Luis Rodríguez,pa PAN,"FW,MF",24-288,5.6,111,108,2,1,1,1,19,0,1,1,0,0,69,1,5,Matches
-Pablo,br BRA,FW,19-091,4.2,89,84,3,0,0,1,2,0,0,0,0,0,68,2,2,Matches
-Pedro Brazão,pt POR,"MF,FW",20-094,3.4,106,106,0,0,0,2,1,0,0,0,0,0,80,0,4,Matches
-Rui Fonte,pt POR,"FW,MF",32-345,4.4,100,86,12,1,0,1,0,0,0,0,0,0,78,2,4,Matches
-Denílson,br BRA,FW,27-259,2.7,61,58,3,0,0,1,3,0,0,0,0,0,46,0,1,Matches
-Leandro Sanca,pt POR,"FW,MF",23-089,2.7,77,77,0,0,1,0,11,0,0,0,0,0,49,0,4,Matches
-Heriberto Tavares,pt POR,"MF,FW",26-043,2.4,114,96,17,0,0,0,25,7,10,6,1,0,75,1,2,Matches
-Gustavo sá,pt POR,"MF,FW",18-143,2.2,107,105,2,1,0,1,3,1,0,0,0,0,85,0,3,Matches
-Dylan Batubinsika,fr FRA,DF,27-047,2.0,103,101,2,2,0,1,0,0,0,0,0,0,95,0,0,Matches
-André Simões,pt POR,MF,33-108,1.8,88,86,2,1,0,0,1,1,0,0,0,0,70,0,4,Matches
-Martin Agirregabiria,es ESP,"DF,FW",26-328,2.2,125,116,9,1,0,2,8,8,0,0,0,0,98,0,1,Matches
-Théo Fonseca,fr FRA,"MF,FW",22-296,1.2,25,25,0,0,0,0,1,0,0,0,0,0,16,0,1,Matches
-David Tavares,cv CPV,"MF,FW",24-016,0.5,22,21,1,1,0,0,0,0,0,0,0,0,15,0,1,Matches
-Squad Total,,,24.8,25.0,11141,9788,1317,428,24,127,477,517,102,63,29,1,8704,36,178,
-Opponent Total,,,27.0,25.0,12470,11027,1415,391,31,111,511,631,134,62,34,0,9919,28,239,
+Luiz Lúcio Reis Júnior,br BRA,GK,22-082,26.0,824,540,277,57,0,1,0,0,0,0,0,0,554,7,0,Matches
+Enea Mihaj,al ALB,DF,24-275,23.7,1199,1145,54,51,0,13,0,3,0,0,0,0,1063,0,7,Matches
+Riccieli,br BRA,DF,24-201,22.5,1054,1017,34,32,0,14,0,0,0,0,0,0,927,3,3,Matches
+Santiago Colombatto,ar ARG,MF,26-079,22.1,1100,959,137,72,1,9,96,3,60,40,18,1,910,4,11,Matches
+Alexandre Penetra,pt POR,DF,21-209,21.4,1149,959,187,38,1,27,62,149,0,0,0,0,873,3,13,Matches
+Ivo Rodrigues,pt POR,"MF,FW",28-007,19.4,810,733,76,45,7,9,67,10,20,11,7,0,612,1,22,Matches
+Moura,pt POR,DF,23-233,18.2,933,746,185,34,0,3,62,151,0,0,0,0,700,2,27,Matches
+Zaydou Youssouf,fr FRA,MF,23-269,17.7,680,643,33,31,2,17,11,1,1,1,0,0,543,4,5,Matches
+Ivan Jaime Pajuelo,es ESP,"FW,MF",22-192,13.7,407,380,26,11,6,7,25,1,13,6,6,0,318,1,9,Matches
+Rúben Lima,pt POR,DF,33-185,10.5,529,394,134,20,0,3,28,114,0,0,0,0,382,1,10,Matches
+Álex Millán,es ESP,FW,23-150,8.6,168,149,19,0,1,0,9,0,0,0,0,0,124,0,3,Matches
+Jhonder Cádiz,ve VEN,FW,27-251,10.8,219,200,19,1,2,1,9,1,0,0,0,0,140,0,6,Matches
+Gustavo Assuncao,pt POR,MF,23-007,8.7,439,417,19,14,2,8,9,1,4,0,2,0,355,3,8,Matches
+Junior Kadile,fr FRA,"FW,MF",20-111,7.1,161,149,11,2,0,1,29,9,0,0,0,0,98,1,5,Matches
+Pelé,gw GNB,MF,31-189,6.8,314,295,19,18,0,6,5,1,0,0,0,0,272,0,7,Matches
+Mihai Dobre,ro ROU,"FW,DF",24-219,6.7,165,164,1,0,0,0,9,0,0,0,0,0,117,0,8,Matches
+Hernán De La Fuente,ar ARG,DF,26-089,6.0,324,235,89,10,1,1,11,79,0,0,0,0,245,0,10,Matches
+José Luis Rodríguez,pa PAN,"FW,MF",24-291,5.6,111,108,2,1,1,1,19,0,1,1,0,0,69,1,5,Matches
+Pablo,br BRA,FW,19-094,4.2,89,84,3,0,0,1,2,0,0,0,0,0,68,2,2,Matches
+Pedro Brazão,pt POR,"MF,FW",20-097,3.4,106,106,0,0,0,2,1,0,0,0,0,0,80,0,4,Matches
+Rui Fonte,pt POR,"FW,MF",32-348,4.4,100,86,12,1,0,1,0,0,0,0,0,0,78,2,4,Matches
+Denílson,br BRA,FW,27-262,2.8,62,58,4,0,0,1,3,0,0,0,0,0,47,0,1,Matches
+Leandro Sanca,pt POR,"FW,MF",23-092,2.8,78,78,0,0,1,0,12,0,0,0,0,0,49,0,4,Matches
+Heriberto Tavares,pt POR,"MF,FW",26-046,2.4,114,96,17,0,0,0,25,7,10,6,1,0,75,1,2,Matches
+Gustavo sá,pt POR,"MF,FW",18-146,2.4,116,114,2,1,0,2,3,1,0,0,0,0,92,0,3,Matches
+Dylan Batubinsika,fr FRA,DF,27-050,2.0,103,101,2,2,0,1,0,0,0,0,0,0,95,0,0,Matches
+André Simões,pt POR,MF,33-111,1.8,88,86,2,1,0,0,1,1,0,0,0,0,70,0,4,Matches
+Martin Agirregabiria,es ESP,"DF,FW",26-331,2.2,125,116,9,1,0,2,8,8,0,0,0,0,98,0,1,Matches
+Théo Fonseca,fr FRA,"MF,FW",22-299,1.2,25,25,0,0,0,0,1,0,0,0,0,0,16,0,1,Matches
+David Tavares,cv CPV,"MF,FW",24-019,0.5,22,21,1,1,0,0,0,0,0,0,0,0,15,0,1,Matches
+Otavio Ataide,br BRA,DF,20-350,0.3,11,9,2,1,0,0,0,1,0,0,0,0,7,0,0,Matches
+Squad Total,,,24.8,26.0,11625,10213,1376,445,25,131,507,541,109,65,34,1,9092,36,186,
+Opponent Total,,,27.0,26.0,12983,11494,1459,401,31,114,520,654,135,62,34,1,10344,30,246,

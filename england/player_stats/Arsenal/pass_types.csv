@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Aaron Ramsdale,eng ENG,GK,24-324,29.0,814,647,165,57,0,5,0,0,0,0,0,0,561,2,3,Matches
-Gabriel Dos Santos,br BRA,DF,25-105,28.9,1866,1794,69,50,1,11,3,3,0,0,0,0,1671,3,11,Matches
-Bukayo Saka,eng ENG,FW,21-210,27.0,1119,1013,104,9,0,3,130,19,76,57,0,1,831,2,52,Matches
-Martin Ødegaard,no NOR,MF,24-107,26.6,1383,1281,92,67,18,7,79,8,17,9,5,1,1111,10,34,Matches
-Granit Xhaka,ch SUI,MF,30-188,26.4,1372,1323,46,31,5,5,38,15,0,0,0,0,1159,3,23,Matches
-Martinelli,br BRA,FW,21-289,26.0,961,879,77,10,5,2,98,10,55,36,0,0,722,5,40,Matches
-William Saliba,fr FRA,DF,22-010,26.8,1865,1822,43,34,0,2,1,0,0,0,0,0,1698,0,8,Matches
-Ben White,eng ENG,DF,25-177,24.9,1710,1487,218,36,4,12,48,182,0,0,0,0,1426,5,24,Matches
-Thomas Partey,gh GHA,MF,29-294,21.3,1567,1518,46,26,7,11,7,20,0,0,0,0,1359,3,15,Matches
-Oleksandr Zinchenko,ua UKR,DF,26-109,19.3,1598,1430,163,37,3,9,33,125,1,0,0,0,1381,5,27,Matches
-Gabriel Jesus,br BRA,FW,26-000,14.6,452,414,37,1,1,4,7,10,0,0,0,0,367,1,11,Matches
-Eddie Nketiah,eng ENG,FW,23-308,11.1,237,215,22,0,0,1,4,0,0,0,0,0,192,0,11,Matches
-Leandro Trossard,be BEL,FW,28-120,6.0,267,238,28,0,3,5,35,1,21,16,0,0,202,1,12,Matches
-Takehiro Tomiyasu,jp JPN,DF,24-149,7.4,474,420,53,4,2,2,12,49,0,0,0,0,384,1,9,Matches
-Kieran Tierney,sct SCO,DF,25-302,5.9,355,307,44,6,1,1,15,38,0,0,0,0,266,4,7,Matches
-Jorginho,it ITA,MF,31-104,4.3,346,336,9,9,3,1,2,0,0,0,0,0,292,1,7,Matches
-Fabio Vieira,pt POR,"MF,FW",22-308,4.6,233,222,11,6,1,0,14,3,2,2,0,0,191,0,5,Matches
-Rob Holding,eng ENG,DF,27-195,2.2,146,142,4,3,0,2,0,1,0,0,0,0,128,0,1,Matches
-Albert Sambi Lokonga,be BEL,MF,23-163,2.2,140,135,5,5,1,1,0,0,0,0,0,0,132,0,1,Matches
-Mohamed Elneny,eg EGY,MF,30-266,1.3,60,58,2,2,0,0,0,0,0,0,0,0,57,0,1,Matches
-Emile Smith Rowe,eng ENG,"FW,MF",22-249,1.4,67,63,4,0,0,0,5,0,4,2,0,0,58,0,1,Matches
-Reiss Nelson,eng ENG,FW,23-114,1.2,66,65,1,0,0,0,7,0,1,1,0,0,57,0,0,Matches
-Cédric Soares,pt POR,DF,31-215,0.3,24,23,1,0,0,0,3,1,0,0,0,0,19,0,0,Matches
-Jakub Kiwior,pl POL,DF,23-047,0.1,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches
-Marquinhos,br BRA,MF,19-361,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-Ethan Nwaneri,eng ENG,FW,16-013,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,25.2,29.0,17131,15841,1244,393,55,84,541,485,177,123,5,2,14272,46,303,
+Aaron Ramsdale,eng ENG,GK,24-327,29.0,814,647,165,57,0,5,0,0,0,0,0,0,561,2,3,Matches
+Gabriel Dos Santos,br BRA,DF,25-108,28.9,1866,1794,69,50,1,11,3,3,0,0,0,0,1670,3,11,Matches
+Bukayo Saka,eng ENG,FW,21-213,27.0,1119,1013,104,9,0,3,130,19,76,57,0,1,831,2,52,Matches
+Martin Ødegaard,no NOR,MF,24-110,26.6,1383,1281,92,67,18,7,79,8,17,9,5,1,1111,10,34,Matches
+Granit Xhaka,ch SUI,MF,30-191,26.4,1372,1323,46,31,5,5,38,15,0,0,0,0,1159,3,23,Matches
+Martinelli,br BRA,FW,21-292,26.0,961,879,77,10,5,2,98,10,55,36,0,0,722,5,40,Matches
+William Saliba,fr FRA,DF,22-013,26.8,1865,1822,43,34,0,2,1,0,0,0,0,0,1698,0,8,Matches
+Ben White,eng ENG,DF,25-180,24.9,1710,1487,218,36,4,12,48,182,0,0,0,0,1426,5,24,Matches
+Thomas Partey,gh GHA,MF,29-297,21.3,1567,1518,46,26,7,11,7,20,0,0,0,0,1359,3,15,Matches
+Oleksandr Zinchenko,ua UKR,DF,26-112,19.3,1598,1430,163,37,3,9,33,125,1,0,0,0,1381,5,27,Matches
+Gabriel Jesus,br BRA,FW,26-003,14.6,452,414,37,1,1,4,7,10,0,0,0,0,367,1,11,Matches
+Eddie Nketiah,eng ENG,FW,23-311,11.1,237,215,22,0,0,1,4,0,0,0,0,0,192,0,11,Matches
+Leandro Trossard,be BEL,FW,28-123,6.0,267,238,28,0,3,5,35,1,21,16,0,0,202,1,12,Matches
+Takehiro Tomiyasu,jp JPN,DF,24-152,7.4,474,420,53,4,2,2,12,49,0,0,0,0,384,1,9,Matches
+Kieran Tierney,sct SCO,DF,25-305,5.9,355,307,44,6,1,1,15,38,0,0,0,0,266,4,7,Matches
+Jorginho,it ITA,MF,31-107,4.3,346,336,9,9,3,1,2,0,0,0,0,0,292,1,7,Matches
+Fabio Vieira,pt POR,"MF,FW",22-311,4.6,233,222,11,6,1,0,14,3,2,2,0,0,191,0,5,Matches
+Rob Holding,eng ENG,DF,27-198,2.2,146,142,4,3,0,2,0,1,0,0,0,0,128,0,1,Matches
+Albert Sambi Lokonga,be BEL,MF,23-166,2.2,140,135,5,5,1,1,0,0,0,0,0,0,132,0,1,Matches
+Mohamed Elneny,eg EGY,MF,30-269,1.3,60,58,2,2,0,0,0,0,0,0,0,0,57,0,1,Matches
+Emile Smith Rowe,eng ENG,"FW,MF",22-252,1.4,67,63,4,0,0,0,5,0,4,2,0,0,58,0,1,Matches
+Reiss Nelson,eng ENG,FW,23-117,1.2,66,65,1,0,0,0,7,0,1,1,0,0,57,0,0,Matches
+Cédric Soares,pt POR,DF,31-218,0.3,24,23,1,0,0,0,3,1,0,0,0,0,19,0,0,Matches
+Jakub Kiwior,pl POL,DF,23-050,0.1,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches
+Marquinhos,br BRA,MF,19-364,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Ethan Nwaneri,eng ENG,FW,16-016,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,25.2,29.0,17131,15841,1244,393,55,84,541,485,177,123,5,2,14271,46,303,
 Opponent Total,,,27.4,29.0,11334,9976,1288,305,36,85,396,520,104,63,31,3,8498,70,239,

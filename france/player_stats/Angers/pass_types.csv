@@ -1,35 +1,36 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Cédric Hountondji,bj BEN,DF,29-074,27.2,1203,1163,39,33,0,7,0,6,0,0,0,0,1040,1,6,Matches
-Batista Mendy,fr FRA,"MF,DF",23-081,22.8,1011,994,15,14,2,8,6,1,0,0,0,0,873,2,10,Matches
-Adrien Hunou,fr FRA,"FW,MF",29-074,19.6,571,538,27,1,2,0,11,10,3,1,0,0,422,6,15,Matches
-Nabil Bentaleb,dz ALG,MF,28-130,21.2,1480,1335,139,89,5,15,74,1,49,39,9,0,1208,6,16,Matches
-Souleyman Doumbia,ci CIV,"DF,FW",26-191,19.0,900,731,169,16,0,0,44,150,3,3,0,0,717,0,24,Matches
-Paul Bernardoni,fr FRA,GK,25-350,20.0,501,321,177,39,0,0,0,0,0,0,0,0,348,3,1,Matches
-Miha Blažič,si SVN,DF,29-330,19.7,1071,1023,48,46,1,5,1,2,0,0,0,0,932,0,1,Matches
-Yan Valery,tn TUN,DF,24-040,18.1,828,660,167,10,0,0,55,157,0,0,0,0,598,1,27,Matches
-Abdallah Sima,sn SEN,FW,21-290,14.9,258,225,32,0,1,1,12,2,0,0,0,0,189,1,9,Matches
-Himad Abdelli,fr FRA,"MF,FW",23-137,14.0,687,669,16,4,4,2,14,8,0,0,0,0,558,2,14,Matches
-Azzedine Ounahi,ma MAR,"MF,FW",22-349,12.5,630,603,24,13,2,7,17,4,5,4,0,0,542,3,11,Matches
-Amine Salama,fr FRA,"FW,MF",22-259,13.9,321,303,16,0,2,0,12,0,0,0,0,0,236,2,10,Matches
-Pierrick Capelle,fr FRA,"MF,DF",35-353,12.6,593,539,54,10,0,3,42,19,24,13,7,0,489,0,7,Matches
-Sofiane Boufal,ma MAR,"FW,MF",29-198,9.3,487,446,39,11,4,6,37,10,16,10,0,0,370,2,13,Matches
-Yahia Fofana,fr FRA,GK,22-225,8.0,243,170,73,20,0,0,0,0,0,0,0,0,173,0,0,Matches
-Farid El Melali,dz ALG,"DF,FW",25-333,6.8,237,205,30,2,0,0,14,25,3,1,0,0,160,2,13,Matches
-Ibrahima Niane,sn SEN,FW,24-023,5.1,93,83,9,0,0,2,3,0,0,0,0,0,67,1,4,Matches
-Abdoulaye Bamba,ci CIV,DF,32-343,7.2,339,306,33,9,1,0,13,24,0,0,0,0,284,0,6,Matches
-Sada Thioub,sn SEN,"FW,MF",27-306,6.4,293,266,25,3,1,3,16,21,1,0,1,0,234,2,4,Matches
-Lois Diony,fr FRA,FW,30-104,4.9,115,100,15,0,0,1,3,2,0,0,0,0,90,0,2,Matches
-Ousmane Camara,fr FRA,DF,20-028,4.6,318,309,7,6,0,0,0,1,0,0,0,0,290,2,2,Matches
-Ibrahim Amadou,fr FRA,"DF,MF",29-362,4.7,190,186,4,4,0,0,1,0,0,0,0,0,161,0,5,Matches
-Halid Šabanović,ba BIH,"DF,FW",23-224,3.7,172,133,39,2,0,1,4,37,0,0,0,0,138,0,2,Matches
-Faouzi Ghoulam,dz ALG,DF,32-061,3.0,209,154,54,8,0,0,19,36,10,1,9,0,144,1,9,Matches
-Ilyes Cheti,dz ALG,DF,28-071,2.3,118,99,19,0,0,0,5,19,0,0,0,0,102,0,2,Matches
-Waniss Taibi,fr FRA,MF,21-027,2.1,147,145,2,1,1,0,1,1,0,0,0,0,131,0,5,Matches
-Lilian Raolisoa,fr FRA,"MF,DF",22-291,0.5,37,32,5,2,0,0,2,3,0,0,0,0,33,0,0,Matches
-Zinédine Ould Khaled,fr FRA,"MF,FW",23-079,0.5,29,29,0,0,0,0,0,0,0,0,0,0,28,0,0,Matches
-Jean Mattéo Bahoya,fr FRA,"FW,MF",17-331,0.3,22,22,0,0,0,0,0,0,0,0,0,0,18,0,1,Matches
-Marin Jakoliš,hr CRO,FW,26-098,0.3,7,6,1,0,0,0,2,0,1,0,1,0,4,0,0,Matches
-Jason Mbock,fr FRA,"MF,FW",23-153,0.3,10,6,4,0,0,0,4,1,2,2,0,0,6,0,1,Matches
-Antonin Bobichon,fr FRA,MF,27-201,0.2,20,19,1,0,1,0,2,0,1,1,0,0,12,0,2,Matches
-Squad Total,,,26.6,28.0,13140,11820,1283,343,27,61,414,540,118,75,27,0,10597,37,222,
-Opponent Total,,,27.3,28.0,14670,13251,1365,384,35,128,473,594,142,68,45,1,12046,54,243,
+Cédric Hountondji,bj BEN,DF,29-077,28.2,1229,1189,39,33,0,7,1,6,0,0,0,0,1062,1,6,Matches
+Batista Mendy,fr FRA,"MF,DF",23-084,23.6,1038,1020,16,15,2,8,6,1,0,0,0,0,896,2,11,Matches
+Nabil Bentaleb,dz ALG,MF,28-133,22.2,1521,1373,141,89,5,15,78,1,51,41,9,0,1237,7,17,Matches
+Adrien Hunou,fr FRA,"FW,MF",29-077,19.6,571,538,27,1,2,0,11,10,3,1,0,0,422,6,15,Matches
+Paul Bernardoni,fr FRA,GK,25-353,21.0,524,334,187,40,0,0,0,0,0,0,0,0,362,3,1,Matches
+Souleyman Doumbia,ci CIV,"DF,FW",26-194,19.4,919,748,171,16,0,0,45,152,3,3,0,0,731,0,26,Matches
+Yan Valery,tn TUN,DF,24-043,19.1,857,685,171,11,0,0,58,160,0,0,0,0,616,1,28,Matches
+Miha Blažič,si SVN,DF,29-333,19.7,1071,1023,48,46,1,5,1,2,0,0,0,0,932,0,1,Matches
+Abdallah Sima,sn SEN,FW,21-293,15.1,266,233,32,0,1,1,12,2,0,0,0,0,195,1,9,Matches
+Himad Abdelli,fr FRA,"MF,FW",23-140,15.0,738,716,20,5,4,2,16,9,0,0,0,0,595,2,15,Matches
+Pierrick Capelle,fr FRA,"MF,DF",35-356,13.6,637,581,56,10,0,4,43,20,25,14,7,0,525,0,9,Matches
+Azzedine Ounahi,ma MAR,"MF,FW",22-352,12.5,630,603,24,13,2,7,17,4,5,4,0,0,542,3,11,Matches
+Amine Salama,fr FRA,"FW,MF",22-262,13.9,321,303,16,0,2,0,12,0,0,0,0,0,236,2,10,Matches
+Sofiane Boufal,ma MAR,"FW,MF",29-201,9.3,487,446,39,11,4,6,37,10,16,10,0,0,370,2,13,Matches
+Yahia Fofana,fr FRA,GK,22-228,8.0,243,170,73,20,0,0,0,0,0,0,0,0,173,0,0,Matches
+Farid El Melali,dz ALG,"DF,FW",25-336,7.7,254,217,35,2,0,1,14,30,3,1,0,0,174,2,13,Matches
+Ibrahima Niane,sn SEN,FW,24-026,5.8,110,100,9,0,0,3,3,0,0,0,0,0,80,1,4,Matches
+Abdoulaye Bamba,ci CIV,DF,32-346,7.4,343,309,34,10,1,0,13,24,0,0,0,0,287,0,6,Matches
+Sada Thioub,sn SEN,"FW,MF",27-309,6.4,293,266,25,3,1,3,16,21,1,0,1,0,234,2,4,Matches
+Lois Diony,fr FRA,FW,30-107,4.9,115,100,15,0,0,1,3,2,0,0,0,0,90,0,2,Matches
+Ousmane Camara,fr FRA,DF,20-031,4.6,318,309,7,6,0,0,0,1,0,0,0,0,290,2,2,Matches
+Ibrahim Amadou,fr FRA,"DF,MF",30-000,4.7,190,186,4,4,0,0,1,0,0,0,0,0,161,0,5,Matches
+Halid Šabanović,ba BIH,"DF,FW",23-227,3.9,177,138,39,2,0,1,4,37,0,0,0,0,142,0,2,Matches
+Faouzi Ghoulam,dz ALG,DF,32-064,3.7,253,187,65,13,0,1,26,40,12,1,11,0,178,1,9,Matches
+Ilyes Cheti,dz ALG,DF,28-074,2.3,118,99,19,0,0,0,5,19,0,0,0,0,102,0,2,Matches
+Waniss Taibi,fr FRA,MF,21-030,2.1,147,145,2,1,1,0,1,1,0,0,0,0,131,0,5,Matches
+Justin-Noël Kalumba,fr FRA,DF,18-102,0.6,13,13,0,0,0,0,1,0,0,0,0,0,12,0,0,Matches
+Lilian Raolisoa,fr FRA,"MF,DF",22-294,0.5,37,32,5,2,0,0,2,3,0,0,0,0,33,0,0,Matches
+Jean Mattéo Bahoya,fr FRA,"FW,MF",17-334,0.5,26,26,0,0,0,0,0,0,0,0,0,0,22,0,1,Matches
+Zinédine Ould Khaled,fr FRA,"MF,FW",23-082,0.5,29,29,0,0,0,0,0,0,0,0,0,0,28,0,0,Matches
+Marin Jakoliš,hr CRO,FW,26-101,0.3,7,6,1,0,0,0,2,0,1,0,1,0,4,0,0,Matches
+Jason Mbock,fr FRA,"MF,FW",23-156,0.3,10,6,4,0,0,0,4,1,2,2,0,0,6,0,1,Matches
+Antonin Bobichon,fr FRA,MF,27-204,0.2,20,19,1,0,1,0,2,0,1,1,0,0,12,0,2,Matches
+Squad Total,,,26.7,29.0,13512,12149,1325,353,27,65,434,556,123,78,29,0,10880,38,230,
+Opponent Total,,,27.3,29.0,15300,13839,1407,393,35,130,495,617,144,68,46,1,12579,54,254,

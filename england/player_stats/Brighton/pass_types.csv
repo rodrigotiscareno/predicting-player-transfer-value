@@ -1,28 +1,29 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Lewis Dunk,eng ENG,DF,31-133,26.0,2239,2141,96,70,3,20,1,7,0,0,0,0,2022,2,10,Matches
-Pascal Groß,de GER,"MF,DF",31-292,25.2,1617,1373,239,60,9,17,173,54,105,47,46,2,1260,5,39,Matches
-Solly March,eng ENG,"FW,DF",28-257,24.9,1077,963,113,14,2,23,128,46,50,22,17,0,774,1,29,Matches
-Moisés Caicedo,ec ECU,MF,21-152,24.2,1529,1520,9,6,8,7,10,3,0,0,0,0,1353,0,26,Matches
-Alexis Mac Allister,ar ARG,MF,24-100,22.2,1247,1208,34,20,6,7,18,5,7,5,2,0,1080,5,31,Matches
-Robert Sánchez,es ESP,GK,25-136,22.0,748,581,162,35,0,4,0,0,0,0,0,0,571,5,3,Matches
-Pervis Estupiñán,ec ECU,DF,25-072,18.4,1227,1081,141,12,1,5,61,128,1,0,0,0,1002,5,36,Matches
-Joël Veltman,nl NED,DF,31-078,19.9,1281,1092,182,29,1,2,17,153,0,0,0,0,1068,7,25,Matches
-Adam Webster,eng ENG,DF,28-089,16.6,1266,1209,56,22,0,6,2,34,0,0,0,0,1109,1,7,Matches
-Leandro Trossard,be BEL,"FW,MF",28-120,14.6,529,498,28,3,9,8,35,19,0,0,0,0,379,3,20,Matches
-Danny Welbeck,eng ENG,FW,32-128,14.9,277,266,9,0,4,0,0,0,0,0,0,0,232,2,4,Matches
-Kaoru Mitoma,jp JPN,"FW,MF",25-318,15.1,640,622,13,0,3,3,26,11,2,0,0,0,521,5,16,Matches
-Adam Lallana,eng ENG,"MF,FW",34-328,8.0,317,304,11,2,0,0,3,2,1,0,0,0,262,2,5,Matches
-Levi Colwill,eng ENG,DF,20-036,7.1,593,563,28,14,1,1,0,10,0,0,0,0,526,2,3,Matches
-Evan Ferguson,ie IRL,FW,18-166,5.2,117,108,8,0,1,0,0,0,0,0,0,0,95,1,1,Matches
-Jason Steele,eng ENG,GK,32-228,4.0,126,114,11,2,1,1,0,0,0,0,0,0,110,1,0,Matches
-Tariq Lamptey,gh GHA,DF,22-185,5.0,302,258,44,5,1,1,31,39,0,0,0,0,239,0,6,Matches
-Deniz Undav,de GER,"FW,MF",26-258,2.9,64,62,2,0,1,0,1,0,0,0,0,0,52,0,1,Matches
-Enock Mwepu,zm ZAM,"FW,MF",25-092,2.4,78,76,2,0,0,1,3,0,0,0,0,0,61,0,3,Matches
-Billy Gilmour,sct SCO,MF,21-296,1.8,154,153,0,0,0,1,0,0,0,0,0,0,142,1,0,Matches
-Jeremy Sarmiento,ec ECU,MF,20-291,2.0,67,67,0,0,0,0,3,0,0,0,0,0,53,0,1,Matches
-Jan Paul van Hecke,nl NED,DF,22-299,0.9,99,98,1,0,0,0,0,1,0,0,0,0,95,0,1,Matches
-Julio César Enciso,py PAR,"FW,MF",19-070,1.9,44,43,1,0,0,0,1,0,0,0,0,0,33,0,0,Matches
-Facundo Buonanotte,ar ARG,"FW,MF",18-101,0.6,25,24,1,0,0,0,1,1,0,0,0,0,20,0,0,Matches
-Andrew Moran,ie IRL,FW,19-170,0.1,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Matches
-Squad Total,,,27.4,26.0,15665,14425,1192,294,51,107,514,513,166,74,65,2,13060,48,267,
-Opponent Total,,,27.3,26.0,10598,9428,1138,314,22,59,309,436,92,33,43,2,8192,32,214,
+Lewis Dunk,eng ENG,DF,31-136,27.0,2347,2238,107,74,3,19,1,7,0,0,0,0,2119,2,10,Matches
+Pascal Groß,de GER,"MF,DF",31-295,26.2,1692,1438,249,65,9,18,177,55,109,48,47,2,1326,5,40,Matches
+Solly March,eng ENG,"FW,DF",28-260,25.9,1122,1008,113,13,2,25,131,46,51,22,17,0,808,1,30,Matches
+Moisés Caicedo,ec ECU,MF,21-155,25.1,1589,1580,9,6,8,7,10,3,0,0,0,0,1408,0,26,Matches
+Alexis Mac Allister,ar ARG,MF,24-103,23.0,1281,1243,33,21,6,7,19,5,7,5,2,0,1110,5,32,Matches
+Robert Sánchez,es ESP,GK,25-139,22.0,748,581,162,35,0,4,0,0,0,0,0,0,571,5,3,Matches
+Pervis Estupiñán,ec ECU,DF,25-075,19.4,1306,1153,148,13,2,5,62,134,1,0,0,0,1073,5,36,Matches
+Joël Veltman,nl NED,DF,31-081,20.9,1341,1140,194,29,1,3,18,165,0,0,0,0,1114,7,26,Matches
+Adam Webster,eng ENG,DF,28-092,17.6,1348,1290,57,23,0,6,2,34,0,0,0,0,1182,1,7,Matches
+Leandro Trossard,be BEL,"FW,MF",28-123,14.6,529,498,28,3,9,8,35,19,0,0,0,0,379,3,20,Matches
+Kaoru Mitoma,jp JPN,"FW,MF",25-321,16.1,679,661,13,0,3,3,27,11,2,0,0,0,555,5,16,Matches
+Danny Welbeck,eng ENG,FW,32-131,15.1,288,275,11,0,4,0,0,0,0,0,0,0,241,2,4,Matches
+Adam Lallana,eng ENG,"MF,FW",34-331,8.0,317,304,11,2,0,0,3,2,1,0,0,0,262,2,5,Matches
+Levi Colwill,eng ENG,DF,20-039,7.1,599,567,30,15,1,1,0,10,0,0,0,0,530,2,3,Matches
+Evan Ferguson,ie IRL,FW,18-169,6.0,137,127,9,0,1,0,0,0,0,0,0,0,109,1,2,Matches
+Jason Steele,eng ENG,GK,32-231,5.0,166,152,13,2,1,1,0,0,0,0,0,0,142,1,0,Matches
+Tariq Lamptey,gh GHA,DF,22-188,5.0,302,258,44,5,1,1,31,39,0,0,0,0,239,0,6,Matches
+Deniz Undav,de GER,"FW,MF",26-261,2.9,64,62,2,0,1,0,1,0,0,0,0,0,52,0,1,Matches
+Enock Mwepu,zm ZAM,"FW,MF",25-095,2.4,78,76,2,0,0,1,3,0,0,0,0,0,61,0,3,Matches
+Billy Gilmour,sct SCO,MF,21-299,1.8,154,153,0,0,0,1,0,0,0,0,0,0,142,1,0,Matches
+Jeremy Sarmiento,ec ECU,MF,20-294,2.0,67,67,0,0,0,0,3,0,0,0,0,0,53,0,1,Matches
+Jan Paul van Hecke,nl NED,DF,22-302,0.9,99,98,1,0,0,0,0,1,0,0,0,0,95,0,1,Matches
+Julio César Enciso,py PAR,"FW,MF",19-073,2.1,54,53,1,0,0,0,1,0,0,0,0,0,42,0,0,Matches
+Facundo Buonanotte,ar ARG,"FW,MF",18-104,0.6,25,24,1,0,0,0,1,1,0,0,0,0,20,0,0,Matches
+Andrew Moran,ie IRL,FW,19-173,0.1,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Yasin Ayari,se SWE,MF,19-182,0.1,10,10,0,0,1,0,0,0,0,0,0,0,9,0,0,Matches
+Squad Total,,,27.4,27.0,16344,15057,1239,306,53,110,525,532,171,75,66,2,13643,48,272,
+Opponent Total,,,27.3,27.0,11006,9793,1180,319,26,60,327,453,97,37,44,2,8498,33,229,

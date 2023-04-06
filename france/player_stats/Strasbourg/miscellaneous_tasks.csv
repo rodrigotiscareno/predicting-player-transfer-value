@@ -1,31 +1,31 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Matz Sels,be BEL,GK,31-036,28.0,2,0,0,0,2,0,0,3,1,0,0,0,24,7,0,100.0,Matches
-Alexander Djiku,gh GHA,DF,28-237,24.0,5,0,0,28,19,1,5,53,29,0,0,0,130,69,29,70.4,Matches
-Habib Diallo,sn SEN,FW,27-289,23.1,2,0,0,27,52,15,4,11,7,1,0,0,55,89,102,46.6,Matches
-Kévin Gameiro,fr FRA,FW,35-329,20.7,1,1,0,12,14,4,18,8,8,1,0,0,77,12,25,32.4,Matches
-Jean-Ricner Bellegarde,fr FRA,MF,24-280,18.0,3,0,0,16,45,0,98,22,17,0,1,0,117,15,23,39.5,Matches
-Maxime Le Marchand,fr FRA,DF,33-174,17.4,6,1,1,24,6,0,11,29,23,0,2,0,116,42,19,68.9,Matches
-Dimitri Liénard,fr FRA,"DF,MF",35-049,16.3,4,0,0,16,13,3,112,13,27,0,0,0,116,17,15,53.1,Matches
-Sanjin Prcić,ba BIH,MF,29-134,16.7,2,1,0,15,18,1,25,21,12,0,0,0,137,15,7,68.2,Matches
-Ismaël Doukouré,fr FRA,DF,19-253,16.3,5,0,0,25,15,0,7,18,12,0,0,0,98,18,26,40.9,Matches
-Gerzino Nyamsi,fr FRA,DF,26-071,13.4,4,1,0,27,3,0,1,9,13,0,2,0,79,32,14,69.6,Matches
-Jean-Eudes Aholou,ci CIV,MF,29-014,11.8,3,1,0,30,19,1,5,22,18,0,0,0,70,21,15,58.3,Matches
-Lucas Perrin,fr FRA,DF,24-135,12.7,2,0,0,13,13,0,7,19,19,0,1,0,77,24,11,68.6,Matches
-Adrien Thomasson,fr FRA,MF,29-114,10.4,2,0,0,16,20,4,8,3,9,0,0,0,80,7,6,53.8,Matches
-Thomas Delaine,fr FRA,DF,31-010,9.5,3,0,0,15,10,0,54,8,13,0,2,0,38,10,10,50.0,Matches
-Mouhamadou Diarra,sn SEN,MF,19-090,10.0,1,0,0,13,12,0,25,9,12,1,0,0,59,6,13,31.6,Matches
-Ludovic Ajorque,fr FRA,FW,29-037,8.6,1,0,0,14,8,1,0,2,4,0,0,0,21,50,33,60.2,Matches
-Colin Dagba,fr FRA,DF,24-206,7.9,2,0,0,12,5,1,29,11,16,0,0,0,39,3,5,37.5,Matches
-Ibrahima Sissoko,fr FRA,MF,25-158,9.7,0,0,0,26,12,1,9,6,12,0,1,0,81,26,17,60.5,Matches
-Morgan Sanson,fr FRA,MF,28-228,6.2,1,0,0,10,18,0,7,12,9,0,0,0,41,7,7,50.0,Matches
-Ronaël Pierre-Gabriel,fr FRA,DF,24-294,7.3,3,0,0,12,8,2,19,9,18,0,0,0,41,8,7,53.3,Matches
-Frederic Guilbert,fr FRA,DF,28-100,6.6,3,0,0,14,9,0,27,17,11,0,1,0,55,10,8,55.6,Matches
-Eduard Sobol,ua UKR,DF,27-348,5.6,2,0,0,8,7,2,9,4,6,0,1,0,19,6,3,66.7,Matches
-Lebo Mothiba,za RSA,"FW,MF",27-065,3.3,0,0,0,7,6,0,3,0,0,0,0,0,7,5,17,22.7,Matches
-Nordine Kandil,fr FRA,"MF,FW",21-154,0.9,0,0,0,1,3,0,3,1,2,0,0,0,13,3,0,100.0,Matches
-Franci Bouebari,fr FRA,DF,19-203,0.8,0,0,0,2,0,0,1,2,0,0,0,0,0,1,1,50.0,Matches
-Karol Fila,pl POL,DF,24-294,0.5,0,0,0,0,0,0,3,1,0,0,0,0,5,0,0,,Matches
-Dany Jean,ht HAI,"DF,MF",20-126,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches
-Marvin Senaya,tg TOG,DF,22-065,0.1,0,0,0,0,0,0,1,0,0,0,0,0,2,1,1,50.0,Matches
-Squad Total,,,28.4,28.0,57,5,1,383,337,36,491,313,298,3,11,0,1598,504,415,54.8,
-Opponent Total,,,26.9,28.0,45,4,2,355,366,65,479,269,258,9,4,2,1597,415,504,45.2,
+Matz Sels,be BEL,GK,31-039,29.0,2,0,0,0,2,0,0,3,1,0,0,0,25,7,0,100.0,Matches
+Alexander Djiku,gh GHA,DF,28-240,24.0,5,0,0,28,19,1,5,53,29,0,0,0,130,69,29,70.4,Matches
+Habib Diallo,sn SEN,FW,27-292,24.1,2,0,0,29,55,16,5,11,7,1,0,0,59,92,108,46.0,Matches
+Kévin Gameiro,fr FRA,FW,35-332,20.7,1,1,0,12,14,4,18,8,8,1,0,0,77,12,25,32.4,Matches
+Jean-Ricner Bellegarde,fr FRA,MF,24-283,18.9,3,0,0,18,48,0,99,22,17,0,1,0,121,16,24,40.0,Matches
+Maxime Le Marchand,fr FRA,DF,33-177,17.4,6,1,1,24,6,0,11,29,23,0,2,0,116,42,19,68.9,Matches
+Dimitri Liénard,fr FRA,"DF,MF",35-052,16.3,4,0,0,16,13,3,112,13,27,0,0,0,116,17,15,53.1,Matches
+Ismaël Doukouré,fr FRA,DF,19-256,17.3,5,0,0,26,17,0,7,20,12,0,0,0,103,18,27,40.0,Matches
+Sanjin Prcić,ba BIH,MF,29-137,16.8,2,1,0,15,18,1,25,21,12,0,0,0,138,15,7,68.2,Matches
+Gerzino Nyamsi,fr FRA,DF,26-074,14.4,4,1,0,29,3,0,1,10,14,0,2,0,89,36,16,69.2,Matches
+Jean-Eudes Aholou,ci CIV,MF,29-017,12.6,3,1,0,33,20,1,5,23,19,0,0,0,74,22,18,55.0,Matches
+Lucas Perrin,fr FRA,DF,24-138,12.7,2,0,0,13,13,0,7,19,19,0,1,0,77,24,11,68.6,Matches
+Thomas Delaine,fr FRA,DF,31-013,10.4,3,0,0,15,11,0,59,14,13,0,2,0,46,11,10,52.4,Matches
+Mouhamadou Diarra,sn SEN,"MF,FW",19-093,11.0,2,0,0,14,13,0,30,9,13,1,0,0,65,6,15,28.6,Matches
+Adrien Thomasson,fr FRA,MF,29-117,10.4,2,0,0,16,20,4,8,3,9,0,0,0,80,7,6,53.8,Matches
+Ludovic Ajorque,fr FRA,FW,29-040,8.6,1,0,0,14,8,1,0,2,4,0,0,0,21,50,33,60.2,Matches
+Colin Dagba,fr FRA,DF,24-209,7.9,2,0,0,12,5,1,29,11,16,0,0,0,39,3,5,37.5,Matches
+Morgan Sanson,fr FRA,MF,28-231,7.2,1,0,0,11,19,0,13,16,10,0,0,0,44,8,7,53.3,Matches
+Ibrahima Sissoko,fr FRA,MF,25-161,9.9,0,0,0,26,13,1,10,6,13,0,1,0,84,26,17,60.5,Matches
+Frederic Guilbert,fr FRA,DF,28-103,7.6,3,0,0,16,10,0,27,21,14,0,1,0,64,11,10,52.4,Matches
+Ronaël Pierre-Gabriel,fr FRA,DF,24-297,7.3,3,0,0,12,8,2,19,9,18,0,0,0,41,8,7,53.3,Matches
+Eduard Sobol,ua UKR,DF,27-351,5.8,2,0,0,8,7,2,10,4,6,0,1,0,19,6,3,66.7,Matches
+Lebo Mothiba,za RSA,"FW,MF",27-068,4.0,0,0,0,10,7,0,3,0,0,0,0,0,9,9,18,33.3,Matches
+Nordine Kandil,fr FRA,"MF,FW",21-157,1.1,0,0,0,1,3,0,4,1,2,0,0,0,15,3,0,100.0,Matches
+Franci Bouebari,fr FRA,DF,19-206,0.8,0,0,0,2,0,0,1,2,0,0,0,0,0,1,1,50.0,Matches
+Karol Fila,pl POL,DF,24-297,0.5,0,0,0,0,0,0,3,1,0,0,0,0,5,0,0,,Matches
+Dany Jean,ht HAI,"DF,MF",20-129,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches
+Marvin Senaya,tg TOG,DF,22-068,0.1,0,0,0,0,0,0,1,0,0,0,0,0,2,1,1,50.0,Matches
+Squad Total,,,28.3,29.0,58,5,1,400,352,37,512,331,306,3,11,0,1660,520,433,54.6,
+Opponent Total,,,26.9,29.0,48,5,3,370,381,68,490,280,267,9,4,3,1657,433,520,45.4,

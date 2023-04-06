@@ -1,30 +1,30 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Rui Patrício,pt POR,GK,35-047,27.0,1,0,0,1,0,0,0,2,1,0,1,0,33,1,0,100.0,Matches
-Roger Ibanez,br BRA,DF,24-131,25.3,10,1,1,34,44,0,1,53,28,1,0,1,171,48,20,70.6,Matches
-Gianluca Mancini,it ITA,DF,26-351,24.2,5,0,0,30,21,2,16,37,15,0,0,0,88,47,21,69.1,Matches
-Bryan Cristante,it ITA,MF,28-031,24.1,6,1,0,37,15,2,8,9,45,0,0,0,159,55,28,66.3,Matches
-Chris Smalling,eng ENG,DF,33-132,25.7,6,0,0,17,13,1,0,37,12,0,0,0,112,54,20,73.0,Matches
-Lorenzo Pellegrini,it ITA,MF,26-288,20.4,2,0,0,15,41,5,98,21,20,0,0,0,92,8,17,32.0,Matches
-Tammy Abraham,eng ENG,FW,25-183,19.4,1,0,0,26,39,10,6,3,7,1,0,0,35,56,51,52.3,Matches
-Paulo Dybala,ar ARG,"MF,FW",29-139,15.9,3,0,0,10,43,5,66,7,3,2,0,0,64,4,14,22.2,Matches
-Nicola Zalewski,pl POL,DF,21-070,16.0,2,0,0,14,31,1,48,19,16,0,0,0,92,3,9,25.0,Matches
-Leonardo Spinazzola,it ITA,DF,30-009,13.5,1,0,0,10,10,0,38,5,6,0,0,0,78,8,7,53.3,Matches
-Nemanja Matić,rs SRB,MF,34-245,15.8,4,0,0,16,13,1,7,19,19,0,0,0,139,11,11,50.0,Matches
-Nicolò Zaniolo,it ITA,"MF,FW",23-275,9.9,4,0,0,22,32,4,20,2,5,0,0,0,39,5,8,38.5,Matches
-Zeki Çelik,tr TUR,DF,26-045,11.3,5,0,0,17,5,1,24,13,16,0,0,0,66,9,7,56.3,Matches
-Rick Karsdorp,nl NED,DF,28-051,7.9,0,0,0,4,0,1,14,7,13,0,0,0,45,5,2,71.4,Matches
-Stephan El Shaarawy,it ITA,"DF,MF",30-158,10.3,2,0,0,14,8,6,14,13,7,0,0,0,58,9,10,47.4,Matches
-Mohamed Camara,gn GUI,MF,26-034,4.6,2,0,0,11,5,0,5,7,9,0,0,0,37,6,4,60.0,Matches
-Andrea Belotti,it ITA,FW,29-104,6.8,0,0,0,16,22,4,3,3,5,0,0,0,20,17,39,30.4,Matches
-Georginio Wijnaldum,nl NED,MF,32-143,3.8,0,0,0,3,5,1,0,0,0,0,0,0,15,8,1,88.9,Matches
-Marash Kumbulla,al ALB,DF,23-054,2.7,1,1,0,3,5,0,0,4,4,0,1,0,15,7,4,63.6,Matches
-Edoardo Bove,it ITA,MF,20-322,3.7,2,0,0,9,8,0,2,2,5,0,0,0,25,2,4,33.3,Matches
-Cristian Volpato,it ITA,MF,19-139,2.3,0,0,0,6,6,0,9,2,2,0,0,0,18,1,0,100.0,Matches
-Benjamin Tahirovic,ba BIH,MF,20-031,1.5,1,0,0,1,0,0,3,2,2,0,0,0,9,2,1,66.7,Matches
-Eldor Shomurodov,uz UZB,FW,27-278,1.3,0,0,0,1,2,2,0,1,0,0,0,0,2,2,2,50.0,Matches
-Ola Solbakken,no NOR,"MF,FW",24-208,1.2,0,0,0,1,5,0,3,1,0,0,0,0,7,3,5,37.5,Matches
-Matías Viña,uy URU,DF,25-145,0.6,0,0,0,4,1,0,2,2,1,0,0,0,5,1,0,100.0,Matches
-Diego Llorente,es ESP,DF,29-230,0.4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,Matches
-Jordan Majchrzak,pl POL,FW,18-177,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,20.0,Matches
-Squad Total,,,28.3,27.0,58,3,1,322,374,46,387,272,242,4,2,1,1424,373,289,56.3,
-Opponent Total,,,27.3,27.0,83,6,1,398,301,14,410,213,289,2,6,0,1419,289,373,43.7,
+Rui Patrício,pt POR,GK,35-050,28.0,1,0,0,1,0,0,0,2,1,0,1,0,33,1,0,100.0,Matches
+Chris Smalling,eng ENG,DF,33-135,26.7,7,0,0,18,13,1,0,37,12,0,0,0,119,57,20,74.0,Matches
+Roger Ibanez,br BRA,DF,24-134,25.3,10,1,1,34,44,0,1,53,28,1,0,1,171,48,20,70.6,Matches
+Gianluca Mancini,it ITA,DF,26-354,24.2,5,0,0,30,21,2,16,37,15,0,0,0,88,47,21,69.1,Matches
+Bryan Cristante,it ITA,MF,28-034,24.1,6,1,0,37,15,2,8,9,45,0,0,0,159,55,28,66.3,Matches
+Lorenzo Pellegrini,it ITA,MF,26-291,21.3,2,0,0,19,42,5,103,21,22,0,0,0,95,8,17,32.0,Matches
+Tammy Abraham,eng ENG,FW,25-186,20.0,2,0,0,29,42,10,6,3,7,1,0,0,38,58,51,53.2,Matches
+Paulo Dybala,ar ARG,"MF,FW",29-142,16.9,3,0,0,10,45,5,73,7,4,2,0,0,68,4,14,22.2,Matches
+Nicola Zalewski,pl POL,DF,21-073,17.0,2,0,0,14,34,1,50,21,16,0,0,0,98,3,10,23.1,Matches
+Leonardo Spinazzola,it ITA,DF,30-012,14.5,2,0,0,11,13,1,42,7,6,0,0,0,81,9,8,52.9,Matches
+Nemanja Matić,rs SRB,MF,34-248,16.8,4,0,0,16,13,1,8,21,21,0,0,0,143,14,13,51.9,Matches
+Nicolò Zaniolo,it ITA,"MF,FW",23-278,9.9,4,0,0,22,32,4,20,2,5,0,0,0,39,5,8,38.5,Matches
+Zeki Çelik,tr TUR,DF,26-048,11.3,5,0,0,17,5,1,24,13,16,0,0,0,66,9,7,56.3,Matches
+Stephan El Shaarawy,it ITA,"DF,MF",30-161,11.3,2,0,0,14,8,6,15,13,8,0,0,0,64,9,12,42.9,Matches
+Rick Karsdorp,nl NED,DF,28-054,7.9,0,0,0,4,0,1,14,7,13,0,0,0,45,5,2,71.4,Matches
+Georginio Wijnaldum,nl NED,MF,32-146,4.8,0,0,0,3,6,1,1,2,1,1,0,0,17,10,2,83.3,Matches
+Mohamed Camara,gn GUI,MF,26-037,4.6,2,0,0,11,5,0,5,7,9,0,0,0,37,6,4,60.0,Matches
+Andrea Belotti,it ITA,FW,29-107,7.2,0,0,0,16,22,5,3,3,5,0,0,0,20,17,39,30.4,Matches
+Marash Kumbulla,al ALB,DF,23-057,2.7,1,1,0,3,5,0,0,4,4,0,1,0,15,7,4,63.6,Matches
+Edoardo Bove,it ITA,MF,20-325,3.7,2,0,0,9,8,0,2,2,5,0,0,0,25,2,4,33.3,Matches
+Cristian Volpato,it ITA,MF,19-142,2.3,0,0,0,6,6,0,9,2,2,0,0,0,18,1,0,100.0,Matches
+Benjamin Tahirovic,ba BIH,MF,20-034,1.5,1,0,0,1,0,0,3,2,2,0,0,0,9,2,1,66.7,Matches
+Diego Llorente,es ESP,DF,29-233,1.4,0,0,0,2,0,0,0,2,1,0,0,0,4,4,1,80.0,Matches
+Ola Solbakken,no NOR,"MF,FW",24-211,1.4,0,0,0,1,5,0,3,1,0,0,0,0,7,3,5,37.5,Matches
+Eldor Shomurodov,uz UZB,FW,27-281,1.3,0,0,0,1,2,2,0,1,0,0,0,0,2,2,2,50.0,Matches
+Matías Viña,uy URU,DF,25-148,0.6,0,0,0,4,1,0,2,2,1,0,0,0,5,1,0,100.0,Matches
+Jordan Majchrzak,pl POL,FW,18-180,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,20.0,Matches
+Squad Total,,,28.4,28.0,61,3,1,333,387,48,408,281,249,5,2,1,1466,388,297,56.6,
+Opponent Total,,,27.4,28.0,88,7,2,411,310,15,425,215,301,2,7,0,1457,297,388,43.4,

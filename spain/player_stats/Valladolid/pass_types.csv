@@ -1,38 +1,38 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Javi Sánchez,es ESP,DF,26-020,19.7,893,854,36,28,1,18,4,3,0,0,0,0,734,3,11,Matches
-Óscar Plano,es ESP,"FW,MF",32-051,19.3,548,531,14,2,5,2,21,2,0,0,0,0,405,3,17,Matches
-Kike Pérez,es ESP,MF,26-048,17.9,901,818,73,40,4,23,46,16,16,9,6,0,679,10,27,Matches
-Jordi Masip,es ESP,GK,34-090,16.9,622,426,195,44,0,0,0,0,0,0,0,0,448,1,1,Matches
-Joaquín Fernández,es ESP,DF,26-307,16.8,705,678,25,21,0,13,0,1,0,0,0,0,581,2,9,Matches
-Gonzalo Plata,ec ECU,"FW,MF",22-153,15.7,487,450,36,2,2,0,29,24,10,9,0,1,367,1,22,Matches
-Monchu,es ESP,MF,23-202,14.4,713,614,92,56,5,15,53,0,36,6,21,1,563,7,5,Matches
-Roque Mesa,es ESP,MF,33-300,13.7,692,656,32,32,3,17,9,0,0,0,0,0,568,4,13,Matches
-Álvaro Aguado,es ESP,MF,26-337,14.4,777,714,62,36,3,29,38,3,23,1,16,0,641,1,9,Matches
-Lucas Olaza,uy URU,DF,28-256,13.6,676,493,181,26,0,2,65,136,19,1,16,0,510,2,22,Matches
-Iván Sánchez,es ESP,"MF,FW",30-192,11.5,422,408,10,2,1,10,25,2,2,1,0,0,340,4,12,Matches
-Sergio León,es ESP,FW,34-087,11.6,162,137,22,0,0,5,6,2,0,0,0,0,107,3,6,Matches
-Sergio Escudero,es ESP,DF,33-213,10.6,486,363,119,15,0,4,32,92,12,0,11,0,353,4,13,Matches
-Jawad El Yamiq,ma MAR,DF,31-033,10.7,535,500,35,26,1,5,0,2,0,0,0,0,444,0,6,Matches
-Iván Fresneda,es ESP,DF,18-187,11.2,589,466,121,15,1,0,36,106,0,0,0,0,461,2,19,Matches
-Luis Pérez,es ESP,DF,28-058,9.8,440,346,90,9,1,1,35,81,0,0,0,0,337,4,15,Matches
-Sergio Asenjo,es ESP,GK,33-279,9.0,315,204,110,23,0,2,0,0,0,0,0,0,206,1,1,Matches
-Sergi Guardiola,es ESP,FW,31-309,5.6,117,108,8,0,0,0,3,0,0,0,0,0,74,1,6,Matches
-Lucas Oliveira Rosa,br BRA,DF,23-000,6.4,246,184,62,3,1,0,14,59,0,0,0,0,177,0,9,Matches
-Shon Weissman,il ISR,FW,27-048,8.3,91,74,17,0,0,0,2,0,0,0,0,0,70,0,2,Matches
-Cyle Larin,ca CAN,FW,27-351,5.7,76,74,2,0,1,1,1,0,0,0,0,0,49,0,8,Matches
-Martin Hongla,cm CMR,"DF,MF",25-018,5.4,209,202,3,3,0,5,2,0,0,0,0,0,157,4,3,Matches
-Zouhair Feddal,ma MAR,DF,34-092,4.2,201,187,13,11,0,5,1,0,0,0,0,0,159,1,1,Matches
-Darwin Machís,ve VEN,FW,30-055,4.1,127,118,7,2,0,4,25,4,1,1,0,0,89,2,5,Matches
-Anuar,ma MAR,"MF,FW",28-078,2.3,40,39,1,0,0,0,1,1,0,0,0,0,30,0,4,Matches
-Juanjo Narváez,co COL,"MF,FW",28-050,1.6,36,35,0,0,0,0,1,0,0,0,0,0,25,1,2,Matches
-David Torres,es ESP,DF,20-029,1.1,78,71,6,1,0,0,1,5,0,0,0,0,59,1,4,Matches
-Toni Villa,es ESP,MF,28-086,1.0,32,31,1,0,0,0,5,0,1,1,0,0,20,0,2,Matches
-Kenedy,br BRA,"FW,MF",27-054,0.9,25,24,0,0,0,0,2,0,0,0,0,0,15,1,0,Matches
-Mickael Malsa,mq MTQ,MF,27-173,0.8,20,20,0,0,0,0,0,0,0,0,0,0,13,0,1,Matches
-Selim Amallah,ma MAR,MF,26-139,0.6,24,23,1,0,0,0,0,1,0,0,0,0,18,0,0,Matches
-Sékou Gassama,sn SEN,FW,27-332,0.4,9,7,2,0,0,0,0,0,0,0,0,0,7,0,0,Matches
-Manuel Pozo,es ESP,FW,21-112,0.2,8,7,1,0,0,0,1,1,0,0,0,0,6,0,0,Matches
-Roberto Arroyo,es ESP,MF,19-221,0.2,5,5,0,0,0,1,1,0,0,0,0,0,0,0,2,Matches
-Álvaro Aceves,es ESP,GK,19-251,0.1,8,7,1,0,0,0,0,0,0,0,0,0,7,0,0,Matches
-Squad Total,,,28.5,26.0,11315,9874,1378,397,29,162,459,541,120,29,70,2,8719,63,257,
-Opponent Total,,,28.1,26.0,12119,10726,1356,332,43,100,530,603,159,69,52,2,9499,37,239,
+Javi Sánchez,es ESP,DF,26-023,19.7,893,854,36,28,1,18,4,3,0,0,0,0,734,3,11,Matches
+Óscar Plano,es ESP,"FW,MF",32-054,19.8,565,547,15,3,5,2,21,2,0,0,0,0,417,3,18,Matches
+Kike Pérez,es ESP,MF,26-051,18.4,916,830,75,41,4,23,46,17,16,9,6,0,692,11,27,Matches
+Joaquín Fernández,es ESP,DF,26-310,17.8,735,705,28,23,0,13,0,1,0,0,0,0,608,2,9,Matches
+Jordi Masip,es ESP,GK,34-093,16.9,622,426,195,44,0,0,0,0,0,0,0,0,448,1,1,Matches
+Gonzalo Plata,ec ECU,"FW,MF",22-156,16.5,514,475,38,2,2,0,31,24,11,10,0,1,390,1,23,Matches
+Monchu,es ESP,MF,23-205,15.4,746,644,95,59,5,16,53,0,36,6,21,1,592,7,5,Matches
+Roque Mesa,es ESP,MF,33-303,14.2,706,670,32,32,3,17,9,0,0,0,0,0,582,4,13,Matches
+Álvaro Aguado,es ESP,MF,26-340,14.9,803,737,64,38,3,30,38,3,23,1,16,0,660,2,9,Matches
+Lucas Olaza,uy URU,DF,28-259,13.6,676,493,181,26,0,2,65,136,19,1,16,0,510,2,22,Matches
+Sergio León,es ESP,FW,34-090,12.6,176,145,28,0,0,5,8,2,0,0,0,0,117,3,6,Matches
+Iván Sánchez,es ESP,"MF,FW",30-195,11.5,422,408,10,2,1,10,25,2,2,1,0,0,340,4,12,Matches
+Jawad El Yamiq,ma MAR,DF,31-036,11.7,566,531,35,26,1,5,0,2,0,0,0,0,472,0,6,Matches
+Sergio Escudero,es ESP,DF,33-216,10.6,486,363,119,15,0,4,32,92,12,0,11,0,353,4,13,Matches
+Iván Fresneda,es ESP,DF,18-190,12.2,630,502,126,17,1,0,38,109,0,0,0,0,492,2,20,Matches
+Luis Pérez,es ESP,DF,28-061,10.3,463,364,95,9,1,1,39,86,0,0,0,0,354,4,16,Matches
+Sergio Asenjo,es ESP,GK,33-282,10.0,353,234,118,26,0,2,0,0,0,0,0,0,233,1,1,Matches
+Lucas Oliveira Rosa,br BRA,DF,23-003,7.1,277,209,68,4,1,0,18,64,0,0,0,0,200,0,9,Matches
+Sergi Guardiola,es ESP,FW,31-312,5.6,117,108,8,0,0,0,3,0,0,0,0,0,74,1,6,Matches
+Shon Weissman,il ISR,FW,27-051,8.3,91,74,17,0,0,0,2,0,0,0,0,0,70,0,2,Matches
+Martin Hongla,cm CMR,"MF,DF",25-021,5.9,246,239,3,3,0,5,2,0,0,0,0,0,187,4,4,Matches
+Cyle Larin,ca CAN,FW,27-354,5.7,76,74,2,0,1,1,1,0,0,0,0,0,49,0,8,Matches
+Zouhair Feddal,ma MAR,DF,34-095,4.2,201,187,13,11,0,5,1,0,0,0,0,0,159,1,1,Matches
+Darwin Machís,ve VEN,FW,30-058,4.1,127,118,7,2,0,4,25,4,1,1,0,0,89,2,5,Matches
+Anuar,ma MAR,"MF,FW",28-081,2.3,40,39,1,0,0,0,1,1,0,0,0,0,30,0,4,Matches
+Juanjo Narváez,co COL,"MF,FW",28-053,1.6,36,35,0,0,0,0,1,0,0,0,0,0,25,1,2,Matches
+David Torres,es ESP,DF,20-032,1.5,89,82,6,1,0,0,1,5,0,0,0,0,67,1,4,Matches
+Toni Villa,es ESP,MF,28-089,1.0,32,31,1,0,0,0,5,0,1,1,0,0,20,0,2,Matches
+Kenedy,br BRA,"FW,MF",27-057,0.9,25,24,0,0,0,0,2,0,0,0,0,0,15,1,0,Matches
+Selim Amallah,ma MAR,"MF,FW",26-142,0.8,35,34,1,0,0,0,0,1,0,0,0,0,26,0,0,Matches
+Mickael Malsa,mq MTQ,MF,27-176,0.8,20,20,0,0,0,0,0,0,0,0,0,0,13,0,1,Matches
+Sékou Gassama,sn SEN,FW,27-335,0.4,9,7,2,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Manuel Pozo,es ESP,FW,21-115,0.2,8,7,1,0,0,0,1,1,0,0,0,0,6,0,0,Matches
+Roberto Arroyo,es ESP,MF,19-224,0.2,5,5,0,0,0,1,1,0,0,0,0,0,0,0,2,Matches
+Álvaro Aceves,es ESP,GK,19-254,0.1,8,7,1,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+Squad Total,,,28.5,27.0,11714,10228,1421,412,29,164,473,555,121,30,70,2,9038,65,262,
+Opponent Total,,,28.1,27.0,12712,11259,1416,345,43,104,546,630,168,71,52,2,10010,37,255,

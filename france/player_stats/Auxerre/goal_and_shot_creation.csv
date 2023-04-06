@@ -1,33 +1,33 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Birama Touré,ml MLI,MF,30-301,28.8,24,0.83,20,1,0,0,1,2,1,0.03,1,0,0,0,0,0,Matches
-Jubal,br BRA,DF,29-217,26.7,12,0.45,9,1,0,1,1,0,2,0.07,1,0,0,0,1,0,Matches
-Gideon Mensah,gh GHA,DF,24-259,19.1,34,1.78,28,3,0,1,1,1,0,0.0,0,0,0,0,0,0,Matches
-Benoît Costil,fr FRA,GK,35-274,19.0,4,0.21,2,2,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Rayan Raveloson,mg MAD,"DF,MF",26-077,18.2,25,1.37,22,0,1,2,0,0,1,0.05,1,0,0,0,0,0,Matches
-Hamza Sakhi,ma MAR,MF,26-300,17.7,64,3.63,50,8,1,3,2,0,3,0.17,3,0,0,0,0,0,Matches
-Mathias Autret,fr FRA,"MF,FW",32-033,14.0,52,3.72,33,12,3,3,0,1,7,0.5,3,2,0,2,0,0,Matches
-Julian Jeanvier,gn GUI,DF,31-003,14.5,8,0.55,5,1,1,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Nuno da Costa,cv CPV,"FW,MF",32-052,15.2,37,2.43,24,0,6,4,3,0,4,0.26,3,0,1,0,0,0,Matches
-Lassine Sinayoko,ml MLI,"MF,FW",23-116,14.4,42,2.92,30,0,3,5,4,0,5,0.35,3,0,0,0,2,0,Matches
-Gauthier Hein,fr FRA,"MF,FW",26-239,13.4,43,3.21,29,8,3,1,1,1,0,0.0,0,0,0,0,0,0,Matches
-M'Baye Niang,sn SEN,FW,28-105,13.3,14,1.06,9,0,0,3,2,0,0,0.0,0,0,0,0,0,0,Matches
-Gaëtan Perrin,fr FRA,"MF,FW",26-300,12.7,43,3.38,26,5,8,1,2,1,3,0.24,2,1,0,0,0,0,Matches
-Akim Zedadka,dz ALG,DF,27-308,11.2,15,1.34,10,2,2,0,0,1,0,0.0,0,0,0,0,0,0,Matches
-Souleymane Touré,fr FRA,DF,20-006,10.8,13,1.2,11,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Ionuț Radu,ro ROU,GK,25-310,10.0,1,0.1,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Paul Joly,fr FRA,DF,22-300,9.6,18,1.87,14,0,2,1,1,0,3,0.31,1,0,1,0,1,0,Matches
-Han-Noah Massengo,fr FRA,MF,21-270,7.9,18,2.29,14,0,1,1,1,1,1,0.13,0,0,0,0,1,0,Matches
-Matthis Abline,fr FRA,FW,20-006,7.2,12,1.68,7,0,4,0,1,0,3,0.42,1,0,1,0,1,0,Matches
-Quentin Bernard,fr FRA,DF,33-270,7.0,11,1.57,10,1,0,0,0,0,1,0.14,1,0,0,0,0,0,Matches
-Youssouf M'Changama,km COM,MF,32-217,7.2,24,3.34,15,5,0,0,4,0,1,0.14,1,0,0,0,0,0,Matches
-Alexandre Coeff,fr FRA,DF,31-042,6.5,3,0.46,2,0,0,1,0,0,1,0.15,0,0,0,1,0,0,Matches
-Siriki Dembélé,ci CIV,MF,26-208,3.2,9,2.81,6,0,3,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Gaëtan Charbonnier,fr FRA,"FW,MF",34-097,2.8,9,3.19,8,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Brayann Pereira,fr FRA,DF,19-317,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Dénys Bain,fr FRA,DF,29-275,1.4,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Kenji-Van Boto,mg MAD,DF,27-027,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Kays Ruiz,ma MAR,MF,20-220,0.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Rémy Dugimont,fr FRA,"FW,MF",36-276,1.2,5,4.13,4,0,0,0,1,0,1,0.83,1,0,0,0,0,0,Matches
-Ousmane Camara,gn GUI,"FW,MF",21-151,0.3,2,7.2,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Birama Touré,ml MLI,MF,30-304,28.8,24,0.83,20,1,0,0,1,2,1,0.03,1,0,0,0,0,0,Matches
+Jubal,br BRA,DF,29-220,26.7,12,0.45,9,1,0,1,1,0,2,0.07,1,0,0,0,1,0,Matches
+Gideon Mensah,gh GHA,DF,24-262,19.1,34,1.78,28,3,0,1,1,1,0,0.0,0,0,0,0,0,0,Matches
+Benoît Costil,fr FRA,GK,35-277,19.0,4,0.21,2,2,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Rayan Raveloson,mg MAD,"DF,MF",26-080,18.2,25,1.37,22,0,1,2,0,0,1,0.05,1,0,0,0,0,0,Matches
+Hamza Sakhi,ma MAR,MF,26-303,17.7,64,3.63,50,8,1,3,2,0,3,0.17,3,0,0,0,0,0,Matches
+Mathias Autret,fr FRA,"MF,FW",32-036,14.0,52,3.72,33,12,3,3,0,1,7,0.5,3,2,0,2,0,0,Matches
+Julian Jeanvier,gn GUI,DF,31-006,14.5,8,0.55,5,1,1,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Nuno da Costa,cv CPV,"FW,MF",32-055,15.2,37,2.43,24,0,6,4,3,0,4,0.26,3,0,1,0,0,0,Matches
+Lassine Sinayoko,ml MLI,"MF,FW",23-119,14.4,42,2.92,30,0,3,5,4,0,5,0.35,3,0,0,0,2,0,Matches
+Gauthier Hein,fr FRA,"MF,FW",26-242,13.4,43,3.21,29,8,3,1,1,1,0,0.0,0,0,0,0,0,0,Matches
+M'Baye Niang,sn SEN,FW,28-108,13.3,14,1.06,9,0,0,3,2,0,0,0.0,0,0,0,0,0,0,Matches
+Gaëtan Perrin,fr FRA,"MF,FW",26-303,12.7,43,3.38,26,5,8,1,2,1,3,0.24,2,1,0,0,0,0,Matches
+Akim Zedadka,dz ALG,DF,27-311,11.2,15,1.34,10,2,2,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Souleymane Touré,fr FRA,DF,20-009,10.8,13,1.2,11,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ionuț Radu,ro ROU,GK,25-313,10.0,1,0.1,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Paul Joly,fr FRA,DF,22-303,9.6,18,1.87,14,0,2,1,1,0,3,0.31,1,0,1,0,1,0,Matches
+Han-Noah Massengo,fr FRA,MF,21-273,7.9,18,2.29,14,0,1,1,1,1,1,0.13,0,0,0,0,1,0,Matches
+Matthis Abline,fr FRA,FW,20-009,7.2,12,1.68,7,0,4,0,1,0,3,0.42,1,0,1,0,1,0,Matches
+Quentin Bernard,fr FRA,DF,33-273,7.0,11,1.57,10,1,0,0,0,0,1,0.14,1,0,0,0,0,0,Matches
+Youssouf M'Changama,km COM,MF,32-220,7.2,24,3.34,15,5,0,0,4,0,1,0.14,1,0,0,0,0,0,Matches
+Alexandre Coeff,fr FRA,DF,31-045,6.5,3,0.46,2,0,0,1,0,0,1,0.15,0,0,0,1,0,0,Matches
+Siriki Dembélé,ci CIV,MF,26-211,3.2,9,2.81,6,0,3,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Gaëtan Charbonnier,fr FRA,"FW,MF",34-100,2.8,9,3.19,8,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Brayann Pereira,fr FRA,DF,19-320,2.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Dénys Bain,fr FRA,DF,29-278,1.4,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Kenji-Van Boto,mg MAD,DF,27-030,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Kays Ruiz,ma MAR,MF,20-223,0.7,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Rémy Dugimont,fr FRA,"FW,MF",36-279,1.2,5,4.13,4,0,0,0,1,0,1,0.83,1,0,0,0,0,0,Matches
+Ousmane Camara,gn GUI,"FW,MF",21-154,0.3,2,7.2,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
 Squad Total,,,28.2,29.0,542,18.69,390,49,39,29,27,8,37,1.28,22,3,3,3,6,0,
 Opponent Total,,,26.8,29.0,591,20.38,424,54,36,30,32,15,86,2.97,68,4,5,5,3,1,

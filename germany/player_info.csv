@@ -147,7 +147,7 @@ Manuel Gulde,€1.70m,Centre-Back,"Feb 12, 1991 (32)",Germany,"1,84m",right,"Jul
 Kenneth Schmidt,€750k,Centre-Back,"Jun 3, 2002 (20)",Germany,"1,87m",left,"Jan 1, 2023",-
 Christian Günter,€10.00m,Left-Back,"Feb 28, 1993 (30)",Germany,"1,84m",left,"Jul 1, 2012",-
 Kimberly Ezekwem,€350k,Left-Back,"Jun 19, 2001 (21)",Germany,"1,87m",left,"Jul 1, 2021",-
-Kiliann Sildillia,€12.00m,Right-Back,"May 16, 2002 (20)",France,"1,86m",right,"Jul 1, 2021","Jun 30, 2024"
+Kiliann Sildillia,€12.00m,Right-Back,"May 16, 2002 (20)",France,"1,86m",right,"Jul 1, 2021","Jun 30, 2026"
 Lukas Kübler,€3.00m,Right-Back,"Aug 30, 1992 (30)",Germany,"1,82m",right,"Jul 1, 2015",-
 Jonathan Schmid,€1.20m,Right-Back,"Jun 22, 1990 (32)",France,"1,79m",right,"Jul 1, 2019",-
 Yannik Keitel,€4.00m,Defensive Midfield,"Feb 15, 2000 (23)",Germany,"1,86m",both,"Apr 16, 2020","Jun 30, 2024"
@@ -210,7 +210,7 @@ Ermin Bicakcic,€1.00m,Centre-Back,"Jan 24, 1990 (33)",Bosnia-Herzegovina,"1,85
 Angeliño,€14.00m,Left-Back,"Jan 4, 1997 (26)",Spain,"1,71m",left,"Aug 8, 2022","Jun 30, 2023"
 Pavel Kaderabek,€4.00m,Right-Back,"Apr 25, 1992 (30)",Czech Republic,"1,82m",right,"Jul 1, 2015","Jun 30, 2025"
 Justin Che,€2.00m,Right-Back,"Nov 18, 2003 (19)",United States,"1,85m",right,"Jan 18, 2023","Jun 30, 2023"
-Angelo Stiller,€6.00m,Defensive Midfield,"Apr 4, 2001 (21)",Germany,"1,83m",left,"Jul 1, 2021","Jun 30, 2025"
+Angelo Stiller,€6.00m,Defensive Midfield,"Apr 4, 2001 (22)",Germany,"1,83m",left,"Jul 1, 2021","Jun 30, 2025"
 Sebastian Rudy,€1.50m,Defensive Midfield,"Feb 28, 1990 (33)",Germany,"1,80m",right,"Jul 1, 2021","Jun 30, 2023"
 Dennis Geiger,€9.00m,Central Midfield,"Jun 10, 1998 (24)",Germany,"1,73m",right,"Jul 1, 2016","Jun 30, 2023"
 Grischa Prömel,€7.50m,Central Midfield,"Jan 9, 1995 (28)",Germany,"1,84m",right,"Jul 1, 2022","Jun 30, 2026"
@@ -298,7 +298,7 @@ Koen Casteels,€8.00m,Goalkeeper,"Jun 25, 1992 (30)",Belgium,"1,97m",left,"Jan 
 Pavao Pervan,€400k,Goalkeeper,"Nov 13, 1987 (35)",Austria,"1,94m",both,"Jul 1, 2018","Jun 30, 2024"
 Philipp Schulze,€200k,Goalkeeper,"Jan 29, 2003 (20)",Germany,"1,90m",,"Jul 1, 2021","Jun 30, 2023"
 Niklas Klinger,€100k,Goalkeeper,"Oct 13, 1995 (27)",Germany,"1,87m",right,"Jul 1, 2019","Jun 30, 2023"
-Maxence Lacroix,€20.00m,Centre-Back,"Apr 6, 2000 (22)",France,"1,90m",right,"Aug 25, 2020","Jun 30, 2025"
+Maxence Lacroix,€20.00m,Centre-Back,"Apr 6, 2000 (23)",France,"1,90m",right,"Aug 25, 2020","Jun 30, 2025"
 Micky van de Ven,€18.00m,Centre-Back,"Apr 19, 2001 (21)",Netherlands,"1,93m",left,"Aug 31, 2021","Jun 30, 2027"
 Sebastiaan Bornauw,€8.50m,Centre-Back,"Mar 22, 1999 (24)",Belgium,"1,91m",right,"Jul 16, 2021","Jun 30, 2026"
 Paulo Otávio,€6.50m,Left-Back,"Nov 23, 1994 (28)",Brazil,"1,73m",left,"Jul 1, 2019","Jun 30, 2023"
@@ -469,7 +469,7 @@ Maxim Leitsch,€3.50m,Centre-Back,"May 18, 1998 (24)",Germany,"1,89m",left,"Jul
 Andreas Hanche-Olsen,€3.50m,Centre-Back,"Jan 17, 1997 (26)",Norway,"1,85m",right,"Jan 13, 2023","Jun 30, 2026"
 Stefan Bell,€2.50m,Centre-Back,"Aug 24, 1991 (31)",Germany,"1,92m",right,"Jul 1, 2010","Jun 30, 2024"
 Alexander Hack,€2.50m,Centre-Back,"Sep 8, 1993 (29)",Germany,"1,93m",left,"Nov 30, 2015","Jun 30, 2024"
-Philipp Schulz,€300k,Centre-Back,"May 25, 2005 (17)",Germany,"1,85m",right,"Jul 1, 2022","Jun 30, 2025"
+Philipp Schulz,€300k,Centre-Back,"May 25, 2005 (17)",Germany,"1,92m",right,"Jul 1, 2022","Jun 30, 2025"
 Anthony Caci,€8.50m,Left-Back,"Jul 1, 1997 (25)",France,"1,84m",right,"Jul 1, 2022","Jun 30, 2026"
 Aarón Martín,€7.00m,Left-Back,"Apr 22, 1997 (25)",Spain,"1,80m",left,"Jul 1, 2019","Jun 30, 2023"
 Silvan Widmer,€5.00m,Right-Back,"Mar 5, 1993 (30)",Switzerland,"1,83m",right,"Jul 9, 2021","Jun 30, 2024"

@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Lukáš Hrádecký,fi FIN,GK,33-129,25.0,0,1,0,1,0,0,0,0,0,0,0,0,26,7,0,100.0,Matches
-Edmond Tapsoba,bf BFA,DF,24-059,24.9,3,0,0,23,13,1,2,29,23,0,2,1,218,40,35,53.3,Matches
-Moussa Diaby,fr FRA,"FW,MF",23-269,22.7,2,0,0,13,15,8,75,4,7,1,0,0,67,2,15,11.8,Matches
-Jeremie Frimpong,nl NED,"DF,MF",22-113,22.3,4,0,0,17,54,5,50,12,21,0,0,0,90,10,18,35.7,Matches
-Robert Andrich,de GER,MF,28-192,21.7,6,0,0,31,13,0,4,29,30,0,0,1,120,41,37,52.6,Matches
-Jonathan Tah,de GER,DF,27-050,20.6,6,0,0,13,3,2,3,26,10,0,0,0,119,44,34,56.4,Matches
-Piero Hincapié,ec ECU,DF,21-083,20.5,10,2,2,30,30,1,17,24,25,0,2,0,136,43,37,53.8,Matches
-Exequiel Palacios,ar ARG,MF,24-179,14.0,2,0,0,16,28,1,4,29,27,0,0,0,132,12,9,57.1,Matches
-Kerem Demirbay,de GER,MF,29-273,13.2,3,0,0,23,17,0,74,13,14,0,0,0,77,8,10,44.4,Matches
-Mitchel Bakker,nl NED,"DF,MF",22-286,12.9,4,1,1,14,11,0,18,10,7,0,0,0,85,9,9,50.0,Matches
-Odilon Kossonou,ci CIV,DF,22-088,12.9,1,0,0,10,3,1,4,15,9,0,0,0,93,25,14,64.1,Matches
-Adam Hložek,cz CZE,"FW,MF",20-251,11.4,2,0,0,17,18,1,15,5,3,0,0,0,29,19,34,35.8,Matches
-Amine Adli,fr FRA,"FW,MF",22-327,11.0,1,1,0,31,34,4,14,5,9,2,1,0,39,20,35,36.4,Matches
-Patrik Schick,cz CZE,FW,27-068,10.5,0,0,0,5,16,0,4,1,0,0,0,0,18,30,38,44.1,Matches
-Callum Hudson-Odoi,eng ENG,"FW,MF",22-146,6.7,0,0,0,2,20,2,12,2,3,0,0,0,26,0,5,0.0,Matches
-Nadiem Amiri,de GER,"MF,FW",26-157,8.0,3,0,0,11,20,3,11,4,3,0,0,0,49,1,10,9.1,Matches
-Florian Wirtz,de GER,"FW,MF",19-334,6.8,1,0,0,6,15,1,18,1,7,0,0,0,40,2,7,22.2,Matches
-Sardar Azmoun,ir IRN,"FW,MF",28-091,6.5,1,0,0,12,1,6,0,1,3,1,0,0,26,12,31,27.9,Matches
-Charles Aránguiz,cl CHI,MF,33-350,5.5,1,0,0,7,10,0,12,7,7,0,0,0,33,2,7,22.2,Matches
-Daley Sinkgraven,nl NED,"DF,MF",27-272,3.7,1,0,0,6,4,0,3,5,7,0,0,0,15,2,5,28.6,Matches
-Timothy Fosu-Mensah,nl NED,DF,25-090,2.0,1,0,0,3,1,1,4,0,5,0,1,0,12,2,2,50.0,Matches
-Andrey Lunyov,ru RUS,GK,31-140,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-Karim Bellarabi,de GER,FW,32-359,0.9,0,0,0,2,0,2,5,0,0,0,0,0,4,0,0,,Matches
-Paulinho,br BRA,FW,22-261,0.9,0,0,0,0,1,0,0,0,0,0,0,0,5,1,4,20.0,Matches
-Joel Pohjanpalo,fi FIN,"FW,MF",28-201,0.0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0.0,Matches
-Ayman Azhil,ma MAR,MF,21-357,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Lukáš Hrádecký,fi FIN,GK,33-133,25.0,0,1,0,1,0,0,0,0,0,0,0,0,26,7,0,100.0,Matches
+Edmond Tapsoba,bf BFA,DF,24-063,24.9,3,0,0,23,13,1,2,29,23,0,2,1,218,40,35,53.3,Matches
+Moussa Diaby,fr FRA,"FW,MF",23-273,22.7,2,0,0,13,15,8,75,4,7,1,0,0,67,2,15,11.8,Matches
+Jeremie Frimpong,nl NED,"DF,MF",22-117,22.3,4,0,0,17,54,5,50,12,21,0,0,0,90,10,18,35.7,Matches
+Robert Andrich,de GER,MF,28-196,21.7,6,0,0,31,13,0,4,29,30,0,0,1,120,41,37,52.6,Matches
+Jonathan Tah,de GER,DF,27-054,20.6,6,0,0,13,3,2,3,26,10,0,0,0,119,44,34,56.4,Matches
+Piero Hincapié,ec ECU,DF,21-087,20.5,10,2,2,30,30,1,17,24,25,0,2,0,136,43,37,53.8,Matches
+Exequiel Palacios,ar ARG,MF,24-183,14.0,2,0,0,16,28,1,4,29,27,0,0,0,132,12,9,57.1,Matches
+Kerem Demirbay,de GER,MF,29-277,13.2,3,0,0,23,17,0,74,13,14,0,0,0,77,8,10,44.4,Matches
+Mitchel Bakker,nl NED,"DF,MF",22-290,12.9,4,1,1,14,11,0,18,10,7,0,0,0,85,9,9,50.0,Matches
+Odilon Kossonou,ci CIV,DF,22-092,12.9,1,0,0,10,3,1,4,15,9,0,0,0,93,25,14,64.1,Matches
+Adam Hložek,cz CZE,"FW,MF",20-255,11.4,2,0,0,17,18,1,15,5,3,0,0,0,29,19,34,35.8,Matches
+Amine Adli,fr FRA,"FW,MF",22-331,11.0,1,1,0,31,34,4,14,5,9,2,1,0,39,20,35,36.4,Matches
+Patrik Schick,cz CZE,FW,27-072,10.5,0,0,0,5,16,0,4,1,0,0,0,0,18,30,38,44.1,Matches
+Callum Hudson-Odoi,eng ENG,"FW,MF",22-150,6.7,0,0,0,2,20,2,12,2,3,0,0,0,26,0,5,0.0,Matches
+Nadiem Amiri,de GER,"MF,FW",26-161,8.0,3,0,0,11,20,3,11,4,3,0,0,0,49,1,10,9.1,Matches
+Florian Wirtz,de GER,"FW,MF",19-338,6.8,1,0,0,6,15,1,18,1,7,0,0,0,40,2,7,22.2,Matches
+Sardar Azmoun,ir IRN,"FW,MF",28-095,6.5,1,0,0,12,1,6,0,1,3,1,0,0,26,12,31,27.9,Matches
+Charles Aránguiz,cl CHI,MF,33-354,5.5,1,0,0,7,10,0,12,7,7,0,0,0,33,2,7,22.2,Matches
+Daley Sinkgraven,nl NED,"DF,MF",27-276,3.7,1,0,0,6,4,0,3,5,7,0,0,0,15,2,5,28.6,Matches
+Timothy Fosu-Mensah,nl NED,DF,25-094,2.0,1,0,0,3,1,1,4,0,5,0,1,0,12,2,2,50.0,Matches
+Andrey Lunyov,ru RUS,GK,31-144,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+Karim Bellarabi,de GER,FW,32-363,0.9,0,0,0,2,0,2,5,0,0,0,0,0,4,0,0,,Matches
+Paulinho,br BRA,FW,22-265,0.9,0,0,0,0,1,0,0,0,0,0,0,0,5,1,4,20.0,Matches
+Joel Pohjanpalo,fi FIN,"FW,MF",28-205,0.0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0.0,Matches
+Ayman Azhil,ma MAR,MF,21-361,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
 Squad Total,,,25.5,26.0,52,5,3,293,327,40,349,222,220,4,6,2,1461,332,397,45.5,
 Opponent Total,,,27.2,26.0,67,0,0,345,273,55,397,251,253,5,5,0,1445,397,332,54.5,
