@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Oliver Christensen,dk DEN,GK,23-362,25.0,929,662,262,92,0,3,0,0,0,0,0,0,610,5,0,Matches
-Lucas Tousart,fr FRA,MF,25-324,23.7,674,659,12,9,1,3,23,2,0,0,0,0,411,3,30,Matches
-Marc-Oliver Kempf,de GER,DF,28-050,23.3,1038,979,56,56,0,15,2,0,0,0,0,0,804,3,13,Matches
-Suat Serdar,de GER,MF,25-342,18.7,521,492,27,7,1,6,5,0,3,1,2,0,360,2,22,Matches
-Marvin Plattenhardt,de GER,DF,31-052,19.3,922,625,294,63,0,7,127,183,48,17,25,0,601,3,17,Matches
-Dodi Lukebakio,be BEL,"FW,MF",25-176,19.1,448,412,35,8,4,4,52,0,20,11,5,0,296,1,13,Matches
-Jonjoe Kenny,eng ENG,DF,26-004,18.3,928,745,177,6,0,2,42,170,1,0,0,0,679,6,26,Matches
-Marco Richter,de GER,"FW,MF",25-115,14.8,546,457,85,11,0,6,53,59,15,2,12,0,337,4,28,Matches
-Filip Uremović,hr CRO,DF,26-036,14.4,545,504,39,23,0,1,1,16,0,0,0,0,429,2,3,Matches
-Wilfried Kanga,ci CIV,FW,25-026,13.3,215,205,9,0,1,0,6,0,0,0,0,0,133,1,5,Matches
-Agustín Rogel,uy URU,DF,25-153,12.3,471,440,29,27,0,5,0,2,0,0,0,0,361,2,6,Matches
-Ivan Šunjić,hr CRO,MF,26-161,11.0,361,350,11,4,2,3,1,0,0,0,0,0,270,0,11,Matches
-Chidera Ejuke,ng NGA,"FW,MF",25-076,8.8,265,258,5,0,3,2,11,4,1,0,0,0,210,2,5,Matches
-Jean-Paul Boëtius,nl NED,MF,28-362,9.5,340,313,23,16,4,6,4,0,0,0,0,0,248,4,4,Matches
-Florian Niederlechner,de GER,FW,32-146,5.3,79,76,3,0,0,1,4,0,0,0,0,0,54,0,3,Matches
-Tolga Ciğerci,tr TUR,MF,30-361,5.3,284,252,29,16,0,0,13,0,6,0,5,0,219,3,3,Matches
-Maximilian Mittelstädt,de GER,DF,26-001,7.1,401,284,115,4,1,4,31,100,11,2,8,0,273,2,10,Matches
-Jessic Ngankam,de GER,"FW,MF",22-242,5.6,66,64,2,1,0,1,2,0,0,0,0,0,40,0,4,Matches
-Stevan Jovetić,me MNE,"FW,MF",33-137,5.7,197,186,11,3,2,1,2,1,0,0,0,0,123,0,8,Matches
-Márton Dárdai,de GER,DF,21-035,4.9,187,179,8,7,1,3,0,1,0,0,0,0,114,0,3,Matches
-Davie Selke,de GER,FW,28-058,3.1,68,67,1,0,0,0,2,0,0,0,0,0,41,0,6,Matches
-Derry Scherhant,de GER,FW,20-129,2.1,26,25,1,0,0,0,2,1,0,0,0,0,18,0,0,Matches
-Kevin-Prince Boateng,gh GHA,MF,36-013,1.9,119,104,14,3,1,0,6,7,0,0,0,0,89,1,0,Matches
-Myziane Maolida,fr FRA,"FW,MF",24-033,1.1,15,14,0,0,0,0,1,0,0,0,0,0,8,1,0,Matches
-Peter Pekarík,sk SVK,DF,36-140,1.0,38,31,7,0,0,0,3,7,0,0,0,0,28,0,0,Matches
-Vladimír Darida,cz CZE,MF,32-223,0.3,12,10,2,1,0,0,0,0,1,0,0,0,8,0,0,Matches
-Squad Total,,,26.6,25.0,9695,8393,1257,357,21,73,393,553,106,33,57,0,6764,45,220,
-Opponent Total,,,27.3,25.0,13019,11556,1403,334,37,84,450,668,139,60,57,1,9894,60,258,
+Oliver Christensen,dk DEN,GK,24-012,26.0,979,700,274,95,0,3,0,0,0,0,0,0,647,5,0,Matches
+Lucas Tousart,fr FRA,MF,25-339,24.7,700,684,12,9,1,3,23,2,0,0,0,0,426,4,31,Matches
+Marc-Oliver Kempf,de GER,DF,28-065,24.3,1088,1028,57,57,0,15,2,0,0,0,0,0,846,3,13,Matches
+Marvin Plattenhardt,de GER,DF,31-067,20.3,960,650,307,65,0,8,132,193,49,17,26,0,622,3,20,Matches
+Suat Serdar,de GER,MF,25-357,19.0,527,498,27,7,1,6,5,0,3,1,2,0,364,2,22,Matches
+Dodi Lukebakio,be BEL,"FW,MF",25-191,20.1,472,436,35,8,4,4,52,0,20,11,5,0,313,1,14,Matches
+Jonjoe Kenny,eng ENG,DF,26-019,19.3,965,774,185,6,0,2,47,178,1,0,0,0,703,6,28,Matches
+Filip Uremović,hr CRO,DF,26-051,15.2,571,530,39,23,0,1,1,16,0,0,0,0,451,2,3,Matches
+Marco Richter,de GER,"FW,MF",25-130,14.8,546,457,85,11,0,6,53,59,15,2,12,0,337,4,28,Matches
+Wilfried Kanga,ci CIV,FW,25-041,14.2,228,218,9,0,1,0,7,0,0,0,0,0,143,1,5,Matches
+Agustín Rogel,uy URU,DF,25-168,12.3,472,441,29,27,0,5,0,2,0,0,0,0,361,2,6,Matches
+Ivan Šunjić,hr CRO,MF,26-176,11.0,361,350,11,4,2,3,1,0,0,0,0,0,270,0,11,Matches
+Chidera Ejuke,ng NGA,"FW,MF",25-091,8.8,265,258,5,0,3,2,11,4,1,0,0,0,210,2,5,Matches
+Jean-Paul Boëtius,nl NED,MF,29-012,9.5,340,313,23,16,4,6,4,0,0,0,0,0,248,4,4,Matches
+Tolga Ciğerci,tr TUR,MF,31-011,6.0,336,302,31,17,0,0,15,0,7,0,6,0,268,3,3,Matches
+Florian Niederlechner,de GER,FW,32-161,5.5,83,80,3,0,0,1,4,0,0,0,0,0,56,0,3,Matches
+Maximilian Mittelstädt,de GER,DF,26-016,7.1,401,284,115,4,1,4,31,100,11,2,8,0,273,2,10,Matches
+Márton Dárdai,de GER,DF,21-050,5.9,240,230,9,8,1,3,0,1,0,0,0,0,148,1,4,Matches
+Jessic Ngankam,de GER,"FW,MF",22-257,5.8,70,68,2,1,0,1,2,0,0,0,0,0,44,0,4,Matches
+Stevan Jovetić,me MNE,"FW,MF",33-152,5.7,197,186,11,3,2,1,2,1,0,0,0,0,123,0,8,Matches
+Davie Selke,de GER,FW,28-073,3.1,68,67,1,0,0,0,2,0,0,0,0,0,41,0,6,Matches
+Kevin-Prince Boateng,gh GHA,MF,36-028,2.6,151,133,17,4,1,0,6,7,0,0,0,0,116,1,1,Matches
+Derry Scherhant,de GER,FW,20-144,2.1,26,25,1,0,0,0,2,1,0,0,0,0,18,0,0,Matches
+Myziane Maolida,fr FRA,"FW,MF",24-048,1.1,15,14,0,0,0,0,1,0,0,0,0,0,8,1,0,Matches
+Peter Pekarík,sk SVK,DF,36-155,1.0,38,31,7,0,0,0,3,7,0,0,0,0,28,0,0,Matches
+Vladimír Darida,cz CZE,MF,32-238,0.3,12,10,2,1,0,0,0,0,1,0,0,0,8,0,0,Matches
+Squad Total,,,26.7,26.0,10111,8767,1297,366,21,74,406,571,108,33,59,0,7072,47,229,
+Opponent Total,,,27.4,26.0,13588,12078,1448,346,37,85,473,688,141,62,57,1,10353,62,268,

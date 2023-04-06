@@ -1,31 +1,31 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Rodrigo Guth,br BRA,DF,22-129,25.4,17,0.67,15,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Ivor Pandur,hr CRO,GK,22-359,23.0,8,0.35,4,4,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Burak Yılmaz,tr TUR,FW,37-247,22.8,71,3.12,44,1,3,12,11,0,17,0.75,6,0,1,5,5,0,Matches
-George Cox,eng ENG,DF,25-064,20.4,35,1.71,15,16,0,4,0,0,3,0.15,1,1,0,1,0,0,Matches
-Iñigo Córdoba,es ESP,"FW,MF",26-006,17.9,44,2.45,36,0,4,2,2,0,4,0.22,4,0,0,0,0,0,Matches
-Ivo Pinto,pt POR,DF,33-071,17.7,36,2.04,23,9,3,0,1,0,5,0.28,4,0,1,0,0,0,Matches
-Arianit Ferati,xk KVX,MF,25-193,15.1,30,1.99,25,0,1,1,2,1,4,0.27,3,0,0,0,1,0,Matches
-Dimitris Siovas,gr GRE,DF,34-184,15.0,10,0.67,9,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Oğuzhan Özyakup,tr TUR,MF,30-177,14.9,35,2.34,28,6,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
-Deroy Duarte,cv CPV,MF,23-258,13.4,23,1.71,22,0,0,0,1,0,1,0.07,1,0,0,0,0,0,Matches
-Úmaro Embaló,pt POR,"FW,MF",21-317,11.5,27,2.34,18,0,3,3,2,1,2,0.17,2,0,0,0,0,0,Matches
-Doğan Erdoğan,tr TUR,"MF,DF",26-209,12.6,13,1.03,13,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Ximo Navarro,es ESP,DF,33-055,11.5,7,0.61,4,0,1,2,0,0,0,0.0,0,0,0,0,0,0,Matches
-Tijjani Noslin,nl NED,"FW,MF",23-255,10.8,30,2.79,23,0,7,0,0,0,5,0.46,2,0,3,0,0,0,Matches
-Mats Seuntjens,nl NED,"MF,FW",30-336,10.7,36,3.36,19,14,0,1,2,0,3,0.28,1,2,0,0,0,0,Matches
-Kristijan Bistrović,hr CRO,MF,24-344,8.0,31,3.87,15,11,4,1,0,0,3,0.37,1,0,2,0,0,0,Matches
-Paul Gladon,nl NED,"FW,MF",31-001,8.9,26,2.91,15,0,0,6,5,0,4,0.45,2,0,0,1,1,0,Matches
-Rémy Vita,mg MAD,"DF,MF",21-352,8.9,14,1.57,9,1,1,0,2,1,2,0.22,1,0,0,0,1,0,Matches
-Mickaël Tirpan,be BEL,DF,29-147,4.3,4,0.94,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Thomas Buitink,nl NED,"FW,MF",22-278,3.7,8,2.18,6,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Yanick van Osch,nl NED,GK,25-360,3.0,2,0.67,1,1,0,0,0,0,1,0.33,0,1,0,0,0,0,Matches
-Cole Bassett,us USA,"MF,FW",21-234,2.2,7,3.18,5,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Stipe Radić,hr CRO,DF,22-282,2.1,2,0.97,1,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
-Muhammet Tunahan Taşçı,tr TUR,"FW,MF",20-324,0.9,4,4.44,0,1,0,0,2,1,1,1.11,0,1,0,0,0,0,Matches
-Roel Janssen,nl NED,"DF,MF",32-276,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Vasileios Sourlis,gr GRE,MF,20-123,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Gianmarco Cangiano,it ITA,"FW,DF",21-123,0.1,1,9.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Mike van Beijnen,nl NED,DF,24-012,0.1,1,10.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,27.5,26.0,522,20.08,355,66,29,35,31,6,55,2.12,28,5,7,7,8,0,
-Opponent Total,,,26.0,26.0,761,29.27,588,58,40,37,29,9,77,2.96,57,3,3,8,4,2,
+Rodrigo Guth,br BRA,DF,22-144,25.4,17,0.67,15,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ivor Pandur,hr CRO,GK,23-009,23.0,8,0.35,4,4,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Burak Yılmaz,tr TUR,FW,37-262,22.8,71,3.12,44,1,3,12,11,0,17,0.75,6,0,1,5,5,0,Matches
+George Cox,eng ENG,DF,25-079,20.4,35,1.71,15,16,0,4,0,0,3,0.15,1,1,0,1,0,0,Matches
+Iñigo Córdoba,es ESP,"FW,MF",26-021,17.9,44,2.45,36,0,4,2,2,0,4,0.22,4,0,0,0,0,0,Matches
+Ivo Pinto,pt POR,DF,33-086,17.7,36,2.04,23,9,3,0,1,0,5,0.28,4,0,1,0,0,0,Matches
+Arianit Ferati,xk KVX,MF,25-208,15.1,30,1.99,25,0,1,1,2,1,4,0.27,3,0,0,0,1,0,Matches
+Dimitris Siovas,gr GRE,DF,34-199,15.0,11,0.73,10,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Oğuzhan Özyakup,tr TUR,MF,30-192,14.9,35,2.34,28,6,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Deroy Duarte,cv CPV,MF,23-273,13.4,23,1.71,22,0,0,0,1,0,1,0.07,1,0,0,0,0,0,Matches
+Úmaro Embaló,pt POR,"FW,MF",21-332,11.5,27,2.34,18,0,3,3,2,1,2,0.17,2,0,0,0,0,0,Matches
+Doğan Erdoğan,tr TUR,"MF,DF",26-224,12.6,13,1.03,13,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ximo Navarro,es ESP,DF,33-070,11.5,7,0.61,4,0,1,2,0,0,0,0.0,0,0,0,0,0,0,Matches
+Tijjani Noslin,nl NED,"FW,MF",23-270,10.8,29,2.7,23,0,6,0,0,0,5,0.46,2,0,3,0,0,0,Matches
+Mats Seuntjens,nl NED,"MF,FW",30-351,10.7,36,3.36,19,14,0,1,2,0,3,0.28,1,2,0,0,0,0,Matches
+Kristijan Bistrović,hr CRO,MF,24-359,8.0,31,3.87,15,11,4,1,0,0,3,0.37,1,0,2,0,0,0,Matches
+Paul Gladon,nl NED,"FW,MF",31-016,8.9,26,2.91,15,0,0,6,5,0,4,0.45,2,0,0,1,1,0,Matches
+Rémy Vita,mg MAD,"DF,MF",22-002,8.9,14,1.57,9,1,1,0,2,1,2,0.22,1,0,0,0,1,0,Matches
+Mickaël Tirpan,be BEL,DF,29-162,4.3,4,0.94,3,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Thomas Buitink,nl NED,"FW,MF",22-293,3.7,8,2.18,6,0,1,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Yanick van Osch,nl NED,GK,26-010,3.0,2,0.67,1,1,0,0,0,0,1,0.33,0,1,0,0,0,0,Matches
+Cole Bassett,us USA,"MF,FW",21-249,2.2,7,3.18,5,1,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Stipe Radić,hr CRO,DF,22-297,2.1,2,0.97,1,0,0,0,0,1,0,0.0,0,0,0,0,0,0,Matches
+Muhammet Tunahan Taşçı,tr TUR,"FW,MF",20-339,0.9,4,4.44,0,1,0,0,2,1,1,1.11,0,1,0,0,0,0,Matches
+Roel Janssen,nl NED,"DF,MF",32-291,0.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Vasileios Sourlis,gr GRE,MF,20-138,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Gianmarco Cangiano,it ITA,"FW,DF",21-138,0.1,1,9.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mike van Beijnen,nl NED,DF,24-027,0.1,1,10.0,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,27.5,26.0,522,20.08,356,66,28,35,31,6,55,2.12,28,5,7,7,8,0,
+Opponent Total,,,26.1,26.0,761,29.27,588,58,40,37,29,9,77,2.96,57,3,3,8,4,2,

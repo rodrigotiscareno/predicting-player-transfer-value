@@ -1,33 +1,33 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Erik Palmer-Brown,us USA,DF,25-329,24.5,15,0.61,12,1,0,0,0,2,1,0.04,1,0,0,0,0,0,Matches
-Yoann Salmier,gf GUF,DF,30-118,23.9,16,0.67,12,0,0,2,1,1,4,0.17,3,0,0,0,1,0,Matches
-Rominigue Kouamé,ml MLI,MF,26-092,20.8,49,2.36,44,0,3,1,1,0,5,0.24,4,0,1,0,0,0,Matches
-Mama Samba Baldé,gw GNB,FW,27-133,20.7,47,2.28,28,0,8,5,5,1,7,0.34,3,0,2,0,2,0,Matches
-Rony Lopes,pt POR,"MF,FW",27-081,18.2,72,3.96,33,23,6,9,1,0,7,0.38,3,2,0,2,0,0,Matches
-Gauthier Gallon,fr FRA,GK,29-330,20.0,2,0.1,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Xavier Chavalerin,fr FRA,MF,32-012,20.0,34,1.7,25,4,2,1,0,2,3,0.15,2,0,0,1,0,0,Matches
-Thierno Balde,fr FRA,DF,20-282,17.1,30,1.75,22,2,2,1,3,0,3,0.18,1,0,1,0,1,0,Matches
-Jackson Porozo,ec ECU,DF,22-227,16.4,8,0.49,7,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Andreas Bruus,dk DEN,"DF,FW",24-062,14.1,29,2.06,24,1,3,0,0,1,2,0.14,2,0,0,0,0,0,Matches
-Yasser Larouci,dz ALG,"DF,FW",22-077,13.2,24,1.82,16,0,1,2,4,1,0,0.0,0,0,0,0,0,0,Matches
-Renaud Ripart,fr FRA,"FW,MF",30-005,13.6,38,2.8,27,0,2,5,4,0,7,0.52,2,0,1,2,2,0,Matches
-Wilson Odobert,fr FRA,"MF,FW",18-111,13.1,43,3.29,35,1,3,1,1,2,7,0.54,6,0,0,1,0,0,Matches
-Abdu Conté,pt POR,DF,24-360,12.1,21,1.74,17,2,0,0,2,0,2,0.17,2,0,0,0,0,0,Matches
-Florian Tardieu,fr FRA,MF,30-331,11.2,45,4.02,35,9,0,1,0,0,4,0.36,3,1,0,0,0,0,Matches
-Adil Rami,fr FRA,DF,37-082,9.3,8,0.86,6,0,0,1,0,1,1,0.11,1,0,0,0,0,0,Matches
-Mateusz Lis,pl POL,GK,26-020,7.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Lucien Agoume,fr FRA,MF,21-038,6.2,11,1.78,11,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Ike Ugbo,ca CAN,"FW,MF",24-179,4.9,6,1.22,4,0,1,0,1,0,1,0.2,1,0,0,0,0,0,Matches
-Papa Ndiaga Yade,sn SEN,"DF,MF",23-073,4.3,16,3.73,13,0,0,1,2,0,2,0.47,2,0,0,0,0,0,Matches
-Jeff Reine-Adélaïde,fr FRA,MF,25-061,1.1,2,1.75,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Tristan Dingomé,cm CMR,MF,32-030,1.1,8,7.35,6,1,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Mathis Hamdi,fr FRA,DF,19-152,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Alexis Tibidi,fr FRA,FW,19-136,0.7,2,2.81,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Kyliane Dong,fr FRA,"DF,MF",18-173,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Banhie Zoukrou,fr FRA,DF,19-316,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Amar Ahmed,se SWE,FW,19-028,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Jordan Dongmo,cm CMR,MF,22-048,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Marlos Moreno,co COL,"MF,DF",26-180,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Ante Palaversa,hr CRO,MF,22-347,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,26.6,27.0,526,19.48,381,45,32,31,26,11,56,2.07,36,3,5,6,6,0,
-Opponent Total,,,27.0,27.0,732,27.11,557,50,35,52,29,9,95,3.52,62,6,5,15,6,1,
+Erik Palmer-Brown,us USA,DF,25-344,26.5,21,0.79,17,1,0,1,0,2,3,0.11,3,0,0,0,0,0,Matches
+Yoann Salmier,gf GUF,DF,30-133,25.9,18,0.7,14,0,0,2,1,1,4,0.15,3,0,0,0,1,0,Matches
+Rominigue Kouamé,ml MLI,MF,26-107,22.5,57,2.54,51,0,3,2,1,0,6,0.27,5,0,1,0,0,0,Matches
+Mama Samba Baldé,gw GNB,FW,27-148,22.3,50,2.25,30,0,8,5,6,1,7,0.31,3,0,2,0,2,0,Matches
+Rony Lopes,pt POR,"MF,FW",27-096,20.2,77,3.81,36,24,6,10,1,0,7,0.35,3,2,0,2,0,0,Matches
+Gauthier Gallon,fr FRA,GK,29-345,22.0,2,0.09,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Thierno Balde,fr FRA,DF,20-297,19.0,38,2.0,29,2,3,1,3,0,3,0.16,1,0,1,0,1,0,Matches
+Xavier Chavalerin,fr FRA,MF,32-027,20.5,36,1.76,27,4,2,1,0,2,3,0.15,2,0,0,1,0,0,Matches
+Jackson Porozo,ec ECU,DF,22-242,16.4,8,0.49,7,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Renaud Ripart,fr FRA,"FW,MF",30-020,14.7,40,2.73,29,0,2,5,4,0,7,0.48,2,0,1,2,2,0,Matches
+Andreas Bruus,dk DEN,"DF,FW",24-077,14.3,29,2.04,24,1,3,0,0,1,2,0.14,2,0,0,0,0,0,Matches
+Yasser Larouci,dz ALG,"DF,FW",22-092,13.2,24,1.82,16,0,1,2,4,1,0,0.0,0,0,0,0,0,0,Matches
+Wilson Odobert,fr FRA,"MF,FW",18-126,14.3,47,3.29,38,2,3,1,1,2,7,0.49,6,0,0,1,0,0,Matches
+Abdu Conté,pt POR,DF,25-010,13.1,23,1.76,19,2,0,0,2,0,2,0.15,2,0,0,0,0,0,Matches
+Florian Tardieu,fr FRA,MF,30-346,11.2,45,4.02,35,9,0,1,0,0,4,0.36,3,1,0,0,0,0,Matches
+Adil Rami,fr FRA,DF,37-097,11.1,8,0.72,6,0,0,1,0,1,1,0.09,1,0,0,0,0,0,Matches
+Lucien Agoume,fr FRA,MF,21-053,8.1,19,2.36,16,2,0,1,0,0,1,0.12,1,0,0,0,0,0,Matches
+Mateusz Lis,pl POL,GK,26-035,7.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Papa Ndiaga Yade,sn SEN,DF,23-088,5.3,17,3.21,14,0,0,1,2,0,2,0.38,2,0,0,0,0,0,Matches
+Ike Ugbo,ca CAN,"FW,MF",24-194,4.9,6,1.22,4,0,1,0,1,0,1,0.2,1,0,0,0,0,0,Matches
+Jeff Reine-Adélaïde,fr FRA,MF,25-076,1.1,2,1.75,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Tristan Dingomé,cm CMR,MF,32-045,1.1,8,7.35,6,1,1,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Alexis Tibidi,fr FRA,"FW,MF",19-151,0.8,3,3.65,2,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Mathis Hamdi,fr FRA,DF,19-167,0.8,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Kyliane Dong,fr FRA,"DF,MF",18-188,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Banhie Zoukrou,fr FRA,DF,19-331,0.6,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Amar Ahmed,se SWE,FW,19-043,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Jordan Dongmo,cm CMR,MF,22-063,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Marlos Moreno,co COL,"MF,DF",26-195,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ante Palaversa,hr CRO,MF,22-362,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,26.6,29.0,578,19.93,423,49,33,35,27,11,60,2.07,40,3,5,6,6,0,
+Opponent Total,,,27.0,29.0,775,26.72,586,54,40,55,31,9,101,3.48,66,6,6,15,7,1,

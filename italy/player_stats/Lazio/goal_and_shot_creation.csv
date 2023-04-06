@@ -1,24 +1,24 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Ivan Provedel,it ITA,GK,29-002,25.9,7,0.27,7,0,0,0,0,0,1,0.04,1,0,0,0,0,0,Matches
-Adam Marušić,me MNE,DF,30-153,24.3,29,1.19,23,3,0,1,0,2,3,0.12,2,0,0,1,0,0,Matches
-Felipe Anderson,br BRA,FW,29-338,22.4,66,2.95,52,1,8,3,2,0,9,0.4,5,0,3,1,0,0,Matches
-Sergej Milinković-Savić,rs SRB,MF,28-020,22.3,59,2.64,52,1,1,3,2,0,11,0.49,10,0,0,1,0,0,Matches
-Alessio Romagnoli,it ITA,DF,28-066,21.7,8,0.37,7,1,0,0,0,0,3,0.14,3,0,0,0,0,0,Matches
-Mattia Zaccagni,it ITA,FW,27-276,20.1,55,2.73,38,1,5,5,5,1,7,0.35,5,1,0,1,0,0,Matches
-Danilo Cataldi,it ITA,MF,28-225,17.2,30,1.75,16,13,0,1,0,0,2,0.12,1,0,0,1,0,0,Matches
-Nicolò Casale,it ITA,DF,25-033,17.6,11,0.62,9,1,0,1,0,0,3,0.17,2,0,0,1,0,0,Matches
-Ciro Immobile,it ITA,FW,33-027,16.1,45,2.79,30,0,4,7,4,0,10,0.62,7,0,0,2,1,0,Matches
-Manuel Lazzari,it ITA,DF,29-110,15.5,21,1.36,16,1,1,0,2,1,3,0.19,3,0,0,0,0,0,Matches
-Luis Alberto,es ESP,MF,30-172,15.4,55,3.58,34,18,0,3,0,0,6,0.39,5,1,0,0,0,0,Matches
-Pedro,es ESP,FW,35-234,15.1,39,2.58,25,1,4,6,2,1,6,0.4,4,0,0,1,1,0,Matches
-Matías Vecino,uy URU,MF,31-207,14.0,21,1.5,20,0,1,0,0,0,3,0.21,3,0,0,0,0,0,Matches
-Patric,es ESP,DF,29-336,11.9,4,0.33,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Elseid Hysaj,al ALB,DF,29-027,12.0,21,1.75,18,0,2,0,1,0,1,0.08,1,0,0,0,0,0,Matches
-Toma Bašić,hr CRO,MF,26-114,4.7,7,1.5,4,0,0,0,3,0,0,0.0,0,0,0,0,0,0,Matches
-Marcos Antônio,br BRA,MF,22-279,3.5,2,0.58,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Matteo Cancellieri,it ITA,FW,21-035,2.6,7,2.72,4,0,0,1,2,0,0,0.0,0,0,0,0,0,0,Matches
-Luka Romero,ar ARG,FW,18-121,1.7,4,2.38,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Luís Maximiano,pt POR,GK,24-073,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Mario Gila,es ESP,DF,22-202,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,29.3,26.0,491,18.88,364,41,26,31,24,5,68,2.62,52,2,3,9,2,0,
-Opponent Total,,,27.1,26.0,567,21.81,402,57,40,36,22,10,35,1.35,24,3,1,3,3,1,
+Ivan Provedel,it ITA,GK,29-017,26.9,7,0.26,7,0,0,0,0,0,1,0.04,1,0,0,0,0,0,Matches
+Adam Marušić,me MNE,DF,30-168,25.3,32,1.26,25,3,0,1,0,3,3,0.12,2,0,0,1,0,0,Matches
+Felipe Anderson,br BRA,FW,29-353,23.4,70,2.99,56,1,8,3,2,0,9,0.38,5,0,3,1,0,0,Matches
+Sergej Milinković-Savić,rs SRB,MF,28-035,23.3,62,2.66,54,1,2,3,2,0,11,0.47,10,0,0,1,0,0,Matches
+Alessio Romagnoli,it ITA,DF,28-081,22.7,10,0.44,9,1,0,0,0,0,3,0.13,3,0,0,0,0,0,Matches
+Mattia Zaccagni,it ITA,FW,27-291,21.0,58,2.76,40,1,6,5,5,1,7,0.33,5,1,0,1,0,0,Matches
+Danilo Cataldi,it ITA,MF,28-240,18.2,31,1.7,17,13,0,1,0,0,2,0.11,1,0,0,1,0,0,Matches
+Nicolò Casale,it ITA,DF,25-048,18.6,11,0.59,9,1,0,1,0,0,3,0.16,2,0,0,1,0,0,Matches
+Ciro Immobile,it ITA,FW,33-042,16.1,45,2.79,30,0,4,7,4,0,10,0.62,7,0,0,2,1,0,Matches
+Manuel Lazzari,it ITA,DF,29-125,15.5,21,1.36,16,1,1,0,2,1,3,0.19,3,0,0,0,0,0,Matches
+Luis Alberto,es ESP,MF,30-187,16.4,59,3.61,38,18,0,3,0,0,7,0.43,6,1,0,0,0,0,Matches
+Pedro,es ESP,FW,35-249,16.1,39,2.42,25,1,4,6,2,1,6,0.37,4,0,0,1,1,0,Matches
+Matías Vecino,uy URU,MF,31-222,14.0,21,1.5,20,0,1,0,0,0,3,0.21,3,0,0,0,0,0,Matches
+Elseid Hysaj,al ALB,DF,29-042,13.0,25,1.93,22,0,2,0,1,0,2,0.15,2,0,0,0,0,0,Matches
+Patric,es ESP,DF,29-351,11.9,4,0.33,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Toma Bašić,hr CRO,MF,26-129,4.7,7,1.49,4,0,0,0,3,0,0,0.0,0,0,0,0,0,0,Matches
+Marcos Antônio,br BRA,MF,22-294,3.5,2,0.58,1,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Matteo Cancellieri,it ITA,FW,21-050,2.7,8,2.98,4,0,1,1,2,0,0,0.0,0,0,0,0,0,0,Matches
+Luka Romero,ar ARG,FW,18-136,1.7,4,2.38,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Luís Maximiano,pt POR,GK,24-088,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mario Gila,es ESP,DF,22-217,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,29.3,27.0,516,19.11,385,41,29,31,24,6,70,2.59,54,2,3,9,2,0,
+Opponent Total,,,27.2,27.0,582,21.56,412,58,41,38,23,10,35,1.3,24,3,1,3,3,1,

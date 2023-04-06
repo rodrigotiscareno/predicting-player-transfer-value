@@ -1,36 +1,36 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Daniel Leite,pt POR,GK,24-242,23.7,836,562,270,65,0,2,0,0,0,0,0,0,649,4,0,Matches
-Joãozinho,pt POR,DF,33-260,21.8,1186,915,269,38,2,6,84,202,29,20,5,0,918,2,24,Matches
-Tiago Gouveia,pt POR,FW,21-274,19.8,447,424,23,8,5,9,33,14,1,1,0,0,325,0,14,Matches
-Tiago santos,pt POR,DF,20-239,19.9,930,692,234,45,0,20,60,189,0,0,0,0,699,4,22,Matches
-Pedro Álvaro,pt POR,DF,23-017,19.6,1121,1070,48,45,0,21,3,1,0,0,0,0,965,3,5,Matches
-Francisco Geraldes,pt POR,MF,27-335,17.9,729,646,79,40,7,10,51,1,30,20,4,0,523,4,20,Matches
-João Carvalho,pt POR,MF,26-010,17.8,773,708,64,43,3,18,31,3,14,2,8,0,630,1,10,Matches
-Bernardo Vital,pt POR,DF,22-080,17.1,971,918,50,48,0,11,1,2,0,0,0,0,857,3,5,Matches
-Rodrigo Martins,pt POR,"FW,MF",24-185,13.1,315,296,18,3,0,3,31,12,3,2,0,0,209,1,14,Matches
-Loreintz Rosier,fr FRA,MF,24-217,11.5,478,461,15,12,4,6,2,1,0,0,0,0,388,2,6,Matches
-Mor Ndiaye,sn SEN,MF,22-117,12.1,514,492,21,20,1,5,0,1,0,0,0,0,427,1,5,Matches
-Mexer,mz MOZ,DF,34-192,10.7,627,594,33,32,0,12,2,1,0,0,0,0,544,0,4,Matches
-Erison,br BRA,FW,23-340,7.6,77,60,17,1,1,0,0,0,0,0,0,0,57,0,0,Matches
-Cassiano,br BRA,FW,33-276,7.2,90,76,14,0,0,0,3,0,0,0,0,0,50,0,4,Matches
-João Gamboa,pt POR,"MF,DF",26-200,6.4,214,200,11,11,0,4,2,0,0,0,0,0,165,3,6,Matches
-James Lea Siliki,cm CMR,"MF,FW",26-280,8.7,266,217,47,25,6,4,56,0,21,16,3,1,158,2,9,Matches
-João Carlos,br BRA,"FW,MF",28-018,7.1,128,112,13,0,0,2,4,0,0,0,0,0,72,3,6,Matches
-Tiago Araújo,pt POR,"FW,DF",21-357,6.8,310,247,63,11,0,7,53,39,13,1,12,0,204,0,13,Matches
-Rafik Guitane,fr FRA,"FW,MF",23-297,3.9,127,120,7,1,0,1,10,1,5,4,1,0,100,0,4,Matches
-Arthur,br BRA,"FW,MF",24-259,3.1,71,69,2,0,3,2,5,1,0,0,0,0,48,0,2,Matches
-Lucas Áfrico,br BRA,DF,28-042,2.9,131,127,4,3,0,1,0,1,0,0,0,0,119,0,0,Matches
-Shaquil Delos,fr FRA,"DF,FW",23-276,2.6,111,74,37,6,0,1,8,31,0,0,0,0,78,0,4,Matches
-Gonçalo Esteves,pt POR,DF,19-020,2.0,90,63,27,1,0,0,1,26,0,0,0,0,67,0,4,Matches
-Gilson Tavares,cv CPV,FW,21-080,3.4,66,62,4,0,0,0,1,0,0,0,0,0,43,0,2,Matches
-Serginho,pt POR,"FW,MF",22-049,1.5,64,55,8,1,0,2,7,3,4,2,0,0,44,1,3,Matches
-Pedro José Moreira Silva,pt POR,GK,26-034,1.3,44,28,16,3,0,0,0,0,0,0,0,0,32,0,0,Matches
-Carlos Eduardo,br BRA,"FW,MF",26-160,1.2,32,30,2,0,0,0,5,1,1,0,1,0,22,0,1,Matches
-Alejandro Marqués,es ESP,FW,22-227,1.8,29,26,2,0,1,0,0,0,0,0,0,0,18,1,0,Matches
-Bamidele Isa Yusuf,ng NGA,"FW,MF",22-025,0.7,18,17,1,0,0,0,2,0,1,0,0,0,9,0,0,Matches
-Mabrouk Rouai,fr FRA,"FW,MF",22-138,0.4,11,11,0,0,0,1,0,0,0,0,0,0,7,0,0,Matches
-João Marques,pt POR,MF,21-034,0.3,21,20,1,1,2,1,2,0,0,0,0,0,13,0,4,Matches
-Volnei Feltes,br BRA,DF,22-338,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-Elias Achouri,tn TUN,MF,24-037,0.1,6,5,0,0,0,0,0,0,0,0,0,0,3,1,0,Matches
-Squad Total,,,25.4,25.0,10836,9400,1400,463,35,149,457,530,122,68,34,1,8446,36,191,
-Opponent Total,,,26.6,25.0,11344,9998,1294,375,30,97,497,518,153,70,40,2,8985,52,170,
+Daniel Leite,pt POR,GK,24-257,24.7,870,581,285,71,0,2,0,0,0,0,0,0,669,4,0,Matches
+Joãozinho,pt POR,DF,33-275,21.8,1187,916,269,38,2,6,84,202,29,20,5,0,919,2,23,Matches
+Tiago Gouveia,pt POR,FW,21-289,20.8,463,440,23,8,5,9,34,14,1,1,0,0,334,0,15,Matches
+Tiago santos,pt POR,DF,20-254,20.9,964,714,246,50,0,21,62,196,0,0,0,0,720,4,22,Matches
+Pedro Álvaro,pt POR,DF,23-032,20.6,1153,1100,50,47,0,22,3,1,0,0,0,0,993,3,5,Matches
+João Carvalho,pt POR,MF,26-025,18.8,807,731,74,49,4,19,37,3,18,4,10,0,653,2,10,Matches
+Francisco Geraldes,pt POR,MF,27-350,17.9,729,646,79,40,7,10,51,1,30,20,4,0,523,4,20,Matches
+Bernardo Vital,pt POR,DF,22-095,18.1,1006,951,52,50,0,11,1,2,0,0,0,0,884,3,5,Matches
+Rodrigo Martins,pt POR,"FW,MF",24-200,13.2,317,298,18,3,0,3,31,12,3,2,0,0,210,1,15,Matches
+Mor Ndiaye,sn SEN,MF,22-132,13.1,537,515,21,20,1,4,0,1,0,0,0,0,446,1,6,Matches
+Loreintz Rosier,fr FRA,MF,24-232,11.5,478,461,15,12,4,6,2,1,0,0,0,0,388,2,6,Matches
+Mexer,mz MOZ,DF,34-207,10.7,627,595,32,31,0,13,2,1,0,0,0,0,544,0,4,Matches
+Erison,br BRA,FW,23-355,7.6,77,60,17,1,1,0,0,0,0,0,0,0,57,0,0,Matches
+Cassiano,br BRA,FW,33-291,7.2,90,76,14,0,0,0,3,0,0,0,0,0,50,0,4,Matches
+João Gamboa,pt POR,"MF,DF",26-215,6.5,215,201,11,11,0,3,2,0,0,0,0,0,165,3,6,Matches
+James Lea Siliki,cm CMR,"MF,FW",26-295,8.7,266,217,47,25,6,4,55,0,21,16,3,1,157,2,9,Matches
+Tiago Araújo,pt POR,"DF,FW",22-007,7.8,358,282,76,14,0,10,58,47,15,3,12,0,231,0,15,Matches
+João Carlos,br BRA,FW,28-033,7.3,134,118,13,0,0,3,4,0,0,0,0,0,76,3,6,Matches
+Rafik Guitane,fr FRA,"FW,MF",23-312,3.9,127,120,7,1,1,1,10,1,5,4,1,0,100,0,4,Matches
+Arthur,br BRA,"FW,MF",24-274,3.1,71,69,2,0,3,2,5,1,0,0,0,0,48,0,2,Matches
+Lucas Áfrico,br BRA,DF,28-057,2.9,131,127,4,3,0,1,0,1,0,0,0,0,119,0,0,Matches
+Shaquil Delos,fr FRA,"DF,FW",23-291,2.6,111,74,37,6,0,1,8,31,0,0,0,0,78,0,4,Matches
+Carlos Eduardo,br BRA,"FW,MF",26-175,2.1,48,45,2,1,0,0,4,1,0,0,0,0,33,1,2,Matches
+Gonçalo Esteves,pt POR,DF,19-035,2.0,90,63,27,1,0,0,1,26,0,0,0,0,67,0,4,Matches
+Gilson Tavares,cv CPV,FW,21-095,3.4,66,62,4,0,0,0,1,0,0,0,0,0,43,0,2,Matches
+Alejandro Marqués,es ESP,FW,22-242,2.6,33,29,3,0,1,0,0,0,0,0,0,0,22,1,0,Matches
+Serginho,pt POR,"FW,MF",22-064,1.5,64,55,8,1,0,2,7,3,4,2,0,0,44,1,3,Matches
+Pedro José Moreira Silva,pt POR,GK,26-049,1.3,44,28,16,3,0,0,0,0,0,0,0,0,32,0,0,Matches
+João Marques,pt POR,MF,21-049,1.2,40,38,2,2,2,1,2,0,0,0,0,0,28,0,4,Matches
+Bamidele Isa Yusuf,ng NGA,"FW,MF",22-040,0.7,18,17,1,0,0,0,2,0,1,0,0,0,9,0,0,Matches
+Mabrouk Rouai,fr FRA,"FW,MF",22-153,0.4,11,11,0,0,0,1,0,0,0,0,0,0,7,0,0,Matches
+Volnei Feltes,br BRA,DF,22-353,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Elias Achouri,tn TUN,MF,24-052,0.1,6,5,0,0,0,0,0,0,0,0,0,0,3,1,0,Matches
+Squad Total,,,25.4,26.0,11141,9648,1455,488,37,155,469,545,127,72,35,1,8655,38,196,
+Opponent Total,,,26.6,26.0,11883,10467,1356,397,38,101,508,546,158,71,44,2,9422,60,179,

@@ -1,35 +1,35 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Antonio Adán,es ESP,GK,35-310,23.0,1,0,1,0,0,1,2,50.0,1,0,0,0,0,1,11,0,Matches
-Pedro Gonçalves,pt POR,"MF,FW",24-264,21.9,46,27,9,31,6,18,38,47.4,20,12,1,11,17,63,4,0,Matches
-Sebastián Coates,uy URU,DF,32-163,19.5,19,9,14,3,2,13,21,61.9,8,17,12,5,17,36,47,0,Matches
-Gonçalo Inácio,pt POR,DF,21-206,20.2,27,12,17,10,0,14,26,53.8,12,21,9,12,30,57,49,2,Matches
-Matheus Reis,br BRA,DF,28-029,19.1,20,13,6,13,1,13,18,72.2,5,17,4,13,11,31,25,0,Matches
-Manuel Ugarte Ribeiro,uy URU,MF,21-342,18.0,86,49,24,48,14,44,82,53.7,38,32,4,28,36,122,14,0,Matches
-Marcus Edwards,eng ENG,"MF,FW",24-106,17.5,12,8,5,4,3,5,21,23.8,16,3,0,3,1,13,2,0,Matches
-Francisco Trincão,pt POR,"MF,FW",23-080,16.9,27,15,5,15,7,13,26,50.0,13,14,2,12,7,34,3,0,Matches
-Nuno Santos,pt POR,"DF,MF",28-034,16.9,17,7,7,6,4,14,27,51.9,13,11,2,9,17,34,5,0,Matches
-Hidemasa Morita,jp JPN,MF,27-313,14.5,36,22,9,21,6,13,21,61.9,8,19,3,16,16,52,13,0,Matches
-Pedro Porro,es ESP,"DF,MF",23-187,11.9,19,15,10,7,2,13,25,52.0,12,10,1,9,8,27,13,0,Matches
-Paulinho,pt POR,FW,30-130,11.4,22,12,2,14,6,6,9,66.7,3,4,0,4,6,28,8,0,Matches
-Ricardo Esgaio,pt POR,"DF,MF",29-307,9.0,19,13,5,11,3,10,21,47.6,11,7,0,7,7,26,20,0,Matches
-Jerry St. Juste,nl NED,DF,26-151,8.1,11,4,5,5,1,6,8,75.0,2,4,2,2,12,23,19,1,Matches
-Youssef Chermiti,pt POR,FW,18-299,5.5,3,2,0,2,1,1,7,14.3,6,4,1,3,0,3,2,0,Matches
-Luís Neto,pt POR,DF,34-297,2.8,6,3,4,2,0,4,5,80.0,1,1,1,0,1,7,6,0,Matches
-Arthur,br BRA,"DF,MF",24-259,5.5,6,4,1,3,2,5,8,62.5,3,14,0,14,1,7,5,0,Matches
-Rochinha,pt POR,"FW,MF",27-320,4.2,4,1,0,4,0,1,3,33.3,2,2,1,1,4,8,0,0,Matches
-Ousmane Diomande,ci CIV,DF,19-105,3.1,9,4,2,7,0,5,8,62.5,3,1,1,0,2,11,13,0,Matches
-Héctor Bellerín,es ESP,DF,28-000,2.5,8,5,4,3,1,5,6,83.3,1,4,0,4,2,10,3,0,Matches
-Matheus Nunes,pt POR,MF,24-204,2.0,2,2,0,2,0,1,1,100.0,0,3,0,3,3,5,0,0,Matches
-Dario Essugo,pt POR,MF,18-005,1.5,6,2,1,4,1,4,7,57.1,3,0,0,0,2,8,0,0,Matches
-José Marsà,es ESP,DF,21-015,1.3,0,0,0,0,0,0,0,,0,2,1,1,3,3,1,0,Matches
-Flávio Nazinho,pt POR,DF,19-242,1.1,3,2,2,1,0,2,3,66.7,1,1,1,0,0,3,2,0,Matches
-Mateus Fernandes,pt POR,MF,18-252,1.0,3,0,0,3,0,0,1,0.0,1,1,0,1,0,3,0,0,Matches
-Franco Israel,uy URU,GK,22-331,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Abdul Fatawu Issahaku,gh GHA,"DF,MF",19-011,0.9,1,0,0,1,0,0,4,0.0,4,1,0,1,1,2,0,0,Matches
-Sotiris Alexandropoulos,gr GRE,MF,21-113,1.2,6,5,2,3,1,3,6,50.0,3,1,0,1,2,8,1,0,Matches
-Mateo Tanlongo,ar ARG,MF,19-101,0.8,2,1,1,0,1,1,4,25.0,3,1,0,1,0,2,0,0,Matches
-Jovane Cabral,cv CPV,MF,24-278,0.6,4,1,3,1,0,0,0,,0,1,0,1,0,4,0,0,Matches
-Chico Lamba,pt POR,DF,20-009,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Rodrigo Duarte,pt POR,FW,17-325,0.3,2,0,0,1,1,0,1,0.0,1,0,0,0,1,3,0,0,Matches
-Squad Total,,,26.6,24.0,427,238,139,225,63,215,409,52.6,194,208,46,162,207,634,266,3,
-Opponent Total,,,26.8,24.0,443,250,226,175,42,250,503,49.7,253,270,99,171,272,715,561,7,
+Antonio Adán,es ESP,GK,35-325,24.0,1,0,1,0,0,1,2,50.0,1,0,0,0,0,1,11,0,Matches
+Pedro Gonçalves,pt POR,"MF,FW",24-279,22.7,47,28,9,31,7,18,38,47.4,20,15,2,13,19,66,5,0,Matches
+Gonçalo Inácio,pt POR,DF,21-221,20.7,28,13,17,11,0,15,27,55.6,12,21,9,12,31,59,49,2,Matches
+Sebastián Coates,uy URU,DF,32-178,19.5,19,9,14,3,2,13,21,61.9,8,17,12,5,17,36,47,0,Matches
+Matheus Reis,br BRA,DF,28-044,19.9,21,14,7,13,1,14,19,73.7,5,19,5,14,11,32,26,0,Matches
+Manuel Ugarte Ribeiro,uy URU,MF,21-357,18.8,89,52,24,49,16,45,86,52.3,41,34,4,30,38,127,14,0,Matches
+Marcus Edwards,eng ENG,"MF,FW",24-121,18.3,12,8,5,4,3,5,21,23.8,16,3,0,3,1,13,2,0,Matches
+Francisco Trincão,pt POR,"MF,FW",23-095,17.9,29,15,5,16,8,15,30,50.0,15,15,2,13,7,36,3,0,Matches
+Nuno Santos,pt POR,"DF,MF",28-049,17.9,18,8,7,7,4,14,27,51.9,13,11,2,9,17,35,5,0,Matches
+Hidemasa Morita,jp JPN,MF,27-328,14.7,37,23,9,21,7,13,22,59.1,9,19,3,16,17,54,13,0,Matches
+Paulinho,pt POR,FW,30-145,12.4,25,14,2,15,8,6,9,66.7,3,7,0,7,6,31,9,0,Matches
+Pedro Porro,es ESP,"DF,MF",23-202,11.9,19,15,10,7,2,13,25,52.0,12,10,1,9,8,27,13,0,Matches
+Ricardo Esgaio,pt POR,"DF,MF",29-322,9.0,19,13,5,11,3,10,21,47.6,11,7,0,7,7,26,20,0,Matches
+Jerry St. Juste,nl NED,DF,26-166,8.6,11,4,5,5,1,6,9,66.7,3,4,2,2,12,23,19,1,Matches
+Youssef Chermiti,pt POR,FW,18-314,5.5,3,2,0,2,1,1,7,14.3,6,4,1,3,0,3,2,0,Matches
+Arthur,br BRA,"MF,DF",24-274,6.5,8,5,3,3,2,6,10,60.0,4,18,0,18,2,10,8,0,Matches
+Ousmane Diomande,ci CIV,DF,19-120,4.1,10,5,3,7,0,5,9,55.6,4,3,3,0,2,12,14,0,Matches
+Luís Neto,pt POR,DF,34-312,3.0,6,3,4,2,0,4,5,80.0,1,2,1,1,1,7,6,0,Matches
+Rochinha,pt POR,"FW,MF",27-335,4.4,4,1,0,4,0,1,4,25.0,3,3,1,2,4,8,0,0,Matches
+Héctor Bellerín,es ESP,DF,28-015,2.5,8,5,4,3,1,5,6,83.3,1,4,0,4,2,10,3,0,Matches
+Matheus Nunes,pt POR,MF,24-219,2.0,2,2,0,2,0,1,1,100.0,0,3,0,3,3,5,0,0,Matches
+Dario Essugo,pt POR,MF,18-020,1.5,6,2,1,4,1,4,7,57.1,3,0,0,0,2,8,0,0,Matches
+José Marsà,es ESP,DF,21-030,1.3,0,0,0,0,0,0,0,,0,2,1,1,3,3,1,0,Matches
+Flávio Nazinho,pt POR,DF,19-257,1.1,3,2,2,1,0,2,3,66.7,1,1,1,0,0,3,2,0,Matches
+Mateus Fernandes,pt POR,MF,18-267,1.0,3,0,0,3,0,0,1,0.0,1,1,0,1,0,3,0,0,Matches
+Franco Israel,uy URU,GK,22-346,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Abdul Fatawu Issahaku,gh GHA,"DF,MF",19-026,0.9,1,0,0,1,0,0,4,0.0,4,1,0,1,1,2,0,0,Matches
+Sotiris Alexandropoulos,gr GRE,MF,21-128,1.2,6,5,2,3,1,3,6,50.0,3,1,0,1,2,8,1,0,Matches
+Mateo Tanlongo,ar ARG,MF,19-116,1.0,3,2,2,0,1,1,4,25.0,3,1,0,1,0,3,0,0,Matches
+Jovane Cabral,cv CPV,MF,24-293,0.6,4,1,3,1,0,0,0,,0,1,0,1,0,4,0,0,Matches
+Chico Lamba,pt POR,DF,20-024,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Rodrigo Duarte,pt POR,FW,17-340,0.3,2,0,0,1,1,0,1,0.0,1,0,0,0,1,3,0,0,Matches
+Squad Total,,,26.6,25.0,444,251,144,230,70,221,425,52.0,204,227,50,177,214,658,273,3,
+Opponent Total,,,26.8,25.0,466,264,245,179,42,266,535,49.7,269,282,101,181,288,754,576,8,

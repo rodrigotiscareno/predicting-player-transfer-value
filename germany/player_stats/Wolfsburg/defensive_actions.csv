@@ -1,29 +1,30 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Koen Casteels,be BEL,GK,30-267,25.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,7,0,Matches
-Mickey van de Ven,nl NED,DF,21-334,25.0,34,22,19,15,0,23,31,74.2,8,33,20,13,20,54,90,2,Matches
-Maximilian Arnold,de GER,MF,28-296,23.2,45,22,16,23,6,20,41,48.8,21,28,9,19,18,63,53,0,Matches
-Ridle Baku,de GER,"DF,FW",24-345,22.4,36,14,22,11,3,21,42,50.0,21,38,6,32,18,54,45,0,Matches
-Paulo Otávio,br BRA,DF,28-116,20.1,64,39,42,14,8,39,56,69.6,17,39,5,34,29,93,65,1,Matches
-Yannick Gerhardt,de GER,MF,29-006,15.7,24,13,8,10,6,10,22,45.5,12,19,2,17,6,30,22,0,Matches
-Sebastiaan Bornauw,be BEL,DF,23-362,14.9,15,10,9,5,1,7,12,58.3,5,18,9,9,23,38,62,0,Matches
-Jakub Kamiński,pl POL,"FW,MF",20-287,14.7,22,14,7,9,6,9,20,45.0,11,16,0,16,4,26,6,0,Matches
-Patrick Wimmer,at AUT,"FW,MF",21-293,12.7,31,19,14,8,9,12,30,40.0,18,20,2,18,13,44,12,0,Matches
-Maxence Lacroix,fr FRA,DF,22-347,14.5,18,11,12,6,0,8,16,50.0,8,18,8,10,22,40,74,0,Matches
-Mattias Svanberg,se SWE,MF,24-073,14.3,13,8,5,8,0,6,19,31.6,13,19,4,15,15,28,18,1,Matches
-Omar Marmoush,eg EGY,FW,24-040,13.1,15,10,8,2,5,4,13,30.8,9,11,0,11,6,21,3,0,Matches
-Felix Nmecha,de GER,MF,22-160,12.4,24,13,5,13,6,10,17,58.8,7,15,6,9,15,39,21,0,Matches
-Lukas Nmecha,de GER,FW,24-095,10.0,5,3,0,2,3,3,3,100.0,0,5,1,4,3,8,4,0,Matches
-Jonas Wind,dk DEN,FW,24-040,7.7,6,1,1,2,3,2,5,40.0,3,7,3,4,1,7,7,0,Matches
-Josuha Guilavogui,fr FRA,"MF,DF",32-181,7.0,11,7,1,9,1,3,13,23.1,10,12,7,5,11,22,25,0,Matches
-Kilian Fischer,de GER,DF,22-158,4.2,6,4,3,3,0,4,7,57.1,3,4,0,4,5,11,12,0,Matches
-Luca Waldschmidt,de GER,FW,26-304,3.9,5,2,2,1,2,2,6,33.3,4,1,0,1,2,7,3,0,Matches
-Josip Brekalo,hr CRO,"MF,FW",24-269,3.0,2,1,2,0,0,0,4,0.0,4,0,0,0,2,4,2,0,Matches
-Bartol Franjić,hr CRO,MF,23-064,2.5,4,2,2,2,0,0,2,0.0,2,4,1,3,5,9,4,0,Matches
-Max Kruse,de GER,"MF,FW",35-000,3.0,1,1,0,1,0,0,1,0.0,1,2,1,1,0,1,1,0,Matches
-Kevin Paredes,us USA,"FW,MF",19-316,4.0,10,7,3,3,4,6,8,75.0,2,4,0,4,4,14,5,0,Matches
-Maximilian Philipp,de GER,FW,29-018,1.3,2,1,1,1,0,1,1,100.0,0,1,0,1,0,2,0,0,Matches
-Jérôme Roussillon,fr FRA,"MF,DF",30-072,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Lukáš Ambros,cz CZE,MF,18-287,0.2,1,0,1,0,0,1,4,25.0,3,1,0,1,0,1,2,1,Matches
-Aster Vranckx,be BEL,MF,20-166,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-Squad Total,,,25.5,25.0,394,224,183,148,63,191,373,51.2,182,315,84,231,223,617,544,5,
-Opponent Total,,,27.2,25.0,400,235,189,166,45,200,373,53.6,173,287,70,217,226,626,410,6,
+Koen Casteels,be BEL,GK,30-282,26.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,8,0,Matches
+Mickey van de Ven,nl NED,DF,21-349,26.0,35,23,19,16,0,24,32,75.0,8,33,20,13,20,55,91,2,Matches
+Maximilian Arnold,de GER,MF,28-311,24.2,47,23,17,23,7,21,43,48.8,22,28,9,19,21,68,53,0,Matches
+Ridle Baku,de GER,DF,24-360,23.1,39,17,23,13,3,24,46,52.2,22,39,6,33,19,58,45,0,Matches
+Paulo Otávio,br BRA,DF,28-131,21.1,64,39,42,14,8,39,56,69.6,17,39,5,34,29,93,66,1,Matches
+Yannick Gerhardt,de GER,MF,29-021,16.4,24,13,8,10,6,10,22,45.5,12,21,2,19,6,30,22,0,Matches
+Jakub Kamiński,pl POL,"FW,MF",20-302,15.7,22,14,7,9,6,9,20,45.0,11,18,0,18,4,26,6,0,Matches
+Patrick Wimmer,at AUT,"FW,MF",21-308,13.5,31,19,14,8,9,11,30,36.7,19,21,2,19,13,44,12,0,Matches
+Sebastiaan Bornauw,be BEL,DF,24-012,14.9,15,10,9,5,1,7,12,58.3,5,18,9,9,23,38,62,0,Matches
+Maxence Lacroix,fr FRA,DF,22-362,15.5,21,13,14,7,0,8,16,50.0,8,19,8,11,24,45,75,0,Matches
+Mattias Svanberg,se SWE,MF,24-088,14.8,13,8,5,8,0,6,19,31.6,13,19,4,15,15,28,19,1,Matches
+Omar Marmoush,eg EGY,FW,24-055,13.8,15,10,8,2,5,4,13,30.8,9,12,1,11,6,21,3,0,Matches
+Felix Nmecha,de GER,MF,22-175,12.9,24,13,5,13,6,10,17,58.8,7,15,6,9,15,39,21,0,Matches
+Lukas Nmecha,de GER,FW,24-110,10.0,5,3,0,2,3,3,3,100.0,0,5,1,4,3,8,4,0,Matches
+Jonas Wind,dk DEN,FW,24-055,8.1,6,1,1,2,3,2,5,40.0,3,7,3,4,1,7,8,0,Matches
+Josuha Guilavogui,fr FRA,"MF,DF",32-196,7.0,11,7,1,9,1,3,13,23.1,10,12,7,5,11,22,26,0,Matches
+Luca Waldschmidt,de GER,FW,26-319,4.2,5,2,2,1,2,2,7,28.6,5,1,0,1,2,7,3,0,Matches
+Kilian Fischer,de GER,DF,22-173,4.2,6,4,3,3,0,4,8,50.0,4,4,0,4,5,11,12,0,Matches
+Josip Brekalo,hr CRO,"MF,FW",24-284,3.0,2,1,2,0,0,0,4,0.0,4,0,0,0,2,4,2,0,Matches
+Bartol Franjić,hr CRO,MF,23-079,2.5,4,2,2,2,0,0,2,0.0,2,4,1,3,5,9,4,0,Matches
+Max Kruse,de GER,"MF,FW",35-015,3.0,1,1,0,1,0,0,1,0.0,1,2,1,1,0,1,1,0,Matches
+Kevin Paredes,us USA,"FW,MF",19-331,4.4,10,7,3,3,4,7,9,77.8,2,4,0,4,5,15,5,0,Matches
+Maximilian Philipp,de GER,FW,29-033,1.3,2,1,1,1,0,1,1,100.0,0,1,0,1,0,2,0,0,Matches
+Jérôme Roussillon,fr FRA,"MF,DF",30-087,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Lukáš Ambros,cz CZE,MF,18-302,0.2,1,0,1,0,0,1,4,25.0,3,1,0,1,0,1,2,1,Matches
+Nicolas Cozza,fr FRA,DF,24-085,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Aster Vranckx,be BEL,MF,20-181,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Squad Total,,,25.5,26.0,403,231,187,152,64,196,383,51.2,187,323,85,238,230,633,551,5,
+Opponent Total,,,27.2,26.0,414,240,193,174,47,206,382,53.9,176,297,74,223,236,650,430,6,

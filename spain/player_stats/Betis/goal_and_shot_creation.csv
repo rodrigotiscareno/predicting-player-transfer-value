@@ -1,33 +1,33 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Borja Iglesias,es ESP,FW,30-061,18.6,29,1.56,19,1,1,5,3,0,5,0.27,4,0,0,1,0,0,Matches
-Guido Rodríguez,ar ARG,MF,28-341,18.9,22,1.16,19,0,0,2,1,0,2,0.11,2,0,0,0,0,0,Matches
-William Carvalho,pt POR,MF,30-346,17.8,41,2.26,36,3,2,0,0,0,4,0.22,4,0,0,0,0,0,Matches
-Rui Silva,pt POR,GK,29-040,19.0,1,0.05,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Germán Pezzella,ar ARG,DF,31-265,18.9,9,0.48,9,0,0,0,0,0,1,0.05,1,0,0,0,0,0,Matches
-Sergio Canales,es ESP,"FW,MF",32-031,17.3,68,3.93,55,6,2,3,2,0,5,0.29,3,1,0,1,0,0,Matches
-Álex Moreno,es ESP,DF,29-284,15.0,20,1.33,13,2,3,2,0,0,4,0.27,3,1,0,0,0,0,Matches
-Luiz Henrique,br BRA,FW,22-076,14.5,34,2.35,19,0,7,4,2,2,2,0.14,1,0,1,0,0,0,Matches
-Rodrigo,es ESP,"FW,MF",22-307,12.0,35,2.91,26,1,3,3,2,0,5,0.42,3,0,0,1,1,0,Matches
-Youssouf Sabaly,sn SEN,DF,30-014,13.2,19,1.44,12,1,4,0,1,1,1,0.08,0,0,1,0,0,0,Matches
-Luiz Felipe,it ITA,DF,25-362,11.5,4,0.35,4,0,0,0,0,0,1,0.09,1,0,0,0,0,0,Matches
-Édgar González,es ESP,DF,25-352,12.7,6,0.47,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Nabil Fekir,fr FRA,MF,29-244,10.7,56,5.24,31,10,4,2,9,0,5,0.47,2,0,1,0,2,0,Matches
-Aitor Ruibal,es ESP,"DF,FW",26-362,12.0,30,2.49,22,0,4,2,1,1,1,0.08,1,0,0,0,0,0,Matches
-Andrés Guardado,mx MEX,"MF,FW",36-172,9.8,19,1.94,13,3,0,2,1,0,4,0.41,3,0,0,1,0,0,Matches
-Juanmi,es ESP,FW,29-303,7.7,20,2.6,13,0,3,1,3,0,2,0.26,1,0,1,0,0,0,Matches
-Claudio Bravo,cl CHI,GK,39-340,6.0,2,0.33,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Víctor Ruiz,es ESP,DF,34-053,6.1,4,0.65,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Juan Miranda,es ESP,DF,23-059,6.0,15,2.51,13,2,0,0,0,0,1,0.17,1,0,0,0,0,0,Matches
-Abner,br BRA,DF,22-296,4.1,5,1.23,3,1,1,0,0,0,1,0.25,1,0,0,0,0,0,Matches
-Ayoze Pérez,es ESP,"FW,MF",29-233,3.8,12,3.13,8,0,1,0,2,1,3,0.78,0,0,1,0,2,0,Matches
-Martín Montoya,es ESP,DF,31-339,2.0,4,1.97,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Willian José,br BRA,FW,31-116,4.4,6,1.38,4,0,0,2,0,0,1,0.23,0,0,0,1,0,0,Matches
-Paul Akouokou,ci CIV,MF,25-089,3.1,1,0.32,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Joaquín,es ESP,"MF,FW",41-241,3.0,20,6.64,15,2,1,1,1,0,1,0.33,1,0,0,0,0,0,Matches
-Juan Cruz,es ESP,FW,22-328,1.9,3,1.55,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Felix Garreta,es ESP,DF,18-332,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Roberto González,es ESP,"FW,MF",22-072,0.6,5,8.33,2,3,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Loren Morón,es ESP,FW,29-079,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Fran Delgado,es ESP,DF,21-251,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,29.2,25.0,490,19.6,355,36,36,30,28,5,49,1.96,32,2,5,5,5,0,
-Opponent Total,,,28.0,25.0,540,21.6,373,56,39,31,35,6,44,1.76,31,2,3,4,3,1,
+Borja Iglesias,es ESP,FW,30-076,19.6,29,1.48,19,1,1,5,3,0,5,0.25,4,0,0,1,0,0,Matches
+Guido Rodríguez,ar ARG,MF,28-356,19.9,22,1.1,19,0,0,2,1,0,2,0.1,2,0,0,0,0,0,Matches
+Rui Silva,pt POR,GK,29-055,20.0,1,0.05,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Germán Pezzella,ar ARG,DF,31-280,19.8,10,0.51,10,0,0,0,0,0,1,0.05,1,0,0,0,0,0,Matches
+William Carvalho,pt POR,MF,30-361,18.1,41,2.23,36,3,2,0,0,0,4,0.22,4,0,0,0,0,0,Matches
+Sergio Canales,es ESP,"FW,MF",32-046,18.2,73,4.01,59,7,2,3,2,0,5,0.27,3,1,0,1,0,0,Matches
+Álex Moreno,es ESP,DF,29-299,15.0,20,1.33,13,2,3,2,0,0,4,0.27,3,1,0,0,0,0,Matches
+Luiz Henrique,br BRA,FW,22-091,14.5,34,2.35,19,0,7,4,2,2,2,0.14,1,0,1,0,0,0,Matches
+Rodrigo,es ESP,"FW,MF",22-322,12.8,36,2.82,27,1,3,3,2,0,5,0.39,3,0,0,1,1,0,Matches
+Youssouf Sabaly,sn SEN,DF,30-029,14.2,24,1.69,14,2,5,1,1,1,2,0.14,0,0,1,1,0,0,Matches
+Édgar González,es ESP,DF,26-002,13.7,6,0.44,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Luiz Felipe,it ITA,DF,26-012,11.5,4,0.35,4,0,0,0,0,0,1,0.09,1,0,0,0,0,0,Matches
+Nabil Fekir,fr FRA,MF,29-259,10.7,56,5.24,31,10,4,2,9,0,5,0.47,2,0,1,0,2,0,Matches
+Aitor Ruibal,es ESP,"DF,FW",27-012,12.0,30,2.49,22,0,4,2,1,1,1,0.08,1,0,0,0,0,0,Matches
+Andrés Guardado,mx MEX,MF,36-187,10.8,19,1.76,13,3,0,2,1,0,4,0.37,3,0,0,1,0,0,Matches
+Juanmi,es ESP,FW,29-318,7.9,20,2.52,13,0,3,1,3,0,2,0.25,1,0,1,0,0,0,Matches
+Juan Miranda,es ESP,DF,23-074,7.0,16,2.29,14,2,0,0,0,0,1,0.14,1,0,0,0,0,0,Matches
+Claudio Bravo,cl CHI,GK,39-355,6.0,2,0.33,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Víctor Ruiz,es ESP,DF,34-068,6.2,4,0.64,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ayoze Pérez,es ESP,"FW,MF",29-248,4.6,16,3.48,10,0,3,0,2,1,3,0.65,0,0,1,0,2,0,Matches
+Abner,br BRA,DF,22-311,4.1,5,1.23,3,1,1,0,0,0,1,0.25,1,0,0,0,0,0,Matches
+Martín Montoya,es ESP,DF,31-354,2.0,4,1.97,4,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Willian José,br BRA,FW,31-131,4.4,6,1.38,4,0,0,2,0,0,1,0.23,0,0,0,1,0,0,Matches
+Paul Akouokou,ci CIV,MF,25-104,3.1,1,0.32,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Joaquín,es ESP,"FW,MF",41-256,3.1,22,7.1,17,2,1,1,1,0,1,0.32,1,0,0,0,0,0,Matches
+Juan Cruz,es ESP,FW,22-343,1.9,3,1.55,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Felix Garreta,es ESP,DF,18-347,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Roberto González,es ESP,"FW,MF",22-087,0.6,5,8.33,2,3,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Loren Morón,es ESP,FW,29-094,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Fran Delgado,es ESP,DF,21-266,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,29.3,26.0,509,19.58,368,38,39,31,28,5,50,1.92,32,2,5,6,5,0,
+Opponent Total,,,28.1,26.0,550,21.15,380,57,41,31,35,6,44,1.69,31,2,3,4,3,1,

@@ -1,28 +1,28 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Gianluigi Donnarumma,it ITA,GK,24-022,27.0,687,509,178,33,0,1,0,0,0,0,0,0,589,0,0,Matches
-Marquinhos,br BRA,DF,28-309,22.1,1587,1533,50,28,3,5,0,16,0,0,0,0,1508,4,6,Matches
-Lionel Messi,ar ARG,"FW,MF",35-268,21.5,1363,1259,85,20,42,6,56,2,55,22,21,0,1085,19,43,Matches
-Sergio Ramos,es ESP,DF,36-354,21.0,1726,1665,59,35,0,29,11,24,0,0,0,0,1631,2,9,Matches
-Kylian Mbappé,fr FRA,FW,24-089,20.3,847,806,38,0,6,1,36,7,13,2,0,0,682,3,13,Matches
-Vitinha,pt POR,MF,23-034,18.3,1340,1328,8,4,5,6,5,2,2,1,0,0,1231,4,20,Matches
-Marco Verratti,it ITA,MF,30-134,16.8,1689,1593,92,76,7,1,5,16,0,0,0,0,1564,4,9,Matches
-Neymar,br BRA,"MF,FW",31-042,17.2,1262,1147,106,33,25,8,54,12,52,26,8,0,1011,9,27,Matches
-Achraf Hakimi,ma MAR,"DF,MF",24-135,16.8,1065,977,88,12,1,1,30,75,1,0,0,0,943,0,25,Matches
-Danilo Pereira,pt POR,"DF,MF",31-191,16.2,1170,1117,52,26,0,3,1,12,0,0,0,0,1095,1,5,Matches
-Fabián Ruiz Peña,es ESP,MF,26-350,14.1,1108,1074,33,20,5,10,5,12,1,0,0,0,1008,1,15,Matches
-Nuno Mendes,pt POR,"DF,MF",20-273,13.1,676,615,60,5,2,1,21,55,0,0,0,0,571,1,27,Matches
-Nordi Mukiele,fr FRA,DF,25-138,12.6,674,609,63,9,0,2,16,54,0,0,0,0,585,2,11,Matches
-Juan Bernat,es ESP,DF,30-018,12.1,677,618,59,6,0,2,7,53,0,0,0,0,627,0,8,Matches
-Carlos Soler,es ESP,MF,26-076,9.4,465,447,17,5,3,1,18,5,7,3,2,0,394,1,12,Matches
-Presnel Kimpembe,fr FRA,DF,27-218,8.1,503,454,48,13,1,0,0,20,0,0,0,0,471,1,6,Matches
-Hugo Ekitike,fr FRA,FW,20-272,8.8,231,212,18,1,1,1,0,0,0,0,0,0,189,1,5,Matches
-Warren Zaire-Emery,fr FRA,MF,17-011,5.3,339,334,5,3,0,0,0,2,0,0,0,0,314,0,6,Matches
-Renato Sanches,pt POR,MF,25-213,4.7,409,400,7,4,2,3,2,2,1,0,1,0,376,2,6,Matches
-Pablo Sarabia,es ESP,"FW,MF",30-312,4.1,187,171,15,2,5,1,16,1,12,5,5,0,147,1,5,Matches
-Timothee Pembele,fr FRA,DF,20-191,2.4,80,60,20,2,0,0,2,18,0,0,0,0,66,0,4,Matches
-El Chadaille Bitshiabu,fr FRA,DF,17-307,2.5,203,197,6,0,0,0,0,6,0,0,0,0,188,0,1,Matches
-Leandro Paredes,ar ARG,MF,28-263,0.6,70,65,5,5,1,1,0,0,0,0,0,0,68,0,0,Matches
-Ismaël Gharbi,es ESP,"MF,FW",18-343,0.5,31,29,2,1,0,0,0,0,1,0,0,0,27,0,0,Matches
-Ilyes Housni,fr FRA,FW,17-309,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-Squad Total,,,27.6,27.0,18392,17222,1114,343,109,83,285,394,145,59,37,0,16373,56,263,
-Opponent Total,,,26.9,27.0,11965,10947,975,318,33,96,350,285,94,42,36,1,9960,43,213,
+Gianluigi Donnarumma,it ITA,GK,24-036,28.0,714,527,187,35,0,1,0,0,0,0,0,0,615,0,0,Matches
+Lionel Messi,ar ARG,"FW,MF",35-282,22.5,1432,1316,95,23,44,6,59,2,60,24,21,0,1136,21,48,Matches
+Marquinhos,br BRA,DF,28-323,22.1,1587,1533,50,28,3,5,0,16,0,0,0,0,1508,4,6,Matches
+Kylian Mbappé,fr FRA,FW,24-103,21.3,879,834,41,0,6,1,36,8,14,2,0,0,708,4,13,Matches
+Sergio Ramos,es ESP,DF,37-003,21.0,1726,1665,59,35,0,29,11,24,0,0,0,0,1631,2,9,Matches
+Vitinha,pt POR,MF,23-048,19.3,1390,1377,9,5,6,6,5,2,2,1,0,0,1275,4,20,Matches
+Marco Verratti,it ITA,MF,30-148,17.8,1799,1696,99,79,10,1,5,20,0,0,0,0,1665,4,10,Matches
+Neymar,br BRA,"MF,FW",31-056,17.2,1262,1147,106,33,25,8,54,12,52,26,8,0,1011,9,27,Matches
+Danilo Pereira,pt POR,"DF,MF",31-205,17.2,1261,1208,52,26,0,3,1,12,0,0,0,0,1182,1,5,Matches
+Achraf Hakimi,ma MAR,"DF,MF",24-149,16.8,1065,977,88,12,1,1,30,75,1,0,0,0,943,0,25,Matches
+Fabián Ruiz Peña,es ESP,MF,26-364,14.7,1144,1109,33,20,6,10,5,12,1,0,0,0,1041,2,15,Matches
+Nuno Mendes,pt POR,"DF,MF",20-287,14.1,737,671,65,8,2,1,22,57,0,0,0,0,628,1,28,Matches
+Juan Bernat,es ESP,DF,30-032,12.7,725,661,64,6,0,2,8,58,0,0,0,0,671,0,8,Matches
+Nordi Mukiele,fr FRA,DF,25-152,12.6,674,609,63,9,0,2,16,54,0,0,0,0,585,2,11,Matches
+Carlos Soler,es ESP,MF,26-090,9.4,465,447,17,5,3,1,18,5,7,3,2,0,394,1,12,Matches
+Presnel Kimpembe,fr FRA,DF,27-232,8.1,503,454,48,13,1,0,0,20,0,0,0,0,471,1,6,Matches
+Hugo Ekitike,fr FRA,FW,20-286,9.2,245,226,18,1,1,1,0,0,0,0,0,0,202,1,5,Matches
+Warren Zaire-Emery,fr FRA,"MF,DF",17-025,5.8,370,361,8,3,0,0,3,5,0,0,0,0,338,1,6,Matches
+Timothee Pembele,fr FRA,DF,20-205,2.9,89,69,20,2,0,0,4,18,0,0,0,0,71,0,7,Matches
+Renato Sanches,pt POR,MF,25-227,5.1,438,429,7,4,2,3,3,2,1,0,1,0,401,2,7,Matches
+Pablo Sarabia,es ESP,"FW,MF",30-326,4.1,187,171,15,2,5,1,16,1,12,5,5,0,147,1,5,Matches
+El Chadaille Bitshiabu,fr FRA,DF,17-321,3.5,279,270,9,0,0,0,0,9,0,0,0,0,258,0,1,Matches
+Leandro Paredes,ar ARG,MF,28-277,0.6,70,65,5,5,1,1,0,0,0,0,0,0,68,0,0,Matches
+Ismaël Gharbi,es ESP,"MF,FW",18-357,0.5,31,29,2,1,0,0,0,0,1,0,0,0,27,0,0,Matches
+Ilyes Housni,fr FRA,FW,17-323,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,,,27.6,28.0,19075,17854,1160,355,116,83,296,412,151,61,37,0,16979,61,274,
+Opponent Total,,,26.9,28.0,12417,11362,1012,334,37,102,358,293,97,43,37,1,10344,43,219,

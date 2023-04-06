@@ -1,33 +1,33 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Waldemar Anton,de GER,DF,26-242,24.1,29,1.2,19,4,2,4,0,0,2,0.08,1,0,0,1,0,0,Matches
-Wataru Endo,jp JPN,MF,30-038,23.5,52,2.22,43,0,2,3,2,2,4,0.17,2,0,0,0,1,1,Matches
-Hiroki Ito,jp JPN,DF,23-311,21.5,37,1.72,25,11,0,0,0,1,3,0.14,3,0,0,0,0,0,Matches
-Konstantinos Mavropanos,gr GRE,DF,25-098,20.8,27,1.3,18,2,2,3,1,1,3,0.14,2,0,0,0,0,1,Matches
-Florian Müller,de GER,GK,25-126,19.0,4,0.21,3,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Silas Katompa,cd COD,"FW,DF",24-164,17.3,47,2.71,27,0,8,8,4,0,5,0.29,3,0,1,0,1,0,Matches
-Chris Führich,de GER,"FW,MF",25-069,16.7,59,3.54,37,9,6,4,3,0,4,0.24,3,1,0,0,0,0,Matches
-Naouirou Ahamada,fr FRA,MF,20-355,15.5,38,2.45,31,0,3,2,1,1,7,0.45,7,0,0,0,0,0,Matches
-Borna Sosa,hr CRO,DF,25-057,15.0,73,4.87,46,25,0,1,1,0,6,0.4,5,1,0,0,0,0,Matches
-Atakan Karazor,de GER,MF,26-157,14.9,22,1.47,18,1,0,1,1,1,2,0.13,2,0,0,0,0,0,Matches
-Sehrou Guirassy,gn GUI,FW,27-007,10.8,25,2.31,14,0,1,4,6,0,1,0.09,0,0,0,0,1,0,Matches
-Tiago Tomás,pt POR,"FW,MF",20-276,10.6,27,2.55,16,2,1,2,6,0,4,0.38,3,0,1,0,0,0,Matches
-Josha Vagnoman,de GER,"DF,MF",22-098,7.7,9,1.18,7,0,1,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Dan-Axel Zagadou,fr FRA,DF,23-289,7.3,10,1.36,8,0,0,2,0,0,1,0.14,0,0,0,1,0,0,Matches
-Genki Haraguchi,jp JPN,MF,31-314,6.6,20,3.05,17,0,0,0,2,1,2,0.31,2,0,0,0,0,0,Matches
-Luca Pfeiffer,de GER,FW,26-211,7.4,22,2.97,19,0,0,2,1,0,0,0.0,0,0,0,0,0,0,Matches
-Fabian Bredlow,de GER,GK,28-017,6.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Gil Bastião Dias,pt POR,FW,26-172,4.4,12,2.72,9,0,1,0,1,1,1,0.23,1,0,0,0,0,0,Matches
-Nikolas Nartey,dk DEN,"DF,MF",23-025,4.2,8,1.92,7,0,1,0,0,0,1,0.24,1,0,0,0,0,0,Matches
-Enzo Millot,fr FRA,MF,20-245,4.6,20,4.36,13,2,1,0,2,2,1,0.22,1,0,0,0,0,0,Matches
-Pascal Stenzel,de GER,DF,26-364,3.6,13,3.57,5,8,0,0,0,0,1,0.27,1,0,0,0,0,0,Matches
-Sasa Kalajdzic,at AUT,FW,25-255,2.6,9,3.48,9,0,0,0,0,0,3,1.16,3,0,0,0,0,0,Matches
-Juan Perea,co COL,FW,23-024,3.7,9,2.41,5,0,1,0,3,0,1,0.27,1,0,0,0,0,0,Matches
-Lilian Egloff,de GER,"MF,FW",20-211,2.7,10,3.75,8,0,0,1,1,0,2,0.75,2,0,0,0,0,0,Matches
-Thomas Kastanaras,gr GRE,"FW,DF",20-069,0.8,2,2.5,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Tanguy Coulibaly,fr FRA,"FW,DF",22-029,2.2,7,3.15,4,0,3,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Darko Churlinov,mk MKD,FW,22-251,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Clinton Mola,eng ENG,DF,22-004,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Lauren Ulrich,de GER,MF,18-047,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Alou Kuol,au AUS,FW,22-173,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,25.3,25.0,591,23.64,409,65,33,38,36,10,54,2.16,43,2,2,2,3,2,
-Opponent Total,,,27.3,25.0,544,21.76,402,39,33,35,28,7,78,3.12,62,4,2,3,6,1,
+Waldemar Anton,de GER,DF,26-257,24.8,32,1.29,22,4,2,4,0,0,2,0.08,1,0,0,1,0,0,Matches
+Wataru Endo,jp JPN,MF,30-053,24.5,59,2.41,47,0,3,3,4,2,4,0.16,2,0,0,0,1,1,Matches
+Hiroki Ito,jp JPN,DF,23-326,22.5,43,1.91,29,13,0,0,0,1,3,0.13,3,0,0,0,0,0,Matches
+Konstantinos Mavropanos,gr GRE,DF,25-113,21.8,29,1.33,19,2,2,4,1,1,3,0.14,2,0,0,0,0,1,Matches
+Florian Müller,de GER,GK,25-141,19.0,4,0.21,3,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Silas Katompa,cd COD,"FW,DF",24-179,17.3,47,2.71,27,0,8,8,4,0,5,0.29,3,0,1,0,1,0,Matches
+Chris Führich,de GER,"FW,MF",25-084,17.0,60,3.53,38,9,6,4,3,0,4,0.24,3,1,0,0,0,0,Matches
+Naouirou Ahamada,fr FRA,MF,21-005,15.5,38,2.45,31,0,3,2,1,1,7,0.45,7,0,0,0,0,0,Matches
+Borna Sosa,hr CRO,DF,25-072,15.0,73,4.87,46,25,0,1,1,0,6,0.4,5,1,0,0,0,0,Matches
+Atakan Karazor,de GER,MF,26-172,14.9,22,1.47,18,1,0,1,1,1,2,0.13,2,0,0,0,0,0,Matches
+Tiago Tomás,pt POR,"FW,MF",20-291,11.3,28,2.48,17,2,1,2,6,0,4,0.35,3,0,1,0,0,0,Matches
+Sehrou Guirassy,gn GUI,FW,27-022,11.1,27,2.42,14,0,1,6,6,0,1,0.09,0,0,0,0,1,0,Matches
+Josha Vagnoman,de GER,"DF,MF",22-113,8.7,9,1.04,7,0,1,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Dan-Axel Zagadou,fr FRA,DF,23-304,8.3,11,1.32,9,0,0,2,0,0,1,0.12,0,0,0,1,0,0,Matches
+Genki Haraguchi,jp JPN,MF,31-329,7.4,21,2.83,18,0,0,0,2,1,2,0.27,2,0,0,0,0,0,Matches
+Fabian Bredlow,de GER,GK,28-032,7.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Luca Pfeiffer,de GER,FW,26-226,7.4,22,2.97,19,0,0,2,1,0,0,0.0,0,0,0,0,0,0,Matches
+Gil Bastião Dias,pt POR,FW,26-187,4.4,12,2.72,9,0,1,0,1,1,1,0.23,1,0,0,0,0,0,Matches
+Enzo Millot,fr FRA,MF,20-260,5.6,24,4.29,15,2,2,1,2,2,1,0.18,1,0,0,0,0,0,Matches
+Nikolas Nartey,dk DEN,"DF,MF",23-040,4.3,8,1.86,7,0,1,0,0,0,1,0.23,1,0,0,0,0,0,Matches
+Juan Perea,co COL,FW,23-039,4.4,9,2.03,5,0,1,0,3,0,1,0.23,1,0,0,0,0,0,Matches
+Pascal Stenzel,de GER,DF,27-014,3.6,13,3.57,5,8,0,0,0,0,1,0.27,1,0,0,0,0,0,Matches
+Sasa Kalajdzic,at AUT,FW,25-270,2.6,9,3.48,9,0,0,0,0,0,3,1.16,3,0,0,0,0,0,Matches
+Lilian Egloff,de GER,"MF,FW",20-226,2.7,10,3.75,8,0,0,1,1,0,2,0.75,2,0,0,0,0,0,Matches
+Thomas Kastanaras,gr GRE,"FW,DF",20-084,0.8,2,2.5,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Tanguy Coulibaly,fr FRA,"FW,DF",22-044,2.5,9,3.57,5,1,3,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Darko Churlinov,mk MKD,FW,22-266,0.3,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Clinton Mola,eng ENG,DF,22-019,0.2,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Lauren Ulrich,de GER,MF,18-062,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Alou Kuol,au AUS,FW,22-188,0.1,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,25.3,26.0,621,23.88,428,68,35,42,38,10,54,2.08,43,2,2,2,3,2,
+Opponent Total,,,27.3,26.0,566,21.77,418,41,36,35,29,7,82,3.15,66,4,2,3,6,1,

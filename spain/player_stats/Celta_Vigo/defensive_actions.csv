@@ -1,27 +1,27 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Joseph Aidoo,gh GHA,DF,27-171,25.8,44,30,29,14,1,15,22,68.2,7,23,12,11,24,68,120,0,Matches
-Javi Galán,es ESP,DF,28-120,25.1,77,55,45,29,3,32,68,47.1,36,39,2,37,27,104,42,1,Matches
-Iago Aspas,es ESP,FW,35-230,24.4,5,2,0,3,2,1,11,9.1,10,8,1,7,6,11,18,0,Matches
-Unai Núñez,es ESP,DF,26-048,24.0,27,19,13,13,1,9,20,45.0,11,13,9,4,51,78,94,1,Matches
-Fran Beltrán,es ESP,MF,24-044,23.3,24,16,10,10,4,9,39,23.1,30,18,4,14,39,63,28,2,Matches
-Agustín Marchesín,ar ARG,GK,35-003,19.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,7,0,Matches
-Gabriel Veiga,es ESP,MF,20-296,16.7,34,15,11,20,3,12,36,33.3,24,20,1,19,14,48,3,0,Matches
-Hugo Mallo,es ESP,DF,31-270,16.4,35,19,20,11,4,21,30,70.0,9,17,2,15,13,48,49,0,Matches
-Franco Cervi,ar ARG,MF,28-297,15.8,57,35,21,30,6,25,51,49.0,26,26,1,25,27,84,12,0,Matches
-Carles Pérez,es ESP,"MF,FW",25-031,15.2,22,14,8,8,6,10,39,25.6,29,20,3,17,5,27,7,0,Matches
-Jørgen Strand Larsen,no NOR,FW,23-041,13.9,11,5,3,3,5,5,23,21.7,18,11,3,8,2,13,19,0,Matches
-Óscar Rodríguez Arnaiz,es ESP,MF,24-264,14.3,24,21,9,12,3,11,20,55.0,9,8,1,7,15,39,10,0,Matches
-Óscar Mingueza,es ESP,DF,23-310,12.7,33,17,24,8,1,21,27,77.8,6,9,3,6,10,43,25,0,Matches
-Renato Tapia,pe PER,"MF,DF",27-234,9.0,24,14,11,11,2,7,17,41.2,10,17,10,7,11,35,16,0,Matches
-Luca de la Torre,us USA,MF,24-300,8.5,18,11,7,8,3,7,17,41.2,10,12,1,11,6,24,4,0,Matches
-Iván Villar,es ESP,GK,25-253,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0,Matches
-Gonçalo Paciência,pt POR,"FW,MF",28-230,4.5,5,3,0,4,1,1,4,25.0,3,5,1,4,0,5,2,0,Matches
-Haris Seferović,ch SUI,"FW,MF",31-025,3.5,4,2,0,4,0,2,5,40.0,3,3,0,3,1,5,1,0,Matches
-Augusto Solari,ar ARG,"MF,FW",31-075,2.4,7,5,3,3,1,1,8,12.5,7,4,0,4,4,11,3,0,Matches
-Kevin Vázquez,es ESP,"DF,MF",29-361,2.0,5,3,1,3,1,2,2,100.0,0,2,1,1,0,5,7,0,Matches
-Pablo Durán,es ESP,"MF,DF",22-053,0.4,0,0,0,0,0,0,0,,0,2,1,1,1,1,2,0,Matches
-Williot Swedberg,se SWE,MF,19-046,0.4,1,0,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
-Carlos Dominguez,es ESP,DF,22-036,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
-Hugo Sotelo,es ESP,MF,19-090,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,27.6,26.0,457,286,215,194,48,191,440,43.4,249,257,56,201,256,713,473,4,
-Opponent Total,,,28.4,26.0,424,252,213,155,56,204,409,49.9,205,250,83,167,252,676,442,8,
+Joseph Aidoo,gh GHA,DF,27-186,25.8,44,30,29,14,1,15,22,68.2,7,23,12,11,24,68,120,0,Matches
+Javi Galán,es ESP,DF,28-135,25.1,77,55,45,29,3,32,68,47.1,36,39,2,37,27,104,42,1,Matches
+Iago Aspas,es ESP,FW,35-245,24.4,5,2,0,3,2,1,11,9.1,10,8,1,7,6,11,18,0,Matches
+Unai Núñez,es ESP,DF,26-063,24.0,27,19,13,13,1,9,20,45.0,11,13,9,4,51,78,94,1,Matches
+Fran Beltrán,es ESP,MF,24-059,23.3,24,16,10,10,4,9,39,23.1,30,18,4,14,39,63,28,2,Matches
+Agustín Marchesín,ar ARG,GK,35-018,19.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,7,0,Matches
+Gabriel Veiga,es ESP,MF,20-311,16.7,34,15,11,20,3,12,36,33.3,24,20,1,19,14,48,3,0,Matches
+Hugo Mallo,es ESP,DF,31-285,16.4,35,19,20,11,4,21,30,70.0,9,17,2,15,13,48,49,0,Matches
+Franco Cervi,ar ARG,MF,28-312,15.8,57,35,21,30,6,25,51,49.0,26,26,1,25,27,84,12,0,Matches
+Carles Pérez,es ESP,"MF,FW",25-046,15.2,22,14,8,8,6,10,39,25.6,29,20,3,17,5,27,7,0,Matches
+Jørgen Strand Larsen,no NOR,FW,23-056,13.9,11,5,3,3,5,5,23,21.7,18,11,3,8,2,13,19,0,Matches
+Óscar Rodríguez Arnaiz,es ESP,MF,24-279,14.3,24,21,9,12,3,11,20,55.0,9,8,1,7,15,39,10,0,Matches
+Óscar Mingueza,es ESP,DF,23-325,12.7,33,17,24,8,1,21,27,77.8,6,9,3,6,10,43,25,0,Matches
+Renato Tapia,pe PER,"MF,DF",27-249,9.0,24,14,11,11,2,7,17,41.2,10,17,10,7,11,35,16,0,Matches
+Luca de la Torre,us USA,MF,24-315,8.5,18,11,7,8,3,7,17,41.2,10,12,1,11,6,24,4,0,Matches
+Iván Villar,es ESP,GK,25-268,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0,Matches
+Gonçalo Paciência,pt POR,"FW,MF",28-245,4.5,5,3,0,4,1,1,4,25.0,3,5,1,4,0,5,2,0,Matches
+Haris Seferović,ch SUI,"FW,MF",31-040,3.5,4,2,0,4,0,2,5,40.0,3,3,0,3,1,5,1,0,Matches
+Augusto Solari,ar ARG,"MF,FW",31-090,2.4,7,5,3,3,1,1,8,12.5,7,4,0,4,4,11,3,0,Matches
+Kevin Vázquez,es ESP,"DF,MF",30-011,2.0,5,3,1,3,1,2,2,100.0,0,2,1,1,0,5,7,0,Matches
+Pablo Durán,es ESP,"MF,DF",22-068,0.4,0,0,0,0,0,0,0,,0,2,1,1,1,1,2,0,Matches
+Williot Swedberg,se SWE,MF,19-061,0.4,1,0,0,0,1,0,0,,0,0,0,0,0,1,0,0,Matches
+Carlos Dominguez,es ESP,DF,22-051,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches
+Hugo Sotelo,es ESP,MF,19-105,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,27.7,26.0,457,286,215,194,48,191,440,43.4,249,257,56,201,256,713,473,4,
+Opponent Total,,,28.5,26.0,424,252,213,155,56,204,409,49.9,205,250,83,167,252,676,442,8,

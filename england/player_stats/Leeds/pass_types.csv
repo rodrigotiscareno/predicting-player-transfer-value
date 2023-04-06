@@ -1,31 +1,31 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Illan Meslier,fr FRA,GK,23-017,27.0,840,556,281,67,0,0,0,0,0,0,0,0,529,3,2,Matches
-Robin Koch,de GER,DF,26-245,25.5,1176,1139,34,34,2,4,1,0,0,0,0,0,906,3,21,Matches
-Tyler Adams,us USA,MF,24-033,24.0,1343,1271,72,58,1,2,2,14,0,0,0,0,1108,0,24,Matches
-Brenden Aaronson,us USA,"MF,FW",22-148,21.6,661,596,65,19,6,0,56,5,33,15,12,1,491,0,20,Matches
-Jack Harrison,eng ENG,"FW,MF",26-119,20.4,791,687,101,32,4,7,130,14,54,22,20,3,498,3,40,Matches
-Marc Roca,es ESP,MF,26-113,18.0,944,891,50,29,0,7,41,3,17,9,6,0,729,3,14,Matches
-Pascal Struijk,nl NED,DF,23-220,18.7,1081,842,234,15,0,2,17,219,0,0,0,0,853,5,24,Matches
-Rodrigo,es ESP,"FW,MF",32-013,14.9,406,365,38,0,4,8,13,5,1,0,0,0,284,3,7,Matches
-Luke Ayling,eng ENG,DF,31-206,13.8,669,534,130,12,0,9,32,118,0,0,0,0,471,5,24,Matches
-Rasmus Nissen,dk DEN,DF,25-251,13.4,717,554,161,7,0,0,27,154,0,0,0,0,499,2,26,Matches
-Liam Cooper,sct SCO,DF,31-201,12.3,609,585,24,24,0,4,0,0,0,0,0,0,480,0,2,Matches
-Degnand Gnonto,it ITA,"FW,MF",19-134,11.8,409,385,20,1,4,0,35,8,10,2,1,0,288,4,31,Matches
-Patrick Bamford,eng ENG,FW,29-195,10.6,215,190,24,0,0,0,1,0,0,0,0,0,157,1,7,Matches
-Crysencio Summerville,nl NED,FW,21-140,11.3,327,320,5,1,1,1,14,1,3,0,0,0,243,2,12,Matches
-Maximilian Wöber,at AUT,DF,25-043,8.8,428,409,18,11,0,1,1,7,0,0,0,0,310,1,6,Matches
-Luis Sinisterra,co COL,FW,23-275,6.0,220,217,3,0,2,4,4,3,0,0,0,0,181,0,6,Matches
-Junior Firpo,es ESP,DF,26-209,8.2,374,306,67,5,0,1,8,62,0,0,0,0,286,1,9,Matches
-Diego Llorente,es ESP,DF,29-215,7.2,429,417,11,10,0,4,1,0,0,0,0,0,356,1,2,Matches
-Weston McKennie,us USA,MF,24-203,6.4,279,269,9,5,2,3,3,4,0,0,0,0,224,1,7,Matches
-Sam Greenwood,eng ENG,"MF,FW",21-052,3.8,162,126,36,13,0,1,36,1,22,11,11,0,99,0,1,Matches
-Daniel James,wls WAL,FW,25-129,2.2,40,40,0,0,0,0,6,0,0,0,0,0,24,0,4,Matches
-Adam Forshaw,eng ENG,MF,31-162,1.8,65,61,4,2,0,0,4,0,2,1,1,0,54,0,1,Matches
-Joe Gelhardt,eng ENG,FW,20-319,2.4,67,62,3,0,1,0,1,0,0,0,0,0,43,2,4,Matches
-Georginio Rutter,fr FRA,"FW,MF",20-333,2.1,42,40,1,0,1,0,0,0,0,0,0,0,18,1,4,Matches
-Cody Drameh,eng ENG,DF,21-101,0.8,38,31,7,1,0,0,1,6,0,0,0,0,30,0,1,Matches
-Mateusz Klich,pl POL,"MF,FW",32-279,3.1,148,139,9,2,0,0,8,4,3,1,1,0,108,0,7,Matches
-Mateo Fernández,es ESP,"FW,MF",19-151,0.3,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-Darko Gyabi,eng ENG,FW,19-029,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
-Squad Total,,,25.7,27.0,12487,11039,1407,348,28,58,442,628,145,61,52,4,9275,41,306,
-Opponent Total,,,27.3,27.0,13322,11889,1380,357,43,106,449,626,124,57,46,5,10183,53,316,
+Illan Meslier,fr FRA,GK,23-031,28.0,870,575,292,73,0,1,0,0,0,0,0,0,541,3,2,Matches
+Robin Koch,de GER,DF,26-259,26.3,1204,1167,34,34,2,4,1,0,0,0,0,0,929,3,21,Matches
+Tyler Adams,us USA,MF,24-047,24.0,1343,1271,72,58,1,2,2,14,0,0,0,0,1108,0,24,Matches
+Brenden Aaronson,us USA,"MF,FW",22-162,22.4,678,607,71,21,6,1,58,5,33,15,12,1,503,0,20,Matches
+Jack Harrison,eng ENG,"FW,MF",26-133,21.3,817,713,101,32,4,7,131,14,54,22,20,3,515,3,41,Matches
+Marc Roca,es ESP,MF,26-127,19.0,988,928,57,33,0,7,46,3,20,10,8,0,760,3,16,Matches
+Pascal Struijk,nl NED,DF,23-234,19.7,1114,873,236,17,0,2,17,219,0,0,0,0,881,5,24,Matches
+Rodrigo,es ESP,"FW,MF",32-027,15.2,413,371,39,0,4,8,13,5,1,0,0,0,290,3,7,Matches
+Luke Ayling,eng ENG,DF,31-220,14.8,712,567,140,13,0,10,33,127,0,0,0,0,505,5,25,Matches
+Rasmus Nissen,dk DEN,DF,25-265,14.4,739,576,161,7,0,0,27,154,0,0,0,0,510,2,28,Matches
+Liam Cooper,sct SCO,DF,31-215,12.5,617,592,25,25,0,4,0,0,0,0,0,0,487,0,2,Matches
+Degnand Gnonto,it ITA,"FW,MF",19-148,11.8,409,385,20,1,4,0,35,8,10,2,1,0,288,4,31,Matches
+Patrick Bamford,eng ENG,FW,29-209,10.7,216,191,24,0,0,0,1,0,0,0,0,0,157,1,7,Matches
+Crysencio Summerville,nl NED,FW,21-154,12.1,342,334,5,1,1,1,14,1,3,0,0,0,255,3,13,Matches
+Maximilian Wöber,at AUT,DF,25-057,8.8,428,409,18,11,0,1,1,7,0,0,0,0,310,1,6,Matches
+Luis Sinisterra,co COL,FW,23-289,6.7,237,234,3,0,2,4,5,3,0,0,0,0,190,0,6,Matches
+Junior Firpo,es ESP,DF,26-223,9.2,414,335,78,5,1,1,8,73,0,0,0,0,316,1,12,Matches
+Diego Llorente,es ESP,DF,29-229,7.2,429,417,11,10,0,4,1,0,0,0,0,0,356,1,2,Matches
+Weston McKennie,us USA,MF,24-217,6.7,282,272,9,5,2,3,3,4,0,0,0,0,225,1,8,Matches
+Sam Greenwood,eng ENG,"MF,FW",21-066,3.8,162,126,36,13,0,1,36,1,22,11,11,0,99,0,1,Matches
+Daniel James,wls WAL,FW,25-143,2.2,40,40,0,0,0,0,6,0,0,0,0,0,24,0,4,Matches
+Adam Forshaw,eng ENG,MF,31-176,1.8,65,61,4,2,0,0,4,0,2,1,1,0,54,0,1,Matches
+Joe Gelhardt,eng ENG,FW,20-333,2.4,67,62,3,0,1,0,1,0,0,0,0,0,43,2,4,Matches
+Georginio Rutter,fr FRA,"FW,MF",20-347,2.3,47,45,1,0,1,0,0,0,0,0,0,0,21,1,4,Matches
+Cody Drameh,eng ENG,DF,21-115,0.8,38,31,7,1,0,0,1,6,0,0,0,0,30,0,1,Matches
+Mateusz Klich,pl POL,"MF,FW",32-293,3.1,148,139,9,2,0,0,8,4,3,1,1,0,108,0,7,Matches
+Mateo Joseph,eng ENG,"FW,MF",19-165,0.3,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Darko Gyabi,eng ENG,FW,19-043,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+Squad Total,,,25.7,28.0,12826,11328,1456,364,29,61,452,648,148,62,54,4,9511,42,317,
+Opponent Total,,,27.3,28.0,13990,12516,1416,369,45,107,460,640,128,61,46,5,10748,58,328,

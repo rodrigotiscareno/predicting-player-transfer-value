@@ -1,38 +1,38 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Isak Määttä,no NOR,DF,21-181,21.9,997,784,208,16,1,7,59,186,6,4,0,0,708,5,27,Matches
-Radinio Balker,nl NED,DF,24-197,21.3,1142,1097,40,25,0,35,6,13,0,0,0,0,980,5,9,Matches
-Michael Verrips,nl NED,GK,26-106,20.0,815,583,230,42,0,3,0,0,0,0,0,0,554,2,1,Matches
-Ricardo Pepi,us USA,FW,20-069,19.0,404,360,44,2,0,1,3,0,0,0,0,0,298,0,6,Matches
-Tomáš Suslov,sk SVK,"MF,FW",20-285,16.1,471,405,65,26,1,17,71,4,31,25,2,0,306,1,14,Matches
-Laros Duarte,nl NED,MF,26-019,14.9,542,487,53,24,1,9,36,0,28,19,4,0,428,2,11,Matches
-Joey Pelupessy,nl NED,MF,29-308,14.4,447,433,12,12,0,6,0,0,0,0,0,0,395,2,4,Matches
-Neraysho Kasanwirjo,nl NED,"DF,MF",21-029,13.7,660,551,109,17,2,21,20,92,0,0,0,0,497,0,11,Matches
-Mike te Wierik,nl NED,DF,30-284,13.2,607,573,31,14,0,1,0,17,0,0,0,0,504,3,2,Matches
-Ragnar Oratmangoen,nl NED,"MF,FW",25-057,11.7,557,543,14,6,1,3,9,3,1,1,0,0,470,0,9,Matches
-Florian Krüger,de GER,"FW,MF",24-034,10.5,232,217,13,1,1,0,18,4,0,0,0,0,147,2,12,Matches
-Thijmen Blokzijl,nl NED,DF,18-022,10.6,598,587,10,9,2,2,1,1,0,0,0,0,491,1,2,Matches
-Liam van Gelderen,nl NED,DF,21-361,10.1,456,359,95,13,2,1,15,82,0,0,0,0,336,2,9,Matches
-Johan Hove,no NOR,MF,22-193,8.5,425,390,32,9,2,4,41,0,23,13,5,0,285,3,17,Matches
-Luciano Valente,nl NED,MF,19-166,7.9,246,229,14,3,2,3,12,4,4,3,0,0,174,3,11,Matches
-Cyril Ngonge,be BEL,FW,22-297,7.3,184,173,11,0,0,6,22,4,6,4,1,0,99,0,8,Matches
-Daleho Irandust,se SWE,FW,24-288,5.0,134,121,12,1,2,3,7,7,2,0,1,0,89,1,11,Matches
-Elvis Manu,nl NED,FW,29-218,4.9,110,105,3,2,0,1,3,0,0,0,0,0,77,2,5,Matches
-Damil Dankerlui,sr SUR,"DF,MF",26-207,7.2,303,262,40,3,1,4,26,37,0,0,0,0,204,1,13,Matches
-Paulos Abraham,se SWE,"FW,MF",20-246,5.4,134,133,1,0,0,0,7,1,0,0,0,0,99,0,4,Matches
-Peter Leeuwenburgh,nl NED,GK,28-361,4.0,152,103,49,13,0,0,0,0,0,0,0,0,88,0,0,Matches
-Jørgen Strand Larsen,no NOR,FW,23-041,4.0,64,61,3,0,0,3,3,0,0,0,0,0,43,0,1,Matches
-Mads Bech Sørensen,dk DEN,DF,24-071,4.0,273,240,32,4,0,7,1,28,0,0,0,0,211,1,3,Matches
-Ramon Lundqvist,se SWE,MF,25-313,3.8,102,90,12,2,1,2,5,2,2,1,1,0,67,0,4,Matches
-Thom van Bergen,nl NED,FW,19-072,3.3,72,71,1,0,0,0,2,1,0,0,0,0,41,0,5,Matches
-Marin Šverko,hr CRO,DF,25-043,2.5,142,118,24,3,1,1,0,18,0,0,0,0,104,0,2,Matches
-Jetro Willems,nl NED,DF,28-354,1.8,96,69,27,4,1,0,3,23,0,0,0,0,71,0,1,Matches
-Matěj Chaluš,cz CZE,DF,25-045,1.0,72,71,1,1,0,1,0,0,0,0,0,0,53,0,0,Matches
-Jan de Boer,nl NED,GK,22-303,1.0,33,20,13,2,0,0,0,0,0,0,0,0,11,0,0,Matches
-Aimar Sher,se SWE,"MF,FW",20-089,1.5,53,51,2,0,0,0,2,1,1,0,0,0,39,0,1,Matches
-Yahya Kalley,se SWE,"DF,MF",21-364,1.4,53,40,13,0,0,1,3,13,0,0,0,0,33,0,1,Matches
-Oliver Antman,fi FIN,"FW,MF",21-216,0.8,30,30,0,0,1,0,1,0,0,0,0,0,20,0,1,Matches
-Nordin Musampa,nl NED,DF,21-157,0.7,19,18,1,0,0,0,0,1,0,0,0,0,13,0,1,Matches
-Romano Postema,nl NED,"MF,FW",21-040,0.4,9,8,1,0,0,0,0,0,0,0,0,0,9,0,0,Matches
-Patrick Joosten,nl NED,FW,26-339,0.3,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-Squad Total,,,23.8,25.0,10637,9385,1216,254,22,142,376,542,104,70,14,0,7947,36,206,
-Opponent Total,,,25.6,25.0,12126,10849,1226,248,27,109,504,569,167,83,54,2,9368,51,239,
+Isak Määttä,no NOR,DF,21-196,22.9,1033,813,215,16,1,7,61,193,6,4,0,0,727,5,28,Matches
+Radinio Balker,nl NED,DF,24-212,22.3,1176,1125,45,25,0,35,7,18,0,0,0,0,1004,6,9,Matches
+Michael Verrips,nl NED,GK,26-121,21.0,858,616,239,43,0,3,0,0,0,0,0,0,580,3,1,Matches
+Ricardo Pepi,us USA,FW,20-084,20.0,422,374,48,3,0,2,4,0,0,0,0,0,311,0,8,Matches
+Tomáš Suslov,sk SVK,"MF,FW",20-300,17.0,506,437,68,28,2,17,76,4,32,26,2,0,326,1,15,Matches
+Laros Duarte,nl NED,MF,26-034,15.4,554,498,54,25,1,9,36,0,28,19,4,0,438,2,11,Matches
+Joey Pelupessy,nl NED,MF,29-323,14.4,447,433,12,12,0,6,0,0,0,0,0,0,395,2,4,Matches
+Neraysho Kasanwirjo,nl NED,"DF,MF",21-044,13.7,660,551,109,17,2,21,20,92,0,0,0,0,497,0,11,Matches
+Mike te Wierik,nl NED,DF,30-299,13.2,607,573,31,14,0,1,0,17,0,0,0,0,504,3,2,Matches
+Ragnar Oratmangoen,nl NED,"MF,FW",25-072,11.7,557,543,14,6,1,3,9,3,1,1,0,0,470,0,9,Matches
+Thijmen Blokzijl,nl NED,DF,18-037,11.6,651,638,12,10,2,2,1,2,0,0,0,0,532,1,2,Matches
+Florian Krüger,de GER,"FW,MF",24-049,10.5,232,217,13,1,1,0,18,4,0,0,0,0,147,2,12,Matches
+Liam van Gelderen,nl NED,"DF,MF",22-011,10.4,475,372,101,14,2,2,15,87,0,0,0,0,350,2,9,Matches
+Johan Hove,no NOR,MF,22-208,9.5,473,433,37,10,2,5,47,0,27,16,6,0,316,3,17,Matches
+Luciano Valente,it ITA,MF,19-181,7.9,246,229,14,3,2,3,12,4,4,3,0,0,174,3,11,Matches
+Cyril Ngonge,be BEL,FW,22-312,7.3,184,173,11,0,0,6,22,4,6,4,1,0,99,0,8,Matches
+Elvis Manu,nl NED,FW,29-233,5.7,125,120,3,2,0,2,5,0,0,0,0,0,85,2,6,Matches
+Daleho Irandust,se SWE,FW,24-303,5.0,134,121,12,1,2,3,7,7,2,0,1,0,89,1,11,Matches
+Damil Dankerlui,sr SUR,"DF,MF",26-222,7.2,303,262,40,3,1,4,26,37,0,0,0,0,204,1,13,Matches
+Paulos Abraham,se SWE,"FW,MF",20-261,5.4,134,133,1,0,0,0,7,1,0,0,0,0,99,0,4,Matches
+Mads Bech Sørensen,dk DEN,DF,24-086,5.0,327,293,33,5,0,8,2,28,0,0,0,0,252,1,5,Matches
+Peter Leeuwenburgh,nl NED,GK,29-011,4.0,152,103,49,13,0,0,0,0,0,0,0,0,88,0,0,Matches
+Jørgen Strand Larsen,no NOR,FW,23-056,4.0,64,61,3,0,0,3,3,0,0,0,0,0,43,0,1,Matches
+Ramon Lundqvist,se SWE,MF,25-328,3.8,102,90,12,2,1,2,5,2,2,1,1,0,67,0,4,Matches
+Jetro Willems,nl NED,DF,29-004,2.8,158,115,42,9,1,4,5,33,0,0,0,0,110,1,3,Matches
+Thom van Bergen,nl NED,FW,19-087,3.3,72,71,1,0,0,0,2,1,0,0,0,0,41,0,5,Matches
+Marin Šverko,hr CRO,DF,25-058,2.5,142,118,24,3,1,1,0,18,0,0,0,0,104,0,2,Matches
+Matěj Chaluš,cz CZE,"DF,FW",25-060,1.1,76,75,1,1,0,1,0,0,0,0,0,0,57,0,0,Matches
+Jan de Boer,nl NED,GK,22-318,1.0,33,20,13,2,0,0,0,0,0,0,0,0,11,0,0,Matches
+Aimar Sher,se SWE,"MF,FW",20-104,1.5,53,51,2,0,0,0,2,1,1,0,0,0,39,0,1,Matches
+Yahya Kalley,se SWE,"DF,MF",22-014,1.4,53,40,13,0,0,1,3,13,0,0,0,0,33,0,1,Matches
+Oliver Antman,fi FIN,"MF,FW",21-231,1.3,41,40,1,0,1,0,2,1,0,0,0,0,26,0,1,Matches
+Nordin Musampa,nl NED,DF,21-172,0.7,19,18,1,0,0,0,0,1,0,0,0,0,13,0,1,Matches
+Romano Postema,nl NED,"MF,FW",21-055,0.4,9,8,1,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+Patrick Joosten,nl NED,FW,26-354,0.3,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Squad Total,,,23.9,26.0,11081,9767,1275,268,23,151,397,571,109,74,15,0,8243,39,215,
+Opponent Total,,,25.6,26.0,12569,11241,1276,261,29,113,519,594,169,85,54,2,9671,52,247,

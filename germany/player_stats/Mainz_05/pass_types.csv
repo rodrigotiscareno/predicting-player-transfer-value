@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Karim Onisiwo,at AUT,"FW,MF",31-002,20.7,462,408,51,0,0,1,43,4,0,0,0,0,261,3,29,Matches
-Dominik Kohr,de GER,MF,29-047,17.6,831,800,27,25,4,5,3,2,0,0,0,0,596,4,13,Matches
-Robin Zentner,de GER,GK,28-142,18.0,572,404,166,42,0,1,0,0,0,0,0,0,320,2,0,Matches
-Edimilson Fernandes,ch SUI,DF,26-338,17.9,786,701,82,27,0,12,44,28,27,17,10,0,569,3,15,Matches
-Lee Jae-sung,kr KOR,MF,30-221,15.5,585,570,9,3,1,3,19,4,0,0,0,0,422,6,22,Matches
-Aarón Martín,es ESP,DF,25-331,16.5,849,596,250,34,0,3,126,165,51,39,11,0,641,3,23,Matches
-Stefan Bell,de GER,DF,31-207,16.7,792,763,24,23,1,5,12,1,0,0,0,0,610,5,7,Matches
-Leandro Barreiro Martins,lu LUX,MF,23-075,15.9,379,371,5,5,2,0,6,0,0,0,0,0,256,3,14,Matches
-Anton Stach,de GER,MF,24-124,15.9,630,580,46,20,5,5,47,2,24,19,3,0,421,4,20,Matches
-Anthony Caci,fr FRA,DF,25-261,15.0,774,661,111,16,0,18,45,83,12,8,4,0,558,2,20,Matches
-Silvan Widmer,ch SUI,DF,30-014,14.0,650,492,157,10,0,2,23,147,0,0,0,0,455,1,16,Matches
-Alexander Hack,de GER,DF,29-192,12.5,580,544,33,30,0,7,2,3,0,0,0,0,426,3,12,Matches
-Marcus Ingvartsen,dk DEN,"FW,MF",27-074,9.8,217,209,6,0,0,0,3,0,0,0,0,0,137,2,8,Matches
-Danny da Costa,de GER,DF,29-249,10.0,463,348,112,0,0,3,43,111,1,0,1,0,284,3,14,Matches
-Andreas Hanche-Olsen,no NOR,DF,26-061,7.6,339,330,8,7,0,4,3,1,0,0,0,0,225,1,3,Matches
-Maxim Leitsch,de GER,DF,24-305,7.4,328,319,9,6,0,2,0,1,0,0,0,0,249,0,2,Matches
-Ludovic Ajorque,fr FRA,FW,29-022,6.2,193,189,2,0,0,4,1,0,0,0,0,0,104,2,5,Matches
-Jonathan Burkardt,de GER,"MF,FW",22-251,5.9,109,106,1,0,2,2,11,0,0,0,0,0,71,2,5,Matches
-Finn Dahmen,de GER,GK,24-357,6.0,200,144,56,16,0,0,0,0,0,0,0,0,132,0,0,Matches
-Angelo Fulgini,fr FRA,MF,26-211,5.8,238,230,7,0,1,1,7,5,1,0,0,0,188,1,3,Matches
-Aymen Barkok,ma MAR,MF,24-302,4.2,165,154,8,0,1,1,10,5,3,1,1,0,114,3,5,Matches
-Delano Burgzorg,nl NED,"FW,MF",24-132,2.3,42,37,3,1,0,0,1,1,1,0,0,0,31,2,3,Matches
-Niklas Tauer,de GER,"DF,MF",22-030,1.0,56,55,1,0,0,0,1,1,0,0,0,0,50,0,1,Matches
-Suliman Mustapha,at AUT,"FW,MF",21-299,0.8,19,18,1,0,0,0,0,1,0,0,0,0,10,0,1,Matches
-Nelson Weiper,de GER,"FW,MF",18-002,0.2,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches
-Brajan Gruda,de GER,MF,18-292,0.0,4,4,0,0,0,0,1,0,0,0,0,0,2,0,0,Matches
-Squad Total,,,27.6,24.0,10270,9040,1175,265,17,79,451,565,120,84,30,0,7138,55,241,
-Opponent Total,,,27.3,24.0,12445,11160,1250,366,29,82,380,546,99,40,45,0,9414,35,245,
+Karim Onisiwo,at AUT,"FW,MF",31-017,21.1,467,413,51,0,0,1,43,4,0,0,0,0,264,3,31,Matches
+Robin Zentner,de GER,GK,28-157,20.0,633,442,189,48,0,1,0,0,0,0,0,0,363,2,0,Matches
+Edimilson Fernandes,ch SUI,DF,26-353,19.7,854,760,90,30,0,13,50,28,32,18,14,0,605,4,16,Matches
+Dominik Kohr,de GER,MF,29-062,18.8,888,854,30,26,4,5,3,4,0,0,0,0,639,4,15,Matches
+Lee Jae-sung,kr KOR,MF,30-236,16.4,624,608,9,3,2,3,21,4,0,0,0,0,447,7,23,Matches
+Stefan Bell,de GER,DF,31-222,18.7,855,823,27,26,1,5,12,1,0,0,0,0,650,5,9,Matches
+Leandro Barreiro Martins,lu LUX,MF,23-090,17.7,419,411,5,5,2,0,6,0,0,0,0,0,282,3,17,Matches
+Anton Stach,de GER,MF,24-139,17.7,707,653,50,23,5,5,55,2,25,20,3,0,479,4,21,Matches
+Anthony Caci,fr FRA,DF,25-276,17.0,847,716,129,20,0,19,48,97,12,8,4,0,611,2,21,Matches
+Aarón Martín,es ESP,DF,25-346,16.6,855,600,252,34,0,3,127,166,52,39,12,0,646,3,24,Matches
+Silvan Widmer,ch SUI,DF,30-029,15.1,712,531,180,12,0,2,23,168,0,0,0,0,500,1,19,Matches
+Alexander Hack,de GER,DF,29-207,12.5,580,544,33,30,0,7,2,3,0,0,0,0,426,3,12,Matches
+Marcus Ingvartsen,dk DEN,"FW,MF",27-089,11.3,258,247,9,0,0,0,4,0,0,0,0,0,165,2,11,Matches
+Danny da Costa,de GER,DF,29-264,10.9,488,367,118,0,0,3,47,117,1,0,1,0,294,3,15,Matches
+Andreas Hanche-Olsen,no NOR,DF,26-076,9.6,416,406,9,7,0,4,5,2,0,0,0,0,274,1,4,Matches
+Ludovic Ajorque,fr FRA,FW,29-037,8.2,253,248,3,0,1,4,1,1,0,0,0,0,142,2,7,Matches
+Maxim Leitsch,de GER,DF,24-320,7.4,328,319,9,6,0,2,0,1,0,0,0,0,249,0,2,Matches
+Jonathan Burkardt,de GER,"MF,FW",22-266,5.9,109,106,1,0,2,2,11,0,0,0,0,0,71,2,5,Matches
+Finn Dahmen,de GER,GK,25-007,6.0,200,144,56,16,0,0,0,0,0,0,0,0,132,0,0,Matches
+Angelo Fulgini,fr FRA,MF,26-226,5.8,238,230,7,0,1,1,7,5,1,0,0,0,188,1,3,Matches
+Aymen Barkok,ma MAR,MF,24-317,4.6,187,175,9,1,1,1,12,5,3,1,1,0,125,3,7,Matches
+Delano Burgzorg,nl NED,"FW,MF",24-147,2.4,43,38,3,1,0,0,1,1,1,0,0,0,32,2,3,Matches
+Niklas Tauer,de GER,"DF,MF",22-045,1.0,56,55,1,0,0,0,1,1,0,0,0,0,50,0,1,Matches
+Suliman Mustapha,at AUT,"FW,MF",21-314,0.8,19,18,1,0,0,0,0,1,0,0,0,0,10,0,1,Matches
+Nelson Weiper,de GER,"FW,MF",18-017,0.4,12,12,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Brajan Gruda,de GER,MF,18-307,0.0,4,4,0,0,0,0,1,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,27.6,26.0,11052,9724,1271,288,19,81,480,611,127,86,35,0,7656,57,267,
+Opponent Total,,,27.4,26.0,13701,12295,1367,404,32,89,422,598,107,43,50,0,10391,39,270,

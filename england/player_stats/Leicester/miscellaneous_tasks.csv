@@ -1,31 +1,31 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Danny Ward,wls WAL,GK,29-270,26.0,0,0,0,0,5,0,0,0,1,0,0,0,27,3,0,100.0,Matches
-Timothy Castagne,be BEL,DF,27-104,25.2,2,0,0,19,10,4,48,31,36,0,1,0,136,37,45,45.1,Matches
-Harvey Barnes,eng ENG,"MF,FW",25-100,22.6,2,0,0,28,23,6,29,6,13,0,0,0,72,26,44,37.1,Matches
-Kiernan Dewsbury-Hall,eng ENG,MF,24-194,21.7,2,0,0,28,27,1,42,25,24,0,0,0,130,15,12,55.6,Matches
-Wout Faes,be BEL,DF,24-350,20.0,5,1,1,19,13,0,0,30,23,0,0,2,117,39,27,59.1,Matches
-Youri Tielemans,be BEL,MF,25-316,19.0,3,0,0,24,14,0,33,19,28,0,0,0,156,17,10,63.0,Matches
-James Maddison,eng ENG,"MF,FW",26-116,18.1,8,0,0,20,48,3,77,11,15,0,0,0,63,2,8,20.0,Matches
-Daniel Amartey,gh GHA,DF,28-088,16.9,1,0,0,7,3,0,0,8,6,0,1,0,98,29,25,53.7,Matches
-James Justin,eng ENG,DF,25-024,13.9,0,0,0,8,29,2,21,15,18,1,0,0,64,23,32,41.8,Matches
-Wilfred Ndidi,ng NGA,"MF,DF",26-093,11.9,3,0,0,20,9,0,1,23,29,0,1,0,99,12,15,44.4,Matches
-Boubakary Soumaré,fr FRA,MF,24-020,10.3,5,0,0,19,10,0,2,19,25,0,0,0,71,10,9,52.6,Matches
-Jamie Vardy,eng ENG,FW,36-067,14.3,1,0,0,18,2,16,4,2,3,0,0,0,29,33,42,44.0,Matches
-Patson Daka,zm ZAM,FW,24-161,9.4,2,0,0,12,9,5,4,3,5,1,0,0,26,14,25,35.9,Matches
-Jonny Evans,nir NIR,DF,35-075,9.0,0,0,0,7,4,0,0,16,4,0,0,0,46,20,11,64.5,Matches
-Luke Thomas,eng ENG,DF,21-282,7.7,1,0,0,7,7,0,6,22,11,0,0,1,45,8,8,50.0,Matches
-Kelechi Iheanacho,ng NGA,"FW,MF",26-167,8.3,0,0,0,12,1,7,4,0,2,0,0,0,22,4,22,15.4,Matches
-Harry Souttar,au AUS,DF,24-148,7.0,1,0,0,3,4,1,0,6,7,0,0,1,39,28,3,90.3,Matches
-Nampalys Mendy,sn SEN,MF,30-269,6.8,1,0,0,8,8,0,1,11,6,0,0,0,41,3,6,33.3,Matches
-Tetê,br BRA,FW,23-032,5.0,0,0,0,2,9,3,11,1,6,0,0,0,37,4,9,30.8,Matches
-Dennis Praet,be BEL,"MF,FW",28-309,6.0,1,0,0,6,7,1,14,5,8,0,0,0,41,1,10,9.1,Matches
-Victor Bernth Kristiansen,dk DEN,DF,20-093,3.9,0,0,0,3,4,0,11,1,12,0,0,0,24,4,5,44.4,Matches
-Ayoze Pérez,es ESP,"MF,FW",29-233,4.2,0,0,0,7,12,0,17,2,8,0,0,0,35,2,4,33.3,Matches
-Ricardo Pereira,pt POR,"DF,MF",29-164,3.1,1,0,0,3,0,0,11,3,3,0,0,0,22,2,9,18.2,Matches
-Wesley Fofana,fr FRA,DF,22-092,2.0,1,0,0,2,3,1,0,9,2,0,0,0,10,5,6,45.5,Matches
-Marc Albrighton,eng ENG,"FW,MF",33-121,2.6,0,0,0,2,2,1,28,1,1,0,0,0,13,1,1,50.0,Matches
-Daniel Iversen,dk DEN,GK,25-243,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
-Çağlar Söyüncü,tr TUR,DF,26-300,0.9,1,0,0,1,0,0,0,1,1,0,0,0,2,0,1,0.0,Matches
-Lewis Brunt,eng ENG,DF,22-133,0.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
-Squad Total,,,27.0,27.0,41,1,1,285,264,51,364,270,297,2,3,4,1467,342,389,46.8,
-Opponent Total,,,27.1,27.0,45,2,2,272,272,55,478,264,248,2,2,2,1523,389,342,53.2,
+Timothy Castagne,be BEL,DF,27-119,26.2,2,0,0,19,10,4,49,32,39,0,1,0,145,38,46,45.2,Matches
+Danny Ward,wls WAL,GK,29-285,26.0,0,0,0,0,5,0,0,0,1,0,0,0,27,3,0,100.0,Matches
+Harvey Barnes,eng ENG,"FW,MF",25-115,23.6,2,0,0,28,24,6,31,7,13,0,0,0,75,28,45,38.4,Matches
+Kiernan Dewsbury-Hall,eng ENG,MF,24-209,22.7,3,0,0,31,28,1,44,25,26,0,0,0,133,15,12,55.6,Matches
+Wout Faes,be BEL,DF,25-000,21.0,5,1,1,19,14,0,0,31,24,0,0,2,122,40,28,58.8,Matches
+James Maddison,eng ENG,"MF,FW",26-131,19.1,8,0,0,21,50,4,78,11,16,0,0,0,66,2,9,18.2,Matches
+Youri Tielemans,be BEL,MF,25-331,19.0,3,0,0,24,14,0,33,19,28,0,0,0,156,17,10,63.0,Matches
+Daniel Amartey,gh GHA,DF,28-103,16.9,1,0,0,7,3,0,0,8,6,0,1,0,98,29,25,53.7,Matches
+James Justin,eng ENG,DF,25-039,13.9,0,0,0,8,29,2,21,15,18,1,0,0,64,23,32,41.8,Matches
+Wilfred Ndidi,ng NGA,"MF,DF",26-108,12.9,4,0,0,25,9,0,1,29,30,0,1,0,103,17,16,51.5,Matches
+Boubakary Soumaré,fr FRA,MF,24-035,10.3,5,0,0,19,10,0,2,19,25,0,0,0,71,10,9,52.6,Matches
+Patson Daka,zm ZAM,FW,24-176,10.2,2,0,0,13,10,6,4,3,5,1,0,0,27,17,30,36.2,Matches
+Jamie Vardy,eng ENG,FW,36-082,14.3,1,0,0,18,2,16,4,2,3,0,0,0,29,33,42,44.0,Matches
+Jonny Evans,nir NIR,DF,35-090,9.0,0,0,0,7,4,0,0,16,4,0,0,0,46,20,11,64.5,Matches
+Luke Thomas,eng ENG,DF,21-297,8.0,1,0,0,7,7,0,6,23,13,0,0,1,47,9,9,50.0,Matches
+Harry Souttar,au AUS,DF,24-163,8.0,2,0,0,5,5,1,0,8,7,0,0,1,39,30,3,90.9,Matches
+Kelechi Iheanacho,ng NGA,"FW,MF",26-182,8.5,0,0,0,12,2,7,4,0,2,0,0,0,22,5,24,17.2,Matches
+Tetê,br BRA,FW,23-047,5.5,0,0,0,3,11,3,11,2,6,0,0,0,43,4,10,28.6,Matches
+Nampalys Mendy,sn SEN,MF,30-284,6.8,1,0,0,8,8,0,1,11,6,0,0,0,41,3,6,33.3,Matches
+Dennis Praet,be BEL,"MF,FW",28-324,6.0,1,0,0,6,7,1,14,5,8,0,0,0,41,1,10,9.1,Matches
+Victor Bernth Kristiansen,dk DEN,DF,20-108,4.5,1,0,0,6,4,0,11,2,13,0,0,0,30,4,6,40.0,Matches
+Ayoze Pérez,es ESP,"MF,FW",29-248,4.2,0,0,0,7,12,0,17,2,8,0,0,0,35,2,4,33.3,Matches
+Ricardo Pereira,pt POR,"DF,MF",29-179,3.6,1,0,0,3,1,0,12,3,4,0,0,0,25,3,9,25.0,Matches
+Wesley Fofana,fr FRA,DF,22-107,2.0,1,0,0,2,3,1,0,9,2,0,0,0,10,5,6,45.5,Matches
+Daniel Iversen,dk DEN,GK,25-258,2.0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,,Matches
+Marc Albrighton,eng ENG,"FW,MF",33-136,2.6,0,0,0,2,2,1,28,1,1,0,0,0,13,1,1,50.0,Matches
+Çağlar Söyüncü,tr TUR,DF,26-315,0.9,1,0,0,1,0,0,0,1,1,0,0,0,2,0,1,0.0,Matches
+Lewis Brunt,eng ENG,DF,22-148,0.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+Squad Total,,,27.0,28.0,45,1,1,301,275,53,371,284,309,2,3,5,1513,359,404,47.1,
+Opponent Total,,,27.1,28.0,48,2,2,284,288,56,502,273,256,2,2,2,1581,404,359,52.9,

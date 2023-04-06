@@ -1,32 +1,32 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Pietro Terracciano,it ITA,GK,33-011,22.0,2,0.09,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Cristiano Biraghi,it ITA,DF,30-199,21.0,101,4.81,44,54,1,2,0,0,4,0.19,2,2,0,0,0,0,Matches
-Dodô,br BRA,DF,24-122,17.5,44,2.52,39,1,1,2,1,0,3,0.17,3,0,0,0,0,0,Matches
-Sofyan Amrabat,ma MAR,MF,26-210,17.4,29,1.66,26,0,0,0,2,1,0,0.0,0,0,0,0,0,0,Matches
-Giacomo Bonaventura,it ITA,MF,33-209,17.2,55,3.2,37,4,4,5,5,0,5,0.29,4,0,0,0,1,0,Matches
-Lucas Martínez Quarta,ar ARG,DF,26-313,17.1,16,0.94,10,1,0,4,0,1,2,0.12,2,0,0,0,0,0,Matches
-Jonathan Ikone,fr FRA,FW,24-321,16.7,48,2.87,37,0,8,1,2,0,9,0.54,6,0,2,0,1,0,Matches
-Nikola Milenković,rs SRB,DF,25-158,16.7,20,1.2,17,0,0,3,0,0,2,0.12,2,0,0,0,0,0,Matches
-Christian Kouamé,ci CIV,FW,25-103,16.0,63,3.95,49,0,4,4,6,0,4,0.25,3,0,1,0,0,0,Matches
-Igor,br BRA,DF,25-040,15.1,14,0.92,11,0,2,0,0,1,1,0.07,1,0,0,0,0,0,Matches
-Rolando Mandragora,it ITA,MF,25-263,14.1,67,4.75,45,16,0,4,1,1,6,0.43,4,1,0,0,1,0,Matches
-Antonín Barák,cz CZE,MF,28-106,13.7,30,2.19,26,0,1,2,1,0,1,0.07,1,0,0,0,0,0,Matches
-Luka Jović,rs SRB,FW,25-086,12.9,31,2.4,21,0,2,6,2,0,0,0.0,0,0,0,0,0,0,Matches
-Arthur,br BRA,FW,24-328,10.1,25,2.48,19,0,1,2,3,0,1,0.1,1,0,0,0,0,0,Matches
-Riccardo Saponara,it ITA,FW,31-088,9.4,38,4.05,27,0,3,5,2,1,4,0.43,3,0,0,1,0,0,Matches
-Nicolás González,ar ARG,"FW,MF",24-347,9.1,38,4.17,26,0,2,5,4,1,3,0.33,2,0,0,1,0,0,Matches
-Alfred Duncan,gh GHA,MF,30-009,6.7,19,2.81,18,0,0,1,0,0,2,0.3,2,0,0,0,0,0,Matches
-Lorenzo Venuti,it ITA,DF,27-341,6.8,17,2.49,11,4,1,1,0,0,2,0.29,1,1,0,0,0,0,Matches
-Riccardo Sottil,it ITA,FW,23-289,4.8,26,5.4,21,0,1,2,2,0,2,0.42,2,0,0,0,0,0,Matches
-Aleksa Terzić,rs SRB,DF,23-214,5.6,27,4.82,19,5,2,1,0,0,2,0.36,0,1,0,1,0,0,Matches
-Youssef Maleh,it ITA,MF,24-209,3.3,7,2.12,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Luca Ranieri,it ITA,DF,23-330,3.1,3,0.96,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Pierluigi Gollini,it ITA,GK,28-001,3.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Alessandro Bianco,it ITA,MF,20-169,1.2,3,2.41,2,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
-Marco Benassi,it ITA,DF,28-192,1.0,1,0.97,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Salvatore Sirigu,it ITA,GK,36-066,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Gaetano Castrovilli,it ITA,MF,26-030,1.4,3,2.21,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Josip Brekalo,hr CRO,FW,24-269,0.7,3,4.22,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Szymon Żurkowski,pl POL,MF,25-175,0.4,2,5.63,2,0,0,0,0,0,1,2.81,1,0,0,0,0,0,Matches
-Squad Total,,,27.3,26.0,732,28.15,524,85,33,52,32,6,54,2.08,40,5,3,3,3,0,
-Opponent Total,,,27.3,26.0,428,16.46,304,40,27,29,17,11,50,1.92,37,3,2,5,2,1,
+Pietro Terracciano,it ITA,GK,33-026,24.0,3,0.12,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Cristiano Biraghi,it ITA,DF,30-214,23.0,110,4.78,48,59,1,2,0,0,4,0.17,2,2,0,0,0,0,Matches
+Dodô,br BRA,DF,24-137,19.5,50,2.57,44,1,1,2,1,1,3,0.15,3,0,0,0,0,0,Matches
+Sofyan Amrabat,ma MAR,MF,26-225,18.7,33,1.76,30,0,0,0,2,1,0,0.0,0,0,0,0,0,0,Matches
+Giacomo Bonaventura,it ITA,MF,33-224,18.3,62,3.39,42,4,4,7,5,0,5,0.27,4,0,0,0,1,0,Matches
+Nikola Milenković,rs SRB,DF,25-173,18.2,21,1.15,18,0,0,3,0,0,2,0.11,2,0,0,0,0,0,Matches
+Jonathan Ikone,fr FRA,FW,24-336,17.6,50,2.84,39,0,8,1,2,0,9,0.51,6,0,2,0,1,0,Matches
+Lucas Martínez Quarta,ar ARG,DF,26-328,17.6,19,1.08,13,1,0,4,0,1,2,0.11,2,0,0,0,0,0,Matches
+Christian Kouamé,ci CIV,FW,25-118,16.7,67,4.0,53,0,4,4,6,0,4,0.24,3,0,1,0,0,0,Matches
+Igor,br BRA,DF,25-055,17.1,14,0.82,11,0,2,0,0,1,1,0.06,1,0,0,0,0,0,Matches
+Rolando Mandragora,it ITA,MF,25-278,15.9,73,4.6,50,16,0,5,1,1,6,0.38,4,1,0,0,1,0,Matches
+Antonín Barák,cz CZE,MF,28-121,14.8,32,2.16,27,0,2,2,1,0,1,0.07,1,0,0,0,0,0,Matches
+Luka Jović,rs SRB,FW,25-101,12.9,31,2.4,21,0,2,6,2,0,0,0.0,0,0,0,0,0,0,Matches
+Riccardo Saponara,it ITA,FW,31-103,10.9,46,4.23,33,0,4,5,3,1,4,0.37,3,0,0,1,0,0,Matches
+Arthur,br BRA,FW,24-343,11.3,31,2.74,24,0,1,3,3,0,2,0.18,1,0,0,1,0,0,Matches
+Nicolás González,ar ARG,"FW,MF",24-362,10.1,42,4.18,29,0,2,5,5,1,3,0.3,2,0,0,1,0,0,Matches
+Alfred Duncan,gh GHA,MF,30-024,6.8,20,2.93,19,0,0,1,0,0,2,0.29,2,0,0,0,0,0,Matches
+Lorenzo Venuti,it ITA,DF,27-356,6.8,17,2.49,11,4,1,1,0,0,2,0.29,1,1,0,0,0,0,Matches
+Riccardo Sottil,it ITA,FW,23-304,5.3,28,5.26,22,0,1,2,3,0,2,0.38,2,0,0,0,0,0,Matches
+Aleksa Terzić,rs SRB,DF,23-229,5.6,27,4.82,19,5,2,1,0,0,2,0.36,0,1,0,1,0,0,Matches
+Youssef Maleh,it ITA,MF,24-224,3.3,7,2.12,7,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Luca Ranieri,it ITA,DF,23-345,3.3,3,0.91,3,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Pierluigi Gollini,it ITA,GK,28-016,3.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Alessandro Bianco,it ITA,MF,20-184,1.2,3,2.41,2,0,0,0,1,0,0,0.0,0,0,0,0,0,0,Matches
+Gaetano Castrovilli,it ITA,MF,26-045,2.1,4,1.93,3,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Marco Benassi,it ITA,DF,28-207,1.0,1,0.97,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Salvatore Sirigu,it ITA,GK,36-081,1.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Josip Brekalo,hr CRO,FW,24-284,0.7,3,4.22,2,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Szymon Żurkowski,pl POL,MF,25-190,0.4,2,5.63,2,0,0,0,0,0,1,2.81,1,0,0,0,0,0,Matches
+Squad Total,,,27.4,28.0,799,28.54,576,90,35,56,35,7,55,1.96,40,5,3,4,3,0,
+Opponent Total,,,27.3,28.0,470,16.79,327,45,34,33,20,11,50,1.79,37,3,2,5,2,1,

@@ -1,33 +1,33 @@
 Player,Nation,Pos,Age,90s,SCA,SCA90,PassLive,PassDead,TO,Sh,Fld,Def,GCA,GCA90,PassLive.1,PassDead.1,TO.1,Sh.1,Fld.1,Def.1,Matches
-Yunis Abdelhamid,ma MAR,DF,35-172,27.0,33,1.22,27,0,0,4,0,2,4,0.15,3,0,0,1,0,0,Matches
-Folarin Balogun,eng ENG,FW,21-259,22.5,51,2.26,32,0,8,6,5,0,7,0.31,3,0,2,0,2,0,Matches
-Junya Ito,jp JPN,FW,30-010,21.7,95,4.38,69,8,10,3,4,1,11,0.51,8,1,2,0,0,0,Matches
-Yehvann Diouf,fr FRA,GK,23-123,20.0,3,0.15,2,1,0,0,0,0,1,0.05,1,0,0,0,0,0,Matches
-Marshall Munetsi,zw ZIM,MF,26-270,19.5,47,2.41,35,0,2,4,5,1,1,0.05,1,0,0,0,0,0,Matches
-Azor Matusiwa,nl NED,MF,24-325,19.2,43,2.24,42,0,0,0,0,1,3,0.16,3,0,0,0,0,0,Matches
-Emmanuel Agbadou,ci CIV,DF,25-275,18.8,21,1.12,17,1,0,3,0,0,3,0.16,2,0,0,1,0,0,Matches
-Alexis Flips,fr FRA,"DF,FW",23-060,14.7,62,4.2,44,9,1,6,0,2,9,0.61,8,0,0,1,0,0,Matches
-Thibault De Smet,be BEL,DF,24-287,12.8,13,1.01,11,2,0,0,0,0,1,0.08,1,0,0,0,0,0,Matches
-Dion Lopy,sn SEN,MF,21-045,11.9,33,2.77,24,2,1,3,3,0,4,0.34,2,0,0,0,2,0,Matches
-Banzouzi Locko,fr FRA,DF,20-317,11.8,21,1.78,18,0,1,0,1,1,0,0.0,0,0,0,0,0,0,Matches
-Thomas Foket,be BEL,DF,28-175,11.9,23,1.93,21,0,0,0,1,1,0,0.0,0,0,0,0,0,0,Matches
-Andrew Gravillon,gp GLP,DF,25-039,11.5,9,0.78,5,2,0,2,0,0,1,0.09,1,0,0,0,0,0,Matches
-Kamory Doumbia,ml MLI,MF,20-029,10.1,36,3.56,30,0,2,2,1,1,3,0.3,3,0,0,0,0,0,Matches
-Arber Zeneli,xk KVX,"FW,MF",28-022,10.0,44,4.39,28,7,6,2,1,0,5,0.5,5,0,0,0,0,0,Matches
-Jens Cajuste,se SWE,MF,23-221,11.0,34,3.1,26,0,2,1,1,4,3,0.27,2,0,1,0,0,0,Matches
-Maxime Busi,be BEL,DF,23-156,7.1,13,1.84,12,0,0,0,0,1,1,0.14,1,0,0,0,0,0,Matches
-Patrick Pentz,at AUT,GK,26-076,7.0,2,0.29,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Mitchell van Bergen,nl NED,"FW,DF",23-204,8.3,25,3.02,17,2,2,2,1,1,3,0.36,1,0,0,1,1,0,Matches
-Check Keita,fr FRA,DF,19-351,5.1,5,0.99,5,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Wout Faes,be BEL,DF,24-350,3.0,3,1.0,3,0,0,0,0,0,2,0.67,2,0,0,0,0,0,Matches
-Noah Holm,no NOR,"FW,MF",21-300,2.2,7,3.28,4,0,0,0,1,2,0,0.0,0,0,0,0,0,0,Matches
-Myziane Maolida,fr FRA,"FW,MF",24-033,1.7,2,1.15,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
-Ibrahim Diakité,gn GUI,DF,19-139,1.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-El Bilal Touré,ml MLI,FW,21-167,1.0,2,1.98,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Martin Adeline,fr FRA,"MF,FW",19-107,1.2,2,1.68,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Nathanael Mbuku,fr FRA,"FW,MF",21-003,0.7,1,1.36,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Kaj Sierhuis,nl NED,"FW,MF",24-326,0.6,1,1.8,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Valentin Atangana Edoa,fr FRA,MF,17-206,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Rafik Guitane,fr FRA,FW,23-297,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
-Squad Total,,,25.5,27.0,631,23.37,480,35,35,39,24,18,62,2.3,47,1,5,4,5,0,
-Opponent Total,,,26.9,27.0,588,21.78,439,40,31,44,27,7,42,1.56,27,4,2,5,3,1,
+Yunis Abdelhamid,ma MAR,DF,35-187,28.0,34,1.21,28,0,0,4,0,2,4,0.14,3,0,0,1,0,0,Matches
+Folarin Balogun,eng ENG,FW,21-274,23.5,53,2.25,34,0,8,6,5,0,7,0.3,3,0,2,0,2,0,Matches
+Junya Ito,jp JPN,FW,30-025,22.7,99,4.36,70,10,11,3,4,1,11,0.48,8,1,2,0,0,0,Matches
+Yehvann Diouf,fr FRA,GK,23-138,21.0,3,0.14,2,1,0,0,0,0,1,0.05,1,0,0,0,0,0,Matches
+Marshall Munetsi,zw ZIM,MF,26-285,20.5,53,2.58,40,0,3,4,5,1,3,0.15,2,0,1,0,0,0,Matches
+Azor Matusiwa,nl NED,MF,24-340,20.0,44,2.2,43,0,0,0,0,1,3,0.15,3,0,0,0,0,0,Matches
+Alexis Flips,fr FRA,"FW,DF",23-075,15.6,68,4.37,49,9,1,7,0,2,9,0.58,8,0,0,1,0,0,Matches
+Emmanuel Agbadou,ci CIV,DF,25-290,18.9,23,1.21,18,1,0,4,0,0,3,0.16,2,0,0,1,0,0,Matches
+Thibault De Smet,be BEL,DF,24-302,13.8,15,1.08,13,2,0,0,0,0,1,0.07,1,0,0,0,0,0,Matches
+Dion Lopy,sn SEN,MF,21-060,12.9,36,2.8,26,2,1,3,4,0,4,0.31,2,0,0,0,2,0,Matches
+Thomas Foket,be BEL,DF,28-190,12.9,23,1.78,21,0,0,0,1,1,0,0.0,0,0,0,0,0,0,Matches
+Banzouzi Locko,fr FRA,DF,20-332,11.8,21,1.78,18,0,1,0,1,1,0,0.0,0,0,0,0,0,0,Matches
+Andrew Gravillon,gp GLP,DF,25-054,11.5,9,0.78,5,2,0,2,0,0,1,0.09,1,0,0,0,0,0,Matches
+Kamory Doumbia,ml MLI,MF,20-044,10.1,36,3.56,30,0,2,2,1,1,3,0.3,3,0,0,0,0,0,Matches
+Arber Zeneli,xk KVX,"FW,MF",28-037,10.0,44,4.39,28,7,6,2,1,0,5,0.5,5,0,0,0,0,0,Matches
+Jens Cajuste,se SWE,MF,23-236,11.1,34,3.05,26,0,2,1,1,4,3,0.27,2,0,1,0,0,0,Matches
+Maxime Busi,be BEL,DF,23-171,7.1,13,1.83,12,0,0,0,0,1,1,0.14,1,0,0,0,0,0,Matches
+Patrick Pentz,at AUT,GK,26-091,7.0,2,0.29,1,1,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Check Keita,fr FRA,DF,20-001,5.9,6,1.02,6,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Mitchell van Bergen,nl NED,"FW,DF",23-219,8.5,27,3.19,19,2,2,2,1,1,3,0.35,1,0,0,1,1,0,Matches
+Wout Faes,be BEL,DF,25-000,3.0,3,1.0,3,0,0,0,0,0,2,0.67,2,0,0,0,0,0,Matches
+Noah Holm,no NOR,"FW,MF",21-315,2.2,7,3.28,4,0,0,0,1,2,0,0.0,0,0,0,0,0,0,Matches
+Myziane Maolida,fr FRA,"FW,MF",24-048,1.8,2,1.13,1,0,0,1,0,0,0,0.0,0,0,0,0,0,0,Matches
+Ibrahim Diakité,gn GUI,DF,19-154,1.5,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+El Bilal Touré,ml MLI,FW,21-182,1.0,2,1.98,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Martin Adeline,fr FRA,"MF,FW",19-122,1.2,2,1.68,2,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Nathanael Mbuku,fr FRA,"FW,MF",21-018,0.7,1,1.36,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Kaj Sierhuis,nl NED,"FW,MF",24-341,0.6,1,1.8,1,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Valentin Atangana Edoa,fr FRA,MF,17-221,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Rafik Guitane,fr FRA,FW,23-312,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0,Matches
+Squad Total,,,25.5,28.0,661,23.61,503,37,37,41,25,18,64,2.29,48,1,6,4,5,0,
+Opponent Total,,,27.0,28.0,608,21.71,453,42,32,45,29,7,45,1.61,29,4,2,5,4,1,

@@ -1,28 +1,28 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-David Soria,es ESP,GK,29-349,25.0,720,402,314,107,0,18,0,0,0,0,0,0,409,4,0,Matches
-Enes Ünal,tr TUR,FW,25-313,24.2,544,525,14,1,3,1,13,1,0,0,0,0,337,5,12,Matches
-Borja Mayoral,es ESP,FW,25-348,22.7,593,558,35,0,1,9,25,3,1,0,0,0,443,0,26,Matches
-Domingos Duarte,pt POR,DF,28-009,23.4,790,760,28,25,0,6,0,3,0,0,0,0,615,2,4,Matches
-Djené,tg TOG,DF,31-078,21.1,800,761,35,22,0,2,13,13,0,0,0,0,632,4,15,Matches
-Carles Aleñá,es ESP,MF,25-073,17.5,647,633,10,6,3,9,25,2,0,0,0,0,496,4,14,Matches
-Iglesias,es ESP,DF,24-259,16.4,701,507,190,5,2,3,69,185,0,0,0,0,423,4,25,Matches
-Luis Milla,es ESP,MF,28-163,14.3,739,640,96,52,1,13,65,0,39,17,20,0,577,3,14,Matches
-Damián Suárez,uy URU,DF,34-326,11.6,588,443,144,28,0,15,53,104,12,6,5,0,406,1,19,Matches
-Nemanja Maksimović,rs SRB,MF,28-052,11.2,275,264,11,3,0,0,7,0,1,0,0,0,218,0,2,Matches
-Omar Alderete,py PAR,DF,26-083,12.0,491,464,24,18,0,11,6,6,0,0,0,0,292,3,7,Matches
-Stefan Mitrović,rs SRB,DF,32-301,11.6,354,329,23,23,0,2,0,0,0,0,0,0,291,2,0,Matches
-Ángel Algobia,es ESP,MF,23-269,10.9,470,454,14,13,0,4,9,0,0,0,0,0,381,2,8,Matches
-Portu,es ESP,"DF,MF",30-302,11.9,458,372,83,3,0,2,54,77,3,2,1,0,324,3,26,Matches
-Mauro Arambarri,uy URU,MF,27-170,9.2,374,314,60,40,0,6,39,0,20,14,5,1,293,0,5,Matches
-Gastón Álvarez,uy URU,DF,22-360,9.0,324,257,67,4,0,2,12,63,0,0,0,0,210,0,8,Matches
-Fabrizio Angileri,ar ARG,DF,29-004,6.0,242,175,67,3,0,2,10,64,0,0,0,0,141,0,13,Matches
-Munir El Haddadi,ma MAR,"MF,FW",27-199,6.6,249,219,26,12,0,1,35,6,8,4,3,0,160,4,13,Matches
-Jaime Seoane,es ESP,MF,26-056,3.4,101,98,3,3,1,3,2,0,0,0,0,0,79,0,1,Matches
-Gonzalo Villar,es ESP,MF,24-361,2.3,120,113,7,4,0,1,0,3,0,0,0,0,99,0,4,Matches
-Jordan Amavi,fr FRA,DF,29-010,2.1,96,69,27,1,0,0,6,26,0,0,0,0,51,0,5,Matches
-Latasa,es ESP,"FW,DF",21-361,1.4,41,40,0,0,0,1,0,0,0,0,0,0,22,1,1,Matches
-Jaime Mata,es ESP,"FW,MF",34-146,0.5,18,17,1,0,0,0,0,0,0,0,0,0,13,0,1,Matches
-Moises Parra Gutierrez,es ESP,FW,20-268,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
-Alejandro Revuelta Montero,es ESP,DF,22-337,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,27.9,25.0,9738,8417,1279,373,11,111,443,556,84,43,34,1,6915,42,223,
-Opponent Total,,,28.2,25.0,14125,12829,1232,402,37,139,517,508,122,47,48,0,11303,64,231,
+David Soria,es ESP,GK,29-364,27.0,791,441,345,116,0,19,0,0,0,0,0,0,450,5,0,Matches
+Enes Ünal,tr TUR,FW,25-328,26.1,593,574,14,1,3,1,14,1,0,0,0,0,368,5,14,Matches
+Borja Mayoral,es ESP,FW,25-363,24.6,636,600,36,0,1,9,26,3,1,0,0,0,473,0,26,Matches
+Domingos Duarte,pt POR,DF,28-024,24.4,807,776,29,26,0,7,0,3,0,0,0,0,626,2,4,Matches
+Djené,tg TOG,DF,31-093,23.1,853,810,38,24,0,2,16,14,0,0,0,0,669,5,16,Matches
+Carles Aleñá,es ESP,MF,25-088,17.8,661,645,11,6,3,9,27,2,1,1,0,0,506,5,15,Matches
+Luis Milla,es ESP,MF,28-178,16.1,791,688,99,54,1,13,67,0,40,17,21,0,617,4,15,Matches
+Iglesias,es ESP,DF,24-274,17.7,739,538,197,5,2,5,70,192,0,0,0,0,447,4,26,Matches
+Damián Suárez,uy URU,"DF,MF",34-341,13.1,647,480,166,29,0,19,55,125,12,6,5,0,446,1,21,Matches
+Nemanja Maksimović,rs SRB,MF,28-067,12.8,313,301,12,3,0,0,7,0,1,0,0,0,244,0,3,Matches
+Omar Alderete,py PAR,DF,26-098,13.0,521,493,24,18,0,12,6,6,0,0,0,0,304,4,7,Matches
+Stefan Mitrović,rs SRB,DF,32-316,12.6,386,361,23,23,0,2,0,0,0,0,0,0,312,2,0,Matches
+Portu,es ESP,"DF,MF",30-317,13.1,495,406,86,3,0,2,60,80,3,2,1,0,345,3,26,Matches
+Ángel Algobia,es ESP,MF,23-284,11.4,483,467,14,13,0,4,9,0,0,0,0,0,390,2,8,Matches
+Mauro Arambarri,uy URU,MF,27-185,9.2,374,314,60,40,0,6,39,0,20,14,5,1,293,0,5,Matches
+Gastón Álvarez,uy URU,DF,23-010,10.0,354,286,68,5,0,2,12,63,0,0,0,0,226,0,8,Matches
+Fabrizio Angileri,ar ARG,DF,29-019,6.0,242,175,67,3,0,2,10,64,0,0,0,0,141,0,13,Matches
+Munir El Haddadi,ma MAR,"MF,FW",27-214,8.2,313,271,38,18,0,1,48,7,13,7,5,0,201,4,13,Matches
+Jaime Seoane,es ESP,MF,26-071,3.4,101,98,3,3,1,3,2,0,0,0,0,0,79,0,1,Matches
+Gonzalo Villar,es ESP,"MF,FW",25-011,2.6,127,120,7,4,0,1,1,3,0,0,0,0,104,0,4,Matches
+Jordan Amavi,fr FRA,DF,29-025,2.1,96,69,27,1,0,0,6,26,0,0,0,0,51,0,5,Matches
+Latasa,es ESP,"FW,DF",22-011,1.5,48,47,0,0,0,1,0,0,0,0,0,0,25,1,2,Matches
+Jaime Mata,es ESP,"FW,MF",34-161,0.6,21,20,1,0,0,0,0,0,0,0,0,0,15,0,1,Matches
+Moises Parra Gutierrez,es ESP,FW,20-283,0.1,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+Alejandro Revuelta Montero,es ESP,DF,22-352,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,27.9,27.0,10395,8983,1365,395,11,120,475,589,91,47,37,1,7335,47,233,
+Opponent Total,,,28.2,27.0,15278,13845,1363,437,38,148,574,566,136,48,57,0,12194,70,253,

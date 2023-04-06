@@ -1,7 +1,7 @@
 name,price,position,dob,nationality,height,foot,join_date,contract_expiration
 Alphonse Areola,€8.00m,Goalkeeper,"Feb 27, 1993 (30)",France,"1,95m",right,"Jul 1, 2022","Jun 30, 2027"
 Lukasz Fabianski,€1.00m,Goalkeeper,"Apr 18, 1985 (37)",Poland,"1,90m",right,"Jul 1, 2018","Jun 30, 2023"
-Nayef Aguerd,€32.00m,Centre-Back,"Mar 30, 1996 (26)",Morocco,"1,90m",left,"Jul 1, 2022","Jun 30, 2027"
+Nayef Aguerd,€32.00m,Centre-Back,"Mar 30, 1996 (27)",Morocco,"1,90m",left,"Jul 1, 2022","Jun 30, 2027"
 Kurt Zouma,€28.00m,Centre-Back,"Oct 27, 1994 (28)",France,"1,90m",right,"Aug 28, 2021","Jun 30, 2025"
 Thilo Kehrer,€18.00m,Centre-Back,"Sep 21, 1996 (26)",Germany,"1,86m",right,"Aug 17, 2022","Jun 30, 2026"
 Angelo Ogbonna,€1.00m,Centre-Back,"May 23, 1988 (34)",Italy,"1,91m",left,"Jul 10, 2015","Jun 30, 2023"
@@ -20,4 +20,4 @@ Maxwel Cornet,€15.00m,Left Winger,"Sep 27, 1996 (26)",Cote d'Ivoire,"1,79m",le
 Jarrod Bowen,€38.00m,Right Winger,"Dec 20, 1996 (26)",England,"1,82m",left,"Jan 31, 2020","Jun 30, 2025"
 Gianluca Scamacca,€27.00m,Centre-Forward,"Jan 1, 1999 (24)",Italy,"1,95m",right,"Jul 26, 2022","Jun 30, 2027"
 Danny Ings,€16.00m,Centre-Forward,"Jul 23, 1992 (30)",England,"1,77m",right,"Jan 20, 2023","Jun 30, 2025"
-Michail Antonio,€9.00m,Centre-Forward,"Mar 28, 1990 (32)",Jamaica,"1,80m",right,"Sep 1, 2015","Jun 30, 2024"
+Michail Antonio,€9.00m,Centre-Forward,"Mar 28, 1990 (33)",Jamaica,"1,80m",right,"Sep 1, 2015","Jun 30, 2024"

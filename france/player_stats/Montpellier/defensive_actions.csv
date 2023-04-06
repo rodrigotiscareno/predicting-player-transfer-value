@@ -1,32 +1,32 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Jordan Ferri,fr FRA,MF,31-007,21.6,45,29,27,14,4,25,59,42.4,34,17,6,11,16,61,12,0,Matches
-Téji Savanier,fr FRA,MF,31-087,21.0,36,24,15,16,5,17,47,36.2,30,22,2,20,25,61,9,1,Matches
-Christopher Jullien,fr FRA,DF,29-362,20.9,37,23,25,10,2,21,37,56.8,16,27,14,13,22,59,86,1,Matches
-Sepe Elye Wahi,fr FRA,FW,20-076,19.5,7,3,2,3,2,3,7,42.9,4,10,2,8,3,10,4,0,Matches
-Falaye Sacko,ml MLI,DF,27-322,19.0,38,20,19,14,5,25,35,71.4,10,31,10,21,25,63,45,1,Matches
-Faitout Maouassa,fr FRA,"FW,DF",24-256,17.3,37,24,17,17,3,13,26,50.0,13,26,2,24,15,52,21,0,Matches
-Arnaud Nordin,fr FRA,"FW,MF",24-275,16.5,15,6,7,7,1,8,13,61.5,5,14,0,14,7,22,4,0,Matches
-Joris Chotard,fr FRA,MF,21-176,18.0,41,19,23,15,3,25,44,56.8,19,24,8,16,24,65,28,0,Matches
-Maxime Estève,fr FRA,DF,20-297,15.1,23,12,16,5,2,12,16,75.0,4,25,15,10,31,54,73,0,Matches
-Nicolas Cozza,fr FRA,DF,24-070,14.2,38,21,27,9,2,26,36,72.2,10,11,5,6,21,59,35,1,Matches
-Jonas Omlin,ch SUI,GK,29-068,13.0,1,0,1,0,0,0,0,,0,0,0,0,0,1,8,1,Matches
-Wahbi Khazri,tn TUN,"FW,MF",32-039,12.3,16,9,6,7,3,3,14,21.4,11,10,1,9,8,24,9,0,Matches
-Stephy Mavididi,eng ENG,FW,24-292,9.7,15,12,6,6,3,10,19,52.6,9,14,0,14,3,18,8,0,Matches
-Enzo Tchato,cm CMR,DF,20-116,10.6,22,15,11,10,1,10,16,62.5,6,13,1,12,6,28,28,0,Matches
-Léo Leroy,fr FRA,MF,23-033,9.1,39,27,16,21,2,25,41,61.0,16,20,2,18,8,47,4,0,Matches
-Benjamin Lecomte,fr FRA,GK,31-327,8.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches
-Boubakar Kouyaté,ml MLI,DF,25-338,6.8,11,6,4,5,2,9,14,64.3,5,6,3,3,19,30,33,1,Matches
-Issiaga Sylla,gn GUI,DF,29-077,6.0,15,9,10,5,0,8,15,53.3,7,6,1,5,15,30,12,0,Matches
-Valère Germain,fr FRA,"FW,MF",32-336,7.1,9,8,1,3,5,3,10,30.0,7,8,0,8,6,15,11,0,Matches
-Mamadou Sakho,fr FRA,DF,33-034,6.0,7,3,3,4,0,2,4,50.0,2,9,7,2,5,12,25,1,Matches
-Khalil Fayad,fr FRA,MF,18-283,5.9,28,14,10,16,2,12,17,70.6,5,6,1,5,6,34,3,0,Matches
-Théo Sainte-Luce,fr FRA,DF,24-150,3.9,7,5,3,4,0,4,10,40.0,6,4,2,2,4,11,5,0,Matches
-Bingourou Kamara,sn SEN,GK,26-149,4.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
-Arnaud Souquet,fr FRA,"DF,FW",31-035,4.0,22,16,13,7,2,11,14,78.6,3,8,3,5,4,26,4,0,Matches
-Béni Makouana,cg CGO,"FW,MF",20-172,2.2,1,0,0,1,0,0,2,0.0,2,3,1,2,0,1,1,0,Matches
-Matis Carvalho,pt POR,GK,23-325,1.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-Cheikh Faye,sn SEN,FW,24-051,0.4,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-Sacha Delaye,fr FRA,"FW,MF",20-330,0.2,1,0,0,0,1,1,1,100.0,0,0,0,0,0,1,0,0,Matches
-Axel Gueguin,fr FRA,"FW,MF",17-360,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
-Squad Total,,,26.4,27.0,511,305,262,199,50,273,498,54.8,225,315,86,229,275,786,471,7,
-Opponent Total,,,27.3,27.0,479,280,236,177,66,216,410,52.7,194,264,71,193,287,766,496,7,
+Téji Savanier,fr FRA,MF,31-102,23.0,39,26,15,17,7,20,60,33.3,40,24,2,22,29,68,11,1,Matches
+Jordan Ferri,fr FRA,MF,31-022,22.6,45,30,27,14,4,24,64,37.5,40,17,6,11,19,64,14,0,Matches
+Christopher Jullien,fr FRA,DF,30-012,22.9,40,24,25,13,2,24,41,58.5,17,29,14,15,34,74,89,1,Matches
+Sepe Elye Wahi,fr FRA,FW,20-091,21.2,7,3,2,3,2,3,8,37.5,5,10,2,8,3,10,4,0,Matches
+Falaye Sacko,ml MLI,DF,27-337,20.5,39,20,19,14,6,26,39,66.7,13,33,11,22,26,65,50,1,Matches
+Arnaud Nordin,fr FRA,"FW,MF",24-290,18.1,17,7,6,10,1,10,18,55.6,8,16,0,16,9,26,5,0,Matches
+Joris Chotard,fr FRA,MF,21-191,20.0,45,22,24,18,3,27,54,50.0,27,28,9,19,30,75,35,0,Matches
+Faitout Maouassa,fr FRA,"FW,DF",24-271,17.3,37,24,17,17,3,13,28,46.4,15,26,2,24,15,52,21,0,Matches
+Maxime Estève,fr FRA,DF,20-312,15.1,23,12,16,5,2,12,16,75.0,4,25,15,10,31,54,73,0,Matches
+Nicolas Cozza,fr FRA,DF,24-085,14.2,38,21,27,9,2,26,38,68.4,12,11,5,6,21,59,35,1,Matches
+Wahbi Khazri,tn TUN,"FW,MF",32-054,13.5,18,10,8,7,3,3,15,20.0,12,11,1,10,8,26,11,0,Matches
+Jonas Omlin,ch SUI,GK,29-083,13.0,1,0,1,0,0,0,0,,0,0,0,0,0,1,8,1,Matches
+Stephy Mavididi,eng ENG,FW,24-307,10.8,17,14,6,7,4,10,21,47.6,11,14,0,14,3,20,9,0,Matches
+Léo Leroy,fr FRA,MF,23-048,9.9,43,31,18,23,2,28,45,62.2,17,20,2,18,9,52,4,0,Matches
+Enzo Tchato,cm CMR,DF,20-131,11.1,23,16,11,11,1,11,17,64.7,6,14,1,13,7,30,30,0,Matches
+Benjamin Lecomte,fr FRA,GK,31-342,10.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,2,0,Matches
+Boubakar Kouyaté,ml MLI,DF,25-353,8.0,13,7,6,5,2,10,16,62.5,6,7,4,3,24,37,38,1,Matches
+Issiaga Sylla,gn GUI,DF,29-092,8.0,16,10,11,5,0,8,17,47.1,9,11,2,9,21,37,19,0,Matches
+Valère Germain,fr FRA,"FW,MF",32-351,7.2,10,8,2,3,5,3,10,30.0,7,8,0,8,6,16,11,0,Matches
+Mamadou Sakho,fr FRA,DF,33-049,6.7,8,4,4,4,0,3,5,60.0,2,14,10,4,7,15,29,1,Matches
+Khalil Fayad,fr FRA,MF,18-298,6.2,29,14,11,16,2,12,19,63.2,7,6,1,5,6,35,4,0,Matches
+Théo Sainte-Luce,fr FRA,DF,24-165,3.9,7,5,3,4,0,4,10,40.0,6,4,2,2,4,11,5,0,Matches
+Bingourou Kamara,sn SEN,GK,26-164,4.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches
+Arnaud Souquet,fr FRA,"DF,FW",31-050,4.0,22,16,13,7,2,11,14,78.6,3,8,3,5,4,26,4,0,Matches
+Béni Makouana,cg CGO,"FW,MF",20-187,2.2,1,0,0,1,0,0,2,0.0,2,3,1,2,0,1,1,0,Matches
+Matis Carvalho,pt POR,GK,23-340,1.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Cheikh Faye,sn SEN,FW,24-066,0.4,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Sacha Delaye,fr FRA,"FW,MF",20-345,0.2,1,0,0,0,1,1,1,100.0,0,0,0,0,0,1,0,0,Matches
+Axel Gueguin,fr FRA,"FW,MF",18-010,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches
+Squad Total,,,26.5,29.0,539,324,272,213,54,289,559,51.7,270,340,93,247,318,857,514,7,
+Opponent Total,,,27.4,29.0,519,303,251,198,70,232,461,50.3,229,282,76,206,322,841,531,8,

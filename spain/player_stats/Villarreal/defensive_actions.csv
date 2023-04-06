@@ -1,34 +1,34 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Daniel Parejo,es ESP,MF,33-337,24.5,46,27,19,17,10,16,44,36.4,28,30,10,20,18,64,21,1,Matches
-Pau Torres,es ESP,DF,26-062,22.0,26,14,16,6,4,17,23,73.9,6,23,18,5,9,35,88,2,Matches
-Raúl Albiol,es ESP,DF,37-196,21.9,24,16,16,6,2,13,17,76.5,4,17,13,4,14,38,103,0,Matches
-Yeremi Pino,es ESP,"MF,FW",20-150,16.3,39,25,16,14,9,13,36,36.1,23,24,2,22,10,49,21,0,Matches
-Étienne Capoue,fr FRA,MF,34-251,16.3,18,10,5,12,1,9,14,64.3,5,9,3,6,14,32,18,1,Matches
-Samuel Chukwueze,ng NGA,"FW,MF",23-301,15.5,12,6,6,1,5,5,14,35.7,9,10,0,10,8,20,12,0,Matches
-Gerónimo Rulli,ar ARG,GK,30-303,14.0,0,0,0,0,0,0,0,,0,1,0,1,1,1,6,2,Matches
-Alex Baena,es ESP,"MF,FW",21-242,14.4,21,12,7,9,5,12,28,42.9,16,10,3,7,5,26,12,0,Matches
-Juan Foyth,ar ARG,DF,25-066,12.0,39,22,23,14,2,23,30,76.7,7,16,3,13,13,52,36,0,Matches
-Gerard Moreno,es ESP,FW,30-346,11.5,8,5,0,5,3,2,3,66.7,1,6,2,4,3,11,10,0,Matches
-Alfonso Pedraza,es ESP,DF,26-344,10.5,22,19,10,9,3,13,19,68.4,6,10,1,9,9,31,16,0,Matches
-Pepe Reina,es ESP,GK,40-200,10.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,3,Matches
-Kiko Femenía,es ESP,DF,32-045,9.9,8,5,6,1,1,5,9,55.6,4,11,5,6,14,22,19,0,Matches
-Alberto Moreno,es ESP,DF,30-257,9.4,11,3,2,7,2,5,16,31.3,11,10,1,9,14,25,19,0,Matches
-Francis Coquelin,fr FRA,MF,31-310,8.3,18,13,7,9,2,7,7,100.0,0,8,2,6,9,27,7,0,Matches
-José Luis Morales,es ESP,"FW,MF",35-239,10.7,4,3,1,1,2,3,10,30.0,7,11,1,10,2,6,2,0,Matches
-Nicolas Jackson,sn SEN,FW,21-272,8.8,7,6,2,5,0,1,4,25.0,3,10,2,8,2,9,3,0,Matches
-Giovani Lo Celso,ar ARG,"MF,FW",26-344,5.8,21,17,3,13,5,8,12,66.7,4,6,0,6,5,26,3,0,Matches
-Arnaut Danjuma,nl NED,FW,26-047,5.3,3,3,1,0,2,1,2,50.0,1,0,0,0,0,3,1,1,Matches
-Johan Mojica,co COL,DF,30-210,6.3,12,9,8,3,1,5,7,71.4,2,8,3,5,3,15,11,1,Matches
-Manu Trigueros,es ESP,MF,31-153,5.2,9,6,6,2,1,5,13,38.5,8,5,2,3,2,11,2,0,Matches
-Aïssa Mandi,dz ALG,DF,31-148,4.9,8,5,5,2,1,1,4,25.0,3,6,5,1,10,18,17,0,Matches
-Jorge Cuenca,es ESP,DF,23-122,4.0,6,4,4,2,0,1,2,50.0,1,6,5,1,5,11,28,0,Matches
-Ramón Terrats,es ESP,MF,22-152,2.6,1,1,0,1,0,1,1,100.0,0,2,1,1,2,3,2,0,Matches
-Manu Morlanes,es ESP,MF,24-066,1.8,3,2,2,1,0,3,3,100.0,0,3,2,1,1,4,2,0,Matches
-Filip Jörgensen,dk DEN,GK,20-337,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Mamadou Fall,sn SEN,DF,20-118,0.3,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0,Matches
-Haissem Hassan,fr FRA,MF,21-039,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Fernando Niño,es ESP,"MF,FW",22-146,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Diego Collado,es ESP,FW,22-069,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Alberto Del Moral,es ESP,MF,22-242,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,29.5,25.0,366,233,165,140,61,169,318,53.1,149,243,84,159,174,540,461,11,
-Opponent Total,,,28.0,25.0,454,273,230,164,60,213,463,46.0,250,274,73,201,232,686,445,8,
+Daniel Parejo,es ESP,MF,33-352,25.5,46,27,19,17,10,16,45,35.6,29,31,10,21,18,64,25,1,Matches
+Pau Torres,es ESP,DF,26-077,23.0,27,14,16,7,4,17,23,73.9,6,25,20,5,9,36,102,2,Matches
+Raúl Albiol,es ESP,DF,37-211,22.4,25,17,17,6,2,14,18,77.8,4,17,13,4,14,39,107,0,Matches
+Yeremi Pino,es ESP,"MF,FW",20-165,17.3,42,26,17,14,11,15,41,36.6,26,27,2,25,11,53,26,0,Matches
+Étienne Capoue,fr FRA,MF,34-266,16.3,18,10,5,12,1,9,14,64.3,5,9,3,6,14,32,18,1,Matches
+Samuel Chukwueze,ng NGA,"FW,MF",23-316,16.4,13,6,7,1,5,6,15,40.0,9,10,0,10,8,21,12,0,Matches
+Gerónimo Rulli,ar ARG,GK,30-318,14.0,0,0,0,0,0,0,0,,0,1,0,1,1,1,6,2,Matches
+Juan Foyth,ar ARG,DF,25-081,13.0,49,27,32,15,2,29,36,80.6,7,16,3,13,14,63,41,0,Matches
+Gerard Moreno,es ESP,FW,30-361,11.9,8,5,0,5,3,2,3,66.7,1,6,2,4,4,12,10,0,Matches
+Alex Baena,es ESP,"MF,FW",21-257,14.4,21,12,7,9,5,12,28,42.9,16,10,3,7,5,26,12,0,Matches
+Alfonso Pedraza,es ESP,DF,26-359,11.0,22,19,10,9,3,13,19,68.4,6,10,1,9,10,32,17,0,Matches
+Pepe Reina,es ESP,GK,40-215,11.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,3,Matches
+Kiko Femenía,es ESP,DF,32-060,10.0,9,5,7,1,1,6,10,60.0,4,11,5,6,14,23,19,0,Matches
+Alberto Moreno,es ESP,DF,30-272,9.4,11,3,2,7,2,5,16,31.3,11,10,1,9,14,25,19,0,Matches
+Francis Coquelin,fr FRA,MF,31-325,8.3,18,13,7,9,2,7,7,100.0,0,8,2,6,9,27,7,0,Matches
+José Luis Morales,es ESP,"FW,MF",35-254,11.3,4,3,1,1,2,3,12,25.0,9,11,1,10,2,6,2,0,Matches
+Nicolas Jackson,sn SEN,FW,21-287,8.8,7,6,2,5,0,1,4,25.0,3,10,2,8,2,9,3,0,Matches
+Giovani Lo Celso,ar ARG,"MF,FW",26-359,6.1,21,17,3,13,5,8,12,66.7,4,6,0,6,5,26,3,0,Matches
+Manu Trigueros,es ESP,MF,31-168,6.2,10,7,7,2,1,5,14,35.7,9,7,2,5,3,13,2,0,Matches
+Arnaut Danjuma,nl NED,FW,26-062,5.3,3,3,1,0,2,1,2,50.0,1,0,0,0,0,3,1,1,Matches
+Johan Mojica,co COL,DF,30-225,6.8,12,9,8,3,1,5,8,62.5,3,8,3,5,4,16,13,1,Matches
+Aïssa Mandi,dz ALG,DF,31-163,5.4,9,6,6,2,1,1,4,25.0,3,6,5,1,11,20,21,0,Matches
+Jorge Cuenca,es ESP,DF,23-137,4.0,6,4,4,2,0,1,2,50.0,1,6,5,1,5,11,28,0,Matches
+Ramón Terrats,es ESP,MF,22-167,3.4,2,2,0,1,1,2,3,66.7,1,2,1,1,2,4,2,0,Matches
+Manu Morlanes,es ESP,MF,24-081,1.8,3,2,2,1,0,3,3,100.0,0,3,2,1,1,4,2,0,Matches
+Filip Jörgensen,dk DEN,GK,20-352,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Mamadou Fall,sn SEN,DF,20-133,0.3,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0,Matches
+Haissem Hassan,fr FRA,MF,21-054,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Fernando Niño,es ESP,"MF,FW",22-161,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Diego Collado,es ESP,FW,22-084,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Alberto Del Moral,es ESP,MF,22-257,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,29.5,26.0,386,243,180,142,64,181,339,53.4,158,251,86,165,181,567,500,11,
+Opponent Total,,,28.0,26.0,467,282,231,170,66,223,486,45.9,263,283,76,207,241,708,454,9,

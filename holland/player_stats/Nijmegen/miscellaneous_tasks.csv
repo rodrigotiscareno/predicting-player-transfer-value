@@ -1,25 +1,25 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Iván Márquez,es ESP,DF,28-283,25.4,4,1,0,26,16,2,0,22,11,0,1,0,132,62,29,68.1,Matches
-Jasper Cillessen,nl NED,GK,33-331,25.0,0,0,0,0,5,0,0,0,0,0,0,0,40,2,0,100.0,Matches
-Bart van Rooij,nl NED,DF,21-297,25.0,2,0,0,21,21,0,55,23,29,0,0,0,131,31,24,56.4,Matches
-Souffian El Karouani,ma MAR,DF,22-151,24.3,7,0,0,36,29,1,112,18,37,1,0,0,165,16,21,43.2,Matches
-Lasse Schöne,dk DEN,MF,36-296,24.1,3,0,0,14,21,1,94,29,17,0,0,0,186,22,22,50.0,Matches
-Dirk Proper,nl NED,MF,21-023,23.7,3,0,0,35,23,0,3,24,20,0,0,0,156,23,28,45.1,Matches
-Elayis Tavsan,nl NED,FW,21-323,22.2,1,0,0,18,43,4,58,2,19,0,0,0,70,7,24,22.6,Matches
-Oussama Tannane,ma MAR,MF,28-361,19.2,6,1,0,39,43,4,114,7,17,0,0,0,90,13,12,52.0,Matches
-Landry Dimata,be BEL,FW,25-199,18.3,0,0,0,20,59,8,3,0,3,0,0,0,31,53,42,55.8,Matches
-Magnus Mattsson,dk DEN,"FW,MF",24-022,13.6,1,0,0,6,20,2,10,11,11,0,0,0,68,8,10,44.4,Matches
-Philippe Sandler,nl NED,DF,26-037,11.5,3,0,0,9,5,0,1,12,8,0,1,0,76,27,14,65.9,Matches
-Mikkel Duelund,dk DEN,"MF,FW",25-263,10.3,1,0,0,15,13,0,3,6,13,0,0,0,46,11,14,44.0,Matches
-Calvin Verdonk,nl NED,DF,25-327,10.7,4,0,0,9,4,1,9,14,12,0,0,0,87,13,13,50.0,Matches
-Joris Kramer,nl NED,DF,26-229,8.8,0,0,0,6,1,0,1,13,6,0,0,0,48,15,11,57.7,Matches
-Ibrahim Cissoko,nl NED,"FW,MF",19-358,7.2,0,0,0,3,19,2,22,0,5,1,1,0,26,4,3,57.1,Matches
-Pedro David Rosendo Marques,pt POR,FW,24-328,6.0,0,0,0,4,3,0,0,0,0,0,0,0,9,20,26,43.5,Matches
-Jordy Bruijn,nl NED,"MF,FW",26-239,4.1,1,0,0,1,6,0,4,2,2,0,0,0,19,2,1,66.7,Matches
-Terry Lartey Sanniez,nl NED,DF,26-221,1.2,0,0,0,0,0,0,0,1,1,0,0,0,10,1,2,33.3,Matches
-Mattijs Branderhorst,nl NED,GK,29-078,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
-Andri Fannar Baldursson,is ISL,"MF,FW",21-068,1.4,2,0,0,6,1,0,0,3,6,0,0,0,14,3,1,75.0,Matches
-Anthony Musaba,nl NED,"FW,MF",22-103,1.3,0,0,0,2,0,0,2,0,1,0,0,0,11,1,4,20.0,Matches
-Ilias Bronkhorst,nl NED,"FW,DF",25-313,0.6,1,0,0,2,1,0,2,0,1,0,0,0,2,4,6,40.0,Matches
-Squad Total,,,26.3,26.0,39,2,0,272,333,25,493,187,219,2,3,0,1417,338,307,52.4,
-Opponent Total,,,25.7,26.0,56,4,2,354,259,32,504,230,321,3,3,0,1479,307,338,47.6,
+Iván Márquez,es ESP,DF,28-298,26.4,5,1,0,27,17,2,0,25,11,0,1,0,141,63,32,66.3,Matches
+Jasper Cillessen,nl NED,GK,33-346,26.0,0,0,0,0,5,0,0,0,0,0,0,0,41,3,0,100.0,Matches
+Bart van Rooij,nl NED,DF,21-312,26.0,3,0,0,23,22,0,55,25,29,0,0,0,135,31,24,56.4,Matches
+Souffian El Karouani,ma MAR,DF,22-166,25.3,7,0,0,37,29,1,114,18,37,1,0,0,170,16,21,43.2,Matches
+Lasse Schöne,dk DEN,MF,36-311,25.1,3,0,0,14,21,1,96,30,17,0,0,0,192,23,22,51.1,Matches
+Dirk Proper,nl NED,MF,21-038,24.7,3,0,0,35,23,0,3,24,22,0,0,0,160,23,28,45.1,Matches
+Elayis Tavsan,nl NED,FW,21-338,23.0,1,0,0,18,45,4,58,2,21,0,0,0,72,7,24,22.6,Matches
+Oussama Tannane,ma MAR,MF,29-011,20.2,6,1,0,40,44,4,118,7,18,0,0,0,96,13,12,52.0,Matches
+Landry Dimata,be BEL,FW,25-214,19.3,0,0,0,20,62,9,3,0,3,0,0,0,32,56,43,56.6,Matches
+Magnus Mattsson,dk DEN,"FW,MF",24-037,14.3,1,0,0,6,21,2,9,12,11,0,0,0,73,8,11,42.1,Matches
+Philippe Sandler,nl NED,DF,26-052,12.3,3,0,0,10,5,0,1,13,9,0,1,0,81,28,16,63.6,Matches
+Mikkel Duelund,dk DEN,"MF,FW",25-278,10.3,1,0,0,15,13,0,3,6,13,0,0,0,46,11,14,44.0,Matches
+Calvin Verdonk,nl NED,DF,25-342,10.7,4,0,0,9,4,1,9,14,12,0,0,0,87,13,13,50.0,Matches
+Joris Kramer,nl NED,DF,26-244,8.9,0,0,0,6,1,0,1,14,6,0,0,0,50,16,11,59.3,Matches
+Ibrahim Cissoko,nl NED,FW,20-008,7.4,0,0,0,3,22,2,23,0,5,1,1,0,26,4,3,57.1,Matches
+Pedro David Rosendo Marques,pt POR,FW,24-343,6.2,0,0,0,5,4,0,0,0,0,0,0,0,9,20,26,43.5,Matches
+Jordy Bruijn,nl NED,"MF,FW",26-254,4.2,1,0,0,1,6,0,4,3,2,0,0,0,19,2,1,66.7,Matches
+Terry Lartey Sanniez,nl NED,DF,26-236,1.2,0,0,0,0,0,0,0,1,1,0,0,0,10,1,2,33.3,Matches
+Mattijs Branderhorst,nl NED,GK,29-093,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Andri Fannar Baldursson,is ISL,"MF,FW",21-083,1.4,2,0,0,6,1,0,0,3,6,0,0,0,14,3,1,75.0,Matches
+Anthony Musaba,nl NED,"FW,MF",22-118,1.3,0,0,0,2,0,0,2,0,1,0,0,0,11,1,4,20.0,Matches
+Ilias Bronkhorst,nl NED,"FW,DF",25-328,0.6,1,0,0,2,1,0,2,0,1,0,0,0,2,4,6,40.0,Matches
+Squad Total,,,26.4,27.0,41,2,0,279,346,26,501,197,225,2,3,0,1467,346,314,52.4,
+Opponent Total,,,25.8,27.0,58,4,2,368,266,34,523,242,329,3,3,0,1539,314,346,47.6,

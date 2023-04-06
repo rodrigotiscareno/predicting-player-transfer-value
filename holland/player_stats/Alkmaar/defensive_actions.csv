@@ -1,31 +1,32 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Tijjani Reijnders,nl NED,MF,24-233,24.9,26,14,5,19,2,10,28,35.7,18,21,14,7,41,67,20,0,Matches
-Pantelis Hatzidiakos,gr GRE,DF,26-060,23.3,47,27,36,8,3,25,37,67.6,12,24,15,9,19,66,66,0,Matches
-Jordy Clasie,nl NED,MF,31-265,23.5,53,33,22,28,3,22,44,50.0,22,31,9,22,29,82,35,1,Matches
-Milos Kerkez,hu HUN,DF,19-132,21.0,37,24,19,13,5,20,34,58.8,14,29,7,22,25,62,44,0,Matches
-Jens Odgaard,dk DEN,FW,23-353,19.2,35,19,11,17,7,17,40,42.5,23,22,4,18,11,46,26,0,Matches
-Yukinari Sugawara,jp JPN,"DF,FW",22-264,18.1,36,20,26,9,1,20,32,62.5,12,12,6,6,13,49,34,0,Matches
-Jesper Karlsson,se SWE,FW,24-237,15.7,14,8,6,6,2,7,23,30.4,16,9,0,9,7,21,6,0,Matches
-Sam Beukema,nl NED,DF,24-122,16.1,15,7,8,5,2,9,13,69.2,4,17,15,2,27,42,82,0,Matches
-Hobie Verhulst,nl NED,GK,29-351,16.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,7,2,Matches
-Vangelis Pavlidis,gr GRE,FW,24-118,14.6,16,8,2,9,5,5,12,41.7,7,12,1,11,3,19,12,0,Matches
-Dani de Wit,nl NED,MF,25-050,12.4,26,18,6,8,12,6,12,50.0,6,19,2,17,11,37,11,0,Matches
-Maxim Dekker,nl NED,DF,18-332,9.4,11,6,6,5,0,1,4,25.0,3,3,3,0,8,19,30,0,Matches
-Myron van Brederode,nl NED,FW,19-256,8.0,13,9,3,9,1,9,13,69.2,4,7,0,7,7,20,4,0,Matches
-Mathew Ryan,au AUS,GK,30-345,9.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches
-Wouter Goes,nl NED,DF,18-282,5.8,4,4,2,2,0,3,4,75.0,1,3,2,1,7,11,14,0,Matches
-Håkon Evjen,no NOR,FW,23-033,5.7,10,7,1,7,2,3,6,50.0,3,6,0,6,3,13,3,0,Matches
-Sven Mijnans,nl NED,"MF,FW",23-010,5.3,9,4,4,3,2,5,12,41.7,7,8,1,7,8,17,5,0,Matches
-Djordje Mihailovic,us USA,MF,24-129,4.0,19,12,7,12,0,5,6,83.3,1,4,0,4,3,22,4,0,Matches
-Bruno Martins Indi,nl NED,DF,31-039,3.5,2,1,2,0,0,1,2,50.0,1,2,2,0,1,3,11,0,Matches
-Mees de Wit,nl NED,"DF,FW",24-336,5.4,14,8,8,5,1,6,14,42.9,8,10,2,8,4,18,15,0,Matches
-Zinho Vanheusden,be BEL,DF,23-233,2.4,2,0,1,1,0,0,0,,0,2,1,1,2,4,14,0,Matches
-Riechedly Bazoer,nl NED,"MF,FW",26-158,2.6,6,6,3,3,0,1,2,50.0,1,3,1,2,1,7,9,0,Matches
-Fedde de Jong,nl NED,DF,19-279,0.8,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,3,0,Matches
-Mayckel Lahdo,se SWE,FW,20-079,3.1,8,5,3,1,4,4,6,66.7,2,3,0,3,2,10,1,0,Matches
-Yusuf Barasi,tr TUR,"FW,MF",19-353,2.1,3,2,1,1,1,2,3,66.7,1,2,0,2,0,3,3,0,Matches
-Peer Koopmeiners,nl NED,"MF,FW",22-319,1.1,6,2,3,3,0,4,4,100.0,0,5,2,3,1,7,4,0,Matches
-Aslak Witry,no NOR,DF,27-009,0.6,1,0,0,1,0,0,0,,0,1,0,1,0,1,1,0,Matches
-Zico Buurmeester,nl NED,MF,20-285,0.5,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,3,0,Matches
-Squad Total,,,24.8,25.0,414,245,186,175,53,186,355,52.4,169,256,87,169,233,647,468,4,
-Opponent Total,,,25.5,25.0,415,244,199,163,53,176,369,47.7,193,284,92,192,230,645,483,12,
+Tijjani Reijnders,nl NED,MF,24-248,26.9,27,14,5,20,2,10,28,35.7,18,22,14,8,44,71,23,0,Matches
+Pantelis Hatzidiakos,gr GRE,DF,26-075,25.1,47,27,36,8,3,25,38,65.8,13,28,16,12,19,66,74,0,Matches
+Jordy Clasie,nl NED,MF,31-280,25.5,55,34,23,29,3,24,48,50.0,24,33,10,23,32,87,37,1,Matches
+Milos Kerkez,hu HUN,DF,19-147,22.7,41,26,21,15,5,22,36,61.1,14,31,8,23,26,67,47,0,Matches
+Jens Odgaard,dk DEN,FW,24-003,20.6,39,21,11,19,9,18,45,40.0,27,24,5,19,11,50,27,0,Matches
+Yukinari Sugawara,jp JPN,"DF,FW",22-279,20.1,42,24,29,12,1,26,39,66.7,13,14,7,7,14,56,38,0,Matches
+Jesper Karlsson,se SWE,FW,24-252,17.5,14,8,6,6,2,7,25,28.0,18,10,0,10,7,21,7,0,Matches
+Sam Beukema,nl NED,DF,24-137,17.6,18,9,10,6,2,11,16,68.8,5,21,18,3,27,45,85,0,Matches
+Vangelis Pavlidis,gr GRE,FW,24-133,16.0,16,8,2,9,5,5,15,33.3,10,14,1,13,4,20,13,0,Matches
+Hobie Verhulst,nl NED,GK,30-001,16.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,7,2,Matches
+Dani de Wit,nl NED,MF,25-065,12.4,26,18,6,8,12,6,12,50.0,6,19,2,17,11,37,11,0,Matches
+Mathew Ryan,au AUS,GK,30-360,11.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches
+Maxim Dekker,nl NED,DF,18-347,9.4,11,6,6,5,0,1,4,25.0,3,3,3,0,8,19,30,0,Matches
+Myron van Brederode,nl NED,FW,19-271,8.2,13,9,3,9,1,9,13,69.2,4,7,0,7,7,20,4,0,Matches
+Sven Mijnans,nl NED,"MF,FW",23-025,7.2,11,6,5,4,2,6,17,35.3,11,10,2,8,10,21,5,0,Matches
+Wouter Goes,nl NED,DF,18-297,6.3,5,4,3,2,0,3,4,75.0,1,4,2,2,7,12,20,0,Matches
+Håkon Evjen,no NOR,FW,23-048,5.7,10,7,1,7,2,3,6,50.0,3,6,0,6,3,13,3,0,Matches
+Djordje Mihailovic,us USA,"MF,FW",24-144,4.3,21,12,8,13,0,7,8,87.5,1,4,0,4,3,24,4,0,Matches
+Bruno Martins Indi,nl NED,DF,31-054,3.5,2,1,2,0,0,1,2,50.0,1,2,2,0,1,3,11,0,Matches
+Mees de Wit,nl NED,"DF,FW",24-351,5.7,14,8,8,5,1,6,14,42.9,8,10,2,8,5,19,15,0,Matches
+Zinho Vanheusden,be BEL,DF,23-248,2.4,2,0,1,1,0,0,0,,0,2,1,1,2,4,14,0,Matches
+Riechedly Bazoer,nl NED,"MF,FW",26-173,2.6,6,6,3,3,0,1,2,50.0,1,3,1,2,1,7,9,0,Matches
+Fedde de Jong,nl NED,DF,19-294,0.8,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,3,0,Matches
+Mayckel Lahdo,se SWE,FW,20-094,3.7,9,6,3,2,4,4,6,66.7,2,3,0,3,3,12,1,0,Matches
+Yusuf Barasi,tr TUR,"FW,MF",20-003,2.1,3,2,1,1,1,2,3,66.7,1,2,0,2,0,3,3,0,Matches
+Peer Koopmeiners,nl NED,"MF,FW",22-334,1.1,6,2,3,3,0,4,4,100.0,0,5,2,3,1,7,4,0,Matches
+Mexx Meerdink,nl NED,"FW,MF",19-253,0.6,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0,Matches
+Aslak Witry,no NOR,DF,27-024,0.6,1,0,0,1,0,0,0,,0,1,0,1,0,1,1,0,Matches
+Zico Buurmeester,nl NED,MF,20-300,0.5,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,3,0,Matches
+Squad Total,,,24.8,27.0,440,259,197,188,55,202,389,51.9,187,280,96,184,247,687,500,4,
+Opponent Total,,,25.6,27.0,448,266,218,174,56,191,397,48.1,206,305,97,208,255,703,527,13,

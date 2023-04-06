@@ -1,5 +1,5 @@
 name,price,position,dob,nationality,height,foot,join_date,contract_expiration
-Neto,€2.50m,Goalkeeper,"Jul 19, 1989 (33)",Brazil,"1,90m",right,"Aug 7, 2022","Jun 30, 2023"
+Neto,€2.50m,Goalkeeper,"Jul 19, 1989 (33)",Brazil,"1,90m",right,"Aug 7, 2022","Jun 30, 2026"
 Mark Travers,€2.00m,Goalkeeper,"May 18, 1999 (23)",Ireland,"1,91m",right,"Jul 1, 2020","Jun 30, 2027"
 Darren Randolph,€500k,Goalkeeper,"May 12, 1987 (35)",Ireland,"1,87m",right,"Jan 26, 2023","Jun 30, 2024"
 Ilya Zabarnyi,€18.00m,Centre-Back,"Sep 1, 2002 (20)",Ukraine,"1,89m",right,"Jan 31, 2023","Jun 30, 2028"
@@ -14,7 +14,7 @@ Ryan Fredericks,€2.00m,Right-Back,"Oct 10, 1992 (30)",England,"1,81m",right,"J
 Adam Smith,€1.50m,Right-Back,"Apr 29, 1991 (31)",England,"1,74m",right,"Jan 28, 2014","Jun 30, 2024"
 Jefferson Lerma,€15.00m,Defensive Midfield,"Oct 25, 1994 (28)",Colombia,"1,79m",right,"Aug 7, 2018","Jun 30, 2023"
 Philip Billing,€18.00m,Central Midfield,"Jun 11, 1996 (26)",Denmark,"1,93m",left,"Jul 29, 2019","Jun 30, 2024"
-Marcus Tavernier,€15.00m,Central Midfield,"Mar 22, 1999 (23)",England,"1,78m",left,"Aug 1, 2022","Jun 30, 2027"
+Marcus Tavernier,€15.00m,Central Midfield,"Mar 22, 1999 (24)",England,"1,78m",left,"Aug 1, 2022","Jun 30, 2027"
 Lewis Cook,€10.00m,Central Midfield,"Feb 3, 1997 (26)",England,"1,75m",right,"Jul 8, 2016","Jun 30, 2025"
 Joe Rothwell,€3.50m,Central Midfield,"Jan 11, 1995 (28)",England,"1,85m",right,"Jul 1, 2022","Jun 30, 2026"
 Hamed Junior Traorè,€22.00m,Attacking Midfield,"Feb 16, 2000 (23)",Cote d'Ivoire,"1,77m",right,"Jan 31, 2023","Jun 30, 2023"

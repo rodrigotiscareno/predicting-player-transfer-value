@@ -1,27 +1,29 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Mark Flekken,nl NED,GK,29-279,24.0,0,0,0,0,1,0,0,0,0,0,0,0,47,4,0,100.0,Matches
-Matthias Ginter,de GER,DF,29-059,24.0,2,0,0,17,18,1,5,29,14,0,0,0,130,83,48,63.4,Matches
-Christian Günter,de GER,"DF,MF",30-019,22.6,5,0,0,25,9,5,144,11,15,0,1,0,96,8,23,25.8,Matches
-Nicolas Höfler,de GER,MF,33-010,22.4,8,0,0,48,40,1,0,37,27,0,2,0,162,40,32,55.6,Matches
-Philipp Lienhart,at AUT,DF,26-251,22.3,3,0,0,12,21,1,1,28,14,0,0,0,129,49,27,64.5,Matches
-Michael Gregoritsch,at AUT,FW,28-335,18.8,4,0,0,22,33,10,11,4,9,1,0,0,54,105,109,49.1,Matches
-Ritsu Doan,jp JPN,"FW,MF",24-276,18.7,2,0,0,23,35,6,18,10,19,2,0,0,86,2,22,8.3,Matches
-Vincenzo Grifo,it ITA,"FW,MF",29-346,17.9,1,0,0,4,20,1,87,9,10,1,0,0,102,8,11,42.1,Matches
-Maximilian Eggestein,de GER,MF,26-101,19.3,4,0,0,24,12,1,9,24,17,0,0,0,96,35,26,57.4,Matches
-Kiliann Sildillia,fr FRA,"DF,MF",20-307,18.3,4,1,1,30,5,2,21,21,16,0,0,0,91,32,34,48.5,Matches
-Lukas Kübler,de GER,DF,30-201,12.3,0,0,0,12,9,1,22,18,20,0,1,0,71,14,8,63.6,Matches
-Lucas Höler,de GER,"FW,MF",28-252,8.0,0,0,0,11,22,4,7,6,6,0,0,0,32,32,23,58.2,Matches
-Roland Sallai,hu HUN,"MF,FW",25-301,7.0,4,0,0,19,20,2,16,2,5,1,0,0,37,15,14,51.7,Matches
-Daniel Kyereh,gh GHA,"MF,FW",27-011,6.2,2,0,0,12,16,3,3,2,4,0,0,0,25,7,7,50.0,Matches
-Yannik Keitel,de GER,MF,23-032,5.0,3,0,0,16,2,0,3,9,5,0,2,0,25,6,13,31.6,Matches
-Jeong Woo-yeong,kr KOR,"MF,FW",23-180,6.8,2,0,0,12,6,1,9,1,3,1,0,0,23,3,14,17.6,Matches
-Manuel Gulde,de GER,DF,32-035,2.6,0,0,0,6,1,0,0,4,3,0,0,0,15,9,7,56.3,Matches
-Kevin Schade,de GER,"FW,MF",21-112,2.0,0,0,0,4,6,0,3,0,4,0,0,0,7,17,12,58.6,Matches
-Nils Petersen,de GER,FW,34-103,2.4,1,0,0,3,2,1,0,1,4,0,0,0,5,8,19,29.6,Matches
-Noah Weißhaupt,de GER,"MF,FW",21-180,1.8,0,0,0,1,6,0,7,2,1,0,0,0,9,3,1,75.0,Matches
-Robert Wagner,de GER,MF,19-248,0.3,1,0,0,0,0,0,0,0,0,0,0,0,2,2,2,50.0,Matches
-Hugo Siquet,be BEL,DF,20-253,0.2,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,,Matches
-Keven Schlotterbeck,de GER,DF,25-325,0.2,0,0,0,0,1,0,0,2,0,0,0,0,0,2,0,100.0,Matches
-Merlin Röhl,de GER,MF,20-257,0.1,0,0,0,1,2,0,0,0,0,0,0,0,2,0,0,,Matches
-Squad Total,,,27.9,24.0,46,1,1,302,288,40,366,220,198,6,6,0,1246,484,452,51.7,
-Opponent Total,,,27.1,24.0,56,5,2,300,291,30,365,208,174,5,7,0,1300,452,484,48.3,
+Mark Flekken,nl NED,GK,29-294,26.0,0,0,0,0,2,0,0,0,0,0,0,0,50,4,0,100.0,Matches
+Matthias Ginter,de GER,DF,29-074,26.0,3,0,0,20,22,1,5,31,15,0,0,0,140,93,49,65.5,Matches
+Christian Günter,de GER,"DF,MF",30-034,24.6,5,0,0,25,10,5,164,13,16,0,1,0,102,9,26,25.7,Matches
+Nicolas Höfler,de GER,MF,33-025,24.4,8,0,0,51,43,1,0,41,28,0,2,0,172,47,40,54.0,Matches
+Ritsu Doan,jp JPN,"FW,MF",24-291,20.7,2,0,0,23,40,6,21,10,20,2,0,0,92,3,26,10.3,Matches
+Michael Gregoritsch,at AUT,FW,28-350,19.8,5,0,0,22,35,10,11,4,9,1,0,0,59,118,121,49.4,Matches
+Philipp Lienhart,at AUT,DF,26-266,22.3,3,0,0,12,21,1,1,28,14,0,0,0,129,49,27,64.5,Matches
+Vincenzo Grifo,it ITA,"FW,MF",29-361,19.7,1,0,0,4,21,1,95,11,11,1,0,0,113,9,14,39.1,Matches
+Maximilian Eggestein,de GER,MF,26-116,21.3,4,0,0,26,15,1,10,26,19,0,0,0,108,40,31,56.3,Matches
+Kiliann Sildillia,fr FRA,"DF,MF",20-322,20.3,4,1,1,33,6,2,25,21,20,0,0,0,101,37,42,46.8,Matches
+Lukas Kübler,de GER,DF,30-216,13.2,0,0,0,13,10,1,27,21,22,0,1,0,75,15,10,60.0,Matches
+Lucas Höler,de GER,"FW,MF",28-267,9.1,0,0,0,12,28,6,7,6,6,0,0,0,35,35,28,55.6,Matches
+Roland Sallai,hu HUN,"MF,FW",25-316,7.0,4,0,0,19,20,2,16,2,5,1,0,0,37,15,14,51.7,Matches
+Daniel Kyereh,gh GHA,"MF,FW",27-026,6.2,2,0,0,12,16,3,3,2,4,0,0,0,25,7,7,50.0,Matches
+Yannik Keitel,de GER,MF,23-047,5.0,3,0,0,17,2,0,3,9,5,0,2,0,25,7,13,35.0,Matches
+Manuel Gulde,de GER,DF,32-050,4.6,2,0,0,8,1,0,2,10,6,0,0,0,25,17,13,56.7,Matches
+Jeong Woo-yeong,kr KOR,"MF,FW",23-195,6.8,2,0,0,12,6,1,9,1,3,1,0,0,23,3,14,17.6,Matches
+Kevin Schade,de GER,"FW,MF",21-127,2.0,0,0,0,4,6,0,3,0,4,0,0,0,7,17,12,58.6,Matches
+Kenneth Schmidt,de GER,DF,20-304,0.7,0,0,0,0,0,0,1,0,0,0,0,0,4,3,2,60.0,Matches
+Nils Petersen,de GER,FW,34-118,2.5,1,0,0,3,2,1,0,1,4,0,0,0,5,9,19,32.1,Matches
+Noah Weißhaupt,de GER,"MF,FW",21-195,1.8,0,0,0,1,7,0,7,2,1,0,0,0,11,3,1,75.0,Matches
+Jonathan Schmid,fr FRA,DF,32-285,0.4,0,0,0,1,0,0,3,0,0,0,0,0,2,0,0,,Matches
+Robert Wagner,de GER,MF,19-263,0.3,1,0,0,0,0,0,0,0,0,0,0,0,2,2,2,50.0,Matches
+Hugo Siquet,be BEL,DF,20-268,0.2,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,,Matches
+Keven Schlotterbeck,de GER,DF,25-340,0.2,0,0,0,0,1,0,0,2,0,0,0,0,0,2,0,100.0,Matches
+Merlin Röhl,de GER,MF,20-272,0.1,0,0,0,1,2,0,0,0,0,0,0,0,2,0,0,,Matches
+Squad Total,,,28.0,26.0,50,1,1,319,317,42,413,241,214,6,6,0,1344,544,511,51.6,
+Opponent Total,,,27.2,26.0,59,5,2,329,308,34,396,230,191,5,7,0,1401,511,544,48.4,

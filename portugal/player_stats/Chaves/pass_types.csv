@@ -1,34 +1,34 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-João Teixeira,pt POR,MF,29-041,21.8,1063,902,156,69,2,9,111,7,80,28,30,0,816,5,30,Matches
-Steven Vitória,ca CAN,DF,36-067,22.0,913,875,38,38,1,7,1,0,0,0,0,0,774,0,2,Matches
-Paulo Vítor Fagundes dos Anjos,br BRA,GK,34-118,21.0,735,466,268,68,0,2,0,0,0,0,0,0,537,1,0,Matches
-João Mendes,pt POR,"MF,FW",28-149,17.9,683,661,19,11,9,13,29,4,3,0,0,0,544,3,18,Matches
-Nélson Monte,pt POR,DF,27-232,20.3,977,910,66,41,4,10,11,25,0,0,0,0,794,1,10,Matches
-Bruno Langa,mz MOZ,DF,25-139,19.3,982,731,245,34,3,10,45,211,0,0,0,0,682,6,37,Matches
-Ricardo Guimarães,pt POR,MF,27-125,17.1,717,686,26,23,7,5,8,2,0,0,0,0,591,5,16,Matches
-Juninho,br BRA,FW,26-118,15.0,238,214,24,0,0,2,5,4,0,0,0,0,178,0,8,Matches
-João Pedro Araújo Correia,cv CPV,DF,26-195,14.9,758,581,176,16,1,6,74,160,0,0,0,0,572,1,17,Matches
-Héctor,es ESP,FW,27-186,12.5,193,166,25,0,0,0,0,1,0,0,0,0,145,2,4,Matches
-Carlos Ponck,cv CPV,DF,28-065,11.0,459,447,11,11,0,1,0,0,0,0,0,0,396,1,1,Matches
-Issah Abbas,gh GHA,"FW,MF",24-174,10.5,232,222,10,0,0,1,13,10,0,0,0,0,165,0,11,Matches
-Euller,br BRA,"FW,MF",28-074,8.8,296,253,42,13,0,3,40,13,16,10,2,0,203,1,11,Matches
-Bernardo Sousa,pt POR,"FW,MF",22-357,8.0,233,216,16,6,5,0,27,3,6,3,0,0,162,1,13,Matches
-Jonathan Monroy,es ESP,"FW,MF",21-138,7.4,200,196,2,0,1,0,13,2,0,0,0,0,150,2,6,Matches
-Habib sylla,ci CIV,DF,24-035,6.9,329,244,82,7,0,2,17,75,0,0,0,0,229,3,7,Matches
-Luther Singh,za RSA,"FW,MF",25-226,6.3,199,191,7,4,1,1,10,2,1,1,0,0,152,1,6,Matches
-João Pedro,pt POR,MF,29-350,4.8,176,165,10,8,1,2,2,1,1,1,0,0,131,1,8,Matches
-Kevin Pina,cv CPV,MF,25-143,4.1,132,127,5,5,1,3,1,0,0,0,0,0,112,0,3,Matches
-Sandro Cruz,pt POR,"DF,FW",21-311,5.1,268,228,39,4,0,1,7,35,0,0,0,0,202,1,6,Matches
-Nwankwo Obiora,ng NGA,MF,31-250,4.4,161,151,8,8,1,1,0,0,0,0,0,0,134,2,2,Matches
-Rodrigo Nascimento,br BRA,GK,27-053,4.0,103,58,45,13,0,0,0,0,0,0,0,0,66,0,0,Matches
-Batxi,ao ANG,"FW,MF",24-322,3.6,90,82,7,3,1,1,12,1,3,1,2,0,63,1,3,Matches
-Jo,br BRA,"FW,MF",27-322,2.9,59,51,8,0,0,0,0,0,0,0,0,0,37,0,3,Matches
-João Queirós,pt POR,DF,24-331,2.2,59,51,8,4,0,2,0,4,0,0,0,0,45,0,0,Matches
-Hélder Morim,pt POR,"MF,FW",21-309,1.0,28,24,4,2,0,0,3,0,2,1,1,0,18,0,1,Matches
-Patrick,cv CPV,"FW,MF",29-096,0.6,20,20,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
-Sidy Sarr,sn SEN,MF,26-287,0.5,18,16,0,0,0,0,0,0,0,0,0,0,12,2,0,Matches
-Eduardo Borges,pt POR,MF,22-296,0.4,20,20,0,0,0,0,0,0,0,0,0,0,16,0,1,Matches
-Gonçalo Filipe,pt POR,GK,22-323,0.0,4,1,3,0,0,0,0,0,0,0,0,0,1,0,0,Matches
-Guilherme Silva,br BRA,MF,22-149,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
-Squad Total,,,28.0,25.0,10347,8957,1350,388,38,82,429,560,112,45,35,0,7939,40,224,
-Opponent Total,,,26.8,25.0,12119,10801,1286,345,31,112,594,504,174,71,58,1,9589,32,245,
+João Teixeira,pt POR,MF,29-056,21.8,1063,902,156,69,2,9,111,7,80,28,30,0,817,5,30,Matches
+Steven Vitória,ca CAN,DF,36-082,22.0,913,875,38,38,1,7,1,0,0,0,0,0,774,0,2,Matches
+Paulo Vítor Fagundes dos Anjos,br BRA,GK,34-133,21.0,735,466,268,68,0,2,0,0,0,0,0,0,537,1,0,Matches
+João Mendes,pt POR,"MF,FW",28-164,17.9,683,661,19,11,10,13,29,4,3,0,0,0,544,3,18,Matches
+Nélson Monte,pt POR,DF,27-247,20.3,977,910,66,41,4,10,10,25,0,0,0,0,794,1,10,Matches
+Bruno Langa,mz MOZ,DF,25-154,19.3,982,731,245,34,3,10,45,211,0,0,0,0,682,6,37,Matches
+Ricardo Guimarães,pt POR,MF,27-140,17.1,717,686,26,23,7,5,8,2,0,0,0,0,591,5,16,Matches
+Juninho,br BRA,FW,26-133,15.0,238,214,24,0,0,2,5,4,0,0,0,0,178,0,8,Matches
+João Pedro Araújo Correia,cv CPV,DF,26-210,14.9,758,581,176,16,1,6,74,160,0,0,0,0,572,1,17,Matches
+Héctor,es ESP,FW,27-201,12.5,193,166,25,0,0,0,0,1,0,0,0,0,145,2,4,Matches
+Carlos Ponck,cv CPV,DF,28-080,11.0,460,448,11,11,0,1,0,0,0,0,0,0,397,1,2,Matches
+Issah Abbas,gh GHA,"FW,MF",24-189,10.5,232,222,10,0,0,1,13,10,0,0,0,0,165,0,11,Matches
+Euller,br BRA,"FW,MF",28-089,8.8,298,255,42,13,0,3,40,13,16,10,2,0,205,1,11,Matches
+Bernardo Sousa,pt POR,"FW,MF",23-007,8.0,234,217,16,6,6,0,27,3,6,3,0,0,163,1,13,Matches
+Jonathan Monroy,es ESP,"FW,MF",21-153,7.4,200,196,2,0,1,0,13,2,0,0,0,0,150,2,6,Matches
+Habib sylla,ci CIV,DF,24-050,6.9,329,244,82,7,0,2,17,75,0,0,0,0,229,3,7,Matches
+Luther Singh,za RSA,"FW,MF",25-241,6.3,199,191,7,4,1,1,10,2,1,1,0,0,152,1,6,Matches
+João Pedro,pt POR,MF,30-000,4.8,176,165,10,8,1,2,2,1,1,1,0,0,131,1,8,Matches
+Kevin Pina,cv CPV,MF,25-158,4.1,132,127,5,5,1,3,1,0,0,0,0,0,112,0,3,Matches
+Sandro Cruz,pt POR,"DF,FW",21-326,5.1,268,228,39,4,0,1,7,35,0,0,0,0,202,1,6,Matches
+Nwankwo Obiora,ng NGA,MF,31-265,4.4,161,151,8,8,1,1,0,0,0,0,0,0,134,2,2,Matches
+Rodrigo Nascimento,br BRA,GK,27-068,4.0,103,58,45,13,0,0,0,0,0,0,0,0,66,0,0,Matches
+Batxi,ao ANG,"FW,MF",24-337,3.6,90,82,7,3,1,1,12,1,3,1,2,0,63,1,3,Matches
+Jo,br BRA,"FW,MF",27-337,2.9,59,51,8,0,0,0,0,0,0,0,0,0,37,0,3,Matches
+João Queirós,pt POR,DF,24-346,2.2,59,51,8,4,0,2,0,4,0,0,0,0,45,0,0,Matches
+Hélder Morim,pt POR,"MF,FW",21-324,1.0,28,24,4,2,0,0,3,0,2,1,1,0,18,0,1,Matches
+Patrick,cv CPV,"FW,MF",29-111,0.6,20,20,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+Sidy Sarr,sn SEN,MF,26-302,0.5,18,16,0,0,0,0,0,0,0,0,0,0,12,2,0,Matches
+Eduardo Borges,pt POR,MF,22-311,0.4,20,20,0,0,0,0,0,0,0,0,0,0,16,0,1,Matches
+Gonçalo Filipe,pt POR,GK,22-338,0.0,4,1,3,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Guilherme Silva,br BRA,MF,22-164,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+Squad Total,,,28.1,25.0,10351,8961,1350,388,40,82,428,560,112,45,35,0,7944,40,225,
+Opponent Total,,,26.8,25.0,12120,10802,1286,345,34,111,593,504,174,71,58,1,9586,32,245,

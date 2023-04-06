@@ -2,27 +2,27 @@ name,price,position,dob,nationality,height,foot,join_date,contract_expiration
 Frederik Rönnow,€3.50m,Goalkeeper,"Aug 4, 1992 (30)",Denmark,"1,88m",right,"Jul 20, 2021","Jun 30, 2024"
 Lennart Grill,€1.00m,Goalkeeper,"Jan 25, 1999 (24)",Germany,"1,92m",right,"Jul 1, 2022","Jun 30, 2023"
 Jakob Busk,€250k,Goalkeeper,"Sep 12, 1993 (29)",Denmark,"1,89m",right,"Jan 15, 2016","Jun 30, 2024"
-Diogo Leite,€9.00m,Centre-Back,"Jan 23, 1999 (24)",Portugal,"1,90m",left,"Jul 16, 2022","Jun 30, 2023"
-Paul Jaeckel,€7.50m,Centre-Back,"Jul 22, 1998 (24)",Germany,"1,86m",right,"Jul 1, 2021",-
-Timo Baumgartl,€5.00m,Centre-Back,"Mar 4, 1996 (27)",Germany,"1,90m",right,"Jul 1, 2021","Jun 30, 2023"
+Diogo Leite,€12.00m,Centre-Back,"Jan 23, 1999 (24)",Portugal,"1,90m",left,"Jul 16, 2022","Jun 30, 2023"
+Danilho Doekhi,€12.00m,Centre-Back,"Jun 30, 1998 (24)",Netherlands,"1,90m",right,"Jul 1, 2022","Jun 30, 2025"
+Paul Jaeckel,€5.50m,Centre-Back,"Jul 22, 1998 (24)",Germany,"1,86m",right,"Jul 1, 2021",-
 Robin Knoche,€5.00m,Centre-Back,"May 22, 1992 (30)",Germany,"1,89m",right,"Aug 4, 2020","Jun 30, 2024"
-Danilho Doekhi,€4.00m,Centre-Back,"Jun 30, 1998 (24)",Netherlands,"1,90m",right,"Jul 1, 2022","Jun 30, 2025"
+Timo Baumgartl,€3.50m,Centre-Back,"Mar 4, 1996 (27)",Germany,"1,90m",right,"Jul 1, 2021","Jun 30, 2023"
 Jérôme Roussillon,€3.00m,Left-Back,"Jan 6, 1993 (30)",Guadeloupe,"1,72m",left,"Jan 12, 2023",-
 Niko Gießelmann,€2.00m,Left-Back,"Sep 26, 1991 (31)",Germany,"1,82m",left,"Jul 15, 2020","Jun 30, 2023"
 Josip Juranovic,€9.00m,Right-Back,"Aug 16, 1995 (27)",Croatia,"1,73m",right,"Jan 22, 2023","Jun 30, 2027"
 Christopher Trimmel,€800k,Right-Back,"Feb 24, 1987 (36)",Austria,"1,89m",right,"Jul 1, 2014","Jun 30, 2024"
 Rani Khedira,€8.00m,Defensive Midfield,"Jan 27, 1994 (29)",Germany,"1,89m",right,"Jul 1, 2021","Jun 30, 2023"
 Morten Thorsby,€7.00m,Central Midfield,"May 5, 1996 (26)",Norway,"1,88m",right,"Jul 19, 2022","Jun 30, 2025"
+Janik Haberer,€7.00m,Central Midfield,"Apr 2, 1994 (29)",Germany,"1,86m",right,"Jul 1, 2022","Jun 30, 2025"
 András Schäfer,€5.00m,Central Midfield,"Apr 13, 1999 (23)",Hungary,"1,78m",both,"Jan 21, 2022",-
-Janik Haberer,€5.00m,Central Midfield,"Apr 2, 1994 (28)",Germany,"1,86m",right,"Jul 1, 2022","Jun 30, 2025"
 Aïssa Laïdouni,€4.00m,Central Midfield,"Dec 13, 1996 (26)",Tunisia,"1,81m",right,"Jan 27, 2023",-
-Paul Seguin,€2.20m,Central Midfield,"Mar 29, 1995 (27)",Germany,"1,85m",right,"Jul 1, 2022",-
+Paul Seguin,€3.00m,Central Midfield,"Mar 29, 1995 (28)",Germany,"1,85m",right,"Jul 1, 2022",-
 Levin Öztunali,€1.50m,Central Midfield,"Mar 15, 1996 (27)",Germany,"1,84m",right,"Jul 1, 2021",-
-Kevin Möhwald,€1.00m,Central Midfield,"Jul 3, 1993 (29)",Germany,"1,82m",right,"Aug 30, 2021",-
-Milos Pantovic,€2.20m,Attacking Midfield,"Jul 7, 1996 (26)",Serbia,"1,86m",right,"Jul 1, 2022",-
+Kevin Möhwald,€700k,Central Midfield,"Jul 3, 1993 (29)",Germany,"1,82m",right,"Aug 30, 2021",-
+Milos Pantovic,€1.80m,Attacking Midfield,"Jul 7, 1996 (26)",Serbia,"1,86m",right,"Jul 1, 2022",-
 Tim Maciejewski,€350k,Right Winger,"Mar 5, 2001 (22)",Germany,"1,86m",right,"Jul 1, 2020","Jun 30, 2023"
 Sheraldo Becker,€15.00m,Second Striker,"Feb 9, 1995 (28)",Suriname,"1,80m",right,"Jul 1, 2019","Jun 30, 2025"
-Jamie Leweling,€4.50m,Second Striker,"Feb 26, 2001 (22)",Germany,"1,84m",both,"Jul 1, 2022","Jun 30, 2026"
-Jordan,€10.00m,Centre-Forward,"Apr 26, 1996 (26)",United States,"1,91m",right,"Jul 1, 2022","Jun 30, 2026"
+Jamie Leweling,€3.50m,Second Striker,"Feb 26, 2001 (22)",Germany,"1,84m",both,"Jul 1, 2022","Jun 30, 2026"
+Jordan,€9.00m,Centre-Forward,"Apr 26, 1996 (26)",United States,"1,91m",right,"Jul 1, 2022","Jun 30, 2026"
+Kevin Behrens,€1.50m,Centre-Forward,"Feb 3, 1991 (32)",Germany,"1,85m",both,"Jul 1, 2021","Jun 30, 2024"
 Sven Michel,€1.20m,Centre-Forward,"Jul 15, 1990 (32)",Germany,"1,77m",left,"Jan 31, 2022","Jun 30, 2024"
-Kevin Behrens,€900k,Centre-Forward,"Feb 3, 1991 (32)",Germany,"1,85m",right,"Jul 1, 2021","Jun 30, 2024"

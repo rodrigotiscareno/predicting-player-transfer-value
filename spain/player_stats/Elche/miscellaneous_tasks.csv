@@ -1,34 +1,34 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Édgar Badía,es ESP,GK,31-035,25.0,2,0,0,1,2,0,0,0,0,0,1,0,21,4,0,100.0,Matches
-Omar Mascarell,es ESP,MF,30-045,21.2,6,0,0,18,13,0,19,28,19,0,0,0,120,23,14,62.2,Matches
-Gerard Gumbau,es ESP,MF,28-091,18.6,9,0,0,33,10,0,92,17,15,0,0,0,104,10,18,35.7,Matches
-Lucas Boyé,ar ARG,FW,27-019,17.8,4,1,0,40,32,9,11,11,12,0,0,0,68,25,38,39.7,Matches
-Carlos Clerc,es ESP,"DF,MF",31-026,17.5,1,0,0,18,17,2,71,11,30,0,0,0,87,8,11,42.1,Matches
-Helibelton Palacios,co COL,DF,29-281,16.9,5,0,0,27,15,0,14,15,15,0,0,0,97,17,18,48.6,Matches
-Enzo Roco,cl CHI,DF,30-215,16.4,6,1,1,31,10,0,1,13,12,0,4,0,71,38,19,66.7,Matches
-Pedro Bigas,es ESP,DF,32-185,15.7,3,2,0,10,10,0,5,25,12,1,1,0,96,20,11,64.5,Matches
-Pere Milla,es ESP,"FW,MF",30-177,13.4,5,0,0,13,33,7,13,7,13,1,0,0,74,17,19,47.2,Matches
-Tete Morente,es ESP,"MF,DF",26-105,11.0,4,0,0,20,15,5,44,10,11,1,1,0,48,14,7,66.7,Matches
-Raúl Guti,es ESP,MF,26-079,9.8,1,0,0,7,18,0,4,7,9,0,0,0,52,5,5,50.0,Matches
-Fidel,es ESP,"MF,FW",33-143,8.7,3,0,0,5,11,6,35,2,5,0,0,0,41,2,2,50.0,Matches
-Ezequiel Ponce,ar ARG,"FW,MF",25-355,11.0,2,0,0,28,9,7,1,1,5,1,0,0,34,32,36,47.1,Matches
-Roger Martí,es ESP,FW,32-075,7.3,2,0,0,16,11,4,5,1,2,0,0,0,27,6,12,33.3,Matches
-Álex Collado,es ESP,MF,23-331,6.0,1,0,0,8,6,1,11,2,11,0,0,0,23,4,6,40.0,Matches
-Diego González,es ESP,DF,28-050,9.3,4,0,0,16,5,0,1,7,6,0,1,0,38,18,6,75.0,Matches
-Pol Lirola,es ESP,DF,25-218,6.3,1,0,0,3,3,0,29,6,6,0,0,0,42,8,6,57.1,Matches
-Gonzalo Verdú,es ESP,DF,34-149,6.0,1,2,0,9,3,0,0,8,2,0,0,0,24,18,12,60.0,Matches
-Carmona,es ESP,"MF,DF",21-049,5.8,5,1,1,18,5,1,12,8,9,0,0,0,39,5,10,33.3,Matches
-Lisandro Magallán,ar ARG,DF,29-173,4.5,0,1,0,7,3,0,1,5,4,0,0,0,21,7,5,58.3,Matches
-Josan,es ESP,"DF,MF",33-106,4.9,3,0,0,6,6,4,19,1,5,0,1,0,18,3,3,50.0,Matches
-Johan Mojica,co COL,"DF,MF",30-210,3.0,2,0,0,4,3,0,14,4,3,0,1,0,33,4,1,80.0,Matches
-Randy Ntekja,fr FRA,FW,25-103,2.3,1,0,0,7,6,0,0,1,7,0,0,0,13,8,17,32.0,Matches
-Nicolás Ezequiel Fernández,ar ARG,"MF,DF",23-067,3.6,2,0,0,7,8,1,16,5,9,0,0,1,28,1,3,25.0,Matches
-Domingos Quina,pt POR,MF,23-121,3.1,3,1,1,5,11,0,6,3,2,0,0,0,27,0,1,0.0,Matches
-Lautaro Blanco,ar ARG,"DF,MF",24-028,3.0,1,0,0,1,0,0,29,1,2,0,0,0,21,0,2,0.0,Matches
-John Donald,es ESP,DF,22-201,1.7,0,1,0,2,1,0,0,5,0,0,0,0,4,2,2,50.0,Matches
-Federico Fernández,ar ARG,DF,34-026,1.0,0,0,0,0,0,0,0,2,1,0,0,0,3,1,2,33.3,Matches
-Pape Cheikh Diop,sn SEN,MF,25-223,0.4,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,,Matches
-Alejandro Alfaro,es ESP,MF,20-277,0.2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,,Matches
-Javier Pastore,ar ARG,MF,33-272,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,Matches
-Squad Total,,,29.1,25.0,77,11,3,364,266,47,453,206,227,4,10,1,1277,300,286,51.2,
-Opponent Total,,,28.0,25.0,57,6,4,280,351,71,476,200,260,7,5,0,1326,286,300,48.8,
+Édgar Badía,es ESP,GK,31-050,27.0,2,0,0,1,4,0,0,0,0,0,1,0,26,4,0,100.0,Matches
+Omar Mascarell,es ESP,MF,30-060,23.2,6,0,0,20,16,0,22,33,22,0,0,0,134,24,15,61.5,Matches
+Gerard Gumbau,es ESP,MF,28-106,20.6,9,0,0,39,14,1,101,18,17,0,0,0,110,13,20,39.4,Matches
+Carlos Clerc,es ESP,"DF,MF",31-041,19.4,1,0,0,21,19,2,73,12,33,0,0,0,93,8,14,36.4,Matches
+Lucas Boyé,ar ARG,FW,27-034,18.8,5,1,0,46,33,9,11,11,12,0,0,0,71,28,39,41.8,Matches
+Helibelton Palacios,co COL,DF,29-296,18.8,5,0,0,28,15,0,16,17,16,0,0,0,103,18,21,46.2,Matches
+Pedro Bigas,es ESP,DF,32-200,17.0,3,2,0,13,13,0,5,29,17,1,1,0,105,27,13,67.5,Matches
+Enzo Roco,cl CHI,DF,30-230,16.4,6,1,1,31,10,0,1,13,12,0,4,0,71,38,19,66.7,Matches
+Pere Milla,es ESP,"FW,MF",30-192,14.2,5,0,0,14,34,9,13,7,13,1,0,0,78,17,22,43.6,Matches
+Tete Morente,es ESP,"MF,DF",26-120,12.7,4,0,0,21,16,5,48,11,12,1,1,0,52,19,9,67.9,Matches
+Fidel,es ESP,"MF,FW",33-158,10.6,3,0,0,5,13,7,40,3,7,0,0,0,50,2,4,33.3,Matches
+Raúl Guti,es ESP,MF,26-094,10.2,1,0,0,7,19,0,6,7,10,0,0,0,54,5,7,41.7,Matches
+Ezequiel Ponce,ar ARG,"FW,MF",26-005,11.5,2,0,0,28,9,7,1,1,5,1,0,0,35,33,39,45.8,Matches
+Diego González,es ESP,DF,28-065,10.3,4,0,0,17,5,0,1,7,7,0,1,0,43,18,7,72.0,Matches
+Roger Martí,es ESP,FW,32-090,7.3,2,0,0,16,11,4,5,1,2,0,0,0,27,6,12,33.3,Matches
+Gonzalo Verdú,es ESP,DF,34-164,6.7,1,2,0,9,4,0,0,10,3,0,0,0,29,19,12,61.3,Matches
+Carmona,es ESP,"MF,DF",21-064,6.5,5,1,1,19,7,2,12,8,10,0,0,0,44,6,11,35.3,Matches
+Álex Collado,es ESP,MF,23-346,6.0,1,0,0,8,6,1,11,2,11,0,0,0,23,4,6,40.0,Matches
+Pol Lirola,es ESP,DF,25-233,6.3,1,0,0,3,3,0,29,6,6,0,0,0,42,8,6,57.1,Matches
+Lisandro Magallán,ar ARG,DF,29-188,4.5,0,1,0,7,3,0,1,5,4,0,0,0,21,7,5,58.3,Matches
+Randy Ntekja,fr FRA,FW,25-118,2.9,1,0,0,9,9,1,0,1,7,0,0,0,14,10,20,33.3,Matches
+Josan,es ESP,"MF,DF",33-121,5.3,3,0,0,6,6,4,21,3,5,0,1,0,23,3,3,50.0,Matches
+Lautaro Blanco,ar ARG,"MF,DF",24-043,3.9,1,0,0,1,0,0,35,1,2,0,0,0,25,0,2,0.0,Matches
+Johan Mojica,co COL,"DF,MF",30-225,3.0,2,0,0,4,3,0,14,4,3,0,1,0,33,4,1,80.0,Matches
+Nicolás Ezequiel Fernández,ar ARG,"MF,DF",23-082,3.9,2,0,0,7,8,1,19,5,10,0,0,1,32,1,3,25.0,Matches
+Domingos Quina,pt POR,MF,23-136,3.1,3,1,1,5,11,0,6,3,2,0,0,0,27,0,1,0.0,Matches
+John Donald,es ESP,DF,22-216,1.7,0,1,0,2,1,0,0,5,0,0,0,0,4,2,2,50.0,Matches
+Federico Fernández,ar ARG,DF,34-041,1.0,0,0,0,0,0,0,0,2,1,0,0,0,3,1,2,33.3,Matches
+Pape Cheikh Diop,sn SEN,MF,25-238,0.4,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,,Matches
+Alejandro Alfaro,es ESP,MF,20-292,0.2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Javier Pastore,ar ARG,MF,33-287,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,Matches
+Squad Total,,,29.2,27.0,78,11,3,391,292,53,491,225,249,4,10,1,1375,325,315,50.8,
+Opponent Total,,,28.0,27.0,62,6,4,307,375,78,505,216,279,7,5,0,1435,315,325,49.2,

@@ -25,7 +25,7 @@
 2023-01-15,20:45,Serie A,Matchweek 18,Sun,Home,W,2.0,0.0,Fiorentina,0.9,0.4,52.0,61327.0,Lorenzo Pellegrini,3-4-1-2,Antonio Giua,Match Report,
 2023-01-22,18:00,Serie A,Matchweek 19,Sun,Away,W,2.0,0.0,Spezia,2.0,0.2,48.0,,Gianluca Mancini,3-4-3,Simone Sozza,Match Report,
 2023-01-29,20:45,Serie A,Matchweek 20,Sun,Away,L,1.0,2.0,Napoli,0.8,1.0,44.0,,Lorenzo Pellegrini,3-4-3,Daniele Orsato,Match Report,
-2023-02-01,21:00,Coppa Italia,Quarter-finals,Wed,Home,L,1.0,2.0,Cremonese,,,64.0,,Lorenzo Pellegrini,3-4-3,Michael Fabbri,Match Report,
+2023-02-01,21:00,Coppa Italia,Quarter-finals,Wed,Home,L,1.0,2.0,Cremonese,,,64.0,60657.0,Lorenzo Pellegrini,3-4-3,Michael Fabbri,Match Report,
 2023-02-04,18:00,Serie A,Matchweek 21,Sat,Home,W,2.0,0.0,Empoli,1.2,1.7,45.0,,Lorenzo Pellegrini,3-4-3,Federico Dionisi,Match Report,
 2023-02-11,18:00,Serie A,Matchweek 22,Sat,Away,D,1.0,1.0,Lecce,1.7,0.3,58.0,,Lorenzo Pellegrini,3-4-3,Gianluca Aureliano,Match Report,
 2023-02-16,18:45,Europa Lg,Knockout round play-offs,Thu,Away,L,0.0,1.0,at RB Salzburg,1.8,0.8,45.0,29520.0,Lorenzo Pellegrini,3-4-3,Dennis Higler,Match Report,Leg 1 of 2
@@ -36,14 +36,14 @@
 2023-03-09,18:45,Europa Lg,Round of 16,Thu,Home,W,2.0,0.0,es Real Sociedad,1.9,0.8,41.0,61608.0,Lorenzo Pellegrini,3-4-3,Sandro Schärer,Match Report,Leg 1 of 2
 2023-03-12,18:00,Serie A,Matchweek 26,Sun,Home,L,3.0,4.0,Sassuolo,1.5,3.5,54.0,,Chris Smalling,3-4-3,Michael Fabbri,Match Report,
 2023-03-16,21:00,Europa Lg,Round of 16,Thu,Away,D,0.0,0.0,es Real Sociedad,0.1,1.7,25.0,35054.0,Lorenzo Pellegrini,3-5-1-1,István Kovács,Match Report,Leg 2 of 2; Roma won
-2023-03-19,18:00,Serie A,Matchweek 27,Sun,Away,,,,Lazio,,,,,,,,Head-to-Head,
+2023-03-19,18:00,Serie A,Matchweek 27,Sun,Away,L,0.0,1.0,Lazio,0.6,0.6,31.0,,Lorenzo Pellegrini,3-4-3,Davide Massa,Match Report,
 2023-04-02,18:00,Serie A,Matchweek 28,Sun,Home,,,,Sampdoria,,,,,,,,Head-to-Head,
 2023-04-08,18:30,Serie A,Matchweek 29,Sat,Away,,,,Torino,,,,,,,,Head-to-Head,
 2023-04-13,18:45,Europa Lg,Quarter-finals,Thu,Away,,,,nl Feyenoord,,,,,,,,Head-to-Head,Leg 1 of 2
-2023-04-16,,Serie A,Matchweek 30,Sun,Home,,,,Udinese,,,,,,,,Head-to-Head,
+2023-04-16,20:45,Serie A,Matchweek 30,Sun,Home,,,,Udinese,,,,,,,,Head-to-Head,
 2023-04-20,21:00,Europa Lg,Quarter-finals,Thu,Home,,,,nl Feyenoord,,,,,,,,Head-to-Head,Leg 2 of 2
-2023-04-23,,Serie A,Matchweek 31,Sun,Away,,,,Atalanta,,,,,,,,Head-to-Head,
-2023-04-30,,Serie A,Matchweek 32,Sun,Home,,,,Milan,,,,,,,,Head-to-Head,
+2023-04-24,20:45,Serie A,Matchweek 31,Mon,Away,,,,Atalanta,,,,,,,,Head-to-Head,
+2023-04-29,18:00,Serie A,Matchweek 32,Sat,Home,,,,Milan,,,,,,,,Head-to-Head,
 2023-05-03,,Serie A,Matchweek 33,Wed,Away,,,,Monza,,,,,,,,Head-to-Head,
 2023-05-07,,Serie A,Matchweek 34,Sun,Home,,,,Inter,,,,,,,,Head-to-Head,
 2023-05-14,,Serie A,Matchweek 35,Sun,Away,,,,Bologna,,,,,,,,Head-to-Head,

@@ -1,35 +1,35 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Kai Havertz,de GER,"FW,MF",23-281,22.0,666,637,27,3,2,3,10,8,0,0,0,0,539,2,17,Matches
-Thiago Silva,br BRA,DF,38-178,20.1,1619,1561,51,46,0,13,1,2,0,0,0,0,1462,7,8,Matches
-Mason Mount,eng ENG,"MF,FW",24-068,18.1,769,697,68,17,6,8,64,5,34,11,19,1,579,4,23,Matches
-Kepa Arrizabalaga,es ESP,GK,28-167,18.5,681,509,172,44,0,1,0,0,0,0,0,0,578,0,0,Matches
-Marc Cucurella,es ESP,DF,24-240,15.9,1124,955,162,21,0,1,41,128,13,8,3,0,942,7,23,Matches
-Kalidou Koulibaly,sn SEN,DF,31-272,16.9,1252,1208,41,29,0,14,4,12,0,0,0,0,1084,3,10,Matches
-Raheem Sterling,eng ENG,"FW,MF",28-101,14.9,489,471,16,0,5,0,34,4,7,7,0,0,363,2,18,Matches
-Ruben Loftus-Cheek,eng ENG,"MF,DF",27-055,14.0,728,684,39,10,1,6,12,29,0,0,0,0,619,5,18,Matches
-Jorginho,it ITA,MF,31-089,14.2,884,853,28,27,2,3,2,1,0,0,0,0,749,3,11,Matches
-Mateo Kovačić,hr CRO,MF,28-317,13.0,912,891,21,18,6,9,2,3,0,0,0,0,775,0,15,Matches
-César Azpilicueta,es ESP,DF,33-203,12.3,818,679,136,27,0,0,18,109,0,0,0,0,661,3,11,Matches
-Trevoh Chalobah,eng ENG,DF,23-257,11.2,686,649,36,12,0,4,3,24,0,0,0,0,607,1,8,Matches
-Reece James,eng ENG,"DF,MF",23-101,10.4,782,667,112,19,0,3,59,80,13,9,1,0,671,3,12,Matches
-Conor Gallagher,eng ENG,"MF,FW",23-041,10.5,546,504,40,7,1,4,39,8,21,9,7,0,431,2,19,Matches
-Ben Chilwell,eng ENG,"DF,MF",26-088,9.7,641,508,128,15,2,4,55,83,30,15,9,0,494,5,13,Matches
-Edouard Mendy,sn SEN,GK,31-018,8.5,268,206,62,6,0,1,0,0,0,0,0,0,213,0,0,Matches
-Christian Pulisic,us USA,"FW,DF",24-182,7.7,263,259,2,0,1,0,13,2,0,0,0,0,208,2,7,Matches
-Benoît Badiashile,fr FRA,DF,21-358,7.1,596,583,12,10,1,6,1,2,0,0,0,0,540,1,0,Matches
-Enzo Fernández,ar ARG,MF,22-061,6.9,599,580,17,16,4,10,4,1,0,0,0,0,525,2,9,Matches
-João Félix,pt POR,"FW,MF",23-129,5.7,212,183,27,4,2,1,17,3,12,2,9,0,164,2,7,Matches
-Hakim Ziyech,ma MAR,"FW,MF",30-000,6.4,329,293,32,8,4,3,55,6,17,10,4,1,210,4,11,Matches
-Wesley Fofana,fr FRA,DF,22-092,6.2,446,434,11,7,0,2,1,4,0,0,0,0,393,1,4,Matches
-Pierre-Emerick Aubameyang,ga GAB,FW,33-274,4.9,86,82,4,0,0,0,3,0,0,0,0,0,61,0,4,Matches
-Denis Zakaria,ch SUI,MF,26-119,3.8,167,165,2,2,1,1,1,0,0,0,0,0,149,0,4,Matches
-Lewis Hall,eng ENG,"DF,MF",18-192,3.4,195,175,20,3,0,3,9,15,2,2,0,0,147,0,6,Matches
-Mykhailo Mudryk,ua UKR,FW,22-073,2.9,90,81,8,0,1,0,6,5,1,1,0,0,64,1,1,Matches
-Armando Broja,al ALB,FW,21-190,3.3,53,51,2,0,0,1,0,0,0,0,0,0,33,0,0,Matches
-Noni Madueke,eng ENG,FW,21-009,2.0,78,76,2,0,0,0,4,1,1,1,0,0,61,0,0,Matches
-N'Golo Kanté,fr FRA,MF,31-355,1.9,129,128,0,0,0,0,3,0,0,0,0,0,107,1,4,Matches
-Carney Chukwuemeka,eng ENG,"MF,FW",19-150,2.6,117,116,1,0,0,0,3,0,0,0,0,0,98,0,4,Matches
-Datro Fofana,ci CIV,FW,20-087,0.7,6,6,0,0,1,0,1,0,0,0,0,0,4,0,0,Matches
-Omari Hutchinson,eng ENG,FW,19-140,0.3,12,12,0,0,0,0,2,0,0,0,0,0,8,0,1,Matches
-Squad Total,,,27.3,27.0,16243,14903,1279,351,40,101,467,535,151,75,52,2,13539,61,268,
-Opponent Total,,,27.3,27.0,11390,10084,1271,340,23,65,457,547,127,72,23,1,8713,35,291,
+Kai Havertz,de GER,"FW,MF",23-296,23.0,710,681,27,3,2,3,10,8,0,0,0,0,576,2,18,Matches
+Thiago Silva,br BRA,DF,38-193,20.1,1619,1561,51,46,0,13,1,2,0,0,0,0,1462,7,8,Matches
+Kepa Arrizabalaga,es ESP,GK,28-182,19.5,695,519,176,45,0,1,0,0,0,0,0,0,590,0,1,Matches
+Mason Mount,eng ENG,"MF,FW",24-083,18.1,769,697,68,17,6,8,64,5,34,11,19,1,579,4,23,Matches
+Marc Cucurella,es ESP,DF,24-255,16.8,1199,1018,174,24,0,2,42,137,13,8,3,0,1012,7,23,Matches
+Kalidou Koulibaly,sn SEN,DF,31-287,17.9,1319,1274,42,30,0,15,4,12,0,0,0,0,1145,3,10,Matches
+Ruben Loftus-Cheek,eng ENG,"MF,DF",27-070,14.6,782,735,42,10,1,6,18,32,0,0,0,0,663,5,20,Matches
+Raheem Sterling,eng ENG,"FW,MF",28-116,14.9,489,471,16,0,5,0,34,4,7,7,0,0,363,2,18,Matches
+Jorginho,it ITA,MF,31-104,14.2,884,853,28,27,2,3,2,1,0,0,0,0,749,3,11,Matches
+Mateo Kovačić,hr CRO,MF,28-332,13.9,983,959,23,20,8,9,2,3,0,0,0,0,842,1,15,Matches
+Reece James,eng ENG,"DF,MF",23-116,11.4,880,760,117,23,0,4,66,81,13,9,1,0,757,3,13,Matches
+César Azpilicueta,es ESP,DF,33-218,12.3,818,679,136,27,0,0,18,109,0,0,0,0,661,3,11,Matches
+Trevoh Chalobah,eng ENG,DF,23-272,11.2,686,649,36,12,0,4,3,24,0,0,0,0,607,1,8,Matches
+Ben Chilwell,eng ENG,"DF,MF",26-103,10.7,700,549,146,19,2,4,71,84,43,18,18,0,535,5,14,Matches
+Conor Gallagher,eng ENG,"MF,FW",23-056,10.6,550,506,42,8,1,4,40,9,21,9,7,0,434,2,19,Matches
+Edouard Mendy,sn SEN,GK,31-033,8.5,268,206,62,6,0,1,0,0,0,0,0,0,213,0,0,Matches
+Enzo Fernández,ar ARG,MF,22-076,7.9,676,657,17,16,4,11,6,1,0,0,0,0,592,2,9,Matches
+João Félix,pt POR,"FW,MF",23-144,6.7,247,215,30,4,2,3,17,3,12,2,9,0,194,2,8,Matches
+Christian Pulisic,us USA,"FW,DF",24-197,7.8,269,263,4,0,1,0,14,4,0,0,0,0,212,2,7,Matches
+Benoît Badiashile,fr FRA,DF,22-008,7.1,596,583,12,10,1,6,1,2,0,0,0,0,540,1,0,Matches
+Hakim Ziyech,ma MAR,"FW,MF",30-015,6.4,329,293,32,8,4,3,55,6,17,10,4,1,210,4,11,Matches
+Wesley Fofana,fr FRA,DF,22-107,6.2,446,434,11,7,0,2,1,4,0,0,0,0,393,1,4,Matches
+Pierre-Emerick Aubameyang,ga GAB,FW,33-289,4.9,86,82,4,0,0,0,3,0,0,0,0,0,61,0,4,Matches
+Denis Zakaria,ch SUI,MF,26-134,3.8,167,165,2,2,1,1,1,0,0,0,0,0,149,0,4,Matches
+Mykhailo Mudryk,ua UKR,"FW,MF",22-088,3.5,103,94,8,0,1,0,6,5,1,1,0,0,76,1,1,Matches
+Lewis Hall,eng ENG,"DF,MF",18-207,3.4,195,175,20,3,0,3,9,15,2,2,0,0,147,0,6,Matches
+Armando Broja,al ALB,FW,21-205,3.3,53,51,2,0,0,1,0,0,0,0,0,0,33,0,0,Matches
+Noni Madueke,eng ENG,"FW,DF",21-024,2.4,96,91,5,0,0,0,6,4,1,1,0,0,77,0,0,Matches
+N'Golo Kanté,fr FRA,MF,32-005,2.3,154,152,0,0,0,0,6,0,0,0,0,0,122,2,5,Matches
+Carney Chukwuemeka,eng ENG,"MF,FW",19-165,2.6,117,116,1,0,0,0,3,0,0,0,0,0,98,0,4,Matches
+Datro Fofana,ci CIV,FW,20-102,0.7,6,6,0,0,1,0,1,0,0,0,0,0,4,0,0,Matches
+Omari Hutchinson,eng ENG,FW,19-155,0.3,12,12,0,0,0,0,2,0,0,0,0,0,8,0,1,Matches
+Squad Total,,,27.3,28.0,16903,15506,1334,367,42,107,506,555,164,78,61,2,14104,63,276,
+Opponent Total,,,27.3,28.0,11685,10336,1314,356,24,67,461,556,129,73,24,1,8932,35,298,

@@ -1,28 +1,28 @@
 Player,Nation,Pos,Age,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
-Teun Koopmeiners,nl NED,MF,25-019,22.8,1291,1175,112,41,4,16,103,21,47,18,22,0,965,4,22,Matches
-Marten de Roon,nl NED,MF,31-355,21.9,1256,1199,54,39,0,20,10,11,0,0,0,0,1038,3,18,Matches
-Rafael Tolói,it ITA,DF,32-160,21.1,1149,1110,35,14,2,8,20,20,0,0,0,0,917,4,15,Matches
-Juan Musso,ar ARG,GK,28-317,20.1,619,440,178,44,0,2,0,0,0,0,0,0,464,1,1,Matches
-Ademola Lookman,ng NGA,"FW,MF",25-150,17.1,575,530,44,7,5,2,37,10,16,2,7,0,433,1,23,Matches
-Giorgio Scalvini,it ITA,DF,19-098,16.4,916,891,23,19,1,17,6,4,0,0,0,0,733,2,11,Matches
-Hans Hateboer,nl NED,DF,29-069,15.5,702,571,129,3,2,1,23,126,0,0,0,0,560,2,13,Matches
-Éderson,br BRA,MF,23-255,16.1,736,716,18,10,0,15,12,1,4,2,0,0,594,2,19,Matches
-Joakim Mæhle,dk DEN,"DF,MF",25-303,15.4,984,815,167,4,1,2,26,162,1,0,1,0,801,2,31,Matches
-Merih Demiral,tr TUR,DF,25-014,16.0,604,539,65,40,0,3,2,2,0,0,0,0,517,0,1,Matches
-Rasmus Højlund,dk DEN,FW,20-043,14.2,320,304,14,0,1,1,4,0,0,0,0,0,236,2,12,Matches
-Mario Pašalić,hr CRO,"MF,FW",28-038,13.4,472,454,16,5,0,3,3,2,0,0,0,0,386,2,8,Matches
-Berat Djimsiti,al ALB,DF,30-028,10.4,619,591,27,15,0,0,0,11,0,0,0,0,535,1,4,Matches
-Duván Zapata,co COL,FW,31-352,9.3,273,259,12,1,0,5,17,0,1,0,0,0,180,2,9,Matches
-Caleb Okoli,it ITA,DF,21-249,9.4,387,363,24,17,0,3,1,5,0,0,0,0,297,0,6,Matches
-Luis Muriel,co COL,FW,31-337,8.6,370,315,53,5,6,10,60,8,30,14,14,0,228,2,12,Matches
-Matteo Ruggeri,it ITA,"DF,MF",20-251,8.2,542,453,87,4,0,2,35,82,1,1,0,0,437,2,8,Matches
-Brandon Soppy,fr FRA,DF,21-026,6.3,279,221,58,0,1,0,14,58,0,0,0,0,212,0,10,Matches
-Davide Zappacosta,it ITA,"DF,MF",30-281,6.2,405,324,81,2,0,0,25,79,0,0,0,0,339,0,9,Matches
-Marco Sportiello,it ITA,GK,30-313,6.9,242,170,72,11,0,0,0,0,0,0,0,0,194,0,0,Matches
-José Luis Palomino,ar ARG,DF,33-073,5.6,370,347,23,17,0,0,3,6,0,0,0,0,307,0,7,Matches
-Jeremie Boga,ci CIV,"MF,FW",26-075,6.5,352,316,35,7,2,3,38,6,22,11,8,0,281,1,5,Matches
-Ruslan Malinovskyi,ua UKR,"MF,FW",29-319,6.1,332,304,23,8,2,11,23,2,13,6,6,0,248,5,6,Matches
-Nadir Zortea,it ITA,"DF,MF",23-273,2.5,98,83,15,0,1,0,10,15,0,0,0,0,60,0,6,Matches
-Lukáš Vorlický,cz CZE,"MF,FW",21-060,0.3,31,30,1,0,0,0,1,1,0,0,0,0,19,0,0,Matches
-Squad Total,,,26.9,27.0,13924,12520,1366,313,28,124,473,632,135,54,58,0,10981,38,256,
-Opponent Total,,,27.1,27.0,13551,12138,1380,355,22,80,414,605,114,30,48,0,10620,33,272,
+Marten de Roon,nl NED,MF,32-005,22.9,1313,1252,58,42,0,20,10,12,0,0,0,0,1087,3,19,Matches
+Teun Koopmeiners,nl NED,MF,25-034,22.8,1291,1175,112,41,4,16,103,21,47,18,22,0,965,4,22,Matches
+Rafael Tolói,it ITA,DF,32-175,21.9,1211,1171,36,15,2,8,21,20,0,0,0,0,963,4,15,Matches
+Juan Musso,ar ARG,GK,28-332,21.1,649,464,184,45,0,3,0,0,0,0,0,0,482,1,1,Matches
+Ademola Lookman,ng NGA,"FW,MF",25-165,17.6,599,552,45,7,5,2,37,11,16,2,7,0,454,2,23,Matches
+Giorgio Scalvini,it ITA,DF,19-113,17.4,979,951,25,21,1,17,7,4,0,0,0,0,788,3,11,Matches
+Éderson,br BRA,MF,23-270,17.1,798,775,21,13,0,18,12,1,4,2,0,0,648,2,19,Matches
+Hans Hateboer,nl NED,DF,29-084,15.5,702,571,129,3,2,1,23,126,0,0,0,0,560,2,13,Matches
+Joakim Mæhle,dk DEN,"DF,MF",25-318,15.7,1004,832,170,4,1,2,27,165,1,0,1,0,818,2,31,Matches
+Mario Pašalić,hr CRO,"MF,FW",28-053,13.9,495,476,17,6,0,3,3,2,0,0,0,0,403,2,10,Matches
+Merih Demiral,tr TUR,DF,25-029,16.1,607,542,65,40,0,3,2,2,0,0,0,0,520,0,1,Matches
+Rasmus Højlund,dk DEN,FW,20-058,14.6,331,315,14,0,1,1,4,0,0,0,0,0,246,2,12,Matches
+Duván Zapata,co COL,FW,32-002,10.0,292,273,16,1,0,5,19,2,1,0,0,0,194,3,9,Matches
+Berat Djimsiti,al ALB,DF,30-043,10.4,619,591,27,15,0,0,0,11,0,0,0,0,535,1,4,Matches
+Caleb Okoli,it ITA,DF,21-264,9.4,387,363,24,17,0,3,1,5,0,0,0,0,297,0,6,Matches
+Matteo Ruggeri,it ITA,"DF,MF",20-266,9.2,630,526,102,5,0,2,38,96,1,1,0,0,514,2,10,Matches
+Luis Muriel,co COL,FW,31-352,9.1,392,334,56,5,6,11,63,9,32,14,16,0,245,2,13,Matches
+Davide Zappacosta,it ITA,"DF,MF",30-296,6.9,453,365,88,2,0,0,29,86,0,0,0,0,379,0,12,Matches
+José Luis Palomino,ar ARG,DF,33-088,6.6,427,403,24,18,0,0,3,6,0,0,0,0,353,0,7,Matches
+Brandon Soppy,fr FRA,DF,21-041,6.3,279,221,58,0,1,0,14,58,0,0,0,0,212,0,10,Matches
+Marco Sportiello,it ITA,GK,30-328,6.9,242,170,72,11,0,0,0,0,0,0,0,0,194,0,0,Matches
+Jeremie Boga,ci CIV,"MF,FW",26-090,7.0,389,349,39,7,3,3,43,6,26,12,9,0,313,1,7,Matches
+Ruslan Malinovskyi,ua UKR,"MF,FW",29-334,6.1,332,304,23,8,2,11,23,2,13,6,6,0,248,5,6,Matches
+Nadir Zortea,it ITA,"DF,MF",23-288,2.5,98,83,15,0,1,0,10,15,0,0,0,0,60,0,6,Matches
+Lukáš Vorlický,cz CZE,"MF,FW",21-075,0.3,31,30,1,0,0,0,1,1,0,0,0,0,19,0,0,Matches
+Squad Total,,,27.0,28.0,14550,13088,1421,326,29,129,493,661,141,55,61,0,11497,41,267,
+Opponent Total,,,27.2,28.0,14003,12545,1425,366,23,81,426,627,114,30,48,0,10957,33,286,

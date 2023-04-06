@@ -21,7 +21,7 @@
 2023-01-17,21:00,Coppa Italia,Round of 16,Tue,Away,D,2 (5),2 (4),Napoli,,,30.0,32000.0,Daniel Ciofani,3-5-2,Maria Sole Ferrieri Caputi,Match Report,Cremonese won on penalty kicks following extra time
 2023-01-23,18:30,Serie A,Matchweek 19,Mon,Away,D,1,1,Bologna,1.7,1.1,32.0,,Daniel Ciofani,3-5-2,Matteo Marchetti,Match Report,
 2023-01-28,18:00,Serie A,Matchweek 20,Sat,Home,L,1,2,Inter,1.0,2.3,35.0,,Daniel Ciofani,3-5-2,Maurizio Mariani,Match Report,
-2023-02-01,21:00,Coppa Italia,Quarter-finals,Wed,Away,W,2,1,Roma,,,36.0,,Matteo Bianchetti,3-5-2,Michael Fabbri,Match Report,
+2023-02-01,21:00,Coppa Italia,Quarter-finals,Wed,Away,W,2,1,Roma,,,36.0,60657.0,Matteo Bianchetti,3-5-2,Michael Fabbri,Match Report,
 2023-02-04,15:00,Serie A,Matchweek 21,Sat,Home,L,0,2,Lecce,0.6,1.5,58.0,,Daniel Ciofani,3-5-2,Daniele Orsato,Match Report,
 2023-02-12,20:45,Serie A,Matchweek 22,Sun,Away,L,0,3,Napoli,0.2,1.8,35.0,,Vlad Chiricheș,3-5-2,Luca Massimi,Match Report,
 2023-02-20,20:45,Serie A,Matchweek 23,Mon,Away,D,2,2,Torino,0.6,2.4,37.0,,Matteo Bianchetti,3-5-2,Giacomo Camplone,Match Report,
@@ -29,13 +29,13 @@
 2023-03-06,18:30,Serie A,Matchweek 25,Mon,Away,L,2,3,Sassuolo,1.2,1.0,46.0,,Matteo Bianchetti,3-4-3,Francesco Fourneau,Match Report,
 2023-03-12,15:00,Serie A,Matchweek 26,Sun,Home,L,0,2,Fiorentina,1.8,1.7,47.0,,Matteo Bianchetti,5-3-2,Matteo Marcenaro,Match Report,
 2023-03-18,15:00,Serie A,Matchweek 27,Sat,Away,D,1,1,Monza,0.7,2.0,35.0,,Matteo Bianchetti,3-5-2,Antonio Giua,Match Report,
-2023-04-01,15:00,Serie A,Matchweek 28,Sat,Home,,,,Atalanta,,,,,,,,Head-to-Head,
+2023-04-01,15:00,Serie A,Matchweek 28,Sat,Home,L,1,3,Atalanta,1.6,3.0,42.0,,Daniel Ciofani,3-5-2,Livio Marinelli,Match Report,
 2023-04-05,21:00,Coppa Italia,Semi-finals,Wed,Home,,,,Fiorentina,,,,,,,,Head-to-Head,Leg 1 of 2
 2023-04-08,16:30,Serie A,Matchweek 29,Sat,Away,,,,Sampdoria,,,,,,,,Head-to-Head,
-2023-04-16,,Serie A,Matchweek 30,Sun,Home,,,,Empoli,,,,,,,,Head-to-Head,
-2023-04-23,,Serie A,Matchweek 31,Sun,Away,,,,Udinese,,,,,,,,Head-to-Head,
-2023-04-25,,Coppa Italia,Semi-finals,Tue,Away,,,,Fiorentina,,,,,,,,Head-to-Head,Leg 2 of 2
-2023-04-30,,Serie A,Matchweek 32,Sun,Home,,,,Hellas Verona,,,,,,,,Head-to-Head,
+2023-04-14,18:30,Serie A,Matchweek 30,Fri,Home,,,,Empoli,,,,,,,,Head-to-Head,
+2023-04-23,15:00,Serie A,Matchweek 31,Sun,Away,,,,Udinese,,,,,,,,Head-to-Head,
+2023-04-27,21:00,Coppa Italia,Semi-finals,Thu,Away,,,,Fiorentina,,,,,,,,Head-to-Head,Leg 2 of 2
+2023-04-30,15:00,Serie A,Matchweek 32,Sun,Home,,,,Hellas Verona,,,,,,,,Head-to-Head,
 2023-05-03,,Serie A,Matchweek 33,Wed,Away,,,,Milan,,,,,,,,Head-to-Head,
 2023-05-07,,Serie A,Matchweek 34,Sun,Home,,,,Spezia,,,,,,,,Head-to-Head,
 2023-05-14,,Serie A,Matchweek 35,Sun,Away,,,,Juventus,,,,,,,,Head-to-Head,

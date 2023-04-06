@@ -1,15 +1,15 @@
 name,price,position,dob,nationality,height,foot,join_date,contract_expiration
 Mark Flekken,€7.00m,Goalkeeper,"Jun 13, 1993 (29)",Netherlands,"1,95m",both,"Jul 1, 2018",-
 Noah Atubolu,€2.00m,Goalkeeper,"May 25, 2002 (20)",Germany,"1,90m",right,"Jul 1, 2021",-
-Benjamin Uphoff,€500k,Goalkeeper,"Aug 8, 1993 (29)",Germany,"1,92m",right,"Aug 5, 2020","Jun 30, 2023"
+Benjamin Uphoff,€500k,Goalkeeper,"Aug 8, 1993 (29)",Germany,"1,92m",right,"Aug 5, 2020",-
 Philipp Lienhart,€20.00m,Centre-Back,"Jul 11, 1996 (26)",Austria,"1,89m",right,"Jul 1, 2018","Jun 30, 2024"
 Matthias Ginter,€20.00m,Centre-Back,"Jan 19, 1994 (29)",Germany,"1,91m",right,"Jul 1, 2022","Jun 30, 2027"
 Manuel Gulde,€1.70m,Centre-Back,"Feb 12, 1991 (32)",Germany,"1,84m",right,"Jul 1, 2016",-
 Kenneth Schmidt,€750k,Centre-Back,"Jun 3, 2002 (20)",Germany,"1,87m",left,"Jan 1, 2023",-
 Christian Günter,€10.00m,Left-Back,"Feb 28, 1993 (30)",Germany,"1,84m",left,"Jul 1, 2012",-
-Kimberly Ezekwem,€275k,Left-Back,"Jun 19, 2001 (21)",Germany,"1,87m",left,"Jul 1, 2021",-
-Kiliann Sildillia,€9.00m,Right-Back,"May 16, 2002 (20)",France,"1,86m",right,"Jul 1, 2021","Jun 30, 2024"
-Lukas Kübler,€2.30m,Right-Back,"Aug 30, 1992 (30)",Germany,"1,82m",right,"Jul 1, 2015",-
+Kimberly Ezekwem,€350k,Left-Back,"Jun 19, 2001 (21)",Germany,"1,87m",left,"Jul 1, 2021",-
+Kiliann Sildillia,€12.00m,Right-Back,"May 16, 2002 (20)",France,"1,86m",right,"Jul 1, 2021","Jun 30, 2024"
+Lukas Kübler,€3.00m,Right-Back,"Aug 30, 1992 (30)",Germany,"1,82m",right,"Jul 1, 2015",-
 Jonathan Schmid,€1.20m,Right-Back,"Jun 22, 1990 (32)",France,"1,79m",right,"Jul 1, 2019",-
 Yannik Keitel,€4.00m,Defensive Midfield,"Feb 15, 2000 (23)",Germany,"1,86m",both,"Apr 16, 2020","Jun 30, 2024"
 Nicolas Höfler,€2.50m,Defensive Midfield,"Mar 9, 1990 (33)",Germany,"1,81m",right,"Jul 1, 2010",-
@@ -20,8 +20,8 @@ Daniel-Kofi Kyereh,€8.00m,Attacking Midfield,"Mar 8, 1996 (27)",Ghana,"1,79m",
 Vincenzo Grifo,€12.00m,Left Winger,"Apr 7, 1993 (29)",Italy,"1,80m",right,"Sep 2, 2019",-
 Noah Weißhaupt,€2.50m,Left Winger,"Sep 20, 2001 (21)",Germany,"1,81m",right,"Jul 1, 2021",-
 Ritsu Doan,€15.00m,Right Winger,"Jun 16, 1998 (24)",Japan,"1,72m",left,"Jul 5, 2022",-
-Roland Sallai,€12.00m,Right Winger,"May 22, 1997 (25)",Hungary,"1,83m",both,"Aug 31, 2018","Jun 30, 2025"
-Woo-yeong Jeong,€5.50m,Second Striker,"Sep 20, 1999 (23)","Korea, South","1,79m",right,"Jul 1, 2019","Jun 30, 2025"
+Roland Sallai,€10.00m,Right Winger,"May 22, 1997 (25)",Hungary,"1,83m",both,"Aug 31, 2018","Jun 30, 2025"
+Woo-yeong Jeong,€4.00m,Second Striker,"Sep 20, 1999 (23)","Korea, South","1,79m",right,"Jul 1, 2019","Jun 30, 2025"
 Michael Gregoritsch,€8.00m,Centre-Forward,"Apr 18, 1994 (28)",Austria,"1,93m",left,"Jul 8, 2022",-
 Lucas Höler,€5.00m,Centre-Forward,"Jul 10, 1994 (28)",Germany,"1,84m",right,"Jan 1, 2018",-
-Nils Petersen,€1.50m,Centre-Forward,"Dec 6, 1988 (34)",Germany,"1,88m",right,"Jul 1, 2015",-
+Nils Petersen,€1.50m,Centre-Forward,"Dec 6, 1988 (34)",Germany,"1,88m",right,"Jul 1, 2015","Jun 30, 2023"

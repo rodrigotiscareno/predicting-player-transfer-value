@@ -1,27 +1,27 @@
 Player,Nation,Pos,Age,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
-Moi Gómez,es ESP,"MF,FW",28-269,22.5,4,0,0,11,22,1,97,8,13,0,0,0,138,6,22,21.4,Matches
-Lucas Torró,es ESP,MF,28-243,20.3,8,0,0,50,25,0,1,29,24,0,0,0,135,49,40,55.1,Matches
-David García,es ESP,DF,29-033,21.5,7,1,0,39,12,0,2,32,15,0,1,0,112,57,25,69.5,Matches
-Ezequiel Ávila,ar ARG,"FW,MF",29-041,15.6,7,1,0,21,32,12,72,6,4,0,0,0,50,32,39,45.1,Matches
-Jon Moncayola,es ESP,"MF,DF",24-310,18.2,4,0,0,22,8,2,38,10,24,1,0,0,125,15,11,57.7,Matches
-Juan Cruz Armada,es ESP,DF,30-234,17.0,6,0,0,15,7,1,33,12,10,0,0,0,70,14,12,53.8,Matches
-Unai García,es ESP,DF,31-044,15.1,6,1,0,17,2,0,2,17,7,0,1,0,74,28,21,57.1,Matches
-Ante Budimir,hr CRO,FW,31-240,12.3,2,0,0,28,17,7,2,2,4,1,0,0,26,59,63,48.4,Matches
-Aitor Fernández,es ESP,GK,31-320,13.0,1,0,0,0,0,0,0,1,1,0,0,0,15,2,1,66.7,Matches
-Aimar Oroz,es ESP,"MF,FW",21-112,12.9,5,0,0,23,37,2,4,14,7,0,0,0,56,12,20,37.5,Matches
-Sergio Herrera,es ESP,GK,29-287,12.0,3,0,0,1,1,0,0,1,0,0,1,0,10,2,1,66.7,Matches
-Manuel Sánchez,es ESP,DF,22-207,12.5,1,0,0,8,8,0,44,10,21,1,0,0,60,8,5,61.5,Matches
-Abdessamad Ezzalzouli,ma MAR,"FW,MF",21-092,9.4,3,1,1,20,22,0,36,3,12,0,0,0,33,1,7,12.5,Matches
-Nacho Vidal,es ESP,DF,28-054,10.2,2,0,0,21,13,0,21,17,12,0,0,0,50,18,7,72.0,Matches
-Aridane Hernández,gq EQG,DF,33-361,9.6,0,0,0,8,5,0,0,13,6,0,0,0,54,14,8,63.6,Matches
-Darko Brašanac,rs SRB,MF,31-035,10.7,4,0,0,15,14,3,5,12,17,0,1,0,43,13,12,52.0,Matches
-Rubén Peña,es ESP,"DF,MF",31-244,7.3,1,1,0,16,4,0,28,8,8,0,0,0,43,8,11,42.1,Matches
-Rubén García,es ESP,"MF,FW",29-248,7.9,2,0,0,9,8,0,49,8,5,0,0,0,50,8,22,26.7,Matches
-Kike Barja,es ESP,"FW,MF",25-352,6.2,1,0,0,11,10,4,60,3,2,0,0,0,30,5,1,83.3,Matches
-Diego Moreno,es ESP,DF,21-271,5.9,0,0,0,3,4,1,18,1,4,0,0,0,29,4,8,33.3,Matches
-Kike,es ESP,FW,33-114,8.4,3,0,0,21,20,4,3,1,3,2,0,0,28,32,45,41.6,Matches
-Pablo Ibáñez,es ESP,MF,24-180,4.8,0,0,0,9,5,3,2,6,4,0,0,0,26,13,17,43.3,Matches
-Iker Muñoz,es ESP,MF,20-134,0.2,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
-Roberto Torres,es ESP,"FW,MF",34-012,0.1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,,Matches
-Squad Total,,,28.4,25.0,70,5,1,371,277,40,519,214,203,5,4,0,1258,401,398,50.2,
-Opponent Total,,,27.9,25.0,55,8,5,290,348,74,435,201,201,4,5,1,1209,398,401,49.8,
+Moi Gómez,es ESP,"MF,FW",28-284,23.7,4,0,0,13,22,1,104,8,15,0,0,0,148,6,23,20.7,Matches
+Lucas Torró,es ESP,MF,28-258,21.9,9,0,0,55,26,0,1,34,28,0,0,0,141,59,41,59.0,Matches
+David García,es ESP,DF,29-048,22.5,7,1,0,41,12,0,2,33,15,0,1,0,120,59,26,69.4,Matches
+Ezequiel Ávila,ar ARG,"FW,MF",29-056,16.3,7,1,0,22,33,12,75,6,4,0,0,0,51,32,41,43.8,Matches
+Jon Moncayola,es ESP,"MF,DF",24-325,19.5,4,0,0,24,10,2,41,11,26,1,0,0,132,16,12,57.1,Matches
+Juan Cruz Armada,es ESP,DF,30-249,18.0,6,0,0,15,8,1,34,12,10,0,0,0,74,14,15,48.3,Matches
+Unai García,es ESP,DF,31-059,16.1,6,1,0,18,4,0,3,17,9,0,1,0,75,31,24,56.4,Matches
+Ante Budimir,hr CRO,FW,31-255,13.6,3,0,0,33,18,7,2,2,5,1,0,0,28,66,73,47.5,Matches
+Aitor Fernández,es ESP,GK,31-335,14.0,1,0,0,0,0,0,0,1,1,0,0,0,17,2,1,66.7,Matches
+Aimar Oroz,es ESP,"MF,FW",21-127,13.6,5,0,0,26,38,2,4,14,7,0,0,0,58,13,27,32.5,Matches
+Sergio Herrera,es ESP,GK,29-302,13.0,3,0,0,1,2,0,0,1,0,0,1,0,10,2,1,66.7,Matches
+Manuel Sánchez,es ESP,DF,22-222,13.5,1,0,0,8,8,0,50,11,21,1,0,0,63,9,6,60.0,Matches
+Nacho Vidal,es ESP,DF,28-069,11.6,4,0,0,26,15,0,28,18,13,0,0,0,54,26,9,74.3,Matches
+Aridane Hernández,gq EQG,DF,34-011,11.6,0,0,0,9,8,0,0,17,7,0,0,0,70,19,11,63.3,Matches
+Abdessamad Ezzalzouli,ma MAR,"FW,MF",21-107,10.4,3,1,1,21,24,0,41,3,12,0,0,0,39,1,10,9.1,Matches
+Darko Brašanac,rs SRB,MF,31-050,11.2,5,0,0,16,14,3,6,12,19,0,1,0,46,15,15,50.0,Matches
+Kike Barja,es ESP,"FW,MF",26-002,8.1,1,0,0,12,11,5,77,3,3,0,0,0,41,6,3,66.7,Matches
+Rubén García,es ESP,"MF,FW",29-263,9.0,2,0,0,9,13,0,56,8,5,0,0,0,55,9,26,25.7,Matches
+Rubén Peña,es ESP,"DF,MF",31-259,7.3,1,1,0,16,4,0,28,8,8,0,0,0,43,8,11,42.1,Matches
+Diego Moreno,es ESP,DF,21-286,6.0,1,0,0,3,4,1,19,1,4,0,0,0,29,4,8,33.3,Matches
+Pablo Ibáñez,es ESP,MF,24-195,5.8,0,0,0,11,7,3,2,7,4,0,0,0,26,16,22,42.1,Matches
+Kike,es ESP,FW,33-129,8.6,3,0,0,21,20,4,5,1,3,2,0,0,28,33,47,41.3,Matches
+Iker Muñoz,es ESP,MF,20-149,0.2,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+Roberto Torres,es ESP,"FW,MF",34-027,0.1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,,Matches
+Squad Total,,,28.4,27.0,76,5,1,403,302,41,580,228,219,5,4,0,1349,447,452,49.7,
+Opponent Total,,,28.0,27.0,64,9,5,316,377,79,456,215,219,4,5,1,1290,452,447,50.3,

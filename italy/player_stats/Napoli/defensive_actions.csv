@@ -1,29 +1,29 @@
 Player,Nation,Pos,Age,90s,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl.1,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Matches
-Giovanni Di Lorenzo,it ITA,DF,29-227,25.9,40,20,20,15,5,18,36,50.0,18,22,6,16,20,60,44,0,Matches
-Alex Meret,it ITA,GK,25-362,25.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,6,1,Matches
-Kim Min-jae,kr KOR,DF,26-124,24.3,40,23,26,14,0,16,19,84.2,3,33,25,8,26,66,99,1,Matches
-Stanislav Lobotka,sk SVK,MF,28-114,24.2,59,31,28,22,9,30,48,62.5,18,26,6,20,13,72,11,0,Matches
-Andre-Frank Zambo Anguissa,cm CMR,MF,27-123,22.3,43,25,13,23,7,13,44,29.5,31,38,3,35,27,70,18,0,Matches
-Victor Osimhen,ng NGA,FW,24-080,20.4,5,3,1,1,3,0,4,0.0,4,6,1,5,2,7,18,0,Matches
-Khvicha Kvaratskhelia,ge GEO,FW,22-035,18.2,30,15,9,6,15,11,26,42.3,15,13,0,13,2,32,5,1,Matches
-Piotr Zieliński,pl POL,MF,28-303,18.4,13,8,1,9,3,9,17,52.9,8,8,3,5,14,27,6,0,Matches
-Amir Rrahmani,xk KVX,DF,29-023,18.4,28,15,18,10,0,14,19,73.7,5,28,15,13,11,39,58,1,Matches
-Mário Rui,pt POR,DF,31-296,16.6,29,19,15,11,3,18,33,54.5,15,16,3,13,15,44,22,1,Matches
-Hirving Lozano,mx MEX,FW,27-232,13.5,20,12,8,6,6,7,13,53.8,6,25,0,25,10,30,5,0,Matches
-Matteo Politano,it ITA,FW,29-228,10.8,17,9,9,4,4,10,22,45.5,12,5,0,5,7,24,5,0,Matches
-Mathías Olivera,uy URU,DF,25-139,9.3,25,13,9,11,5,15,29,51.7,14,13,2,11,12,37,18,0,Matches
-Elif Elmas,mk MKD,"FW,MF",23-176,11.0,13,7,5,5,3,7,10,70.0,3,5,0,5,10,23,4,0,Matches
-Juan Jesus,br BRA,DF,31-282,6.8,10,6,5,4,1,5,7,71.4,2,14,7,7,6,16,22,0,Matches
-Giacomo Raspadori,it ITA,"FW,MF",23-029,6.4,8,7,0,5,3,2,6,33.3,4,6,0,6,2,10,3,0,Matches
-Tanguy Ndombele,fr FRA,MF,26-081,6.7,9,4,2,6,1,3,5,60.0,2,4,0,4,6,15,6,1,Matches
-Leo Skiri Østigård,no NOR,DF,23-111,2.4,3,0,2,1,0,1,1,100.0,0,0,0,0,3,6,10,0,Matches
-Pierluigi Gollini,it ITA,GK,28-001,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Giovanni Simeone,ar ARG,FW,27-257,2.3,12,3,3,5,4,3,6,50.0,3,1,1,0,1,13,3,0,Matches
-Alessio Zerbin,it ITA,"FW,MF",24-016,0.7,8,3,4,3,1,3,4,75.0,1,2,0,2,0,8,2,0,Matches
-Gianluca Gaetano,it ITA,MF,22-318,0.4,2,1,0,2,0,0,0,,0,0,0,0,0,2,0,0,Matches
-Diego Demme,de GER,MF,31-118,0.3,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,Matches
-Adam Ounas,dz ALG,FW,26-128,0.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
-Alessandro Zanoli,it ITA,DF,22-167,0.1,1,0,0,1,0,0,0,,0,0,0,0,0,1,1,0,Matches
-Karim Zedadka,fr FRA,DF,22-283,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
-Squad Total,,,27.2,26.0,415,224,178,164,73,185,350,52.9,165,266,72,194,188,603,366,6,
-Opponent Total,,,27.0,26.0,494,285,272,166,56,253,478,52.9,225,309,116,193,233,727,485,7,
+Giovanni Di Lorenzo,it ITA,DF,29-242,26.9,44,21,23,15,6,18,37,48.6,19,23,6,17,22,66,47,0,Matches
+Alex Meret,it ITA,GK,26-012,26.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,6,1,Matches
+Kim Min-jae,kr KOR,DF,26-139,25.3,42,24,26,16,0,18,21,85.7,3,34,25,9,30,72,102,1,Matches
+Stanislav Lobotka,sk SVK,MF,28-129,25.2,62,31,28,25,9,32,50,64.0,18,26,6,20,13,75,12,0,Matches
+Andre-Frank Zambo Anguissa,cm CMR,MF,27-138,23.3,44,26,14,23,7,13,46,28.3,33,39,3,36,27,71,20,0,Matches
+Victor Osimhen,ng NGA,FW,24-095,21.1,5,3,1,1,3,0,4,0.0,4,6,1,5,3,8,19,0,Matches
+Khvicha Kvaratskhelia,ge GEO,FW,22-050,19.2,31,16,9,6,16,12,27,44.4,15,14,0,14,2,33,5,1,Matches
+Piotr Zieliński,pl POL,MF,28-318,19.1,13,8,1,9,3,9,17,52.9,8,9,4,5,14,27,6,0,Matches
+Amir Rrahmani,xk KVX,DF,29-038,19.2,29,15,19,10,0,15,21,71.4,6,28,15,13,12,41,60,1,Matches
+Mário Rui,pt POR,DF,31-311,16.6,29,19,15,11,3,18,33,54.5,15,16,3,13,15,44,22,1,Matches
+Hirving Lozano,mx MEX,FW,27-247,14.2,21,12,9,6,6,8,14,57.1,6,27,0,27,12,33,5,0,Matches
+Matteo Politano,it ITA,FW,29-243,10.8,17,9,9,4,4,10,22,45.5,12,5,0,5,7,24,5,0,Matches
+Mathías Olivera,uy URU,DF,25-154,10.3,25,13,9,11,5,15,29,51.7,14,15,2,13,12,37,20,0,Matches
+Elif Elmas,mk MKD,"FW,MF",23-191,11.3,13,7,5,5,3,7,10,70.0,3,5,0,5,10,23,4,0,Matches
+Juan Jesus,br BRA,DF,31-297,6.8,10,6,5,4,1,5,7,71.4,2,14,7,7,6,16,22,0,Matches
+Giacomo Raspadori,it ITA,"FW,MF",23-044,6.4,8,7,0,5,3,2,6,33.3,4,6,0,6,2,10,3,0,Matches
+Tanguy Ndombele,fr FRA,MF,26-096,7.0,11,5,3,7,1,3,5,60.0,2,5,0,5,6,17,6,1,Matches
+Leo Skiri Østigård,no NOR,DF,23-126,2.7,4,1,3,1,0,1,1,100.0,0,0,0,0,4,8,10,0,Matches
+Pierluigi Gollini,it ITA,GK,28-016,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Giovanni Simeone,ar ARG,FW,27-272,2.5,12,3,3,5,4,3,7,42.9,4,1,1,0,1,13,3,0,Matches
+Alessio Zerbin,it ITA,"FW,MF",24-031,0.7,8,3,4,3,1,3,4,75.0,1,2,0,2,0,8,2,0,Matches
+Gianluca Gaetano,it ITA,MF,22-333,0.4,3,2,1,2,0,0,0,,0,1,0,1,0,3,0,0,Matches
+Diego Demme,de GER,MF,31-133,0.3,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,Matches
+Adam Ounas,dz ALG,FW,26-143,0.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches
+Alessandro Zanoli,it ITA,DF,22-182,0.1,1,0,0,1,0,0,0,,0,0,0,0,0,1,1,0,Matches
+Karim Zedadka,fr FRA,DF,22-298,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches
+Squad Total,,,27.2,27.0,432,231,187,170,75,192,362,53.0,170,277,73,204,199,631,380,6,
+Opponent Total,,,27.0,27.0,504,294,280,166,58,253,487,52.0,234,313,117,196,240,744,500,9,
